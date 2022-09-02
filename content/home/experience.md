@@ -22,28 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Data Analyst
+    company: Oodle Car Finance
+    company_url: 'https://www.oodlecarfinance.com/'
+    company_logo: oodle-car-finance
+    location: London, UK & Remote
+    date_start: '2021-07-06'
+    date_end: '2021-09-30'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developed a new benchmark for comparing delinquency rates, fit to a variety of customer risk indicators
+        * Worked closely with the analytics team to create new metrics for predicting arrears deterioration from live Salesforce databases with Looker, SQL and Excel, including use of VBA and Python for utility scripting and automation
+        * Verified a 30% increase in customer call-to-payment rates due to the adoption of a new IVR telephony system
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Work Experience (Automotive Engineering and CAD)
+    company: Cummins Turbo Technologies
+    company_url: 'https://www.cummins.com/'
+    company_logo: cummins-turbo-technologies
+    location: Huddersfield, UK
+    date_start: '2019-04-15'
+    date_end: '2019-04-19'
+    description:  |2-
+        * Designed diesel engine components to engineering drawing specifications with Creo
+        * Stripped down a turbocharger in Lab Ops and examined it for surface defects using an X-ray diffractometer
+        * Simulated component response to mechanical and thermal loads
+        * Presented to an audience of 20+ coworkers, including teams via conference call in India and China
+
+  - title: Work Experience (Semiconductor QA)
+    company: Arm
+    company_url: 'https://www.arm.com/'
+    company_logo: arm
+    location: Sheffield, UK
+    date_start: '2018-10-29'
+    date_end: '2018-11-02'
+    description:  |2-
+        * Analysed a large JSON dataset on transistor characteristics using Python in the Spyder IDE to identify trends in performance
+        * Presented a method to identify pairwise correlation using Seaborn, NumPy and
+        Pandas to an audience of 10+ coworkers
 
 design:
   columns: '2'

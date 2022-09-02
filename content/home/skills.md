@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Specialising in Bio and Chemical Engineering. Experience with common fabrication operations (mill, lathe, soldering) and microcontrollers for IoT (Arduino WiFi). Competent in modelling with SolidWorks, Simulink and Comsol.
+  - description: Interested in the interdisciplinary fields of bio(chemical, medical, materials) engineering, as well as innovations in sustainable solar, wind and nuclear energy. Experience with common fabrication operations (mill, lathe, soldering) and microcontrollers for controls, robotics and IoT. Competent in modelling with SolidWorks, Simulink and Comsol.
     icon: gears
     icon_pack: fa
     name: Engineering
 
-  - description: Extensive experience in Python for scientific computing (NumPy, SciPy), machine learning and computer vision (Tensorflow, OpenCV), data visualisation (Matplotlib, Plotly), web scraping (Selenium). Additionally competent in C++, SQL, Lua, Matlab, VBA and Swift.
+  - description: Extensive experience in Python for scientific computing (NumPy, SciPy), machine learning and computer vision (Tensorflow, OpenCV), data visualisation (Matplotlib, Plotly), web scraping (Selenium) and utility automation (Tesseract, Qt, FPDF, among others). Additionally competent in C++, SQL, Lua, Matlab, VBA and Swift.
     icon: terminal
     icon_pack: fas
     name: Programming
 
-  - description: Experience as a Data Analyst using Excel (including VBA) and SQL with AWS Redshift Databases. Has also used Looker and Python's dataviz libraries (Bokeh and Dash) for making custom analytics web apps and dashboards.
+  - description: Experience as a Data Analyst using Excel (including VBA) and SQL with AWS Redshift Databases. Used Looker and Python's data libraries (Pandas, Bokeh, Dash) for making custom analytics web apps and dashboards, as well as Atlassian suite (Confluence, Jira) for reporting.
     icon: chart-line
     icon_pack: fas
     name: Analytics
