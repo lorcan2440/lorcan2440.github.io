@@ -1,7 +1,7 @@
 ---
 title: Lorcan Nicholls
 role: Undergraduate Engineering Student
-avatar_filename: f35082880.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
