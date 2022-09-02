@@ -9,6 +9,7 @@ interests:
   - Bioengineering
   - Sustainable Chemical Engineering
   - Renewable Energy
+  - Robotics
   - Machine Learning
   - Data Science
 social:
