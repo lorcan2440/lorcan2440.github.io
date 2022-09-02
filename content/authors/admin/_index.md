@@ -7,12 +7,10 @@ bio: A 3rd-year Engineering student at the University of Cambridge. Interested
   machine learning.
 interests:
   - Bioengineering
-  - Biochemistry
-  - Sustainability
-  - Energy
-  - Pharmacology
-  - AI
-  - DataScience
+  - Sustainable Chemical Engineering
+  - Renewable Energy
+  - Machine Learning
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
