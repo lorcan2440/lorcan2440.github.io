@@ -16,18 +16,21 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
+  - description: Specialising in Bio and Chemical Engineering. Experience with common fabrication operations (mill, lathe, soldering) and microcontrollers for IoT (Arduino WiFi). Competent in modelling with SolidWorks, Simulink and Comsol.
+    icon: gears
+    icon_pack: fa
+    name: Engineering
+
+  - description: Extensive experience in Python for scientific computing (NumPy, SciPy), machine learning and computer vision (Tensorflow, OpenCV), data visualisation (Matplotlib, Plotly), web scraping (Selenium). Additionally competent in C++, SQL, Lua, Matlab, VBA and Swift.
+    icon: terminal
+    icon_pack: fas
+    name: Programming
+
+  - description: Experience as a Data Analyst using Excel (including VBA) and SQL with AWS Redshift Databases. Has also used Looker and Python's dataviz libraries (Bokeh and Dash) for making custom analytics web apps and dashboards.
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Analytics
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
