@@ -28,6 +28,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
 ---
 
 Main image with attribution.
@@ -36,45 +37,43 @@ Main image with attribution.
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Hatchet" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="720" height="480" src="https://sketchfab.com/models/997998bb3fd84908bfeed2f66fbd1d02/embed?autospin=1&ui_theme=dark&dnt=1"> </iframe> </div>
 
-3D models, uploaded to SketchFab (GLB, GLTF, etc)
+3D models (GLB, GLTF, etc) - using [SketchFab](https://help.sketchfab.com/hc/en-us/articles/203509907-Embedding-your-3D-models)
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jjFSRDUvETQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/jjFSRDUvETQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-YouTube video
+YouTube video - using [YouTube IFrame](https://developers.google.com/youtube/iframe_api_reference)
 
 ---
 
 <iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
+  width="720" height="480" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA8vvBkfxNBxIkYA4E8CW3pIR_XpEcyYBo
-    &q=Space+Needle,Seattle+WA">
+    &q=NUS+Singapore">
 </iframe>
 
-Google Maps
+Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started)
 
 ---
 
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
+			metaData:{fileName: "Lorcan Nicholls - CV"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
 
-<div id="adobe-dc-view"></div>
- <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
- <script type="text/javascript">
-    document.addEventListener("adobe_dc_view_sdk.ready", function()
-    {
-        var adobeDCView = new AdobeDC.View({clientId: "6693d48baf194236abbc311bfe2e8b8a", divId: "adobe-dc-view"});
-        adobeDCView.previewFile(
-       {
-          content:   {location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
-          metaData: {fileName: "Lorcan Nicholls - CV.pdf"}
-       });
-    });
- </script>
+PDF - using [Adobe PDF Embed API](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/)
 
-PDF (does this work?)
+---
+
+<iframe allowtransparency="true" width="720" height="480"  src="https://scratch.mit.edu/projects/194103144//embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
+
+Scratch project LOL
 
