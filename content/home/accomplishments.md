@@ -45,14 +45,6 @@ item:
     description: ''
     organization: National University of Singapore
     organization_url: https://cde.nus.edu.sg/
-    title: Process Dynamics & Controls [CN3121]
-    url: 'https://nusmods.com/modules/CN3121/process-dynamics-control'
-
-  - date_end: '2022-12-02'
-    date_start: '2022-08-08'
-    description: ''
-    organization: National University of Singapore
-    organization_url: https://cde.nus.edu.sg/
     title: Particle Technology Fundamentals & Applications [CN4218]
     url: 'https://nusmods.com/modules/CN4218/particle-technology-fundamentals-and-applications'
 
@@ -71,6 +63,15 @@ item:
     organization_url: https://cde.nus.edu.sg/
     title: Polymeric Biomedical Materials [MLE4203]
     url: 'https://nusmods.com/modules/MLE4203/polymeric-biomedical-materials'
+
+  - date_end: '2022-12-02'
+    date_start: '2022-08-08'
+    description: ''
+    organization: National University of Singapore
+    organization_url: https://cde.nus.edu.sg/
+    title: Process Dynamics & Controls [CN3121]
+    url: 'https://nusmods.com/modules/CN3121/process-dynamics-control'
+
 
  # - certificate_url: https://www.edx.org
  #   date_end: ''
