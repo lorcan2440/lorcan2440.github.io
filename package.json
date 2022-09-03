@@ -1,6 +1,10 @@
 {
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "netlify-cli": "^11.5.1"
+  },
+  "scripts": {
+    "netlify": "./node_modules/.bin/netlify",
+    "debug": "netlify dev --inspect"
   }
 }

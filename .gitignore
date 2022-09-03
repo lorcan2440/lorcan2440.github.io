@@ -1,5 +1,9 @@
 # IDEs
 .idea/
+.vscode/
+
+# Website
+node_modules/
 
 # Hugo
 resources/
@@ -10,7 +14,7 @@ go.sum
 .hugo_build.lock
 
 # Secrets
-secrets.env
+.env
 
 # Intended for local only
 WEBSITE_DOCS_AND_HELP.md

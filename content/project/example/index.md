@@ -58,6 +58,10 @@ Need to find out how to use API keys without putting them in code!!!
     &q=NUS+Singapore">
 </iframe>
 
+<script>
+fetch("/.netlify/functions/google_maps_api?q=NUS+Singapore")
+</script>
+
 Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started)
 
 ---
@@ -66,7 +70,8 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "${process.env.ADOBE_PDF_EMBED_API_KEY}", divId: "adobe-dc-view"});
+        var apiKey = process.env.ADOBE_PDF_EMBED_API_KEY;
+		var adobeDCView = new AdobeDC.View({clientId: "${apiKey}", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
 			metaData:{fileName: "Lorcan Nicholls - CV"}
