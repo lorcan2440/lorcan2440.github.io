@@ -22,14 +22,14 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: lnick2440@gmail.com
   phone: +65 8917 4250
   address:
     street:
-    city: Leeds, West Yorkshire, UK (home) or UTown, Singapore 138595 (term time)
+    city: Leeds, West Yorkshire, UK (home) <i>or</i> UTown, Singapore (till May 2023)
     country:
     country_code:
     postcode: 

@@ -31,6 +31,7 @@ feature:
     icon_pack: fas
     name: Analytics
 
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
