@@ -5,23 +5,17 @@
 
 main:
   - name: Home
-    url: '#about'
-    weight: 10
+    url: '#1_about'
+    weight: 1
   - name: Posts
-    url: '#posts'
-    weight: 20
+    url: '#4_recent_posts'
+    weight: 2
   - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#5_projects'
+    weight: 3
   - name: Contact
-    url: '#contact'
-    weight: 60
+    url: '#8_contact'
+    weight: 4
   - name: CV
     url: uploads/Lorcan Nicholls - CV.pdf
-    weight: 70
+    weight: 5
