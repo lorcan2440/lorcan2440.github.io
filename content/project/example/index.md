@@ -49,7 +49,7 @@ YouTube video - using [YouTube IFrame](https://developers.google.com/youtube/ifr
 
 <iframe
   width="720" height="480" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA8vvBkfxNBxIkYA4E8CW3pIR_XpEcyYBo
+  src="https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}
     &q=NUS+Singapore">
 </iframe>
 
@@ -57,11 +57,11 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 
 ---
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
+<div id="adobe-dc-view" style="width: 720px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "1641ce4e0dab487c8dd9e59bdfb86469", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "{ADOBE_PDF_EMBED_API_KEY}", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
 			metaData:{fileName: "Lorcan Nicholls - CV"}
@@ -73,7 +73,7 @@ PDF - using [Adobe PDF Embed API](https://developer.adobe.com/document-services/
 
 ---
 
-<iframe allowtransparency="true" width="720" height="480"  src="https://scratch.mit.edu/projects/194103144//embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true" width="720" height="480"  src="//scratch.mit.edu/projects/175189448/embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
 
 Scratch project LOL
 
