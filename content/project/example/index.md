@@ -61,7 +61,7 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "1641ce4e0dab487c8dd9e59bdfb86469", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
 			metaData:{fileName: "Lorcan Nicholls - CV"}
