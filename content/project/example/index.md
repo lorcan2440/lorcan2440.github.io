@@ -47,6 +47,11 @@ YouTube video - using [YouTube IFrame](https://developers.google.com/youtube/ifr
 
 ---
 
+Need to find out how to use API keys without putting them in code!!!
+[Video here](https://www.youtube.com/watch?v=m2Dr4L_Ab14)
+
+---
+
 <iframe
   width="720" height="480" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=${GOOGLE_MAPS_API_KEY}
