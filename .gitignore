@@ -2,8 +2,9 @@
 .idea/
 .vscode/
 
-# Website
+# Packages
 node_modules/
+yarn.lock
 
 # Hugo
 resources/
