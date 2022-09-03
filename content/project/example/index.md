@@ -54,7 +54,7 @@ Need to find out how to use API keys without putting them in code!!!
 
 <iframe
   width="720" height="480" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=${GOOGLE_MAPS_API_KEY}
+  src="https://www.google.com/maps/embed/v1/place?key=${process.env.GOOGLE_MAPS_API_KEY}
     &q=NUS+Singapore">
 </iframe>
 
@@ -66,7 +66,7 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "${ADOBE_PDF_EMBED_API_KEY}", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "${process.env.ADOBE_PDF_EMBED_API_KEY}", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
 			metaData:{fileName: "Lorcan Nicholls - CV"}
