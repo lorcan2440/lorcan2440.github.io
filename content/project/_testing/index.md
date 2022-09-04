@@ -136,22 +136,25 @@ To try / keep in mind:
 * [Dash](https://dash.plotly.com/introduction) or [Bokeh](https://docs.bokeh.org/en/latest/) apps - find out if it's even possible
   
 ---
-
+<!--
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
-    this.page.url = "https://lorcan.netlify.app/project/_testing/";  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = "12345"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.url = location;
+        this.page.identifier = location;
     };
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://https-lorcan-netlify-app.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
+    (
+        function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://https-lorcan-netlify-app.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        }
+    )();
 </script>
+-->
 
-Disqus comments section
+Disqus comments section - 
 
 ---
 
