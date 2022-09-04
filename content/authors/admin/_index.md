@@ -43,17 +43,13 @@ education:
     - course: MEng Engineering
       institution: University of Cambridge (Girton College)
       year: 2020—24
-    - course: Faculty-Level Exchange Programme
+    - course: Faculty Exchange Programme
       institution: National University of Singapore (USP)
       year: 2022—23
 email: lnick2440@gmail.com
 superuser: true
 highlight_name: true
 ---
-`Hi!` I'm a 3rd-year engineering student from Leeds, UK. For the academic year 2022-23, I'm on a year abroad exchange programme at the National University of Singapore (NUS), before returning to the University of Cambridge to complete my Master's degree in engineering (discipline TBC - likely bioengineering).
+Hi! I'm a 3rd-year engineering student from Leeds, UK. For the academic year 2022-23, I'm on a year abroad exchange programme at the National University of Singapore (NUS), before returning to the University of Cambridge to complete my Master's degree in engineering (discipline TBC - likely bioengineering).
 
 My website showcases the main projects I've worked on both at university and independently, in which I explore biochemical processes, scientific computing, software development and machine learning, any and all of which I have interests in pursuing as careers.
-
-{{% callout note %}}
-I am currently still making this site! For now, you can {{< icon name="download" pack="fa" >}} {{< staticref "uploads/Lorcan Nicholls - CV.pdf" "newtab" >}}download my CV{{< /staticref >}}.
-{{% /callout %}}
