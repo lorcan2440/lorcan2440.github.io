@@ -73,3 +73,18 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+#####
+# BLOGGING
+#####
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /project/**
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
