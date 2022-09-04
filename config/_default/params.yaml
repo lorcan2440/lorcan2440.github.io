@@ -79,7 +79,7 @@ features:
     provider: disqus
     disqus:
       # Paste the shortname from your Disqus dashboard.
-      shortname: lorcannicholls
+      shortname: lorcan-netlify-app
       # Show comment count in page header? (true/false)
       show_count: true
     commento:
