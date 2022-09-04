@@ -137,6 +137,8 @@ To try / keep in mind:
   
 ---
 <!--
+This code works, but I prefer to have it in the default (footer) position
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -152,10 +154,7 @@ To try / keep in mind:
         }
     )();
 </script>
+
+Disqus comments section, movable
+
 -->
-
-Disqus comments section - 
-
----
-
-...which isn't fixed at the footer!
