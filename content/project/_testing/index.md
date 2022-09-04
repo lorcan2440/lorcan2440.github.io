@@ -155,6 +155,6 @@ This code works, but I prefer to have it in the default (footer) position
     )();
 </script>
 
-Disqus comments section, movable
+Disqus comments section, movable on page
 
 -->
