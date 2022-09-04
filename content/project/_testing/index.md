@@ -145,7 +145,7 @@ To try / keep in mind:
     };
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://lorcan.netlify.app/project/_testing/disqus_embed.js';
+    s.src = 'https://https-lorcan-netlify-app.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();
