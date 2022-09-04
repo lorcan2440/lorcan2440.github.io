@@ -30,7 +30,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN4218/particle-technology-fundamentals-and-applications">Particle Technology Fundamentals & Applications</a></h4>
+        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN4218/particle-technology-fundamentals-and-applications">🧼 Particle Technology Fundamentals & Applications</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
@@ -41,7 +41,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/BN4403/cellular-bioengineering">Cellular Bioengineering</a></h4>
+        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/BN4403/cellular-bioengineering">🧫 Cellular Bioengineering</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
@@ -52,7 +52,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/MLE4203/polymeric-biomedical-materials">Polymeric Biomedical Materials</a></h4>
+        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/MLE4203/polymeric-biomedical-materials">🦾 Polymeric Biomedical Materials</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
@@ -63,7 +63,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN3121/process-dynamics-control">Process Dynamics & Controls</a></h4>
+        <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN3121/process-dynamics-control">🎯 Process Dynamics & Controls</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
@@ -76,7 +76,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-information-engineering-2021-22">Machine Learning & AI for Autonomous Driving</a></h4>
+        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-information-engineering-2021-22">🚘 Machine Learning & AI for Autonomous Driving</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>University of Cambridge</b><br> Mar 2022 - May 2022</p>
     </div>
@@ -87,7 +87,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-bioengineering-2021-22">Ocular Biomechanics & Neuroscience of Vision</a></h4>
+        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-bioengineering-2021-22">👁 Ocular Biomechanics & Neuroscience of Vision</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>University of Cambridge</b><br> Mar 2022 - May 2022</p>
     </div>
