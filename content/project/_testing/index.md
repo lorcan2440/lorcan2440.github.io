@@ -135,3 +135,21 @@ To try / keep in mind:
 * [PowerPoint presentations](https://support.microsoft.com/en-us/office/embed-a-presentation-in-a-web-page-or-blog-19668a1d-2299-4af3-91e1-ae57af723a60#:~:text=Open%20your%20presentation%20in%20PowerPoint,Share%2C%20and%20then%20click%20Embed.&text=In%20the%20Embed%20box%2C%20under,Copy%2C%20and%20then%20click%20Close.)
 * [Dash](https://dash.plotly.com/introduction) or [Bokeh](https://docs.bokeh.org/en/latest/) apps - find out if it's even possible
   
+---
+
+<div id="disqus_thread"></div>
+<script>
+
+    var disqus_config = function () {
+    this.page.url = "https://lorcan.netlify.app/project/_testing/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "12345"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-lorcan-netlify-app.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
