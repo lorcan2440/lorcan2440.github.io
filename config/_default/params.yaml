@@ -1,14 +1,14 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
+# Guide: https://wowchemy.com/docs/getting-started/customization/
 # Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# YAML syntax: https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 1950s
   theme_night: minimal
-  font: minimal
+  font: Helvetica Neue
   font_size: L
 
 # SEO
