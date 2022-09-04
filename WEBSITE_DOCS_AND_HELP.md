@@ -9,4 +9,3 @@ https://developer.adobe.com/console/projects/988909/4566206088344831837/overview
 
 Example of hiding Google Maps API Keys
 https://github.com/netlify/code-examples/blob/master/function_examples/token-hider/README.md
-
