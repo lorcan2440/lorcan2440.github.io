@@ -137,14 +137,24 @@ To try / keep in mind:
   
 ---
 
+1. Select Plan
+2. Install Disqus
+Select Platform
+Install Instructions
+3. Configure Disqus
+4. Setup Moderation
+
+Universal Code install instructions
+Not using Universal Code? Change platform
+
+
+Place the following code where you'd like Disqus to load:
 <div id="disqus_thread"></div>
 <script>
-
     var disqus_config = function () {
     this.page.url = "https://lorcan.netlify.app/project/_testing/";  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "12345"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://https-lorcan-netlify-app.disqus.com/embed.js';
