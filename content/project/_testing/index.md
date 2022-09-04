@@ -69,11 +69,6 @@ YouTube video - using [YouTube IFrame](https://developers.google.com/youtube/ifr
 
 ---
 
-Need to find out how to use API keys without putting them in code!!!
-[Video here](https://www.youtube.com/watch?v=m2Dr4L_Ab14)
-
----
-
 <iframe
   width="720" height="480" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAwWrgOOD7VH078D9MKygPbs3zYy63INSk
@@ -84,6 +79,8 @@ Need to find out how to use API keys without putting them in code!!!
 Docs: https://developers.google.com/maps/documentation/embed/get-started
 Seems to be OK to show API key..?
 https://stackoverflow.com/questions/46247295/how-do-i-create-environment-variables-to-protect-my-google-maps-api-keyor-any-o
+If want to try hiding it see:
+https://www.youtube.com/watch?v=m2Dr4L_Ab14
 -->
 
 Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started)
@@ -113,8 +110,7 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 
 <!--
 Docs: https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/howtos/
-This will not render locally since only one allowed domain#
-but does work on the netlify server
+Need two api keys, one for local and one for production
 -->
 
 PDF - using [Adobe PDF Embed API](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/)
@@ -137,5 +133,5 @@ MolView
 To try / keep in mind:
 
 * [PowerPoint presentations](https://support.microsoft.com/en-us/office/embed-a-presentation-in-a-web-page-or-blog-19668a1d-2299-4af3-91e1-ae57af723a60#:~:text=Open%20your%20presentation%20in%20PowerPoint,Share%2C%20and%20then%20click%20Embed.&text=In%20the%20Embed%20box%2C%20under,Copy%2C%20and%20then%20click%20Close.)
-* Dash apps (?)
+* [Dash](https://dash.plotly.com/introduction) or [Bokeh](https://docs.bokeh.org/en/latest/) apps - find out if it's even possible
   
