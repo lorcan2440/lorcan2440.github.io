@@ -123,10 +123,56 @@ Scratch project LOL
 
 ---
 
+$$ f_X(x) = \frac{\mathrm{d} }{\mathrm{d} x} F_X(x) = - \frac{\mathrm{d} }{\mathrm{d} x} \int \limits_{\sqrt{gx}}^{\infty} \int \limits_{\frac{1}{2} \sin^{-1} \frac{gx}{u^2}}^{\frac{\pi}{2} - \frac{1}{2} \sin^{-1} \frac{gx}{u^2}} f_{u, \ \theta}(u, \ \theta) \ \text{d} \theta \ \text{d} u. $$
+
+Maths using LaTeX
+
+---
+
 <iframe width="720" height="480" frameborder="0"
 src="https://embed.molview.org/v1/?mode=balls&cid=2519&bg=gray"></iframe>
 
 MolView
+
+---
+
+<!-- jolecule widget will be inserted here, set the size with styles -->
+<div id="jolecule-embed" style="width: 720px; height: 480px"></div>
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.js">
+</script>
+<script>
+  require(['https://jolecule.com/js/jolecule.js'], function(jolecule) {
+    var widget = jolecule.initEmbedJolecule({
+      divTag: '#jolecule-embed', // jquery Tag to your div element
+      animateState: 'none', // 'none', 'loop', 'rotate', 'rock'
+      isSequenceBar: false, // shows sequence bar in the header
+      isGrid: false, // show docking grid panel
+      isEditable: false, // show editable buttons at the footer
+      isPlayable: true, // show playable option buttons at the footer
+      backgroundColor: 0x000000, // background of 3D context
+      maxWaitStep: 50, // time to wait per view in looping mode
+      isTextOverlay: true, // Show description text
+      isToolbarOnTop: false,
+      isToolbarOn: false,
+    })
+    widget.asyncAddDataServer(
+      jolecule.makePdbDataServer({
+        pdbId: "1mbo",  // pdbId for RCSB website
+        userId: "",  // user_id to select views for a given author
+        isDisableSaveViews: false,  // prevent saving views
+        saveViewsUrl: 'https://jolecule.com',  // url to fetch views
+        isLoadViews: true, // attempts to load views
+        biounit: 0,  // loads biounit from pdb 0, 1, 2, 3...
+        viewId: '' // initial view
+      })
+    )
+  })
+</script>
+
+<p>
+Jolecule (proteins and biomolecules)
 
 ---
 
