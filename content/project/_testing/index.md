@@ -4,6 +4,7 @@ summary: Some tests on which kinds of content can be uploaded.
 tags:
   - Design
 date: '2022-09-03T00:00:00Z'
+commentable: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,7 +17,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/Nick_2440
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: _testing
 
 ---
 
@@ -68,17 +69,26 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 
 ---
 
-<div id="adobe-dc-view" style="width: 720px; height: 1020px"></div>
+<div id="adobe-dc-view" style="width: 720px; height: 985px"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "109ff4b54f5448a9a9f90bbf0697471b", divId: "adobe-dc-view"});
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){
+        if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+            apiKey = "6d36fa5703f24259ab52e4ddead85ca8";
+            fileUrl = "http://localhost:1313/uploads/Lorcan%20Nicholls%20-%20CV.pdf"
+        } else {
+            apiKey = "109ff4b54f5448a9a9f90bbf0697471b"
+            fileUrl = "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"
+        }
+		var adobeDCView = new AdobeDC.View({clientId: apiKey, divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://lorcan.netlify.app/uploads/Lorcan%20Nicholls%20-%20CV.pdf"}},
-			metaData:{fileName: "Lorcan Nicholls - CV"}
-		}, {embedMode: "FULL_WINDOW"});  // "FULL_WINDOW", "SIZED_CONTAINER", "IN_LINE" or "LIGHT_BOX"
+			content: {location: {url: fileUrl}},
+			metaData: {fileName: "Lorcan Nicholls - CV"}
+		}, {embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE"});
 	});
 </script>
+
+<p>
 
 <!--
 Docs: https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/howtos/
@@ -90,7 +100,20 @@ PDF - using [Adobe PDF Embed API](https://developer.adobe.com/document-services/
 
 ---
 
-<iframe allowtransparency="true" width="720" height="480"  src="//scratch.mit.edu/projects/175189448/embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true" width="720" height="480" src="//scratch.mit.edu/projects/175189448/embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
 
 Scratch project LOL
 
+---
+
+<iframe width="720" height="480" frameborder="0"
+src="https://embed.molview.org/v1/?mode=balls&cid=2519&bg=gray"></iframe>
+
+MolView
+
+---
+
+Can also do:
+
+* [PowerPoint presentations](https://support.microsoft.com/en-us/office/embed-a-presentation-in-a-web-page-or-blog-19668a1d-2299-4af3-91e1-ae57af723a60#:~:text=Open%20your%20presentation%20in%20PowerPoint,Share%2C%20and%20then%20click%20Embed.&text=In%20the%20Embed%20box%2C%20under,Copy%2C%20and%20then%20click%20Close.)
+  
