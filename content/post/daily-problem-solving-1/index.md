@@ -74,9 +74,14 @@ We can now get an answer, by summing over all allowed values of $ X $:
 
 $$ P(r \leq X \leq 2r) = \sum_{x = r}^{2r} P(X = x) = \sum_{x = r}^{2r} \frac{\binom{n-r}{x-r} r}{\binom{n}{x-1}(n - x + 1)} $$
 
-I won't attempt to find any closed form for this, but let's put the numbers in from the original question and get an answer [(calculated with WolframAlpha)](https://www.wolframalpha.com/input?i2d=true&i=Sum%5BDivide%5BnCr%5C%2840%2930%5C%2844%29+x-20%5C%2841%29+*+20%2CnCr%5C%2840%2950%5C%2844%29+x-1%5C%2841%29+*+%5C%2840%2951+-+x%5C%2841%29%5D%2C%7Bx%2C20%2C40%7D%5D)
+According to [WolframAlpha](https://www.wolframalpha.com/input?i2d=true&i=Sum%5BDivide%5BnCr%5C%2840%29n-r%5C%2844%29+x-r%5C%2841%29+*+r%2CnCr%5C%2840%29n%5C%2844%29+x-1%5C%2841%29+*+%5C%2840%29n+%2B+1+-+x%5C%2841%29%5D%2C%7Bx%2Cr%2C2r%7D%5D), this summation has a fairly simple closed form:
 
-$$ P(20 \leq X \leq 40) = \sum_{x = 20}^{40} \frac{\binom{30}{x-20} \times  20}{\binom{50}{x-1}(51 - x)} = \frac{3393}{1160054} = 0.002925... $$
+
+$$ P(r \leq X \leq 2r) = \frac{(r + 1) \binom{n-r}{r+1}}{(n - 2r) \binom{n}{2r}}. $$
+
+Let's put the numbers in from the original question. We get:
+
+$$ P(20 \leq X \leq 40) = \frac{3393}{1160054} = 0.002925... $$
 
 which seems reasonable - since there were more white balls than red balls to begin with, you would not likely expect to come out with all the red balls without finding at least as many white balls. 
 
