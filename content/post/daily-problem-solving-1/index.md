@@ -1,22 +1,22 @@
 ---
+
 title: "Daily Problem Solving #1"
 subtitle: A problem exploring combinatorics and discrete probability distributions
 date: 2022-09-07T09:59:48.917Z
-summary: ""
+summary: "I recently learned about the [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution) and its [negative version](https://en.wikipedia.org/wiki/Negative_hypergeometric_distribution), and how they and many other discrete distributions are connected to combinatorics. As someone who used to struggle with concepts like this, I found it very useful to see how looking at the problem in a different way can lead to a far more obvious solution than before. I made up this puzzle to teach myself the various different ways this can be applied."
 draft: false
 featured: false
 tags:
   - maths
   - combinatorics
 categories: []
+
 image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
+    preview_only: true
 
 ---
 
-<b> Problem Statement </b>
+<b> Problem Statement: </b>
 
 A bag contains 50 balls, of which 20 are red and the rest are white.
 
@@ -25,11 +25,15 @@ Balls are taken randomly from the bag without replacement until all of the red 
 Find the probability that, among the balls which have been taken, there are no more white balls than red 
 balls.
 
+![](featured.jpg)
+
 ---
 
 I recently learned about the [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution) and its [negative version](https://en.wikipedia.org/wiki/Negative_hypergeometric_distribution), and how they and many other discrete distributions are connected to combinatorics. As someone who used to struggle with concepts like this, I found it very useful to see how looking at the problem in a different way can lead to a far more obvious solution than before. I made up this puzzle to teach myself the various different ways this can be applied.
 
 ---
+
+<b> Solution: </b>
 
 To make it easier to generalise, let $ n = 50 $ for the total number of balls in the bag and $ r = 20 $ for the number which are red.
 
