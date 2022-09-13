@@ -1,15 +1,15 @@
 ---
 
 title: "Problem Solving #2"
-subtitle: Finding the equation of the intersection ellipse between a cone and a plane.
+subtitle:
 date:
 summary: ""
 draft: false
 featured: false
 tags:
   - maths
-  - geometry
-  - vectors
+  - statistics
+  - combinatorics
 categories: []
 
 image:
