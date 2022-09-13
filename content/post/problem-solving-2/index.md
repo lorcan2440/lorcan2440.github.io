@@ -101,9 +101,9 @@ $$ P(X = 1) = \frac{2}{15} = 0.1333... $$
 
 <b> Case 4: exactly two pairs is sitting next to each other $ (X = 2) $ </b>
 
-Why did I solve these cases in a strange order? Because this would be the hardest one to work out by counting. Instead, since we now have all the other values, we can simply use
+Why did I solve these cases in a strange order? Because this would be the hardest one to work out by counting. Instead, since we now have all the other values, we can simply use:
 
-$ P(X = 2) = 1 - \sum_{x = 0, 1, 3} P(X = x) = 1 - \left \( \frac{2}{15} + \frac{2}{15} + \frac{1}{5} \right \) = \frac{8}{15} = 0.5333... $
+$ P(X = 2) = 1 - \sum \limits_{x \neq 2}^{} P(X = x) = 1 - \left \( \frac{2}{15} + \frac{2}{15} + \frac{1}{5} \right \) = \frac{8}{15} $
 
 and therefore:
 
