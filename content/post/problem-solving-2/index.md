@@ -1,9 +1,9 @@
 ---
 
 title: "Problem Solving #2"
-subtitle:
+subtitle: A problem exploring combinatorics and discrete probability distributions
 date:
-summary: ""
+summary:
 draft: false
 featured: false
 tags:

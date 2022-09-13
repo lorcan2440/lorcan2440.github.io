@@ -2,7 +2,7 @@
 
 title: "Problem Solving #1"
 subtitle: A problem exploring combinatorics and discrete probability distributions
-date: 2022-09-07T09:59:48.917Z
+date:
 summary:
 draft: false
 featured: false
