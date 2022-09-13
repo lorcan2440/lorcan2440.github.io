@@ -14,6 +14,7 @@ categories: []
 
 image:
     preview_only: true
+    filename: featured.jpg
 
 ---
 

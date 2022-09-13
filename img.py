@@ -1,7 +1,7 @@
 ## A utility script for quickly putting images into posts
 
 import os
-from PIL import Image, ImageDraw, ImageOps, ImageGrab
+from PIL import Image, ImageGrab
 import numpy as np
 
 
