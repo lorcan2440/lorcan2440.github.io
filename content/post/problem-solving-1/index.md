@@ -1,6 +1,6 @@
 ---
 
-title: "Daily Problem Solving #1"
+title: "Problem Solving #1"
 subtitle: A problem exploring combinatorics and discrete probability distributions
 date: 2022-09-07T09:59:48.917Z
 summary: "I recently learned about the [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution) and its [negative version](https://en.wikipedia.org/wiki/Negative_hypergeometric_distribution), and how they and many other discrete distributions are connected to combinatorics. As someone who used to struggle with concepts like this, I found it very useful to see how looking at the problem in a different way can lead to a far more obvious solution than before. I made up this puzzle to teach myself the various different ways this can be applied."
@@ -8,6 +8,7 @@ draft: false
 featured: false
 tags:
   - maths
+  - statistics
   - combinatorics
 categories: []
 
@@ -94,16 +95,12 @@ from scipy.stats import nhypergeom
 
 n = 50
 r = 20
-p = sum([nhypergeom.pmf(x - r, n, n - r, r) for x in range(r, 2 * r + 1)])
+p = nhypergeom.cdf(r, n, n - r, r)
 
 print(p)
 ```
 
-which gives
-
-```
->>> 0.0029248638425452573
-```
+which gives `0.0029248638425452573`.
 
 The syntax is a little different due to the actual definition of the distribution, but this verifies the answer.
 
