@@ -19,3 +19,4 @@ go.sum
 
 # Intended for local only
 WEBSITE_DOCS_AND_HELP.md
+*.py
