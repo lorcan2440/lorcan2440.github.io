@@ -1,7 +1,7 @@
 ---
 title: Lorcan Nicholls
 role: Undergraduate Engineering Student
-avatar_filename: avatar.png
+avatar_filename: pic_square.jpeg
 bio: A 3rd-year Engineering student at the University of Cambridge. Interested
   in biochemical processes, bioengineering, sustainable energy, data science and
   machine learning.
@@ -9,7 +9,7 @@ interests:
   - 🧬 Bioengineering
   - 🥼 Chemical Engineering
   - ⚡ Renewable Energy
-  - 💊 Pharmacology 
+  - 💊 Pharmacology
   - 🤖 Robotics
   - 🧠 Machine Learning
   - 📈 Data Science
