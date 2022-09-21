@@ -1,7 +1,7 @@
 ---
 title: Lorcan Nicholls
 role: Undergraduate Engineering Student
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: A 3rd-year Engineering student at the University of Cambridge. Interested
   in biochemical processes, bioengineering, sustainable energy, data science and
   machine learning.
@@ -46,7 +46,7 @@ education:
     - course: Faculty Exchange Programme
       institution: National University of Singapore (USP)
       year: 2022—23
-email: lnick2440@gmail.com
+email: 'lnick2440@gmail.com'
 superuser: true
 highlight_name: true
 ---
