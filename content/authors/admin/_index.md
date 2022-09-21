@@ -9,7 +9,7 @@ interests:
   - 🧬 Bioengineering
   - 🥼 Chemical Engineering
   - ⚡ Renewable Energy
-  - 💊 Pharmacology 
+  - 💊 Pharmacology
   - 🤖 Robotics
   - 🧠 Machine Learning
   - 📈 Data Science
