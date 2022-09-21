@@ -46,7 +46,7 @@ education:
     - course: Faculty Exchange Programme
       institution: National University of Singapore (USP)
       year: 2022—23
-email: lnick2440@gmail.com
+email: ""
 superuser: true
 highlight_name: true
 ---
