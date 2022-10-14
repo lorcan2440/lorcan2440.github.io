@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Interested in the interdisciplinary fields of bio(chemical, medical, materials) engineering, as well as innovations in sustainable solar, wind and nuclear energy. Experience with common fabrication operations (mill, lathe, soldering) and microcontrollers for controls, robotics and IoT. Competent in modelling with SolidWorks, Simulink and Comsol.
+  - description: Interested in the interdisciplinary fields of bio(chemical, medical, materials) engineering, as well as innovations in sustainable solar, wind and nuclear energy. Experience with common fabrication operations (mill, lathe, soldering) and microcontrollers for controls, robotics and IoT. Competent in modelling with SolidWorks, Fusion 360, Simulink and Comsol.
     icon: gears
     icon_pack: fa
     name: Engineering
