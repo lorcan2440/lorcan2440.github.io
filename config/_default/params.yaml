@@ -1,0 +1,113 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/customization/
+# Documentation: https://wowchemy.com/docs/
+# YAML syntax: https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: 1950s
+  theme_night: minimal
+  font: Helvetica Neue
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Lorcan Nicholls'
+    description: 'A customised personal website based on a CV homepage and project portfolio'
+    twitter: 'Nick_2440'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Lorcan Nicholls. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-gb
+
+# Site features
+
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: true
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    # Choose a provider: disqus, commento, or '' to disable commenting
+    provider: disqus
+    disqus:
+      # Paste the shortname from your Disqus dashboard.
+      shortname: https-lorcan-netlify-app
+      # Show comment count in page header? (true/false)
+      show_count: true
+    commento:
+      # If you self-host Commento, enter your custom Commento URL here.
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

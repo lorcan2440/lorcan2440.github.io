@@ -1,0 +1,22 @@
+# IDEs
+.idea/
+.vscode/
+
+# Packages
+node_modules/
+yarn.lock
+
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
+
+# Secrets
+.env
+
+# Intended for local only
+WEBSITE_DOCS_AND_HELP.md
+*.py

@@ -1,0 +1,30 @@
+<!--
+Embed Google Map
+
+Parameters:
+    query - (Required) location, by string query name (passed to iframe &q parameter)
+    width - (Optional) width
+    height - (Optional) height
+-->
+
+{{ if .IsNamedParams }}
+<iframe
+    width="{{ default "480" (.Get "width") }}"
+    height="{{ default "360" (.Get "width") }}"
+    style="border:0"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAwWrgOOD7VH078D9MKygPbs3zYy63INSk&q={{ .Get "query" }}">
+</iframe>
+{{ else }}
+<iframe
+    width="{{ default "480" (.Get 1) }}"
+    height="{{ default "360" (.Get 2) }}"
+    style="border:0"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAwWrgOOD7VH078D9MKygPbs3zYy63INSk&q={{ .Get 0 }}">
+</iframe>
+{{ end }}

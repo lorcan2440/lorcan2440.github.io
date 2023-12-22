@@ -1,0 +1,8 @@
+# Font style metadata
+name = "Helvetica Neue"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Helvetica Neue"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
