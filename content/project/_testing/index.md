@@ -194,6 +194,12 @@ Flask App hosted on Python Anywhere
 
 ---
 
+Iframe from Map My Run
+
+<iframe id='mapmyfitness_route' src='https://www.mapmyrun.com/routes/view/embedded/5895943552?width=600&height=376&elevation=true&info=true&line_color=E61900DC&rgbhex=DC0019&distance_markers=0&unit_type=metric&map_mode=ROADMAP&show_marker_every=1&last_updated=2024-01-27T21:38:34+00:00' height='679px' width='100%' frameborder='0' /><div class="jss1552" id="embed-frame-footer"><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/routes/view/5895943552" class="jss1553"><p class="MuiTypography-root jss1554 MuiTypography-body1" string="View Route Details">View Route Details</p></a><div class="jss1555"><p class="MuiTypography-root jss1556 jss1577 MuiTypography-body1">Create routes or search for a route at <span><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/" string="MapMyRun." class="jss1554">MapMyRun.</a></span></p></div></div>
+
+---
+
 To try / keep in mind:
 
 * [PowerPoint presentations](https://support.microsoft.com/en-us/office/embed-a-presentation-in-a-web-page-or-blog-19668a1d-2299-4af3-91e1-ae57af723a60#:~:text=Open%20your%20presentation%20in%20PowerPoint,Share%2C%20and%20then%20click%20Embed.&text=In%20the%20Embed%20box%2C%20under,Copy%2C%20and%20then%20click%20Close.)
