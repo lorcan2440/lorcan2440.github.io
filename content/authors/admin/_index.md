@@ -52,6 +52,6 @@ highlight_name: true
 
 ---
 
-Hi! I'm an engineering graduate student from Leeds, UK. Currently working as a research intern in the Bio-Inspired Robotics Lab at Cambridge. Returning to the University of Cambridge to complete my Master's degree in bioengineering later this year.
+Hi! I'm an engineering graduate student at University of Cambridge, UK. Currently working in the Biointerface research group on my MEng project in the Nanoscience Centre developing a magnetically-actuated hydrogel lung organoid.
 
 My website showcases the main projects I've worked on both at university and independently, in which I explore engineering, biochemistry, scientific computing, software development, machine learning, and whatever else I feel like digging into.

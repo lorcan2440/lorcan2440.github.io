@@ -17,5 +17,5 @@ main:
     url: '#contact'
     weight: 4
   - name: CV
-    url: uploads/Lorcan Nicholls - CV.pdf
+    url: uploads/Lorcan Nicholls - CV (Public).pdf
     weight: 5

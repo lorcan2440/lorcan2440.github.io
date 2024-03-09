@@ -26,10 +26,10 @@ content:
 
   # Contact details (edit or remove options as required)
   email: lnick2440@gmail.com
-  phone: +65 8917 4250
+  phone:
   address:
     street:
-    city: Leeds, West Yorkshire, UK (home) <i>or</i> UTown, Singapore (till May 2023)
+    city: Leeds, West Yorkshire, UK (home) <i>or</i> Cambridge, UK (term-time)
     country:
     country_code:
     postcode: 
