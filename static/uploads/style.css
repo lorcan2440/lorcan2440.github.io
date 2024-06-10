@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.item {
+    text-align: center;
+    margin: 20px;
+}
+.label {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
