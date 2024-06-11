@@ -30,7 +30,6 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Analytics
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -45,6 +44,8 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
 ---
 
 {{< svg "static/uploads/hosting_gh/skills.svg" >}}
+
