@@ -61,7 +61,7 @@ Blocks of text.
 
 ![Caption here](featured.jpg)
 
-A picture.
+Raster image.
 
 ---
 
