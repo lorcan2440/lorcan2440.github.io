@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 6
 
 # Section title
 title: Courses & Classes Taken

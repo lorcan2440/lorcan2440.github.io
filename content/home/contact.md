@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 8
+weight: 9
 
 title: Contact
 subtitle: This goes to my personal email.

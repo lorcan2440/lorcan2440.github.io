@@ -3,22 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-
-##### order
-# 1) About
-# 2) Skills_1
-# 3) Experience
-# 4) Projects
-# 5) Courses Taken
-# 6) Recent Posts
-# 7) Tags
-# 8) Contact
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 3
+weight: 4
 
 title: Experience
 subtitle:
