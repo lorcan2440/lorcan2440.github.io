@@ -9,7 +9,7 @@ headless: true
 weight: 8
 
 title: Contact
-subtitle:
+subtitle: This goes to my personal email.
 
 content:
   # Automatically link email and phone or display as text?
@@ -29,7 +29,7 @@ content:
   phone:
   address:
     street:
-    city: Leeds, West Yorkshire, UK (home) <i>or</i> Cambridge, UK (term-time)
+    city: Leeds, West Yorkshire, UK (home) or Cambridge, UK (term-time)
     country:
     country_code:
     postcode: 
@@ -40,16 +40,16 @@ content:
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
-  appointment_url: https://calendly.com/lorcan2440
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Dm me
-      link: 'https://twitter.com/Nick_2440'
-    - icon: instagram
-      icon_pack: fab
-      name: See my insta
-      link: 'https://www.instagram.com/nxck2440/'
+#  appointment_url: https://calendly.com/lorcan2440
+#  contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      name: Dm me
+#      link: 'https://twitter.com/Nick_2440'
+#    - icon: instagram
+#      icon_pack: fab
+#      name: See my insta
+#      link: 'https://www.instagram.com/nxck2440/'
 
 design:
   columns: '2'

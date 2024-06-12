@@ -3,9 +3,7 @@ title: House Price Prediction
 summary: A program to predict HDB resale prices in Singapore.
 tags:
   - Machine Learning
-  - Python
-  - Flask
-  - Software
+  - Dataviz
 date: "2023-02-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

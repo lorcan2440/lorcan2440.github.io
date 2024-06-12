@@ -3,7 +3,9 @@ title: Flood Warning System
 summary: A program to analyse flood likelihood and risk in England.
 tags:
   - Software
-  - Python
+  - Machine Learning
+  - Dataviz
+  - Featured
 date: "2023-02-09T00:00:00Z"
 draft: false
 hook: head-end

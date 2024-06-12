@@ -3,6 +3,17 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+
+##### order
+# 1) About
+# 2) Skills_1
+# 3) Experience
+# 4) Projects
+# 5) Courses Taken
+# 6) Recent Posts
+# 7) Tags
+# 8) Contact
+
 # This file represents a page section.
 headless: true
 
@@ -73,5 +84,5 @@ experience:
         Pandas to an audience of 10+ coworkers
 
 design:
-  columns: '2'
+  columns: '1'
 ---

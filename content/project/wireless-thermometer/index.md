@@ -2,10 +2,8 @@
 title: Wireless Thermometer
 summary: A mini project for measuring temperatures remotely.
 tags:
-  - Arduino
-  - Electronics
+  - Robotics
   - Software
-  - IoT
 date: "2023-02-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,10 +2,10 @@
 title: Uploading Media Tests
 summary: Some tests on which kinds of content can be uploaded to my site.
 tags:
-  - Web Design
+  - Design
 date: "2020-09-02T00:00:00Z"
 
-# draft: true  # hide (don't)
+draft: true  # hide (don't)
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -42,6 +42,10 @@ profile: true
 ---
 
 Main image with attribution.
+
+---
+
+Lots of other features for Wowchemy [here](https://iphysresearch.github.io/blog/post/writting-markdown/).
 
 ---
 

@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 6
+weight: 7
 
 title: Popular Topics
 subtitle: ''

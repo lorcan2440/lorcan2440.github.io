@@ -3,8 +3,7 @@ title: Truss Calculator
 summary: A program to analyse the forces in a pin-jointed truss structure.
 tags:
   - Software
-  - Python
-  - Engineering
+  - Featured
 date: "2023-02-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
