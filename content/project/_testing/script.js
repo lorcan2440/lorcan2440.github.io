@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("I am an alert box!");
+    alert("Can use JavaScript here");
 }

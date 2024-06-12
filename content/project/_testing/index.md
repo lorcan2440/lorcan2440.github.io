@@ -82,12 +82,12 @@ Raster image.
 <body>
     <div class="card" style="background-image: url('card-back.jpg')">
         <div class="card-content">
-            <h2 class="card-title">Something awesome</h2>
+            <h2 class="card-title">Project title</h2>
             <p class="card-body">
-            Lorem ipsum, dolor sit amet consectetur adipsicing elit. Fuga placeat odio pariatur doloribus sint?
+            Description of the project from GitHub, about 10 words long?
             </p>
             <a href="#" class="button" onclick="myFunction()">
-            Learn More
+            See More
             </a>
         </div>
     </div>
@@ -128,7 +128,7 @@ Google Maps - using [Google Maps Embed API](https://developers.google.com/maps/d
 Spotify Playlist
 
 ---
-
+<!--
 <div id="adobe-dc-view" style="width: 720px; height: 985px"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
@@ -150,12 +150,11 @@ Spotify Playlist
 
 <p>
 
-<!--
 Docs: https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/howtos/
 Need two api keys, one for local and one for production
--->
 
 PDF - using [Adobe PDF Embed API](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/)
+-->
 
 ---
 
