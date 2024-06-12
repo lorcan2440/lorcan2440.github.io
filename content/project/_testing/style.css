@@ -22,7 +22,7 @@ body {
 
 .card {
     color: var(--clr-neutral-100);
-    background-image: url("card-back.jpg");
+    background-image: url('card-back.jpg');
     background-size: cover;
     padding: 10rem 0 0;
     max-width: 35ch;

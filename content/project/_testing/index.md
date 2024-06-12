@@ -49,32 +49,6 @@ Lots of other features for Wowchemy [here](https://iphysresearch.github.io/blog/
 
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Fun Animated Card</title>
-    <link rel="stylesheet" href="style.css"> 
-</head>
-
-<body>
-    <div class="card">
-        <div class="card-content">
-            <h2 class="card-title">Something awesome</h2>
-            <p class="card-body">
-            Lorem ipsum, dolor sit amet consectetur adipsicing elit. Fuga placeat odio pariatur doloribus sint?
-            </p>
-            <a href="#" class="button">
-            Learn More
-            </a>
-        </div>
-    </div>
-</body>
-</html>
-
----
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
@@ -92,6 +66,33 @@ Blocks of text.
 ![Caption here](card-back.jpg)
 
 Raster image.
+
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fun Animated Card</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="card" style="background-image: url('card-back.jpg')">
+        <div class="card-content">
+            <h2 class="card-title">Something awesome</h2>
+            <p class="card-body">
+            Lorem ipsum, dolor sit amet consectetur adipsicing elit. Fuga placeat odio pariatur doloribus sint?
+            </p>
+            <a href="#" class="button" onclick="myFunction()">
+            Learn More
+            </a>
+        </div>
+    </div>
+</body>
+</html>
 
 ---
 
