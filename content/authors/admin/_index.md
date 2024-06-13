@@ -2,17 +2,13 @@
 title: Lorcan Nicholls
 role: Undergraduate Engineering Student
 avatar_filename: avatar.jpg
-bio: A 3rd-year Engineering student at the University of Cambridge. Interested
-  in biochemical processes, bioengineering, sustainable energy, data science and
-  machine learning.
+bio: A bioengineering graduate from the University of Cambridge. Interested
+  in bioengineering, biochemical processes, sustainable energy and machine learning.
 interests:
-  - 🧬 Bioengineering
-  - 🥼 Chemical Engineering
+  - ⚙️ Bioengineering
   - ⚡ Renewable Energy
-  - 💊 Pharmacology
   - 🤖 Robotics
   - 🧠 Machine Learning
-  - 📈 Data Science
   - 💹 Algorithmic Trading
 social:
   - icon: envelope
@@ -43,7 +39,7 @@ education:
     - course: MEng Biongineering
       institution: University of Cambridge (Girton College)
       year: 2020—24
-    - course: Exchange Programme
+    - course: BEng Year Exchange Programme
       institution: National University of Singapore (USP)
       year: 2022—23
 email: 'lnick2440@gmail.com'
@@ -52,6 +48,8 @@ highlight_name: true
 
 ---
 
-Hi! I'm an engineering graduate student at University of Cambridge, UK. Currently working in the Biointerface research group on my MEng project in the Nanoscience Centre developing a magnetically-actuated hydrogel lung organoid.
+Hi! I'm a recent engineering graduate living in Leeds, UK after finishing my Master's degree in bioengineering at the University of Cambridge. 
 
-My website showcases the main projects I've worked on both at university and independently, in which I explore engineering, biochemistry, scientific computing, software development, machine learning, and whatever else I feel like digging into.
+My website showcases the main projects I've worked on and experience I've gained both at university and independently. 
+
+I enjoy studying topics across the union of engineering, scientific computing, biotech and machine learning, any and all of which I have interests in pursuing as careers.
