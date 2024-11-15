@@ -5,10 +5,10 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 0
+weight: 8
 
 title: Recent Publications
 subtitle: ''
