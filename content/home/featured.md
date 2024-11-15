@@ -36,7 +36,7 @@ design:
   view: 3
 ---
 
-Collections of notes: PDFs summing my STEM and related knowledge to date.
+Collections of notes: PDFs summing my STEM studies and related knowledge/interests to date.
 
 - [All Notes](/uploads/All%20STEM%20Notes.pdf)
 - [All Notes - Maths](/uploads/All%20Notes%20-%20Maths.pdf) - Sections 1, 2, 3, 4, 5 - algebra, geometry, calculus, linear algebra, statistics.
