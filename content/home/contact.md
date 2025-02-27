@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle: This goes to my personal email.
+subtitle: This goes to my email.
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,11 +25,11 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: lnick2440@gmail.com
+  email: lorcan.nicholls@cantab.net
   phone:
   address:
     street:
-    city: Leeds, West Yorkshire, UK (home) or Cambridge, UK (term-time)
+    city: Shropshire, UK
     country:
     country_code:
     postcode: 

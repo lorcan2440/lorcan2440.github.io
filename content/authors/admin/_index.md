@@ -48,8 +48,8 @@ highlight_name: true
 
 ---
 
-Hi! I'm a recent engineering graduate living in Leeds, UK after finishing my Master's degree in bioengineering at the University of Cambridge. 
+Hi! I'm a recent engineering graduate living in Leeds, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge. I'm currently heading into a Graduate Engineering role at Scottish Power.
 
-My website showcases the main projects I've worked on and experience I've gained both at university and independently. 
+My website showcases the main projects I've worked on and experience I've gained both at university and independently.
 
-I enjoy studying topics across the union of engineering, scientific computing, biotech and machine learning, any and all of which I have interests in pursuing as careers.
+I enjoy studying topics across the union of engineering, scientific computing, biotech and machine learning.

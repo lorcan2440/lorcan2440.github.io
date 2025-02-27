@@ -212,7 +212,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-information-engineering-2021-22">Intro to Machine Learning (CV & AI for Autonomous Driving)</a></h4>
+        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-information-engineering-2021-22">Intro to Machine Learning</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>University of Cambridge</b><br> Mar 2022 - May 2022</p>
     </div>
@@ -223,7 +223,7 @@ design:
 <div class="project-card project-item isotope-item">
 <div class="card">
     <div class="card-text">
-        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-bioengineering-2021-22">Intro to Bioengineering (Ocular Biomechanics & Neuroscience of Vision)</a></h4>
+        <h4 style = "font-size:16px"><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-ib-2p8-bioengineering-2021-22">Intro to Bioengineering</a></h4>
     <div class="card-description">
         <p style = "font-size:14px"><b>University of Cambridge</b><br> Mar 2022 - May 2022</p>
     </div>
