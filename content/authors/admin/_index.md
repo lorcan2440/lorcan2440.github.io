@@ -1,15 +1,15 @@
 ---
 title: Lorcan Nicholls
-role: Undergraduate Engineering Student
+role: Engineering Graduate
 avatar_filename: avatar.jpg
 bio: A bioengineering graduate from the University of Cambridge. Interested
   in bioengineering, biochemical processes, sustainable energy and machine learning.
 interests:
-  - ⚙️ Bioengineering
-  - ⚡ Renewable Energy
-  - 🤖 Robotics
-  - 🧠 Machine Learning
-  - 💹 Algorithmic Trading
+  - Automation (IoT, ML, robotics)
+  - Biosensors
+  - Lab-grown Meat
+  - Aquaponics
+  - Sustainable Energy Storage
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,8 +19,8 @@ social:
       header: true
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Nick_2440
-    label: Twitter
+    link: https://bsky.app/profile/nick2440.bsky.social
+    label: Bluesky
   - icon: github
     icon_pack: fab
     link: https://github.com/lorcan2440
@@ -36,13 +36,13 @@ organizations:
     url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: MEng Biongineering
+    - course: MEng Bio & Mechanical Engineering
       institution: University of Cambridge (Girton College)
       year: 2020—24
-    - course: BEng Year Exchange Programme
+    - course: BA Year Exchange Programme
       institution: National University of Singapore (USP)
       year: 2022—23
-email: 'lnick2440@gmail.com'
+email: 'lorcan.nicholls@cantab.net'
 superuser: true
 highlight_name: true
 
