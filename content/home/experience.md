@@ -33,20 +33,18 @@ experience:
     description: |2-
         * Beginning a 2-year graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles, rotating through various projects and roles.
 
-experience:
   - title: Script Writer
     company: YouTube
     company_url: 'https://www.youtube.com/@ProfessorDaveExplains/playlists'
     company_logo: youtube
     location: Remote
     date_start: '2024-09-01'
-    date_end: 
+    date_end:
     description: |2-
         * Devised academic curricula and script for educational maths and engineering tutorial videos on YouTube.
         * Collaborated with a YouTuber with over 3 million subscribers (Professor Dave Explains), who animated, voiced and published the videos on his channel.
         * Tutorial topics included differential equations (ODEs and PDEs) and four branches of engineering (electrical, mechanical, chemical, structural), for a total of ~100 videos at ~10 minutes each.
 
-experience:
   - title: Founder
     company: Sublime Shines
     company_url: 'https://sublimeshines.co.uk/'
@@ -60,7 +58,6 @@ experience:
         * Interviewed, on-boarded and gave customer feedback to local professional cleaners
         * Proactively promoted and reached out to leads via various marketing channels (social media, local news)
 
-experience:
   - title: Research Student
     company: Bio-Inspired Robotics Lab (BIRL)
     company_url: 'https://birlab.org/'
