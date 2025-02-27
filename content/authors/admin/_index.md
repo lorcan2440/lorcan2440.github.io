@@ -48,7 +48,7 @@ highlight_name: true
 
 ---
 
-Hi! I'm a recent engineering graduate living in Leeds, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge. I'm currently heading into a Graduate Engineering role at Scottish Power.
+Hi! I'm a recent engineering graduate living in Shropshire, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge. I'm currently heading into a Graduate Engineering role at Scottish Power.
 
 My website showcases the main projects I've worked on and experience I've gained both at university and independently.
 
