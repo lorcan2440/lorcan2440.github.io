@@ -21,6 +21,45 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+experience:
+  - title: Graduate Engineer
+    company: ScottishPower
+    company_url: 'https://www.scottishpower.co.uk/'
+    company_logo: scottish_power
+    location: Wrexham
+    date_start: '2025-09-01'
+    date_end: 
+    description: |2-
+        * Beginning a 2-year graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles, rotating through various projects and roles.
+
+experience:
+  - title: Script Writer
+    company: YouTube
+    company_url: 'https://www.youtube.com/@ProfessorDaveExplains/playlists'
+    company_logo: youtube
+    location: Remote
+    date_start: '2024-09-01'
+    date_end: 
+    description: |2-
+        * Devised academic curricula and script for educational maths and engineering tutorial videos on YouTube.
+        * Collaborated with a YouTuber with over 3 million subscribers (Professor Dave Explains), who animated, voiced and published the videos on his channel.
+        * Tutorial topics included differential equations (ODEs and PDEs) and four branches of engineering (electrical, mechanical, chemical, structural), for a total of ~100 videos at ~10 minutes each.
+
+experience:
+  - title: Founder
+    company: Sublime Shines
+    company_url: 'https://sublimeshines.co.uk/'
+    company_logo: sublime_shines
+    location: Manchester
+    date_start: '2023-06-01'
+    date_end: '2024-10-01'
+    description: |2-
+        * Founded a software-driven remote cleaning agency serving Manchester as a limited company
+        * Created a professional high-converting WordPress webpage, booking form and VoIP phone line with IVR
+        * Interviewed, on-boarded and gave customer feedback to local professional cleaners
+        * Proactively promoted and reached out to leads via various marketing channels (social media, local news)
+
 experience:
   - title: Research Student
     company: Bio-Inspired Robotics Lab (BIRL)
