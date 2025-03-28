@@ -120,7 +120,7 @@ design:
 <!-- NUS -->
 
 <div class="project-card project-item isotope-item">
-<div class="card" style="background-color: lightblue;">
+<div class="card">
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/DBA3711/stochastic-models-in-management">Stochastic Models in Management</a></h4>
     <div class="card-description">

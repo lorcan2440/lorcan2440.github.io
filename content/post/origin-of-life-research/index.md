@@ -91,7 +91,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 >If enantiopure Asn/Asp/Glu/Ser/Thr and additional racemic amino acids form a supersaturated solution, which is then evaporated to form a solid, which is then sublimed at \~100 C, the resulting gas phase contains the enantioenriched amino acids i.e. the deracemisation effect in \[B1\] is extended to the other amino acids. The ee's obtained were highly variable due to the random nature of nucleation.
 
-\[B3\] Kojo, S. *et al*. (2004). '[**Racemic d,l-asparagine causes enantiomeric excess of other coexisting racemic d,l-amino acids during recrystallization: a hypothesis accounting for the origin of l-amino acids in the biosphere**](https://pubs.rsc.org/en/content/articlelanding/2004/cc/b409941a)'. Chemical Communications, (19), p.2146. doi:10.1039/b409941a.
+\[B3\] Kojo, S. *et al*. (2004). '[**Racemic D,L-asparagine causes enantiomeric excess of other coexisting racemic d,l-amino acids during recrystallization: a hypothesis accounting for the origin of l-amino acids in the biosphere**](https://pubs.rsc.org/en/content/articlelanding/2004/cc/b409941a)'. Chemical Communications, (19), p.2146. doi:10.1039/b409941a.
 
 >The deracemisation mechanism of amino acids in \[B1\] is extended to all other chiral amino acids. When a racemic solution of asparagine (Asn) and other amino acids co-crystallises, the resulting crystals were enantioenriched in both amino acids, with their *ee*'s strongly correlated. The range of *ee*'s obtained remains random and can be very high (up to 100% in some trials) in either direction.
 
