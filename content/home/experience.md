@@ -66,10 +66,11 @@ experience:
     date_start: '2023-07-03'
     date_end: '2023-09-08'
     description: |2-
-        * Investigated the use of hydrogel-based e-skin for multi-touch sensors via electrical impedance tomography (EIT) and published a paper to ICRA
-        * 3D printed and assembled a tensile testing machine for characterising the hydrogel's mechanical and viscoelastic properties
-        * Designed the EIT apparatus in CAD and fabricated from PLA using a laser cutter for the frame, and a gelatin-glycerol-carbon black sensorised e-skin.
-        * Programmed a UR5 industrial robot to gather a real dataset for pressing of the e-skin, and trained/tested neural nets to predict touch position based on the EIT data.
+        * Investigated the use of hydrogel-based e-skin for multi-touch sensors via electrical impedance tomography (EIT) and neural networks
+        * Co-authored and published a conference paper to IEEE RoboSoft and responded to peer review
+        * Assembled a tensile testing machine for characterising the hydrogel's viscoelastic properties
+        * Used various machine tools (laser cutter, 3D printer) to fabricate the microcontroller-driven robot end effector and synthesised the gelatin-glycerol-carbon black sensorised e-skin.
+        * Programmed a UR5 industrial robot in Python to fully automate the data collection pipeline, obtaining a real dataset for pressing of the e-skin, and designed neural nets to predict touch position based on the EIT data with up to 90% accuracy.
 
   - title: Data Analyst
     company: Oodle Car Finance

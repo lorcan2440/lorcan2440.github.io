@@ -16,7 +16,7 @@ title: Skills
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 feature:
-  - description: Bioengineering, bioelectronics, robotics and control systems
+  - description: Robotics, control systems, IoT
     icon: gears
     icon_pack: fa
     name: Engineering
