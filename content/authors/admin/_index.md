@@ -5,11 +5,12 @@ avatar_filename: avatar.jpg
 bio: A bioengineering graduate from the University of Cambridge. Interested
   in bioengineering, biochemical processes, sustainable energy and machine learning.
 interests:
-  - Automation (IoT, ML, robotics)
+  - Automation (controls, IoT and ML)
+  - Sustainable Energy Storage
+  - Aquaponics
   - Biosensors
   - Lab-grown Meat
-  - Aquaponics
-  - Sustainable Energy Storage
+  - Evo-Devo Biology
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,8 +49,6 @@ highlight_name: true
 
 ---
 
-Hi! I'm a recent engineering graduate living in Shropshire, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge. I'm currently heading into a Graduate Engineering role at Scottish Power.
+Hi! I'm a recent engineering graduate living in Shropshire, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge.
 
-My website showcases the main projects I've worked on and experience I've gained both at university and independently.
-
-I enjoy studying topics across the union of engineering, scientific computing, biotech and machine learning.
+My website showcases the main projects I've worked on and experience I've gained both at university and independently. While I work torwards an interdisciplinary engineering career, I also enjoy studying across science as well.

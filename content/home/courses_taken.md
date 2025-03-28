@@ -120,11 +120,11 @@ design:
 <!-- NUS -->
 
 <div class="project-card project-item isotope-item">
-<div class="card">
+<div class="card" style="background-color: lightblue;">
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/DBA3711/stochastic-models-in-management">Stochastic Models in Management</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Jan 2023 - May 2023</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Jan 2023 - May 2023</p>
     </div>
     </div>
 </div>
@@ -135,7 +135,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/MLE4210/materials-for-energy-storage-and-conversion">Materials for Energy Storage and Conversion</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Jan 2023 - May 2023</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Jan 2023 - May 2023</p>
     </div>
     </div>
 </div>
@@ -146,7 +146,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN4247R/enzyme-technology">Enzyme Biotechnology</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Jan 2023 - May 2023</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Jan 2023 - May 2023</p>
     </div>
     </div>
 </div>
@@ -157,7 +157,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/EE4802/learning-from-data">Learning from Data</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Jan 2023 - May 2023</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Jan 2023 - May 2023</p>
     </div>
     </div>
 </div>
@@ -168,7 +168,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN4218/particle-technology-fundamentals-and-applications">Particle Technology</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
     </div>
 </div>
@@ -179,7 +179,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/BN4403/cellular-bioengineering">Cellular Bioengineering</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
     </div>
 </div>
@@ -190,7 +190,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/MLE4203/polymeric-biomedical-materials">Polymeric Biomedical Materials</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
     </div>
 </div>
@@ -201,7 +201,7 @@ design:
     <div class="card-text">
         <h4 style = "font-size:16px"><a href="https://nusmods.com/modules/CN3121/process-dynamics-control">Process Dynamics & Controls</a></h4>
     <div class="card-description">
-        <p style = "font-size:14px"><b>National Uni of Singapore</b><br> Aug 2022 - Dec 2022</p>
+        <p style = "font-size:14px"><b>National University of Singapore</b><br> Aug 2022 - Dec 2022</p>
     </div>
     </div>
 </div>

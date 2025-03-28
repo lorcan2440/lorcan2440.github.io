@@ -16,17 +16,17 @@ title: Skills
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 feature:
-  - description: Robotics, control systems, IoT
+  - description: CAD, robotics, instrumenation and control (I&C), microcontrollers
     icon: gears
     icon_pack: fa
     name: Engineering
 
-  - description: Scientific computing, machine learning, computer vision, utility automation
+  - description: Scientific computing, computer vision (CV), reinforcement learning (RL)
     icon: terminal
     icon_pack: fas
     name: Programming
 
-  - description: Data analysis and visualisation, statistical modelling
+  - description: Dataviz, machine learning (ML), statistics
     icon: chart-line
     icon_pack: fas
     name: Analytics

@@ -33,7 +33,7 @@ All PDFs of listed papers are available [here](https://drive.google.com/drive/fo
 
 ## CONTENTS
 
-- A. [**Astrobiology and Astrochemistry**](#astrobiology-and-astrochemistry)
+- A. [**Astrobiology, Astrochemistry and Geochemistry**](#astrobiology-astrochemistry-and-geochemistry)
 - B. [**Homochirality**](#homochirality)
 - C. [**Autocatalysis and Systems Chemistry**](#autocatalysis-and-systems-chemistry)
 - D. [**Non-Equilibrium Thermodynamics and Information Theory**](#non-equilibrium-thermodynamics-and-information-theory)
@@ -45,9 +45,9 @@ All PDFs of listed papers are available [here](https://drive.google.com/drive/fo
 
 ---
 
-## ASTROBIOLOGY AND ASTROCHEMISTRY
+## ASTROBIOLOGY, ASTROCHEMISTRY AND GEOCHEMISTRY
 
-Chemical reactions occurring in space, forming the 'building blocks of the building blocks' that were likely present at Earth's formation, or were delivered during the bombardment period that followed.
+Chemical reactions occurring in space, forming the 'building blocks of the building blocks' that were likely present at Earth's formation, or were delivered during the bombardment period that followed. Solid-phase chemistry and transport phenomena enabled by geologic formations may also be relevant.
 
 \[A1\] Kwok, Sun. (2009) '[**Delivery of Complex Organic Compounds from Planetary Nebulae to the Solar System.**](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/delivery-of-complex-organic-compounds-from-planetary-nebulae-to-the-solar-system/673B6EF557061150FA26DB1A7760FDC0)' *International Journal of Astrobiology*, 8(3): pp. 161–67. doi:10.1017/S1473550409004492.
 
@@ -72,6 +72,10 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 \[A6\] Glavin, D. P. *et al.* (2025). '[**Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu**](https://www.nature.com/articles/s41550-024-02472-9)', *Nature Astronomy*. doi:10.1038/s41550-024-02472-9.
 
 >Samples from the asteroid Bennu (from the same mission as \[A5\]) found several amino acids (glycine most abundant at 44 nmol/g, plus 19 other non-protein amino acids) and all five nucleobases, among a range of other relevant organics. Biological contamination was ruled out. All chiral amino acids observed were near-racemic.
+
+\[A7\] Haas, S., Tutolo, B. M. and Catling, D. C. (2025). '[**Soda lake phosphorus fluxes controlled by biological uptake imply abundant phosphate in plausible origin-of-life environments**](https://www.sciencedirect.com/science/article/pii/S0016703725000626)', *Geochimica et Cosmochimica Acta*, 393, pp.63-74. doi:10.1016/j.gca.2025.01.040.
+
+>Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and alllowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem.
 
 ---
 
@@ -105,7 +109,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 \[B7\] Hazen, R. M., Filley, T. R., & Goodfriend, G. A. (2001). '[**Selective adsorption of L- and D-amino acids on calcite: Implications for biochemical homochirality**](https://www.pnas.org/doi/full/10.1073/pnas.101085998)', *Proceedings of the National Academy of Sciences*, *98*(10), pp. 5487–5490. doi:10.1073/pnas.101085998.
 
->When calcite (CaCO3) is immersed in a racemic aspartic acid solution, the L and D enantiomers adsorb onto different faces of the asymmetric crystal structure, giving *ee*'s up to \~10%. The microscopically localised *ee* values may be far higher than reported due to experimental artefacts.
+>When calcite (CaCO$_3$) is immersed in a racemic aspartic acid solution, the L and D enantiomers adsorb onto different faces of the asymmetric crystal structure, giving *ee*'s up to \~10%. The microscopically localised *ee* values may be far higher than reported due to experimental artefacts.
 
 \[B8\] Michaelian K. (2018). '[**Homochirality through Photon-Induced Denaturing of RNA/DNA at the Origin of Life**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027432/)'. *Life (Basel, Switzerland)*, *8*(2), 21. doi:10.3390/life8020021.
 

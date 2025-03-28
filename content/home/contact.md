@@ -29,7 +29,7 @@ content:
   phone:
   address:
     street:
-    city: Shropshire, UK
+    city:
     country:
     country_code:
     postcode: 
