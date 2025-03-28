@@ -31,7 +31,7 @@ experience:
     date_start: '2025-09-01'
     date_end: 
     description: |2-
-        * Beginning a 2-year graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles, rotating through various projects and roles.
+        * Beginning a 2-year engineering graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles and projects, including I&C and SCADA systems in the 132 kV transmission network.
 
   - title: Script Writer
     company: YouTube
@@ -41,9 +41,9 @@ experience:
     date_start: '2024-09-01'
     date_end:
     description: |2-
-        * Devised academic curricula and script for educational maths and engineering tutorial videos on YouTube.
-        * Collaborated with a YouTuber with over 3 million subscribers (Professor Dave Explains), who animated, voiced and published the videos on his channel.
-        * Tutorial topics included differential equations (ODEs and PDEs) and four branches of engineering (electrical, mechanical, chemical, structural), for a total of ~100 videos at ~10 minutes each.
+        * Devised academic curricula and scripts for educational maths and engineering tutorial videos on YouTube.
+        * Collaborated with a YouTuber with over 3 million subscribers ([Professor Dave Explains](https://www.youtube.com/@ProfessorDaveExplains)), who animated, voiced and published the videos.
+        * Tutorial topics included [differential equations (ODEs and PDEs)](https://www.youtube.com/playlist?list=PLybg94GvOJ9FwwFOmp8sGTHZRiTWPYSs1) and four branches of engineering (electrical, mechanical, chemical, structural: in progress), for a total of ~100 videos at ~10 minutes each.
 
   - title: Founder
     company: Sublime Shines
@@ -67,7 +67,7 @@ experience:
     date_end: '2023-09-08'
     description: |2-
         * Investigated the use of hydrogel-based e-skin for multi-touch sensors via electrical impedance tomography (EIT) and neural networks
-        * Co-authored and published a conference paper to IEEE RoboSoft and responded to peer review
+        * Co-authored and published a [conference paper](https://ieeexplore.ieee.org/document/10521955) to IEEE RoboSoft and responded to peer review
         * Assembled a tensile testing machine for characterising the hydrogel's viscoelastic properties
         * Used various machine tools (laser cutter, 3D printer) to fabricate the microcontroller-driven robot end effector and synthesised the gelatin-glycerol-carbon black sensorised e-skin.
         * Programmed a UR5 industrial robot in Python to fully automate the data collection pipeline, obtaining a real dataset for pressing of the e-skin, and designed neural nets to predict touch position based on the EIT data with up to 90% accuracy.

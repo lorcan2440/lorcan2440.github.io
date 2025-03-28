@@ -19,16 +19,15 @@ commentable: true
 
 ---
 
-A collection of relevant modern research on the study of the origin of life, focusing on the experimental details of prebiotic chemistry. 
+A collection of relevant modern research on the study of the origin of life, focusing on the experimental details of prebiotic chemistry.
+
+{{% callout note %}}
+All PDFs of listed papers are available [here](https://drive.google.com/drive/folders/17BkL1c7L-X5y5CFlYF9lWbGJ-Qqd1pzA?usp=sharing).
+{{% /callout %}}
 
 - The titles of each paper link to the original source.
 - My quick summary of each paper is provided for each one, intended to be easy to understand.
-- A Google Drive folder containing PDFs of all listed papers is available [here](https://drive.google.com/drive/folders/17BkL1c7L-X5y5CFlYF9lWbGJ-Qqd1pzA?usp=sharing). The only paper not included there is \[C4\], which is not open-access.
 - Papers are listed in no particular order.
-
-{{% callout note %}}
-Last updated: 28th March, 2025
-{{% /callout %}}
 
 ---
 
@@ -56,7 +55,7 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 \[A2\] Ciesla, F.J. and Sandford, S.A. (2012) '[**Organic synthesis via irradiation and warming of ice grains in the solar nebula**](https://www.science.org/doi/10.1126/science.1217291)', *Science*, 336(6080), pp. 452–454. doi:10.1126/science.1217291.
 
->A model of the outer solar nebula (the dust clouds surrounding the solar system during its formation) found that the ice grains (containing H2O, CO, CO2, NH3 and CH3OH) would have been exposed to UV radiation and temperatures of \~30 K. Lab studies found that these same conditions lead to organic molecule formation including amino acids, lipids, quinones and nucleobases.
+>A model of the outer solar nebula (the dust clouds surrounding the solar system during its formation) found that the ice grains (containing H$_2$O, CO, CO$_2$, NH$_3$ and CH$_3$OH) would have been exposed to UV radiation and temperatures of \~30 K. Lab studies found that these same conditions lead to organic molecule formation including amino acids, lipids, quinones and nucleobases.
 
 \[A3\] Schaible, M. J. *et al*. (2024). '[**The Astrobiology Primer v3.0**](https://www.liebertpub.com/doi/10.1089/ast.2021.0129)'. *Astrobiology*, 24(S1), doi:10.1089/ast.2021.0129
 
@@ -64,7 +63,7 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 \[A4\] McGeoch, J. E. M., & McGeoch, M. W. (2022). '[**Chiral 480 nm absorption in the hemoglycin space polymer: a possible link to replication**](https://doi.org/10.1038/s41598-022-21043-4)', *Scientific reports*, 12(1), 16198. doi:10.1038/s41598-022-21043-4.
 
->An abiotic polypeptide has been detected identically in 6 different meteorites that landed on Earth, originally misidentified as 'hemolithin'. Hemoglycin contains glycine (the simplest amino acid) and hydroxyglycine (an abiotic, chiral amino acid) residues, and these were enantioenriched towards the D enantiomer (rather than L). The residues formed a beta-pleated sheet and the terminal residues were bonded to iron(II) centres. Template self-replication by hydrogen bonding is proposed as the cause for the commonality between multiple meteorites. Hemoglycin has also been found in the sea foams which collect cosmic dust infall, with isotopic abundances indicating extraterrestrial origin.
+>An abiotic polypeptide has been detected identically in 6 different meteorites that landed on Earth, originally misidentified as 'hemolithin'. Hemoglycin contains glycine (the simplest amino acid) and hydroxyglycine (an abiotic, chiral amino acid) residues, and these were enantioenriched towards the D enantiomer. The residues formed a beta-pleated sheet and the terminal residues were bonded to iron(II) centres. Template self-replication by hydrogen bonding is proposed as the cause for the commonality between multiple meteorites. Hemoglycin has also been found in the sea foams which collect cosmic dust infall, with isotopic abundances indicating extraterrestrial origin.
 
 \[A5\] McCoy, T. J., Russell, S. S., Zega, T. J. *et al.* (2025). '[**An evaporite sequence from ancient brine recorded in Bennu samples**](https://www.nature.com/articles/s41586-024-08495-6)', *Nature* 637, 1072–1077. doi:10.1038/s41586-024-08495-6.
 
@@ -94,7 +93,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 \[B4\] Blackmond, D.G. and Klussmann, M. (2007) '[**Spoilt for choice: Assessing phase behavior models for the evolution of homochirality**](https://pubs.rsc.org/en/content/articlelanding/2007/cc/b709314b)', *Chemical Communications*, (39), p. 3990. doi:10.1039/b709314b.
 
->Partially enantioenriched amino acid solutions (like those formed in \[B3\]) can recrystallise again, forming racemate crystals while the supernatant tends to the eutectic composition at thermodynamic equilibrium, which can have much higher *ee* (e.g. Ser > 99%, His = 93%, Leu = 87%)*.* This process can also occur exploiting differential volatility using sublimation/deposition (solid ↔ gas) instead of dissolution (solid ↔ aqueous). Also, amino acids with low eutectic *ee*'s (e.g. Pro = 50%, Val = 47%) can have these eutectic *ee*'s increased by co-crystallising with a small achiral hydrogen bond donor molecule (e.g. CHCl3), rising to >90% ee. Suitable prebiotic environments proposed include warm pools of water containing amino acids with cycles of rainfall and evaporation, or in sublimating organic space dust brought to Earth.
+>Partially enantioenriched amino acid solutions (like those formed in \[B3\]) can recrystallise again, forming racemate crystals while the supernatant tends to the eutectic composition at thermodynamic equilibrium, which can have much higher *ee* (e.g. Ser > 99%, His = 93%, Leu = 87%)*.* This process can also occur exploiting differential volatility using sublimation/deposition (solid ↔ gas) instead of dissolution (solid ↔ aqueous). Also, amino acids with low eutectic *ee*'s (e.g. Pro = 50%, Val = 47%) can have these eutectic *ee*'s increased by co-crystallising with a small achiral hydrogen bond donor molecule (e.g. CHCl$_3$), rising to >90% ee. Suitable prebiotic environments proposed include warm pools of water containing amino acids with cycles of rainfall and evaporation, or in sublimating organic space dust brought to Earth.
 
 \[B5\] Deng, M., Yu, J. and Blackmond, D.G. (2024) '[**Symmetry breaking and chiral amplification in prebiotic ligation reactions**](https://www.nature.com/articles/s41586-024-07059-y?fromPaywallRec=false)', *Nature*, 626(8001), pp. 1019–1024. doi:10.1038/s41586-024-07059-y.
 
@@ -140,7 +139,7 @@ Studies on biochemical reactions in which the catalyst is also a product of the 
 
 \[C1\] Hanopolskyi, A.I. *et al.* (2020) '[**Autocatalysis: Kinetics, Mechanisms and Design**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/syst.202000026)', *ChemSystemsChem*, 3(1). doi:10.1002/syst.202000026.
 
->A review of the general topic of autocatalysis. For an autocatalytic reaction A + B ⇌ 2 B (A: substrate, B: product and catalyst), the kinetics follow d\[B\]/dt ∝ \[B\]\^(1/2) when \[A\] is held constant (square root law). Includes a discussion of the autocatalytic nature of short RNAs (ribozymes), autocatalytic sets and autocatalytic cycles, and mentions the concept of hypercycles proposed by Eigen.
+>A review of the general topic of autocatalysis. For an autocatalytic reaction $ A + B \rightleftharpoons 2 B $ (A: substrate, B: product and catalyst), the kinetics follow $ \frac{\mathrm{d} \[B\] }{\mathrm{d} t} \propto \[B\]^{1/2} $ when $ \[A\] $ is held constant (square root law). Includes a discussion of the autocatalytic nature of short RNAs (ribozymes), autocatalytic sets and autocatalytic cycles, and mentions the concept of hypercycles proposed by Eigen.
 
 \[C2\] Hordijk, W. (2017). '[**Autocatalytic confusion clarified**](https://www.sciencedirect.com/science/article/abs/pii/S0022519317304150?via%3Dihub)', *Journal of Theoretical Biology*, 435, pp. 22–28. doi:10.1016/j.jtbi.2017.09.003.
 
@@ -182,7 +181,7 @@ Relevant concepts in the complexification of prebiotic chemistry, as suitable sy
 
 \[D5\] Hazen, M. *et al*. (2007) '[**Functional information and the emergence of biocomplexity**](https://www.pnas.org/doi/full/10.1073/pnas.0701744104)'. *Proceedings of the National Academy of Sciences*, 104(suppl\_1), pp. 8574-8581. doi:10.1073/pnas.0701744104.
 
->Defines 'functional information' in biologically-useful context in terms of Shannon information entropy (roughly, how 'surprised' we are when observing a particular outcome from a distribution). It is defined for a given system and function (within the context of the system). Functional information represents the probability that an arbitrary configuration of a system will achieve a specific function to a specified degree. Different functions of the same biomolecule are available in different systems.
+>Defines 'functional information' in biologically-useful context in terms of Shannon information entropy (roughly, how 'surprised' we are when observing a particular outcome from a distribution). It is defined for a given system and function (within the context of the system) as $ I(E_x) = -\log_2 F(E_x) $, where $ E_x $ is the degree of function and $ F(E_x) $ is the fraction of configurations in system with degree of function $ \geq E_x $. Different functions of the same biomolecule are available in different systems.
 
 \[D6\] Adami, C. (2015) '[**Information-Theoretic Considerations Concerning the Origin of Life**](https://link.springer.com/article/10.1007/s11084-015-9439-0)'. *Origins of Life and Evolution of Biospheres*, 45, pp. 309–317. doi:10.1007/s11084-015-9439-0.
 
@@ -208,7 +207,7 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 \[E4\] Mayer, C., Schreiber, U. and Dávila, M. (2017). '[**Selection of Prebiotic Molecules in Amphiphilic Environments**](https://www.mdpi.com/2075-1729/7/1/3)'. *Life*, 7(1), p.3. doi:https://doi.org/10.3390/life7010003.
 
->Fluid circulating in tectonic fault zones contains water and supercritical CO2, a well-known solvent for extraction and amphiphile nanoparticle synthesis in organic chemistry. This fluid would be supplied with hydrothermally formed compounds, is protected against dilution effects and destructive UV radiation, provides steady conditions over long timescales, generates structures which are highly selective for amphiphilic compounds such as lipids or peptides composed of hydrophilic and hydrophobic amino acids, and has access to the 'warm little pond' environments at the surface.
+>Fluid circulating in tectonic fault zones contains water and supercritical CO$_2$, a well-known solvent for extraction and amphiphile nanoparticle synthesis in organic chemistry. This fluid would be supplied with hydrothermally formed compounds, is protected against dilution effects and destructive UV radiation, provides steady conditions over long timescales, generates structures which are highly selective for amphiphilic compounds such as lipids or peptides composed of hydrophilic and hydrophobic amino acids, and has access to the 'warm little pond' environments at the surface.
 
 \[E5\] Gibard, C. *et al*. (2017). '[**Phosphorylation, oligomerization and self-assembly in water under potential prebiotic conditions**](https://www.nature.com/articles/nchem.2878)'. Nature Chemistry, 10(2), pp.212–217. doi:https://doi.org/10.1038/nchem.2878.
 
@@ -238,7 +237,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 \[F1\] Chen, F. and Yang D. (2006). '[**Condensation of amino acids to form peptides in aqueous solution induced by the oxidation of sulfur(IV): An oxidative model for prebiotic peptide formation**](https://link.springer.com/article/10.1007/s11084-006-9012-y)', *Origins of Life and Evolution of Biospheres*, 37(1), pp. 47-54. doi:https://doi.org/10.1007/s11084-006-9012-y
 
->Carboxylic acids and amines undergo condensation reactions to form polypeptides in the presence of sulfur(IV) (e.g. SO2, NaHSO3) and oxidant (K3\[Fe(CN)6\]). This functionality also applies to amino acid polymerisation, including ligation to small polypeptides. The yield is about 2% relative to the amount of sulfur used.
+>Carboxylic acids and amines undergo condensation reactions to form polypeptides in the presence of sulfur(IV) (e.g. SO$_2$, NaHSO$_3$) and oxidant (K$_3$\[Fe(CN)$_6$\]). This functionality also applies to amino acid polymerisation, including ligation to small polypeptides. The yield is about 2% relative to the amount of sulfur used.
 
 \[F2\] Singh, J. *et al*. (2022). '[**Prebiotic Catalytic Peptide Ligation Yields Proteinogenic Peptides by Intramolecular Amide Catalyzed Hydrolysis Facilitating Regioselective Lysine Ligation in Neutral Water**](https://pubs.acs.org/doi/10.1021/jacs.2c03486)'. *Journal of the American Chemical Society*, 144(23), pp.10151–10155. doi:https://doi.org/10.1021/jacs.2c03486.
 
@@ -250,7 +249,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 \[F4\] Stolar, T. *et al*. (2021). '[**Mechanochemical Prebiotic Peptide Bond Formation**](https://onlinelibrary.wiley.com/doi/10.1002/anie.202100806)', *Angewandte Chemie*, 60(23), pp.12727–12731. doi:https://doi.org/10.1002/anie.202100806.
 
->Mechanical impacts from meteorites and geochemical phenomena can drive mechanochemistry. Under ball milling, solid glycine can polymerise with and without water present. The length of the polypeptides increased with temperature, as well as cyclic dimer formation. In the presence of TiO2, the dimers served as a source of glycine allowing formation of peptides up to 10-mers.
+>Mechanical impacts from meteorites and geochemical phenomena can drive mechanochemistry. Under ball milling, solid glycine can polymerise with and without water present. The length of the polypeptides increased with temperature, as well as cyclic dimer formation. In the presence of TiO$_2$, the dimers served as a source of glycine allowing formation of peptides up to 10-mers.
 
 \[F5\] Olasagasti, F. and Rajamani, S. (2019). '[**Lipid-Assisted Polymerization of Nucleotides**](https://www.mdpi.com/2075-1729/9/4/83)', *Life*, 9(4), pp. 83–83. doi:https://doi.org/10.3390/life9040083.
 
@@ -260,7 +259,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 >Nucleoside triphosphates form polynucleotides, with a strong bias towards 3'-5' linkage regioselectivity, in the presence of natural silicate glasses.
 
-\[F7\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:https://doi.org/10.3390/life4030318.
+\[F7\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:10.3390/life4030318.
 
 >Nucleotides form polynucleotides in the presence of montmorillonite clay and simple salts (e.g. NaCl).
 
@@ -272,7 +271,7 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 \[G1\] Song, E.Y. *et al.* (2020) '[**Prebiotically plausible RNA activation compatible with ribozyme‐catalyzed ligation**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7898671/)', *Angewandte Chemie International Edition*, 60(6), pp. 2952–2957. doi:10.1002/anie.202010918.
 
->Diamidophosphate reacts with nucleotides to protect the 2' and 3' -OH groups, activating them for regioselective self-replication with a ribozyme.
+>Diamidophosphate (DAP) reacts with nucleotides to protect the 2' and 3' -OH groups, activating them for regioselective self-replication with a ribozyme.
 
 \[G2\] Voytek, S.B. and Joyce, G.F. (2009) '[**Niche partitioning in the coevolution of 2 distinct RNA enzymes**](https://www.pnas.org/doi/10.1073/pnas.0903397106)', *Proceedings of the National Academy of Sciences*, 106(19), pp. 7780–7785. doi:10.1073/pnas.0903397106.
 
@@ -332,7 +331,7 @@ Studies on the behaviour of lipid vesicles to test for their validity as the fir
 
 ## SYNTHETIC BIOLOGY
 
-Experiments on cells derived from extant biology. These are usually not prebiotically relevant, but can inform on the minimal viable complexity of the simple cells.
+Experiments on cells derived from extant biology. These are usually not prebiotically relevant, but can inform us about the minimum viable complexity of simple cells.
 
 \[I1\] Pelletier, J.F. *et al.* (2021). '[**Genetic requirements for cell division in a genomically minimal cell**](https://www.cell.com/cell/fulltext/S0092-8674(21)00293-2)'. *Cell,* 184(9), pp.2430-2440. doi:10.1016/j.cell.2021.03.008.
 
