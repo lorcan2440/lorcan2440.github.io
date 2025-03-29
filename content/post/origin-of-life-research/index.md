@@ -63,7 +63,7 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 \[A4\] McGeoch, J. E. M., & McGeoch, M. W. (2022). '[**Chiral 480 nm absorption in the hemoglycin space polymer: a possible link to replication**](https://doi.org/10.1038/s41598-022-21043-4)', *Scientific reports*, 12(1), 16198. doi:10.1038/s41598-022-21043-4.
 
->An abiotic polypeptide has been detected identically in 6 different meteorites that landed on Earth, originally misidentified as 'hemolithin'. Hemoglycin contains glycine (the simplest amino acid) and hydroxyglycine (an abiotic, chiral amino acid) residues, and these were enantioenriched towards the D enantiomer. The residues formed a beta-pleated sheet and the terminal residues were bonded to iron(II) centres. Template self-replication by hydrogen bonding is proposed as the cause for the commonality between multiple meteorites. Hemoglycin has also been found in the sea foams which collect cosmic dust infall, with isotopic abundances indicating extraterrestrial origin.
+>An abiotic polypeptide has been detected identically in 6 different meteorites that landed on Earth, originally misidentified as 'hemolithin'. Hemoglycin contains 18 glycine (the simplest amino acid) and 4 hydroxyglycine (an abiotic, chiral amino acid) residues, and these were enantioenriched towards the D enantiomer. The residues formed a beta-pleated sheet and the terminal residues were bonded to iron(II) centres. Template self-replication by hydrogen bonding is proposed as the cause for the commonality between multiple meteorites. Hemoglycin has also been found in the sea foams which collect cosmic dust infall, with isotopic abundances indicating extraterrestrial origin.
 
 \[A5\] McCoy, T. J., Russell, S. S., Zega, T. J. *et al.* (2025). '[**An evaporite sequence from ancient brine recorded in Bennu samples**](https://www.nature.com/articles/s41586-024-08495-6)', *Nature* 637, 1072–1077. doi:10.1038/s41586-024-08495-6.
 
@@ -225,13 +225,17 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 >A sequence of prebiotically plausible reactions starting from inorganics and D-ribose leads to nucleoside precursors. A catalytic cycle mediated by iron(II/III) and boric acid converts these to nucleosides. Wet-dry cycling with phosphate minerals (lüneburgite) leads to nucleotides with 5' regioselectivity.
 
-\[E8\] Santos, T. and Futerman, A. (2022). \`[**The fats of the matter: Lipids in prebiotic chemistry and in origin of life studies**](https://www.sciencedirect.com/science/article/pii/S0163782723000437)'. *Progress in Lipid Research*, 92(101253), doi:10.1016/j.plipres.2023.101253.
+\[E8\] Santos, T. and Futerman, A. (2022). '[**The fats of the matter: Lipids in prebiotic chemistry and in origin of life studies**](https://www.sciencedirect.com/science/article/pii/S0163782723000437)'. *Progress in Lipid Research*, 92(101253), doi:10.1016/j.plipres.2023.101253.
 
 >A review of prebiotic lipid chemistry, and their capacity to enable compartmentalisation of chemically evolving systems. Lipids can be formed from ammonium salts of fatty acids and glycerol on hot kaolinite clay by esterification. Other alcohols can be used, including derivatives of amino acids with -OH side chains, found in extant lipids.
 
-\[E9\] Wagner, A. J. et al. (2017). \`[**Chiral Sugars Drive Enantioenrichment in Prebiotic Amino Acid Synthesis**](https://pubs.acs.org/doi/10.1021/acscentsci.7b00085)'. *ACS Central Science*, 3(4), doi:10.1021/acscentsci.7b00085.
+\[E9\] Wagner, A. J. et al. (2017). '[**Chiral Sugars Drive Enantioenrichment in Prebiotic Amino Acid Synthesis**](https://pubs.acs.org/doi/10.1021/acscentsci.7b00085)'. *ACS Central Science*, 3(4), doi:10.1021/acscentsci.7b00085.
 
 >Racemic aminonitriles undergo the Strecker synthesis at pH 7-10 to form aminoamides. When catalysed by D sugars, the products are enantioenriched. With pure D-sugars (D-ribose, D-xylose, D-2-deoxyribose), the product is D-enriched, but with mixtures of D-sugars (more prebiotically relevant), the product is L-enriched, with ee's of 15-50%.
+
+\[E10\] Pulletikurti, S. *et al.* (2022). '[**Prebiotic synthesis of α-amino acids and orotate from α-ketoacids potentiates transition to extant metabolic pathways**](https://www.nature.com/articles/s41557-022-00999-w)'. *Nature Chemistry*, 14, pp.1142-1150. doi:10.1038/s41557-022-00999-w.
+
+>The Strecker synthesis is the common prebiotic way to make amino acids, but extant life uses transamination of α-ketoacids. Here, amino acids (Ala, Glu, Asp, Gly) are synthesised prebiotically from α-keto acids (pyruvate, α-ketoglutarate, oxaloacetate, glyoxalate) using diamidophosphate (DAP) and cyanide ions at pH 8.5. Wet-dry cycling can also form orotate (a pyrimidine precursor) in low yield from the intermediates. Reaction of the α-ketoacid condensation products with ammonia sources produces compounds found in the Krebs cycle and its secondary metabolites, forming various pathways with relevance to systems chemistry.
 
 ---
 
