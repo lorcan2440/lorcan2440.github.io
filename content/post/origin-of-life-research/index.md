@@ -309,6 +309,10 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 >Prebiotically plausible syntheses of aminoacyl phosphate anhydrides are already known. Two strands of complementary oligo-RNAs were prepared, one of which is 5'-terminated with an aminoacyl phosphate. These short RNAs anneal together form a duplex, wherein the 3' and 5' ends are in close proximity. Transfer of the aminoacyl group occurs between the ends of the RNA with high enantioselectivity and chemoselectivity based on the amino acid, forming self-aminoacylated RNA. This provides an origin of extant aminoacyl-tRNA by duplication, which is necessary for genetically encoded protein synthesis. This mechanism is also compatible with the hypothesis that tRNA arose by duplication of RNA, as it has an antisymmetric cloverleaf structure.
 
+\[G10\] Papastavrou, N., Horning, D. P. & Joyce, G. F. (2024). '[**RNA-catalyzed evolution of catalytic RNA**](https://www.pnas.org/doi/10.1073/pnas.2321592121)'. *Proc. Natl. Acad. Sci. U.S.A.* 121(11) e2321592121, doi:10.1073/pnas.2321592121.
+
+>An RNA enzyme with RNA polymerase activity was used to replicate and evolve an RNA enzyme with RNA-cleavage activity. The fidelity of the polymerase is sufficient to maintain heritable information over the course of evolution, with a succession of variants of the RNA-cleaving RNA enzyme arising that have progressively increasing fitness.
+
 ---
 
 ## PROTOCELL MODELS
