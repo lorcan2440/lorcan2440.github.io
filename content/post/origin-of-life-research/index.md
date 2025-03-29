@@ -315,7 +315,7 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 \[G11\] Timm, J. *et al.* (2023). '[**Design of a minimal di-nickel hydrogenase peptide**](https://www.science.org/doi/10.1126/sciadv.abq1990)'. *Science Advances*, 9(10), doi:10.1126/sciadv.abq1990.
 
->A 13-amino acid oligopeptide was designed to exhibit hydrogenase activity. The protein is a redox metalloenzyme with a di-nickel cluster active site. This structure is much simpler than extant hydrogenases. The peptide was stable at pH ranges 5.5 - 10 and at temperatures 20 $ ^{\circ}$C - 80 $ ^{\circ}$C. Simple Archaean eon life is expected to be dependent on hydrogen gas for metabolism at these conditions.
+>A 13-amino acid oligopeptide was designed to exhibit hydrogenase activity. The protein is a redox metalloenzyme with a di-nickel cluster active site that converts solvated protons into hydrogen (2 H$^+$ + 2 e$^- \rightarrow $ H$_2$). This structure is much simpler than extant hydrogenases. The peptide was stable at pH 5.5 - 10 and at temperatures 20 $ ^{\circ}$C - 80 $ ^{\circ}$C. Simple Archean eon life is expected to be dependent on hydrogen gas for metabolism at these conditions.
 
 ---
 
