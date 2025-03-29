@@ -2,8 +2,8 @@
 title: Lorcan Nicholls
 role: Engineering Graduate
 avatar_filename: avatar.jpg
-bio: A bioengineering graduate from the University of Cambridge. Interested
-  in bioengineering, biochemical processes, sustainable energy and machine learning.
+bio: An engineering graduate from the University of Cambridge. Interested
+  in bioengineering, mechanical engineering, sustainable energy and automation.
 interests:
   - Automation (controls, IoT and ML)
   - Sustainable Energy Storage
