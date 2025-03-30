@@ -1,6 +1,6 @@
 ---
 
-title: "Problem Solving #2"
+title: "A Counting Problem"
 subtitle: A problem exploring combinatorics and discrete probability distributions
 date:
 summary:

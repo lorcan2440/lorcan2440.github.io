@@ -361,4 +361,4 @@ Here's a sample from the log file showing how we recorded the events:
 
 After a very long time, the simulation will approach the theoretical steady-state results. However, for smaller times, there is an initialisation bias, since we start with an empty system instead of steady state. This can be overcome by only starting recording after a certain warm-up period has passed, but I didn't bother with this here.
 
-Full code in one file on my GitHub repo [here](https://github.com/lorcan2440/Process-Simulation/tree/main/Queueing).
+Full code in one file on GitHub [here](https://github.com/lorcan2440/Process-Simulation/blob/main/Queueing/main.py).

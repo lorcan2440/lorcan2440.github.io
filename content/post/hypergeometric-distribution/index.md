@@ -1,6 +1,6 @@
 ---
 
-title: "Problem Solving #1"
+title: "The Hypergeometric Distribution"
 subtitle: A problem exploring combinatorics and discrete probability distributions
 date:
 summary:

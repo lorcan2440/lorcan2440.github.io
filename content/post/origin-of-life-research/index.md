@@ -321,6 +321,11 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 >A 13-amino acid oligopeptide was designed to exhibit hydrogenase activity. The protein is a redox metalloenzyme with a di-nickel cluster active site that converts solvated protons into hydrogen (2 H$^+$ + 2 e$^- \rightarrow $ H$_2$). This structure is much simpler than extant hydrogenases. The peptide was stable at pH 5.5 - 10 and at temperatures 20 $ ^{\circ}$C - 80 $ ^{\circ}$C. Simple Archean eon life is expected to be dependent on hydrogen gas for metabolism at these conditions.
 
+\[G12\] Mizuuchi, R. and Ichihashi, N. (2023). '[**Minimal RNA self-reproduction discovered from
+a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc01940c)'. *Chemical Science*, 14, pp.7656-7664. doi:10.1039/D3SC01940C.
+
+>Out of a random pool of 20-mer oligonucleotides (total of 10^12 possible sequences), in the presence of phosphate (which formed a bond at the 2' and 3' positions) and 100 mM MgCl$_2$, a sequence was found that permitted self-replication by template-directed ligation. The found RNA has a stem-loop secondary structure and contains a mixture of 2'-5' and 3'-5' linkages.
+
 ---
 
 ## PROTOCELL MODELS
