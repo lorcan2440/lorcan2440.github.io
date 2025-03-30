@@ -5,7 +5,7 @@ subtitle: A simulation of a queueing system using the SimPy library in Python.
 date:
 summary:
 draft: false
-featured: true
+featured: false
 tags:
   - travel
   - blog

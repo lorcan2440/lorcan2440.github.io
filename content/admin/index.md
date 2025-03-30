@@ -1,5 +1,5 @@
 ---
-# Generate Wowchemy CMS
+# Generate Wowchemy CMS (the /admin/ page)
 type: wowchemycms
 private: true
 outputs:

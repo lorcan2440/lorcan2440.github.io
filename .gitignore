@@ -16,6 +16,7 @@ go.sum
 
 # Secrets
 .env
+Security recovery codes _ User settings _ Netlify.pdf
 
 # Intended for local only
 WEBSITE_DOCS_AND_HELP.md

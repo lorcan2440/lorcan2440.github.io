@@ -5,7 +5,7 @@ subtitle: Exploring crystal field theory and ligand field theory through a famou
 date:
 summary:
 draft: false
-featured: true
+featured: false
 tags:
   - chemistry
 categories: []

@@ -1,11 +1,11 @@
 ---
 
 title: "Shortest Path Around A Cone"
-subtitle: Exploring a tricky optimisation problem using a famous exam question
+subtitle: Exploring a tricky optimisation problem with an infamous exam question
 date:
 summary:
 draft: false
-featured: true
+featured: false
 tags:
   - maths
   - optimisation
@@ -28,4 +28,6 @@ MindYourDecisions video solution:
 https://www.youtube.com/watch?v=Y6caQ_8_frU
 -->
 
-## 
+![image](cone.png)
+
+...
