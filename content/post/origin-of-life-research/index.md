@@ -219,7 +219,7 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 \[E6\] Kim, H.-J. and Benner, S.A. (2021). '[**Abiotic Synthesis of Nucleoside 5′-Triphosphates with Nickel Borate and Cyclic Trimetaphosphate (CTMP)**](https://www.liebertpub.com/doi/epdf/10.1089/ast.2020.2264)'. *Astrobiology*, 21(3), pp.298–306. doi:https://doi.org/10.1089/ast.2020.2264.
 
->CTMP reacts with nucleosides to nucleotides, with regioselectivity towards phosphorylation at the 5' position in the presence of nickel(II) borate, due to the borate ion complexing at the 2' and 3' -OH groups of ribose.
+>CTMP reacts with nucleosides to nucleotides, with regioselectivity towards phosphorylation at the 5' position in the presence of nickel(II) borate. Due to the borate ion complexing at the 2' and 3' -OH groups of ribose, aldopentoses are selectively stabilised by borates.
 
 \[E7\] Becker, S. *et al*. (2019). '[**Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides**](https://www.science.org/doi/10.1126/science.aax2747)'. *Science*, 366(6461), pp.76–82. doi:https://doi.org/10.1126/science.aax2747.
 
@@ -270,6 +270,14 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 \[F7\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:10.3390/life4030318.
 
 >Nucleotides form polynucleotides in the presence of montmorillonite clay and simple salts (e.g. NaCl).
+
+\[F8\] Sumie, Y. *et al*. (2023). '[****Boron-assisted abiotic polypeptide synthesis**](https://www.nature.com/articles/s42004-023-00885-7)'. *Communications Chemistry*, 6, p.89. doi:10.1038/s42004-023-00885-7.
+
+>Up to 39-mers of polyglycine were formed by simple heating of glycine, catalysed by aqueous boric acid at pH 6 - 8 and temperatures of 90 - 130 C, with negligible side reactions. Borate is known to be present in the mineral tourmaline on the prebiotic earth, and can also help to form RNA by \[E6\].
+
+\[F9\] Holden, D. T., Morato, N. M. and Cooks, R. G. (2022). '[**Aqueous microdroplets enable abiotic synthesis and chain extension of unique peptide isomers from free amino acids**](https://www.pnas.org/doi/10.1073/pnas.2212642119)'. *Proceedings of the National Academy of Sciences*, 119(42), e2212642119. doi:10.1073/pnas.2212642119.
+
+>Spray ejection of micron-sized droplets of liquid neutral water containing free amino acids (glycine, L-alanine) results in peptide formation (up to 6-mer) at the air-water interface. The surface of the droplets acts as a dry environment that shifts the equilibrium of the reaction towards condensation. This occurs at ambient conditions without any other reagents, catalysts, or radiation.
 
 ---
 
@@ -325,6 +333,10 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc01940c)'. *Chemical Science*, 14, pp.7656-7664. doi:10.1039/D3SC01940C.
 
 >Out of a random pool of 20-mer oligonucleotides (total of 10^12 possible sequences), in the presence of phosphate (which formed a bond at the 2' and 3' positions) and 100 mM MgCl$_2$, a sequence was found that permitted self-replication by template-directed ligation. The found RNA has a stem-loop secondary structure and contains a mixture of 2'-5' and 3'-5' linkages.
+
+\[G13\] Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalytic amyloids**](https://www.nature.com/articles/nchem.1894)'. *Nature Chemistry*, 6, pp.303-309. doi:10.1038/nchem.1894.
+
+> Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ at pH 10.3.
 
 ---
 
