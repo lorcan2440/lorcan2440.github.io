@@ -135,6 +135,10 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 >A review of the wide range of reactions catalysed by (or involving adsorption to) minerals with enantiomorphic crystal surfaces, such as \[B7\].
 
+\[B14\] Banerjee-Ghosh, K. *et al*. (2018). '[**Separation of enantiomers by their enantiospecific interaction with achiral magnetic substrates**](https://www.science.org/doi/10.1126/science.aar4265)'. *Science*, 360(6395), pp.1331-1334. doi:10.1126/science.aar4265.
+
+>Due to the CISS effect, helical oligopeptides and oligonucleotides, as well as chiral amino acids, have enantiospecific differences in initial adsorption rates on ferromagnetic surfaces, depending on the direction of magnetisation. In combination with \[B12\], it complements the mechanism for CISS-mediated deracemisation.
+
 ---
 
 ## AUTOCATALYSIS AND SYSTEMS CHEMISTRY
