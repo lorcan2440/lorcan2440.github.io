@@ -10,7 +10,7 @@ interests:
   - Aquaponics
   - Biosensors
   - Lab-grown Meat
-  - Evo-Devo Biology
+  - Evo-Devo and Systems Biology
 social:
   - icon: envelope
     icon_pack: fas
