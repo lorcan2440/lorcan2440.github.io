@@ -122,6 +122,10 @@ Sources for M11: [here](https://www.science.org/content/article/feed-bird-split-
 
 And there's a bunch more listed [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
+*If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
+
+Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines (below) serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
+
 ---
 
 ## GENETICS
