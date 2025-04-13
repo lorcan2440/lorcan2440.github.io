@@ -1,7 +1,7 @@
 ---
 
 title: "Evidence for Evolution"
-subtitle: A collection of papers, arguments and images that support the theory of evolution.
+subtitle: A collection of pictures, papers and examples that support the theory of evolution.
 date:
 summary:
 draft: false
@@ -18,7 +18,7 @@ commentable: true
 
 ---
 
-A collection of interesting papers and pictures to show how biological evolution explains the diversity of life.
+A collection of interesting pictures, papers and examples to show how biological evolution explains the diversity of life.
 
 ## CONTENTS
 
@@ -214,7 +214,7 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 
 ---
 
-### COMPARATIVE PHYSIOLOGY
+## COMPARATIVE PHYSIOLOGY
 
 
 
