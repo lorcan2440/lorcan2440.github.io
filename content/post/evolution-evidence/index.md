@@ -39,14 +39,14 @@ A collection of interesting pictures, papers and examples to show how biological
 
 ## DIRECT OBSERVATION
 
-Microevolution (adaptation and other changes within a species) is commonly observed, but the more striking consequences of evolution usually takes place on timescales far too long to observe from start to finish. However, there are some well-established cases where macroevolution can be observed in real time. Some definitions here will be useful:
+Microevolution (adaptation and other changes within a species) is commonly observed, but the more striking consequences of evolution usually take place on timescales far too long to observe from start to finish. However, there are some well-established cases where macroevolution can be observed in real time. Some definitions here will be useful:
 
 - *Biological species concept* \~ a species is any group who is reproductively isolated from other such groups, due to e.g. behavioural isolation, genetic incompatibility or failure to produce viable offspring. This is the most common species concept for studying extant life, but is undefined for asexual organisms (prokaryotes), so another concept is required.
 - *Phylogenetic species concept* \~ a species is the smallest monophyletic grouping when performing comparative genomic analysis on a population. This is much more suited for prokaryotes, defining species via genetic similarity.
 - *Speciation* \~ formation of more than one species from a population of one species, where *species* is defined suitably using one of the species concepts (like the above).
 - *Macroevolution* \~ variations in heritable traits in populations with multiple species over time. Speciation marks the start of macroevolution.
 
-Here are some examples of macroevolution that have been observed in real time. Also included are some counterexamples to 'irreducible complexity', the idea from 'intelligent design' that some structures are too complex to have evolved from simpler predecessors. These are not usually macroevolution, but they do show how evolution can produce complex structures.
+Here are some examples of macroevolution that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too. Also included are some counterexamples to 'irreducible complexity', the idea from 'intelligent design' that some structures are too complex to have evolved from simpler predecessors. These are not usually macroevolution, but they do show how evolution is capable of producing complex structures, which is a common sticking point.
 
 ### [A1] Lizards evolving placentas
 
