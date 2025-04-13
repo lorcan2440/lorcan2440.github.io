@@ -130,7 +130,7 @@ Contrary to top ID proponent claims, this is *not* due to the loss of regulation
 
 In an amusing attempt to refute this, intelligent design advocate Scott Minnich (works at Discovery Institute) reproduced the experiment in 2016 with a new colony of wild-type *E. coli* and found the same Cit+ trait emerge! And this time, much faster than in the LTEE, via the same pathway, featuring *CitT* and *dctA*. The abstract of their paper ends rather desperately: "We conclude that the rarity of the LTEE mutant was an artifact of the experimental conditions and not a unique evolutionary event. No new genetic information (novel gene function) evolved." - despite us having disproven that already.
 
-Sources for R1: [here](https://www.nature.com/articles/nature11514), [here](https://pubmed.ncbi.nlm.nih.gov/26833416/) and [here](https://www.youtube.com/watch?v=q0lB0GAMEsQ) (video).
+Sources for A12: [here](https://www.nature.com/articles/nature11514), [here](https://pubmed.ncbi.nlm.nih.gov/26833416/) and [here](https://www.youtube.com/watch?v=q0lB0GAMEsQ) (video).
 
 ### [A13] Tetherin antagonism in HIV groups M and O
 
@@ -138,7 +138,7 @@ The human immunodeficiency virus (HIV) groups O and M evolved two different new 
 
 Incidentally, HIV also simultaneously demonstrates observed 'macroevolution' (to the extent that it can be defined for viruses, which are not life). HIV has a *zoonotic* (animal) origin, as it came from SIV (simian immunodeficiency virus). SIV infects many non-human primates, including the great apes, but became human transmissible as HIV in the early 1900s due to mutations that allowed it to bind our CD4 receptors, which differ slightly between humans and other apes.
 
-Sources for R2: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8402909/), [here](https://pubmed.ncbi.nlm.nih.gov/25468793/) and [here](https://elifesciences.org/reviewed-preprints/93316v1).
+Sources for A13: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8402909/), [here](https://pubmed.ncbi.nlm.nih.gov/25468793/) and [here](https://elifesciences.org/reviewed-preprints/93316v1).
 
 ### [A14] Human lactose tolerance
 
@@ -148,7 +148,7 @@ The *LCT* gene codes for lactase, and has a low-affinity promoter. The *MCM6* ge
 
 In mammals, most metabolic genes except lactase are expressed at low levels early in development as nutrients are provided primarily by breast milk, but during adolescence, as these other genes are promoted, low-affinity promoters like *LCT* are outcompeted, sharply reducing *LCT* expression. In lactase persistence, point mutations to the *LCT* enhancer result in an increased affinity for the *LCT* promoter, allowing it to remain competitive for transcription throughout life, allowing lifelong lactase synthesis. So, this is *not* a loss of regulation or function, as routinely claimed by ID advocates. Some mutations also reduce the age-related DNA methylation of the enhancer. Lactase persistence has evolved independently with several SNPs (single nucleotide polymorphisms) under strong positive selection in the past 10,000 years of human history, primarily in societies that had dairy farming and pastoralist agriculture.
 
-Sources for R3: [here](https://pubmed.ncbi.nlm.nih.gov/39171584/) and [here](https://www.youtube.com/watch?v=Ii8sLnCWUTo) (video)
+Sources for A14: [here](https://pubmed.ncbi.nlm.nih.gov/39171584/) and [here](https://www.youtube.com/watch?v=Ii8sLnCWUTo) (video)
 
 ### [A15] Re-evolution of bacterial flagella
 
@@ -156,13 +156,13 @@ The flagellum is the poster-boy for irreducible complexity, cited ad nauseum by 
 
 This is an incredibly reliable two-step process, after 24-48 hours we get a mutation in one of the genes upstream of NtrC that leads to higher expression and activation, then within 96 hours of the start we see a second mutation - normally within NtrC itself, that helps finetune the expression.
 
-Source for R4: [here](https://www.science.org/doi/10.1126/science.1259145).
+Source for A15: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ### [A16] Ecological succession
 
 This is fun one to catch ID advocates off-guard, as it refers to the macroscopic and very well-accepted process of '[primary succession](https://news.uchicago.edu/explainer/what-is-ecological-succession#:~:text=and%20secondary%20succession.-,Primary%20succession,-happens%20when%20a)'. This describes the sequence that follows formation of a new region of land (well-studied in physical geography) as life moves in for the first time. The resulting ecosystems that form (in the 'climax community') are highly interdependent, such that removing one would collapse the whole food web, which is a defining feature of irreducible complexity. Yet, we watch it happen all the time - and this is something that must have happened regardless of whether creation or evolution is true!
 
-Sources for R5: [here](https://news.uchicago.edu/explainer/what-is-ecological-succession) (article), [here](https://www.nature.com/articles/nature06154) and [here](https://www.jstor.org/stable/3545904).
+Sources for A16: [here](https://news.uchicago.edu/explainer/what-is-ecological-succession) (article), [here](https://www.nature.com/articles/nature06154) and [here](https://www.jstor.org/stable/3545904).
 
 *If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
 
