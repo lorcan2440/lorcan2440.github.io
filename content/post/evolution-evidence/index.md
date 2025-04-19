@@ -20,6 +20,10 @@ commentable: true
 
 A collection of interesting pictures, papers and examples to show how biological evolution explains the diversity of life.
 
+{{% callout note %}}
+This is a work in progress! It is nowhere near complete!
+{{% /callout %}}
+
 ## CONTENTS
 
 - A. [**Direct Observation**](#direct-observation)
@@ -175,6 +179,24 @@ Direct observations are not the *best evidence* of evolution as a whole. Direct 
 
 Genetic similarity between organisms is indicative of evolutionary relatedness, since mutation accumulate within lineages and are passed on to offspring. Studying the genomes of extant life therefore informs evolutionary history.
 
+### Pseudogenes
+
+GULO (L-gulonolactone oxidase): in mammals, encodes an enzyme for producing vitamin C, but is non-functional in haplorhines, occurring as the GULOP pseudogene.
+
+### Endogenous retroviruses (ERVs)
+
+### Chromosome 2 fusion in the human lineage
+
+### Mutations in human evolution
+
+The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates.
+
+- ARHGAP11: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in Homo sapiens, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly.
+- TKTL1 (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe.
+- NOTCH2NL: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in Homo sapiens, Neanderthals and Denisovans to varying degrees.
+- PPARGC1A and MHY7: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
+- GDF8 (myostatin): negatively regulates skeletal muscle growth.
+
 ---
 
 ## MOLECULAR BIOLOGY
@@ -258,6 +280,41 @@ Human evolution is an especially well-studied topic. We are primates and great a
 {{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
 
 {{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+
+### Bipedalism in Hominins
+
+Morphology and biomechanics are linked by causal morphogenesis (Wolff’s law). The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
+
+- Anterior foramen magnum*: allows the skull to rest on the top of the spine.
+- Sagittally-oriented iliac blades*: allows the pelvis to rest upright
+- Valgus knee (bicondylar angle)*: the femur is angled to keep the knees in line.
+- In-line hallux: the big toe is aligned with the other toes, aiding in walking.
+- Bowl-shaped pelvis: supports the visceral organs around the abdomen.
+- Lumbar lordosis (S-shaped vertebral column): supports an upright posture.
+- Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
+
+* strongest indicators, since these biomechanically prevent quadrupedalism.
+
+### Neanderthals are not our ancestors
+
+Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
+
+### Significant Hominin fossil finds, ichnofossils and artifacts
+
+- Ardi: partial skeleton of Ardipithecus ramidus, 4.4 MYA.
+- Little Foot (StW 573): near-complete specimen, Australopithecus africanus, 3.67 MYA.
+- Burtele foot: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to Ardipithecus ramidus, implying contemporaneity with Homo, Australopithecus, Paranthropus and Kenyanthropus.
+- Taung Child: skull of a 3-year-old Australopithecus africanus, 3.3 MYA.
+- Dikika Child (Selam): skull of a 3-year-old Australopithecus afarensis, 3.3 MYA.
+- Lucy (AL 288-1): partial skeleton of Australopithecus afarensis, 3.2 MYA.
+- Ledi Geraru mandible (LD 350-1): jaw assigned to basal genus Homo, 2.78 MYA.
+- Mrs Ples: complete skull of Australopthecus africanus, 2.35 MYA.
+- Dmanisi skulls: a set of skulls of Homo erectus, 1.81 MYA.
+- Turkana Boy: near-complete young Homo erectus, 1.55 MYA.
+- Peking Man: a Chinese specimen of Homo erectus, 500 kYA.
+- East Asian archaics: a collection of late Homo erectus or archaic Homo sapiens specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
+- Denny: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
+- Laetoli footprints: two trackways, attributed to Australopithecus, 3.6 MYA. The indentations suggest a fully in-line hallux.
 
 ---
 

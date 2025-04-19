@@ -131,7 +131,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 >When 1% *ee* L-proline is enantioenriched through the crystallisation process in \[B3\], it is able to catalyse the reaction between racemic glyceraldehyde and 2-amino-oxazole to form enantioenriched amino-oxazolines (AOs) at 20-80% *ee*. Another crystallisation gives enantiopure AOs. These AOs can be converted to enantiopure RNA nucleotides by the prebiotically plausible reactions (Sutherland-Powner type syntheses).
 
-\[B12\] S Furkan Ozturk and Sasselov, D.D. (2022). '[**On the origins of life's homochirality: Inducing enantiomeric excess with spin-polarized electrons**](https://www.pnas.org/doi/epdf/10.1073/pnas.2204765119)'. *Proceedings of the National Academy of Sciences of the United States of America*, 119(28). doi:10.1073/pnas.2204765119.
+\[B12\] S. F. Ozturk and Sasselov, D. D. (2022). '[**On the origins of life's homochirality: Inducing enantiomeric excess with spin-polarized electrons**](https://www.pnas.org/doi/epdf/10.1073/pnas.2204765119)'. *Proceedings of the National Academy of Sciences of the United States of America*, 119(28). doi:10.1073/pnas.2204765119.
 
 >Solar UV light can irradiate magnetite deposits to produced spin-polarised photoelectrons due to the spin-aligned magnetic domains. These helical electrons can carry out enantioselective redox reactions due to the chiral-induced spin selectivity (CISS) effect. This process is well-suited to carrying out cyanosulfide chemistry, forming simple sugars and hydroxy-aldehydes.
 
@@ -145,7 +145,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 \[B15\] Ozturk, S. F. *et al.* (2023). '[**Chirality-induced avalanche magnetization of magnetite by an RNA precursor](https://www.nature.com/articles/s41467-023-42130-8)'. *Nature Communications*, 14, 6351(2023). doi:10.1038/s41467-023-42130-8.
 
->[To be added...]
+>[To be added...], related to B12.
 
 ---
 
