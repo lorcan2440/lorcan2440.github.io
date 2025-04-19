@@ -143,6 +143,10 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 >Due to the CISS effect, α-helical oligopeptides and dsDNA oligonucleotides, as well as chiral amino acids, have enantiospecific differences in initial adsorption rates on ferromagnetic surfaces, depending on the direction of magnetisation. In combination with \[B12\], it complements the mechanism for CISS-mediated deracemisation.
 
+\[B15\] Ozturk, S. F. *et al.* (2023). '[**Chirality-induced avalanche magnetization of magnetite by an RNA precursor](https://www.nature.com/articles/s41467-023-42130-8)'. *Nature Communications*, 14, 6351(2023). doi:10.1038/s41467-023-42130-8.
+
+>[To be added...]
+
 ---
 
 ## AUTOCATALYSIS AND SYSTEMS CHEMISTRY
@@ -344,7 +348,13 @@ a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/202
 
 \[G13\] Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalytic amyloids**](https://www.nature.com/articles/nchem.1894)'. *Nature Chemistry*, 6, pp.303-309. doi:10.1038/nchem.1894.
 
-> Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ at pH 10.3.
+>Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ at pH 10.3.
+
+\[G14\] Nanda, J. *et al.* (2017). '[**Emergence of native peptide sequences in prebiotic replication networks**](https://www.nature.com/articles/s41467-017-00463-1)'. *Nature Communications*, 8, 434(2017). doi:10.1038/s41467-017-00463-1.
+
+>[To be added...]
+
+
 
 ---
 
