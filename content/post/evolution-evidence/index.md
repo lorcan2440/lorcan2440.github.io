@@ -34,6 +34,7 @@ A collection of interesting pictures, papers and examples to show how biological
 - J. [**Population Genetics**](#population-genetics)
 - K. [**Metagenomics**](#metagenomics)
 - L. [**Bioanthropology and Primatology**](#bioanthropology-and-primatology)
+- M. [**Applications of Evolution**](#applications-of-evolution)
 
 ---
 
@@ -232,7 +233,6 @@ How is it that every cell in your body has the same DNA, yet different body part
 ## POPULATION GENETICS
 
 
-
 ---
 
 ## METAGENOMICS
@@ -258,3 +258,36 @@ Human evolution is an especially well-studied topic. We are primates and great a
 {{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
 
 {{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+
+---
+
+## APPLICATIONS OF EVOLUTION
+
+### Protein Engineering
+
+- Directed evolution of enzymes
+- Artificial metalloenzymes
+- Use in biosensors (e.g. glucose and lactate sensors)
+
+### Animal Model Selection
+
+- Transgenic mice
+- Knockout mice
+- Use of primates for neurological studies
+
+### Protein Folding Prediction
+
+- AlphaFold2 EvoFormer
+- AlphaFold3
+
+### Evolutionary Algorithms (Genetic Algorithms)
+
+- Topology optimisation - Evolutionary Structural Optimisation (ESO)
+- Hyperparameter optimisation in neural networks
+- [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5
+- [FPGA circuit design](https://www.osti.gov/servlets/purl/1118155)
+
+### Artificial Selection and Genetic Engineering
+
+- Selective breeding of crops and livestock (e.g. maize, dogs, horses, etc.)
+- Gene drive for mosquitoes to eliminate malaria
