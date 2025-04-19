@@ -274,11 +274,12 @@ Human evolution is an especially well-studied topic. We are primates and great a
 - Transgenic mice
 - Knockout mice
 - Use of primates for neurological studies
+- *C. elegans* and *D. melanogaster* for developmental studies
 
 ### Protein Folding Prediction
 
 - AlphaFold2 EvoFormer
-- AlphaFold3
+- AlphaFold3 protein-DNA interactions
 
 ### Evolutionary Algorithms (Genetic Algorithms)
 

@@ -77,6 +77,10 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 >Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and alllowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem.
 
+\[A8\] Priye, A. *et al.* (2017). '[**Synchronized chaotic targeting and acceleration of surface chemistry in prebiotic hydrothermal microenvironments**](https://www.pnas.org/doi/abs/10.1073/pnas.1612924114)', *Proceedings of the National Academy of Sciences*, 114(6), pp. 1275–1280. doi:10.1073/pnas.1612924114.
+
+>Synthesis of polymers typically requires monomers to be concentrated in the same place, but the vast volume of the prebiotic ocean would presumably dilute the chemicals within. However, the turbulent flows driven by thermal convection from subsea hydrothermal vents allow for mixing of chemical species in the bulk water while concetrating them at microporous mineral surfaces, enhancing surface reaction kinetics by a factor of ~1000. This effect was studied both by simulation and with microfluidics-based experiments.
+
 ---
 
 ## HOMOCHIRALITY
