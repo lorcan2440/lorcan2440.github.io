@@ -293,7 +293,7 @@ Morphology and biomechanics are linked by causal morphogenesis (Wolff’s law). 
 - Lumbar lordosis (S-shaped vertebral column): supports an upright posture.
 - Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
 
-* strongest indicators, since these biomechanically prevent quadrupedalism.
+\* strongest indicators, since these biomechanically prevent quadrupedalism.
 
 ### Neanderthals are not our ancestors
 
@@ -337,6 +337,11 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 - AlphaFold2 EvoFormer
 - AlphaFold3 protein-DNA interactions
+
+### Cancer Research
+
+- Multi-level selection and virulence
+- Viral mRNA vaccines for mitotic checkpoint gene transfection
 
 ### Evolutionary Algorithms (Genetic Algorithms)
 

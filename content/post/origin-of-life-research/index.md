@@ -117,7 +117,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 \[B8\] Michaelian K. (2018). '[**Homochirality through Photon-Induced Denaturing of RNA/DNA at the Origin of Life**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027432/)'. *Life (Basel, Switzerland)*, *8*(2), 21. doi:10.3390/life8020021.
 
->UV radiation from sunlight can be scattered and totally internally reflected at a water-air interface to form \~5% circular polarisated radiation during late afternoon near the sea surface. At the higher sea surface temperatures in the afternoon, this radiation could melt RNA/DNA duplexes, with faster kinetics for strands containing more D-nucleotides due to the polarisation. Strands with D-nucleotides would become more available for template replication, selecting for more homochiral RNA/DNA.
+>UV radiation from sunlight can be scattered and totally internally reflected at a water-air interface to form \~5% circular polarisated radiation during late afternoon near the sea surface. At the higher sea surface temperatures in the afternoon, this radiation could melt RNA/DNA duplexes, with faster kinetics for strands containing more D-nucleotides due to the polarisation. Strands with D-nucleotides would become more available for template replication, selecting for more homochiral RNA/DNA. L-tryptophan also complexes enantioselectively with D-RNA, also increasing the *ee* of the tryptophan.
 
 \[B9\] Globus, N., Fedynitch, A. and Blandford, R. (2021). '[**Polarized Radiation and the Emergence of Biological Homochirality on Earth and Beyond**](https://iopscience.iop.org/article/10.3847/1538-4357/abe461)', *The Astrophysical Journal, 910(85)*. doi:10.3847/1538-4357/abe461
 
@@ -143,9 +143,9 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 >Due to the CISS effect, α-helical oligopeptides and dsDNA oligonucleotides, as well as chiral amino acids, have enantiospecific differences in initial adsorption rates on ferromagnetic surfaces, depending on the direction of magnetisation. In combination with \[B12\], it complements the mechanism for CISS-mediated deracemisation.
 
-\[B15\] Ozturk, S. F. *et al.* (2023). '[**Chirality-induced avalanche magnetization of magnetite by an RNA precursor](https://www.nature.com/articles/s41467-023-42130-8)'. *Nature Communications*, 14, 6351(2023). doi:10.1038/s41467-023-42130-8.
+\[B15\] Ozturk, S. F. *et al.* (2023). '[**Chirality-induced avalanche magnetization of magnetite by an RNA precursor**](https://www.nature.com/articles/s41467-023-42130-8)'. *Nature Communications*, 14, 6351(2023). doi:10.1038/s41467-023-42130-8.
 
->[To be added...], related to B12.
+>Starting with racemic ribose-aminooxazoline (RAO, a relevant pyrimidine ribonucleoside precursor) and natural near-unmagnetised magnetite, a simple crystallisation and dissolution led to enantiopure RAO and the strong magnetisation of the magnetite substrate. This occurs due to the CISS effect, where spin-aligned domains preferentially absorb one enantiomer and promote domain growth in the magnetite, setting up a feedback loop. The resulting magnetic coercivity of the magnetite was 30 times the modern geomagnetic field (stronger than in the Hadean).
 
 ---
 
@@ -249,6 +249,10 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 >The Strecker synthesis is the common prebiotic way to make amino acids, but extant life uses transamination of α-ketoacids. Here, amino acids (Ala, Glu, Asp, Gly) are synthesised prebiotically from α-keto acids (pyruvate, α-ketoglutarate, oxaloacetate, glyoxalate) using diamidophosphate (DAP) and cyanide ions at pH 8.5. Wet-dry cycling can also form orotate (a pyrimidine precursor) in low yield from the intermediates. Reaction of the α-ketoacid condensation products with ammonia sources produces compounds found in the Krebs cycle and its secondary metabolites, forming various pathways with relevance to systems chemistry.
 
+\[E11\] Ruiz-Bermejo, M., Zorzano, M. P. and Osuna-Esteban, S. (2013). '[**Simple Organics and Biomonomers Identified in HCN Polymers: An Overview**](https://www.mdpi.com/2075-1729/3/3/421)'. *Life*, 3(3), pp.421-448. doi:10.3390/life3030421.
+
+>Hydrogen cyanide (HCN) is found throughout the universe and can form a wide range of molecules in prebiotically relevant conditions. The nucleobase adenine is a pentamer of HCN, formed by UV light in water. Among the purines, adenine has the highest resonance energy per pi electron, making it preferable for incorporation into RNA due to \[D3\]. Other purines, pyrimidines and urea also form with NCO$ ^-$ and C$ _2$N$ _2$. Acid hydrolysis of the mixture yields hydantoins (cylic carbamyl amino acids) and pteridines (similar to cofactors like riboflavins and pterins). Radiolysis of the mixture yields important carboxylic acids (oxalic acid, malonic acid, fumaric acid, succinic acid, citric acid, adipic acid, etc.) and carbonyls (formaldehyde, acetaldehyde, methylglioxal, acetone).
+
 ---
 
 ## SYNTHESIS OF MACROMOLECULES
@@ -349,12 +353,6 @@ a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/202
 \[G13\] Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalytic amyloids**](https://www.nature.com/articles/nchem.1894)'. *Nature Chemistry*, 6, pp.303-309. doi:10.1038/nchem.1894.
 
 >Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ at pH 10.3.
-
-\[G14\] Nanda, J. *et al.* (2017). '[**Emergence of native peptide sequences in prebiotic replication networks**](https://www.nature.com/articles/s41467-017-00463-1)'. *Nature Communications*, 8, 434(2017). doi:10.1038/s41467-017-00463-1.
-
->[To be added...]
-
-
 
 ---
 
