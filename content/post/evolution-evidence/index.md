@@ -216,7 +216,7 @@ Living in cold environments poses a serious challenge to poikilothermic (not the
 
 The [β-helix](https://en.wikipedia.org/wiki/Beta_helix) motif is common enough in natural protein secondary structures that it has convergently evolved many times: ice restructing proteins making use of it are known in the winter flounder (*Pseudopleuronectes americanus*), the spruce budworm (*Choristoneura fumiferana*), the mealworm beetle (*Tenebrio molitor*), the snow flea (*Hypogastrura harveyi*), some sea ice-living diatoms (*Fragilariopsis cylindrus*) and even some plants like winter rye (*Secale cereale*). The spruce budworm antifreeze can inhibit freezing as low as −30 °C, below even the supercooling limit of liquid water, but some others only work down to about -5 °C, allowing only marginal additional exploratory capacity in cold environments. These antifreeze proteins have different amino acid composition but all perform the same function. Some protein sequences resemble C-type lectins or sialic acid synthase.
 
-Source: [here](https://pdb101.rcsb.org/motm/120).
+Source: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
 
 ---
 
