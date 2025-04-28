@@ -239,11 +239,15 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 
 The idea that rocks are deposited in layers (strata: older below, younger above) has been known since Steno in the 17th century (the 'law of superposition'). It is therefore usually the case that fossils found in deeper layers are older than those found above, serving as a rough guide to their age (a qualitative, relative dating method). However, other geologic processes like erosion, folding and faulting can disrupt this order occasionally, so more reliable references are needed.
 
-In 1997, a study surveyed the existing fossil record for 384 different clades all across the animal kingdom, and cross-referenced them with their claimed phylogenetic relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
+Fossil species that are used to distinguish one layer from another are called *index fossils*, which occur for a limited interval of time. Usually index fossils are fossil organisms that are common, easily identified, and found across a large area.
+
+In 1997, a study surveyed the existing fossil record for 384 different clades all across the animal kingdom, and cross-referenced them with their claimed evolutionary relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)
 
 ### Oklo natural nuclear reactor
+
+### Uranium series dating
 
 ### Argon dating of Mount Vesuvius
 
@@ -255,7 +259,23 @@ Source: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_
 
 ### Mount St Helens dating
 
+### Radiocarbon dating of recent fossils and artifacts
 
+[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man) is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10000 years ago.
+
+[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi) is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
+
+The [Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin) is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
+
+### Paleomagnetic dating
+
+As per the [Vine-Matthews-Morley](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis) hypothesis, the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation.
+
+### Thermoluminescence dating
+
+### Oxygen isotope ratio cycle (δ18O/δ16O)
+
+### Ice core paleoclimate data
 
 ---
 
