@@ -209,12 +209,13 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ### DNT metabolism
 https://www.talkorigins.org/faqs/dover/pf.html#p84
+https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F
 
 ### Antifreeze proteins
 
-Living in cold environments poses a serious challenge to poikilothermic (not thermally regulated) life, as the water in cells may freeze, halting all metabolic processes and killing the organism. Antifreeze proteins have evolved as a solution: when an ice crystal nucleates, the protein's ice-binding domain attaches to the surface of the crystal, arresting its growth. The ice-binding domain is a regular arrangement of hydrophobic amino acids with a separation very close to the lattice constant of ice, creating an ideal fit for electrostatic forces.
+Living in cold environments poses a serious challenge to poikilothermic (not thermally regulated) life, as the water in cells may freeze, halting all metabolic processes and killing the organism. Antifreeze proteins have evolved as a solution: when an ice crystal nucleates, the protein's ice-binding domain attaches to the surface of the crystal, arresting its growth. The ice-binding domain is a regular arrangement of polar hydrophobic amino acids with a separation very close to the lattice constant of ice, creating an ideal fit for hydrogen bonding and Van der Waals' forces at the interface.
 
-The [β-helix](https://en.wikipedia.org/wiki/Beta_helix) motif is common enough in natural protein secondary structures that it has convergently evolved many times: ice restructing proteins making use of it are known in the winter flounder (*Pseudopleuronectes americanus*), the spruce budworm (*Choristoneura fumiferana*), the mealworm beetle (*Tenebrio molitor*), the snow flea (*Hypogastrura harveyi*), some sea ice-living diatoms (*Fragilariopsis cylindrus*) and even some plants like winter rye (*Secale cereale*). The spruce budworm antifreeze can inhibit freezing as low as −30 °C, below even the supercooling limit of liquid water, but some others only work down to about -5 °C, allowing only marginal additional exploratory capacity in cold environments. These antifreeze proteins have different amino acid composition but all perform the same function. Some protein sequences resemble C-type lectins or sialic acid synthase.
+The [β-helix](https://en.wikipedia.org/wiki/Beta_helix) motif found in these proteins is common enough in natural secondary structures that it has convergently evolved many times: ice restructing proteins making use of it are known in the winter flounder (*Pseudopleuronectes americanus*), the spruce budworm (*Choristoneura fumiferana*), the mealworm beetle (*Tenebrio molitor*), the snow flea (*Hypogastrura harveyi*), some sea ice-living diatoms (*Fragilariopsis cylindrus*) and even some plants like winter rye (*Secale cereale*). The spruce budworm antifreeze can inhibit freezing as low as -30 °C, below even the supercooling limit of liquid water, but some others only work down to about -5 °C, allowing only marginal additional exploratory capacity in cold environments. These antifreeze proteins have different amino acid composition but all perform the same function. Some protein sequences resemble C-type lectins or sialic acid synthase.
 
 Source: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
 
@@ -233,6 +234,14 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 ---
 
 ## GEOLOGY
+
+### Stratigraphy
+
+The idea that rocks are deposited in layers (strata: older below, younger above) has been known since Steno in the 17th century (the 'law of superposition'). It is therefore usually the case that fossils found in deeper layers are older than those found above, serving as a rough guide to their age (a qualitative, relative dating method). However, other geologic processes like erosion, folding and faulting can disrupt this order occasionally, so more reliable references are needed.
+
+In 1997, a study surveyed the existing fossil record for 384 different clades all across the animal kingdom, and cross-referenced them with their claimed phylogenetic relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
+
+Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)
 
 ### Oklo natural nuclear reactor
 
@@ -284,6 +293,14 @@ How is it that every cell in your body has the same DNA, yet different body part
 ---
 
 ## POPULATION GENETICS
+
+### Phylogenetic reconstruction
+
+Comparative genomics studies the similarities and differences between the genomes of different species. This can be used to reconstruct phylogenetic trees, which show how closely related different species are. The more similar two genomes are, the more closely related the two species are likely to be.
+
+A test of the validity of this reconstruction can be done using a known phylogeny. In 1992, a study was done on an artificially mutated strain of the virus bacteriophage T7, whose genome was sequenced repeatedly as it reproduced in bacteria. The experiment was stopped after 9 different viral strains had emerged, and only their genomes were used in 5 different phylogenetic reconstruction algorithms. All 5 algorithms produced the same, correct known tree, out of the 135,135 possible tree structures, with slight variation in the time to branching, showing that the algorithms are valid and can be used to reconstruct phylogenies from extant genome data more generally.
+
+Source: [here](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)
 
 
 ---
