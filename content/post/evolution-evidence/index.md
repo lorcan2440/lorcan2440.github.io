@@ -144,17 +144,29 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 ### Pseudogenes
 
-GULO (L-gulonolactone oxidase): in mammals, encodes an enzyme for producing vitamin C, but is non-functional in haplorhines, occurring as the GULOP pseudogene.
+**GULO** (L-gulonolactone oxidase): in mammals, encodes an enzyme for producing vitamin C, but is non-functional in haplorhines, occurring as the GULOP pseudogene.
+
+**NANOG** (homeobox protein).
+
+Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/)
 
 ### Endogenous retroviruses (ERVs)
 
+
+
+
 ### Chromosome 2 fusion in the human lineage
+
+
+
 
 ### Mutations in human evolution
 
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
 Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
+
+*Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
 
 - ARHGAP11: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
 - TKTL1 (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422)
@@ -198,9 +210,6 @@ This is an incredibly reliable two-step process, after 24-48 hours we get a muta
 
 Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
-
-
-
 ---
 
 ## MOLECULAR BIOLOGY
@@ -218,6 +227,12 @@ Living in cold environments poses a serious challenge to poikilothermic (not the
 The [β-helix](https://en.wikipedia.org/wiki/Beta_helix) motif found in these proteins is common enough in natural secondary structures that it has convergently evolved many times: ice restructing proteins making use of it are known in the winter flounder (*Pseudopleuronectes americanus*), the spruce budworm (*Choristoneura fumiferana*), the mealworm beetle (*Tenebrio molitor*), the snow flea (*Hypogastrura harveyi*), some sea ice-living diatoms (*Fragilariopsis cylindrus*) and even some plants like winter rye (*Secale cereale*). The spruce budworm antifreeze can inhibit freezing as low as -30 °C, below even the supercooling limit of liquid water, but some others only work down to about -5 °C, allowing only marginal additional exploratory capacity in cold environments. These antifreeze proteins have different amino acid composition but all perform the same function. Some protein sequences resemble C-type lectins or sialic acid synthase.
 
 Source: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
+
+### Cytochrome c oxidase
+
+The cytochrome c oxidase (COX) enzyme is a ubiquitous component of the electron transport chain for respiration, found in bacteria, archaea and the mitochrondria of eukaryotes. Since COX is universally conserved, there is a strong correlation between the number of amino acid substitutions in the COX enzyme and the time since the divergence of the species, an example of the 'molecular clock'.
+
+Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 ---
 
@@ -239,11 +254,25 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 
 The idea that rocks are deposited in layers (strata: older below, younger above) has been known since Steno in the 17th century (the 'law of superposition'). It is therefore usually the case that fossils found in deeper layers are older than those found above, serving as a rough guide to their age (a qualitative, relative dating method). However, other geologic processes like erosion, folding and faulting can disrupt this order occasionally, so more reliable references are needed.
 
-Fossil species that are used to distinguish one layer from another are called *index fossils*, which occur for a limited interval of time. Usually index fossils are fossil organisms that are common, easily identified, and found across a large area.
+Fossil species that are used to distinguish one layer from another are called *index fossils*, which occur for a limited interval of time. Usually index fossils are fossil organisms that are common, easily identified, and found across a large area. When a fossil is found, the nearest volcanic ash layers above and below it can be radiometrically dated, allowing us to bound the age of the fossil (tephrochronology).
 
 In 1997, a study surveyed the existing fossil record for 384 different clades all across the animal kingdom, and cross-referenced them with their claimed evolutionary relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)
+
+### Dendrochronology
+
+Trees grow at a rate of approximately 1 ring in their trunk per year. By sampling the rings of multiple trees in a given region, and matching the thicknesses of each ring to the others, we can estimate the age of trees. This also allows for identification of missing or additional rings in a given tree, which are indicative of ecological disturbances (e.g. wildfires, insect outbreaks...).
+
+Dendrochronology can be used to date wooden artifacts in archaeology from about 10000 years ago to present, since the last ring can be matched to the year it was cut down and used. The carbonised wood in charcoal can be both carbon dated and dendrochronologically dated, allowing us to cross-reference the two methods. We can also infer the climate conditions over its lifetime (paleoclimatology), inferring the past temperature, precipitation and cloud cover from the ring data. Climate data can also be cross-referenced against other sources (e.g. ice cores, sediment cores, historical records, meteorological data...). Examining the trace mineral content of the rings (e.g. carbon-12/13 ratio) provides further data on atmospheric conditions (stable isotope dendrochronology).
+
+### Varve chronology
+
+Sedimentary layers in lakes and oceans.
+
+### Paleomagnetic dating
+
+As per the [Vine-Matthews-Morley](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis) hypothesis, the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation.
 
 ### Oklo natural nuclear reactor
 
@@ -261,17 +290,21 @@ Source: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_
 
 ### Radiocarbon dating of recent fossils and artifacts
 
+The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ and incorporated into the plant's tissues (e.g. glucose, cellulose) at its natural abundance. When the plant dies, carbon exchange halts, and the remaining carbon-14 decays with a half-life of 5730 years. The ratio of $ ^14$C to $ ^12$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
+
 [Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man) is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10000 years ago.
 
 [Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi) is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
 
+The [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Based on analysis of the writing style (paleography), Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+
 The [Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin) is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
 
-### Paleomagnetic dating
-
-As per the [Vine-Matthews-Morley](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis) hypothesis, the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation.
-
 ### Thermoluminescence dating
+
+### Electron spin resonance dating
+
+### Amino acid racemisation dating
 
 ### Oxygen isotope ratio cycle (δ18O/δ16O)
 
@@ -287,6 +320,8 @@ This is fun one to bring up in the context of 'creationism vs evolution', as it 
 
 Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-succession) (article), [here](https://www.nature.com/articles/nature06154) and [here](https://www.jstor.org/stable/3545904).
 
+### Prediction of *Tiktaalik*
+
 ---
 
 ## COMPARATIVE ANATOMY
@@ -299,8 +334,13 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 ## COMPARATIVE PHYSIOLOGY
 
+### Endosymbiosis in insects
 
+Aphids have an endosymbiotic relationship with *Buchnera Aphidicola* bacteria. The bacteria break down nutrients that aphids need to survive but can only live within specialised 'bacteriocyte' structures in Aphids. But some aphids later in their evolution dropped *B. Aphidicola* and now have a yeast-like symbiont (YLS) that performs similar functions. These aphids still have the bacteriocytes but the YLS is located both inside and outside of them. So, these aphids have the same specialised structures as their cousins to host the bacteria but their symbiote is a fungus that doesn't need those structures.
 
+An example of higher-degree endosymbiosis is the Darwin termite (*Mastotermes darwiniensis*). The termite relies on a protist *Mixotricha paradoxa* to process the wood. The protists further rely on other bacteria living on its surface (each look like a thin hair that wiggles; symbiotic signalling in exchange for food). Within the protist, there is another endosymbiont spherical bacterium that digests cellulose in wood, releasing acetate for the protist. These bacteria have removed the need for *M. paradoxa* to have mitochondria, which have degraded into simpler organelles (hydrogenosomes and mitosomes).
+
+Sources: [here](https://schaechter.asmblog.org/schaechter/2015/11/symbiont-exchange-in-the-aphidbuchnera-symbiosis-part-1.html) and Chapter 38 of *The Ancestor's Tale* by Richard Dawkins.
 
 ---
 
@@ -322,12 +362,19 @@ A test of the validity of this reconstruction can be done using a known phylogen
 
 Source: [here](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)
 
+### Great ape Y chromosome mutation rates
+
+Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA) and [here]
 
 ---
 
 ## METAGENOMICS
 
+### Great ape gut microbiome
 
+Analyses of strain-level bacterial diversity within hominid gut microbiomes revealed that clades of *Bacteroidaceae* and *Bifidobacteriaceae* have been maintained exclusively within host lineages across hundreds of thousands of host generations. Divergence times of these cospeciating gut bacteria are congruent with those of hominids, indicating that nuclear, mitochondrial, and gut bacterial genomes diversified in concert during hominid evolution. This study identifies human gut bacteria descended from ancient symbionts that speciated simultaneously with humans and the African apes.
+
+Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995445/)
 
 ---
 
@@ -408,13 +455,24 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 ### Cancer Research
 
-- Multi-level selection and virulence
-- Viral mRNA vaccines for mitotic checkpoint gene transfection
+- Multicellularity (altruism), multi-level selection and virulence
+- Modern cancer therapies: viral mRNA vaccines for mitotic checkpoint gene transfection, oncolytic virus therapy, dendritic cell vaccines, chemodrug-loaded hyaluronan hydrogels...
 
-### Evolutionary Algorithms (Genetic Algorithms)
+Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without interhost competition.
 
-- Topology optimisation - Evolutionary Structural Optimisation (ESO)
-- Hyperparameter optimisation in neural networks
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're now finally catching up.
+
+Sources: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (videos) and [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
+
+### Evolutionary Algorithms
+
+Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are highly generalised: this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases.
+
+- Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples [here](https://link.springer.com/article/10.1007/s42791-021-00040-0) and 
+- [Hyperparameter optimisation in neural networks](https://link.springer.com/article/10.1023/A:1008272615525) and [this](https://arxiv.org/pdf/1711.09846) from DeepMind.
+- [Training deep neural networks in reinforcement learning](https://github.com/uber-research/deep-neuroevolution), from Uber's research team, also [this](https://arxiv.org/abs/1611.01578) from Google Brain, and [this](https://openai.com/index/evolution-strategies/) post from OpenAI.
+- [Operations research](https://www.sciencedirect.com/science/article/abs/pii/S095219761830174X) (e.g. facility layout design, supply network design, vehicle routing, capacity planning, inventory management, scheduling, risk management)
+- Inverse problems (e.g. inverse kinematics).
 - [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5
 - [FPGA circuit design](https://www.osti.gov/servlets/purl/1118155)
 
