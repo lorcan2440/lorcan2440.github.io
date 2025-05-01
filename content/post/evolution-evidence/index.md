@@ -157,7 +157,7 @@ Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/)
 
 ### Chromosome 2 fusion in the human lineage
 
-
+Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54)
 
 
 ### Mutations in human evolution
@@ -169,7 +169,7 @@ Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025
 *Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
 
 - ARHGAP11: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
-- TKTL1 (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422)
+- TKTL1 (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
 - NOTCH2NL: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
 - PPARGC1A and MHY7: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
 - GDF8 (myostatin): negatively regulates skeletal muscle growth.
@@ -286,13 +286,13 @@ Pliny the Younger was a Roman eyewitness to the Mount Vesuvius eruption, which h
 
 Source: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy)
 
-### Mount St Helens dating
+### Mount St Helens dating, using isochron dating
 
 ### Radiocarbon dating of recent fossils and artifacts
 
 The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ and incorporated into the plant's tissues (e.g. glucose, cellulose) at its natural abundance. When the plant dies, carbon exchange halts, and the remaining carbon-14 decays with a half-life of 5730 years. The ratio of $ ^14$C to $ ^12$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
 
-[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man) is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10000 years ago.
+[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man) is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
 [Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi) is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
 
@@ -400,36 +400,46 @@ Human evolution is an especially well-studied topic. We are primates and great a
 
 Morphology and biomechanics are linked by causal morphogenesis (Wolff’s law). The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
 
-- Anterior foramen magnum*: allows the skull to rest on the top of the spine.
-- Sagittally-oriented iliac blades*: allows the pelvis to rest upright
-- Valgus knee (bicondylar angle)*: the femur is angled to keep the knees in line.
-- In-line hallux: the big toe is aligned with the other toes, aiding in walking.
-- Bowl-shaped pelvis: supports the visceral organs around the abdomen.
-- Lumbar lordosis (S-shaped vertebral column): supports an upright posture.
-- Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
+1. Anterior foramen magnum*: skull rests on the top of the spine.
+2. Sagittally-oriented iliac blades*: pelvis rests upright
+3. Valgus knee (bicondylar angle)*: femur angled to keep knees in line.
+4. In-line hallux: the big toe is aligned with the other toes, aiding in walking.
+5. Bowl-shaped pelvis: supports the visceral organs around the abdomen.
+6. Lumbar lordosis (S-shaped vertebral column): supports upright posture.
+7. Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
 
 \* strongest indicators, since these biomechanically prevent quadrupedalism.
+
+### Taxonomy of *Australopithecus* and *Homo habilis*
+
+Our genus, *Homo*, is thought to have emerged from one of the coexisting species of the genus *Australopithecus*. Based on the available fossil record, this transition appears to be quite subtle: the brain case sizes overlap, both can use stone tools, both have similar dentition (teeth), and biomechanics studies indicate both were mostly bipedal (though *A. afarensis* only had two arches plus a less-curved third arch in the foot, suggesting habitual bipedality, while *H. habilis* had three fully formed arches, suggesting full obligate bipedality). This high degree of similarity has even led to some paleoanthropologists to suggest that *H. habilis* should in fact be *Australopithecus habilis*. Although this has not been formally adopted, the challenge of a clear-cut taxonomic classification demonstrates the highly transitional nature of these species.
+
+Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a clear divide.
+
+Source: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
+
 
 ### Neanderthals are not our ancestors
 
 Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
 
-### Significant Hominin fossil finds, ichnofossils and artifacts
+### Significant hominin fossils, ichnofossils and artifacts
 
-- Ardi: partial skeleton of Ardipithecus ramidus, 4.4 MYA.
-- Little Foot (StW 573): near-complete specimen, Australopithecus africanus, 3.67 MYA.
-- Burtele foot: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to Ardipithecus ramidus, implying contemporaneity with Homo, Australopithecus, Paranthropus and Kenyanthropus.
-- Taung Child: skull of a 3-year-old Australopithecus africanus, 3.3 MYA.
-- Dikika Child (Selam): skull of a 3-year-old Australopithecus afarensis, 3.3 MYA.
-- Lucy (AL 288-1): partial skeleton of Australopithecus afarensis, 3.2 MYA.
-- Ledi Geraru mandible (LD 350-1): jaw assigned to basal genus Homo, 2.78 MYA.
-- Mrs Ples: complete skull of Australopthecus africanus, 2.35 MYA.
-- Dmanisi skulls: a set of skulls of Homo erectus, 1.81 MYA.
-- Turkana Boy: near-complete young Homo erectus, 1.55 MYA.
-- Peking Man: a Chinese specimen of Homo erectus, 500 kYA.
-- East Asian archaics: a collection of late Homo erectus or archaic Homo sapiens specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
-- Denny: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
-- Laetoli footprints: two trackways, attributed to Australopithecus, 3.6 MYA. The indentations suggest a fully in-line hallux.
+- **Ardi**: partial skeleton of *Ardipithecus ramidus*, 4.4 MYA, discovered in the Afar rift valley (Ethiopia).
+- **Little Foot (StW 573)**: near-complete specimen, *Australopithecus africanus*, 3.67 MYA. Found in the 'Cradle of Humankind' in South Africa, an area home to many other early hominins.
+- **Burtele foot**: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to *Ardipithecus ramidus*, implying contemporaneity with *Homo*, *Australopithecus*, *Paranthropus* and *Kenyanthropus*.
+- **Taung Child**: skull of a 3-year-old *Australopithecus africanus*, 3.3 MYA.
+- **Dikika Child (Selam)**: skull of a 3-year-old *Australopithecus afarensis*, 3.3 MYA.
+- **Lucy (AL 288-1)**: partial skeleton of *Australopithecus afarensis*, 3.2 MYA.
+- **Ledi Geraru mandible (LD 350-1)**: jaw assigned to basal genus *Homo*, 2.78 MYA.
+- **Mrs Ples**: complete skull of *Australopthecus africanus*, 2.35 MYA.
+- **Dmanisi skulls**: a set of skulls of *Homo erectus*, 1.81 MYA.
+- **Turkana Boy**: near-complete young *Homo erectus*, 1.55 MYA.
+- **Peking Man**: a Chinese specimen of *Homo erectus*, 500 kYA.
+- **East Asian archaics**: a collection of late *Homo erectus* or archaic *Homo sapiens* specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
+- **Denny**: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
+- **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
+- **Lomekwi stone tools**: oldest stone tools, attributed to *Australopithecus* or *Kenyanthropus*.
 
 ---
 
@@ -437,9 +447,11 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 ### Protein Engineering
 
-- Directed evolution of enzymes
-- Artificial metalloenzymes
-- Use in biosensors (e.g. glucose and lactate sensors)
+- [Directed evolution of enzymes](https://pubmed.ncbi.nlm.nih.gov/20715024/)
+- [Novel biosynthesis in bacteria](https://www.nature.com/articles/nbt0700_750)
+- [Artificial metalloenzymes](https://www.nature.com/articles/nchem.2927)
+- Use in electrochemical biosensors (e.g. [glucose](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub) and [lactate](https://link.springer.com/article/10.1007/BF00127437) sensors)
+- Use in other commercial products: subtilisin in bio-detergents, and glucose isomerase for high-fructose corn syrup production 
 
 ### Animal Model Selection
 
@@ -460,20 +472,26 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without interhost competition.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're now finally catching up.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're now finally catching up.
 
 Sources: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (videos) and [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
+### Basin Modelling for Oil and Gas Exploration
+
+[Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks. In oil and gas, predictions mean profits, and errors mean tremendous financial losses! The success of this industry (at the expense of the climate, unfortunately...) would not be possible without the validity of the underlying theory.
+
+There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, regularly [incur annual operational losses on the order of tens of millions of USD](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and are [practically bankrupt as of 2025](https://finance.yahoo.com/quote/ZNOG/), staying afloat only by selling shares to gullible investors.
+
 ### Evolutionary Algorithms
 
-Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are highly generalised: this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases.
+Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are highly generalised: this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases, illustrating the power of the underlying Darwinian principles.
 
-- Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples [here](https://link.springer.com/article/10.1007/s42791-021-00040-0) and 
+- Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples [here](https://link.springer.com/article/10.1007/s42791-021-00040-0).
 - [Hyperparameter optimisation in neural networks](https://link.springer.com/article/10.1023/A:1008272615525) and [this](https://arxiv.org/pdf/1711.09846) from DeepMind.
 - [Training deep neural networks in reinforcement learning](https://github.com/uber-research/deep-neuroevolution), from Uber's research team, also [this](https://arxiv.org/abs/1611.01578) from Google Brain, and [this](https://openai.com/index/evolution-strategies/) post from OpenAI.
 - [Operations research](https://www.sciencedirect.com/science/article/abs/pii/S095219761830174X) (e.g. facility layout design, supply network design, vehicle routing, capacity planning, inventory management, scheduling, risk management)
 - Inverse problems (e.g. inverse kinematics).
-- [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5
+- [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5, and using COMSOL [here](https://www.comsol.com/blogs/optimizing-the-geometry-of-optical-antennas-with-genetic-algorithms)
 - [FPGA circuit design](https://www.osti.gov/servlets/purl/1118155)
 
 ### Artificial Selection and Genetic Engineering
