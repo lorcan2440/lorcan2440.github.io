@@ -51,7 +51,11 @@ Microevolution (adaptation and other changes within a species) is commonly obser
 - *Speciation* \~ formation of more than one species from a population of one species, where *species* is defined suitably using one of the species concepts (like the above).
 - *Macroevolution* \~ variations in heritable traits in populations with multiple species over time. Speciation marks the start of macroevolution.
 
-Although microevolution is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is somewhat trivial and is not contested by critics of evolutionary theory. Therefore, we will list here only examples of macroevolution that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too. Also included are some counterexamples to 'irreducible complexity', the idea from 'intelligent design' that some structures are too complex to have evolved from simpler predecessors. These are not usually macroevolution, but they do show how evolution is capable of producing complex structures, which is a common sticking point.
+Although microevolution is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is somewhat trivial and is not contested by critics of evolutionary theory. Therefore, we will list here only examples of macroevolution that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
+
+*If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
+
+Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
 ### Lizards evolving placentas
 
@@ -131,10 +135,6 @@ Another collection of observed cases of macroevolution is given [here](https://w
 https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf
 
 ### Cichlid fish
-
-*If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
-
-Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines (below) serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
 ---
 
@@ -444,6 +444,8 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 ---
 
 ## APPLICATIONS OF EVOLUTION
+
+This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. It does *not* include applications of explaining aspects of biology itself, which are numerous (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
 ### Protein Engineering
 
