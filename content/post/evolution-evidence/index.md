@@ -144,13 +144,21 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 ### Pseudogenes
 
-**GULO** (L-gulonolactone oxidase): in mammals, encodes an enzyme for producing vitamin C, but is non-functional in haplorhines, occurring as the GULOP pseudogene.
+29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
+
+**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes), the bat genus *Pteropus* and guinea pigs, GULO has been lost independently.
+
+
 
 **NANOG** (homeobox protein).
 
-Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/)
+**DDX11L** (): 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques
+
+Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/), [here](https://geneticeducation.co.in/why-humans-can-not-synthesize-vitamin-c-the-role-of-gulo-pseudogene/)
 
 ### Endogenous retroviruses (ERVs)
+
+
 
 
 
@@ -168,11 +176,28 @@ Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025
 
 *Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
 
-- ARHGAP11: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
-- TKTL1 (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
-- NOTCH2NL: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
-- PPARGC1A and MHY7: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
-- GDF8 (myostatin): negatively regulates skeletal muscle growth.
+- **ARHGAP11**: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
+- **TKTL1** (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
+- **NOTCH2NL**: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
+- **SRGAP2C** and **TBC1D3**: more human-specific genes contributing to the frontal cortex. Sources: [here](https://www.cell.com/cell/fulltext/S0092-8674(12)00461-8), [here](https://www.nature.com/articles/s41598-019-54887-4) and [here](https://genome.cshlp.org/content/34/11/1798.short).
+- **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
+- **GDF8** (myostatin): negatively regulates skeletal muscle growth.
+
+### Comparative Genomics
+
+The complete genomes of many extant species have been sequenced. Projects in bioinformatics aim to describe and compare the contents and functions of these genomes.
+
+- The **Human Genome Project (2003)** found that there are about 22,300 protein-coding genes in humans (similar to other mammals) and contains a large number of repetitive sequences (low copy repeats).
+- The **Chimpanzee Genome Project (2013)** revealed that humans and chimpanzees share 99\% sequence similarity in protein-coding regions, and 96\% sequence similarity across the full genomes, both higher than humans and any other animal.
+
+{{< figure src="mammal_genome_comparison.png" title="Whole-genome comparisons of different pairs of animals. Sex chromosomes were omitted, slightly increasing similarity in the primates. Telomere-to-telomere assemblies were used (non-scaffolded). Analysis performed by Gutsick Gibbon, randomly sampling short sequences (1000 x 300 bp/chromosome) with gapped aligment using BLAST, documented [here](https://docs.google.com/document/d/1HlzlvxaR224U0n0-EDCPVgws6rVazstAULtcLYYzYU4/edit?tab=t.0), [here](https://www.reddit.com/r/DebateEvolution/comments/18uonlm/human_and_chimpanzee_genetic_similarity_an/) and [here](https://www.youtube.com/watch?v=ryBKzJE24Hs)." >}}
+
+{{< figure src="ape_phylogeny.png" title="The genetic similarity correlates precisely with the expected phylogeny of the apes." >}}
+
+- The **ENCODE Project** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have biochemical functionality), or 2) forming transposons, which simply 'jump' around the genome with no useful function.
+- Among human **non-coding DNA**, 5\% is for gene-related regulatory sequences (promoters, enhancers...). 20\% is for introns in genes, most of which serve no function. The rest is completely non-functional (sometimes called 'junk DNA', although historically this term was incorrectly applied to all non-coding DNA).
+
+{{< figure src="genome_size_comparison.png" title="The proportion of **non-coding DNA** across life tends to increase with genome size, as more complex organisms require more control over their gene expression and accumulate more 'junk DNA'." >}}
 
 ### E. Coli Citrate Metabolism in the LTEE
 
@@ -238,7 +263,7 @@ Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 ## PALEONTOLOGY
 
-Fossils are remnants of long-dead life and provide a tangible record of the distant past. We can compare  fossilised structures and estimate fossil age using radiometric dating of nearby ash layers to help piece together evolutionary lineages, which can be cross-checked against more precise genetic studies. Taken together, they serve as signposts of how lineages changed over time.
+Fossils are remnants of long-dead life and provide a tangible record of the distant past. We can compare fossilised structures and estimate fossil age using radiometric dating of nearby ash layers to help piece together evolutionary lineages, which can be cross-checked against more precise genetic studies. Taken together, they serve as signposts of how lineages changed over time.
 
 {{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458." >}}
 
@@ -276,29 +301,29 @@ As per the [Vine-Matthews-Morley](https://en.wikipedia.org/wiki/Vine%E2%80%93Mat
 
 ### Oklo natural nuclear reactor
 
-### Uranium series dating
+### Radiometric Dating with Uranium series
 
-### Argon dating of Mount Vesuvius
+### Radiometric Dating with Argon
 
 Many volcanic (igneous) rocks naturally contain the isotope potassium-40 ($ ^{40}$K), which decays ~10\% of the time to the stable isotope argon-40 ($ ^{40}$Ar) via electron capture followed by gamma decay with a half-life of 1.25 billion years. When these rocks first form from molten lava, any argon is expelled to the atmopshere on solidification, and the $ ^{40}$K begins to decay from its initial concentration at a predictable rate, forming trapped $ ^{40}$Ar in the rock.
 
-Pliny the Younger was a Roman eyewitness to the Mount Vesuvius eruption, which he recorded as occuring in the early afternoon of 24th August, 76 AD, destroying Pompeii, Herculaneum and other Roman cities. In 1997, a piece of volcanic tephra from the region was subject to $ ^{40}$Ar/$ ^{39}$Ar dating, yielding an age of 1925 $ \pm $ 94 years: only 7 years older than the actual age of 1918 years. A second sample, sanidine phenocrysts in pumice, was taken in 2004 using the same method, which yielded an age of 1925 $ \pm $ 66 years, which is the exact calendar year.
-
-Source: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy)
+[**Mount Vesuvius**](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy): Pliny the Younger was a Roman eyewitness to the Mount Vesuvius eruption, which he recorded as occuring in the early afternoon of 24th August, 76 AD, destroying Pompeii, Herculaneum and other Roman cities. In 1997, a piece of volcanic tephra from the region was subject to $ ^{40}$Ar/$ ^{39}$Ar (argon) dating, yielding an age of 1925 $ \pm $ 94 years: only 7 years older than the actual age of 1918 years. A second sample, sanidine phenocrysts in pumice, was taken in 2004 using the same method, which yielded an age of 1925 $ \pm $ 66 years, which is the exact calendar year.
 
 ### Mount St Helens dating, using isochron dating
 
 ### Radiocarbon dating of recent fossils and artifacts
 
-The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ and incorporated into the plant's tissues (e.g. glucose, cellulose) at its natural abundance. When the plant dies, carbon exchange halts, and the remaining carbon-14 decays with a half-life of 5730 years. The ratio of $ ^14$C to $ ^12$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
+The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ (at a slightly lower $ ^{14}$C abundance due to slower gas diffusion of $ ^{14}$CO$ _2$) and incorporated into the plant's tissues (e.g. glucose, cellulose). When the plant dies, carbon exchange stops, and the remaining carbon-14 decays with a half-life of 5,700 years. The ratio of $ ^{14}$C to $ ^{12}$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
 
-[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man) is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
+The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
 
-[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi) is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
+**[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
-The [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Based on analysis of the writing style (paleography), Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+**[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi)** is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
 
-The [Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin) is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
+The **[Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)** were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+
+The **[Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin)** is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
 
 ### Thermoluminescence dating
 
@@ -445,27 +470,37 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 ## APPLICATIONS OF EVOLUTION
 
-This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. It does *not* include applications of explaining aspects of biology itself, which are numerous (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
+This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. It does *not* include applications of explaining aspects of biology itself, which are numerous. (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
 ### Protein Engineering
 
-- [Directed evolution of enzymes](https://pubmed.ncbi.nlm.nih.gov/20715024/)
-- [Novel biosynthesis in bacteria](https://www.nature.com/articles/nbt0700_750)
-- [Artificial metalloenzymes](https://www.nature.com/articles/nchem.2927)
-- Use in electrochemical biosensors (e.g. [glucose](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub) and [lactate](https://link.springer.com/article/10.1007/BF00127437) sensors)
-- Use in other commercial products: subtilisin in bio-detergents, and glucose isomerase for high-fructose corn syrup production 
+We can develop entirely new enzymes using 'directed evolution' of proteins with a variety of uses. By artificially cloning the gene for an enzyme and introducing mutations, screening for activity and stability, we 'artificially select' more optimal enzymes for our use case. This is a well-established lab procedure that puts evolution into practice. 
+
+- **Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to immobilisation, temperature variations and cofactor dependence), so [new enzymes are needed](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub), and protein engineering is used in designing most commercial electrochemical biosensors today.
+- **Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require [directed evolution for thermostability](https://link.springer.com/article/10.1007/BF00127437). They are also used in hospitals at triage to test for septic shock.
+- **Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as [carotenoids](https://www.nature.com/articles/nbt0700_750).
+- **Artificial metalloenzymes**: new enzymes can be designed to catalyse completely [new chemical reactions](https://pubmed.ncbi.nlm.nih.gov/20715024/) unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity (92\% ee, 73\% yield after 3 rounds totalling 12 mutations). Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...).
+
+{{< figure src="directed_evolution.png" title="The procedure for the combinatorial mutagenesis of enzymes. Each cycle is one 'generation'. The error-prone PCR provides the mutations, while the activity and enantioselectivity assays provide the artificial selection. The metal cofactor is inserted via reaction with a [specially encoded amino acid](https://pubmed.ncbi.nlm.nih.gov/32284585/) in the enzyme. Source: [here](https://www.nature.com/articles/nchem.2927)." >}}
+
+- **Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its [cofactor dependence on calcium ions](https://pubmed.ncbi.nlm.nih.gov/9634803/) was also removed, as calcium would be chelated by EDTA in the wash.
+- **High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product.
 
 ### Animal Model Selection
 
+The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals. For neurological studies, primates are sometimes used, as their brain structure is closer to ours, although animal welfare laws and ethics regulations mean these studies are only done in special cases (e.g. neural prosthetic implants). 
+
+Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
+
 - Transgenic mice
 - Knockout mice
-- Use of primates for neurological studies
 - *C. elegans* and *D. melanogaster* for developmental studies
 
 ### Protein Folding Prediction
 
-- AlphaFold2 EvoFormer
-- AlphaFold3 protein-DNA interactions
+Protein structure prediction is famously hard task, and has only recently become feasible with powerful machine learning models like *AlphaFold*, trained on structures painstakingly obtained manually via cryo-electron microscopy and X-ray crystallography. *AlphaFold* uses a transformer-based ML architecture (the same structure as used in LLMs like ChatGPT) called the *EvoFormer*, which combines protein sequence data with data on sequence identity conservation across evolutionary lineages, which essentially provides information on which amino acid residues are crucial to the 3D structure and which are less constrained. 
+
+It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to [predict the consequences of how a virus will mutate](https://arxiv.org/html/2411.12370v1) during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution!
 
 ### Cancer Research
 
@@ -474,15 +509,17 @@ This section focusses on practical applications of the evolutionary theory, prim
 
 Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without interhost competition.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're now finally catching up.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're only now just catching up.
 
 Sources: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (videos) and [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
 ### Basin Modelling for Oil and Gas Exploration
 
-[Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks. In oil and gas, predictions mean profits, and errors mean tremendous financial losses! The success of this industry (at the expense of the climate, unfortunately...) would not be possible without the validity of the underlying theory.
+[Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks. 
 
-There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, regularly [incur annual operational losses on the order of tens of millions of USD](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and are [practically bankrupt as of 2025](https://finance.yahoo.com/quote/ZNOG/), staying afloat only by selling shares to gullible investors.
+In oil and gas, predictions mean profits, and errors mean tremendous financial losses! The success of this industry (at the expense of the climate, unfortunately...) would not be possible without the validity of the underlying theory.
+
+There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, operates incurring [annual losses of several tens of millions of USD](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and are [practically bankrupt as of 2025](https://finance.yahoo.com/quote/ZNOG/), staying afloat only by selling shares to gullible investors.
 
 ### Evolutionary Algorithms
 
@@ -498,5 +535,12 @@ Evolutionary (genetic) algorithms are rarely the best solution to a problem sinc
 
 ### Artificial Selection and Genetic Engineering
 
-- Selective breeding of crops and livestock (e.g. maize, dogs, horses, etc.)
+Artificial selection is nothing more than natural selection but with humans deciding what is 'most fit', widely used in agriculture and animal husbandry. We can guide the evolutionary process towards exhibiting desired traits using selective breeding.
+
+{{< figure src="vegetables.png" title="Plants like the wild mustard (*Rhamphospermum arvense*) and wild cabbage (*Brassica oleracea*) have been selectively bred in different ways to produce a variety of modern crops. Despite the variability in form, all are within the same species and descended from the same plant." >}}
+
+{{< figure src="fruits_and_veg_2.png" title="All of modern fruit and vegetable produce is a result of selective breeding: man-made fruits and vegetables don't exist in the wild. We have bred plants for about 10,000 years, making them bigger, sweeter, less bitter, less toxic (less cyanide in seeds), seedless, etc. Wild fruits are smaller, not sweet, hard or inedible and full of seeds." >}}
+
+- Domestication of dogs and cats
+- Domestication of livestock
 - Gene drive for mosquitoes to eliminate malaria
