@@ -146,9 +146,7 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes), the bat genus *Pteropus* and guinea pigs, GULO has been lost independently.
-
-
+**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), the bat genus *Pteropus* and guinea pigs, GULO has been lost independently, so we have to source our own vitamin C from our diet (or die from scurvy).
 
 **NANOG** (homeobox protein).
 
@@ -194,7 +192,7 @@ The complete genomes of many extant species have been sequenced. Projects in bio
 
 {{< figure src="ape_phylogeny.png" title="The genetic similarity correlates precisely with the expected phylogeny of the apes." >}}
 
-- The **ENCODE Project** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have biochemical functionality), or 2) forming transposons, which simply 'jump' around the genome with no useful function.
+- The **ENCODE Project (2021)** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have meaningful biochemical functionality), or 2) forming transposons (LTRs, ERVs, SINEs, LINEs), which simply 'jump' around the genome with no useful function.
 - Among human **non-coding DNA**, 5\% is for gene-related regulatory sequences (promoters, enhancers...). 20\% is for introns in genes, most of which serve no function. The rest is completely non-functional (sometimes called 'junk DNA', although historically this term was incorrectly applied to all non-coding DNA).
 
 {{< figure src="genome_size_comparison.png" title="The proportion of **non-coding DNA** across life tends to increase with genome size, as more complex organisms require more control over their gene expression and accumulate more 'junk DNA'." >}}
@@ -315,15 +313,17 @@ Many volcanic (igneous) rocks naturally contain the isotope potassium-40 ($ ^{40
 
 The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ (at a slightly lower $ ^{14}$C abundance due to slower gas diffusion of $ ^{14}$CO$ _2$) and incorporated into the plant's tissues (e.g. glucose, cellulose). When the plant dies, carbon exchange stops, and the remaining carbon-14 decays with a half-life of 5,700 years. The ratio of $ ^{14}$C to $ ^{12}$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
 
-The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
+- The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
 
-**[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
+- **[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. His Y-chromosomal haplogroup was I2a2, and 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
-**[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi)** is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
+{{< figure src="cheddar_man.png" title="Map of Western Europe around the time of Cheddar Man, with Y-chromosomal haplogroups labelled. The original skull and his facial reconstruction based on genetic data is shown." >}}
 
-The **[Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)** were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+- **[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi)** is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
 
-The **[Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin)** is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
+- The **[Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)** were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+
+- The **[Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin)** is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
 
 ### Thermoluminescence dating
 
@@ -502,16 +502,41 @@ Protein structure prediction is famously hard task, and has only recently become
 
 It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to [predict the consequences of how a virus will mutate](https://arxiv.org/html/2411.12370v1) during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution!
 
+### Universal Flu Vaccine
+
+Influenza has been around since antiquity, but the most famous outbreak was the Spanish Flu pandemic (1918-1919, 1/3 world infected, 50 million deaths). Influenza A has 8 segments of ssRNA in their capsid, with two glycoproteins (envelope spike proteins): neuraminidase (N) and hemagglutinin (H). There are several isotypes of the H and N proteins, denoted H1, H2…, N1, N2… . Only H1-3 and N1-2 are human transmissible (at present!). The swine flu epidemic of 2009 was due to *reassortment* (genetic mixing) of the H1N1 bird flu, the H1N1 swine flu and the H3N2 seasonal human flu. The virus' *fitness* is a balance of H and N expression, as too much of either will limit the lifetime of the virus. Anti-influenza drugs (e.g. Tamiflu) inhibit N activity, but must be taken early after infection.
+
+Due to **antigenic drift** (spike protein point mutations allowing evasion of antibodies), flu is a *seasonal virus*. The DNA polymerase within influenza A is error-prone (lacks proofreading) and therefore mutates rapidly, maintaining its virulence by the high viral loads. Influenza usually has a low mortality rate, and most of its deaths are due to secondary bacterial infections (e.g. pneumonia) which occur when the lung tissue is compromised. If two different influenza virus subtypes infect the same cell at the same time, their individual ssRNA segments may form a 'hybrid' virus during capsid assembly (**antigenic shift**), which is how influenza can jump between species.
+
+A single point mutation, Asn66Ser, in the PB1-F2 intrinsically disordered protein of the influenza A virus is associated with signfiicantly stronger pathogenicity and a more aggressive influenza infection.
+
+A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an ongoing pandemic of H5N1, due to reassortments from a variety of flu strains increasing virulence among domestic poultry. There have been a small number of human cases, though human-human transmission has not been observed as of 2025. The neuraminidase spike protein has been mutating over time, with longer alpha-helix stalk structure associated with increased transmissibility across mammalian species, and the rapid mutation rate of the H5N1 spike proteins make vaccine development challenging. A potential **universal vaccine** approach instead targets the nucleoproteins inside the capsid e.g. PB1, which are less tolerant to mutations, and can be recognised in infected cell MHC class I molecules by T cells. Universal bird flu vaccines are currently under development in case of a future human-transmissible bird flu pandemic.
+
+- How evolution explains *virulence*: [here](https://www.youtube.com/watch?v=N6DDWJ_Ml34&list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO&index=2) (video)
+- Explanation of bird flu and the universal vaccine: [here](https://www.youtube.com/watch?v=pneWAnQZZM0) (video)
+- Development programme for universal flu vaccines (April 2025): [here](https://firstwordpharma.com/story/5951542)
+
 ### Cancer Research
 
-- Multicellularity (altruism), multi-level selection and virulence
-- Modern cancer therapies: viral mRNA vaccines for mitotic checkpoint gene transfection, oncolytic virus therapy, dendritic cell vaccines, chemodrug-loaded hyaluronan hydrogels...
-
-Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without interhost competition.
+The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without inter-host competition.
 
 In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're only now just catching up.
 
-Sources: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (videos) and [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
+Modern cancer therapies based on recent research include:
+
+- mitotic checkpoint gene transfection, via mRNA vaccines
+- oncolytic virus therapy
+- dendritic cell vaccines
+- combination chemodrug-loaded hyaluronan hydrogels
+
+These differ from traditional chemotherapy or radiotherapy, which are 'brute force' approaches that can kill as many healthy cells as cancer cells, and will rarely clear the cancer in its entirety.
+
+More info:
+
+- How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist)
+- Dr Kat Arney discusses her book: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
+- Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
+
 
 ### Basin Modelling for Oil and Gas Exploration
 
