@@ -261,14 +261,21 @@ Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 ## PALEONTOLOGY
 
+**NOTE: this section only shows *non-human* fossils. For fossils of primates and human evolution, see the [Bioanthropology](#bioanthropology-and-primatology) section.**
+
 Fossils are remnants of long-dead life and provide a tangible record of the distant past. We can compare fossilised structures and estimate fossil age using radiometric dating of nearby ash layers to help piece together evolutionary lineages, which can be cross-checked against more precise genetic studies. Taken together, they serve as signposts of how lineages changed over time.
 
-{{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458." >}}
+{{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [here](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf) (Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458)." >}}
 
-{{< figure src="whale_1.jpg" title="Cetacean evolution: *Ambulocetus* can be described as a walking whale, as some land mammals (*Artiodactyla*) became aquatic within the past 60 MYA." >}}
+{{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
+
+{{< figure src="whale_1.jpg" title="*Ambulocetus* can be described as a 'walking whale', as some land mammals (*Artiodactyla*) became aquatic within the past 60 MYA. Cetacean evolution is especially well recorded." >}}
+
+{{< figure src="bird_fossil.png" title="A new species of transitional 'dinosaur to bird' fossil, *Jinguofortis perplexus*, with anatomy labelled *in situ* and to scale. It is from clade *Pygostylia*, dated to the early Cretaceous, 127 million years ago. Source: [here](https://www.pnas.org/doi/10.1073/pnas.1812176115)." >}}
 
 {{< figure src="ediacaran.jpg" title="Animals did not appear in the Cambrian explosion. Phyla belonging to the animal kingdom are known from the Ediacaran period, before the Cambrian. The Cambrian explosion was a relatively rapid radiation of these phyla. The Ediacaran biota is known from *lagerstätten* (exceptionally well-preseved soft tissue) and ichnofossils (trace fossils), and are among the earliest known macroscopic life." >}}
 
+{{< figure src="frauds.png" title="Infamous paleontological frauds commonly cited by critics of the theory of evolution to suggest that all or most of the fossil record cannot be trusted. All cases were quickly exposed by the scientific community, not its critics, and some were accepted due to systemic ideological dogmas of the time, such as ethnonationalism." >}}
 ---
 
 ## GEOLOGY
@@ -351,9 +358,9 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 ## COMPARATIVE ANATOMY
 
+{{< figure src="bird_ear_bones_1.png" title="Main structures of central nervous system (including optic tectum) and inner ear (vestibular system and cochlear duct) across birds (extinct and extant) and closely related non-avian dinosaurs. The highlighted specimen, MPM-334-1, is a [recently-discovered basal bird cranium](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1398)." >}}
 
-
-
+{{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
 
 ---
 
@@ -476,15 +483,19 @@ This section focusses on practical applications of the evolutionary theory, prim
 
 We can develop entirely new enzymes using 'directed evolution' of proteins with a variety of uses. By artificially cloning the gene for an enzyme and introducing mutations, screening for activity and stability, we 'artificially select' more optimal enzymes for our use case. This is a well-established lab procedure that puts evolution into practice. 
 
-- **Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to immobilisation, temperature variations and cofactor dependence), so [new enzymes are needed](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub), and protein engineering is used in designing most commercial electrochemical biosensors today.
-- **Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require [directed evolution for thermostability](https://link.springer.com/article/10.1007/BF00127437). They are also used in hospitals at triage to test for septic shock.
-- **Artificial metalloenzymes**: new enzymes can be designed to catalyse completely [new chemical reactions](https://pubmed.ncbi.nlm.nih.gov/20715024/) unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity (92\% ee, 73\% yield after 3 rounds totalling 12 mutations). Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...).
+**Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to activity reduction on immobilisation, stability to temperature variations and cofactor dependence), so [new enzymes are needed](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub), which come from directed evolution. These are the most common type of commericalised glucose biosensors in use today. Although enzyme-free biosensors have been researched, they have not yet been commercialised due to lacking the chemoselectivity that enzymes excel at, so evolution-backed biosensors remain the state-of-the-art in type 1 diabetes management as of 2025.
+
+**Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require [directed evolution for thermostability](https://link.springer.com/article/10.1007/BF00127437). They are also used in hospitals at triage to test for septic shock.
+
+**Artificial metalloenzymes**: new enzymes can be designed to catalyse completely [new chemical reactions](https://pubmed.ncbi.nlm.nih.gov/20715024/) unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity. Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...).
 
 {{< figure src="directed_evolution.png" title="The procedure for the combinatorial mutagenesis of enzymes. Each cycle is one 'generation'. The error-prone PCR provides the mutations, while the activity and enantioselectivity assays provide the artificial selection. The metal cofactor is inserted via reaction with a [specially encoded amino acid](https://pubmed.ncbi.nlm.nih.gov/32284585/) in the enzyme. Source: [here](https://www.nature.com/articles/nchem.2927)." >}}
 
-- **Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its [cofactor dependence on calcium ions](https://pubmed.ncbi.nlm.nih.gov/9634803/) was also removed, as calcium would be chelated by EDTA in the wash.
-- **High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product.
-- **Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as [carotenoids](https://www.nature.com/articles/nbt0700_750). *Bioplastics* are another useful product, which are biodegradable, although issues of scale-up and durability remain.
+**Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its [cofactor dependence on calcium ions](https://pubmed.ncbi.nlm.nih.gov/9634803/) was also removed, as calcium would be chelated by EDTA in the wash.
+
+**High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product.
+
+**Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as [carotenoids](https://www.nature.com/articles/nbt0700_750). They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain.
 
 ### Animal Model Selection
 
@@ -510,7 +521,7 @@ Influenza has been around since antiquity, but the most famous outbreak was the 
 
 Due to **antigenic drift** (spike protein point mutations allowing evasion of antibodies), flu is a *seasonal virus*. The DNA polymerase within influenza A is error-prone (lacks proofreading) and therefore mutates rapidly, maintaining its virulence by the high viral loads. Influenza usually has a low mortality rate, and most of its deaths are due to secondary bacterial infections (e.g. pneumonia) which occur when the lung tissue is compromised. If two different influenza virus subtypes infect the same cell at the same time, their individual ssRNA segments may form a 'hybrid' virus during capsid assembly (**antigenic shift**), which is how influenza can jump between species.
 
-A single point mutation, Asn66Ser, in the PB1-F2 intrinsically disordered protein of the influenza A virus is associated with signfiicantly stronger pathogenicity and a more aggressive influenza infection.
+The PB1 protein in influenza A steals the protective 5' caps from host nuclear mRNAs and uses them on its own RNA, both increasing its virulence and dampening the host's self-protein synthesis and immune response. An alternate reading frame intrinsically disordered protein, PB1-F2, also contributes to virulence by inducing apoptosis in infected cells. A single point mutation, Asn66Ser, in PB1-F2 is associated with signfiicantly stronger pathogenicity and a more aggressive influenza infection.
 
 A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an ongoing pandemic of H5N1, due to reassortments from a variety of flu strains increasing virulence among domestic poultry, and the virus is primarily responsible for the US chicken egg shortage in 2025. There have been a small number of human cases, though human-human transmission has not been observed as of 2025. The neuraminidase spike protein has been mutating over time, with longer alpha-helix stalk structure associated with increased transmissibility across mammalian species, and the rapid mutation rate of the H5N1 spike proteins make vaccine development challenging. A potential **universal vaccine** approach instead targets the nucleoproteins inside the capsid e.g. PB1, which are less tolerant to mutations, and can be recognised in infected cell MHC class I molecules by T cells. Universal bird flu vaccines are currently under development in case of a future human-transmissible bird flu pandemic.
 
@@ -520,11 +531,11 @@ A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an o
 
 ### Cancer Research
 
-The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without inter-host competition.
+The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen where *intra-host* competition is maximised and *inter-host* competition is absent.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up, breaking the stagnation in progress.
 
-Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be augmented with evolutionary principles include:
+Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be/have been augmented with evolutionary principles to yield improved prognoses include:
 
 - **Mitotic checkpoint gene transfection, via mRNA vaccines**: intended to control the cell cycle of cancer cells.
 - **Oncolytic virus therapy**: immunotherapy, triggering an immune response. Effective in immune-rich tissues.
