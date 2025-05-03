@@ -470,7 +470,7 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 
 ## APPLICATIONS OF EVOLUTION
 
-This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. It does *not* include applications of explaining aspects of biology itself, which are numerous. (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
+This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. **It does not include applications of explaining aspects of biology itself**, which are numerous. (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
 ### Protein Engineering
 
@@ -488,9 +488,11 @@ We can develop entirely new enzymes using 'directed evolution' of proteins with 
 
 ### Animal Model Selection
 
-The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals. For neurological studies, primates are sometimes used, as their brain structure is closer to ours, although animal welfare laws and ethics regulations mean these studies are only done in special cases (e.g. neural prosthetic implants). 
+The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals. For neurological studies, primates are sometimes used, as their brain structure is closer to ours, although animal welfare laws and ethics regulations mean these studies are only done in special cases (e.g. neural prosthetic implants).
 
 Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
+
+In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, [telomeres are longer than in humans due to stronger telomerase activity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/), which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary innovation for high body-mass mammals that compensates between longevity and cancer risk.
 
 - Transgenic mice
 - Knockout mice
@@ -522,9 +524,7 @@ The evolutionary concept of *virulence* extends to cancer cells, with additional
 
 In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up.
 
-Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. 
-
-An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be augmented with evolutionary principles include:
+Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be augmented with evolutionary principles include:
 
 - **Mitotic checkpoint gene transfection, via mRNA vaccines**: intended to control the cell cycle of cancer cells.
 - **Oncolytic virus therapy**: immunotherapy, triggering an immune response. Effective in immune-rich tissues.
@@ -534,7 +534,7 @@ An *adaptive therapy* strategy is needed, modulating doses to force the cancer c
 More info:
 
 - How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist)
-- Dr Kat Arney discusses her book: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
+- Dr Kat Arney discusses her book *Rebel Cell*: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
 - Approved evolution-based treatment regime for prostate cancer: [here](https://www.nature.com/articles/s41467-017-01968-5)
 - Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
