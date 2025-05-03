@@ -520,21 +520,22 @@ A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an o
 
 The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen without inter-host competition.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has set the field of cancer therapeutics back by decades, and we're only now just catching up.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up.
 
-Modern cancer therapies based on recent research include:
+Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. 
 
-- mitotic checkpoint gene transfection, via mRNA vaccines
-- oncolytic virus therapy
-- dendritic cell vaccines
-- combination chemodrug-loaded hyaluronan hydrogels
+An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be augmented with evolutionary principles include:
 
-These differ from traditional chemotherapy or radiotherapy, which are 'brute force' approaches that can kill as many healthy cells as cancer cells, and will rarely clear the cancer in its entirety.
+- **Mitotic checkpoint gene transfection, via mRNA vaccines**: intended to control the cell cycle of cancer cells.
+- **Oncolytic virus therapy**: immunotherapy, triggering an immune response. Effective in immune-rich tissues.
+- **Dendritic cell vaccines**: another immunotherapy approach. Personalised medicine is required to moderate the immune response to avoid autoimmunity.
+- **Combination chemodrug-loaded hyaluronan hydrogels**: cancer cells are less likely to evolve mutations to multiple bio-orthogonal drugs when delivered at once, reducing the risk of resistance. Using hyaluronan to target CD44 receptors increases specificity to leukemia stem cells. However, toxicity is also additive in combination drugs.
 
 More info:
 
 - How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist)
 - Dr Kat Arney discusses her book: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
+- Approved evolution-based treatment regime for prostate cancer: [here](https://www.nature.com/articles/s41467-017-01968-5)
 - Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
 
