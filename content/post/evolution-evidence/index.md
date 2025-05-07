@@ -613,7 +613,7 @@ The teaching of ID in US public schools was challenged in the 2005 *Kitzmiller v
 
 In the run-up to the 2024 US presidential election, the DI quietly became a ['coalition partner' for Project 2025](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president#:~:text=of%20Freedom%20Institute-,Discovery%20Institute,-Eagle%20Forum). Once the public became aware of Project 2025 and its draconian plans, the DI seemingly requested its logo be removed from the Project 2025 website to cover its tracks, but this was caught and the DI remains a coalition partner as of 2025.
 
-{{< figure src="di_on_project_2025.png" title="Project 2025 Coalition Partners webpage in June 2024, featuring Discovery Institute. Screenshot [posted on Twitter/X by Jackson Wheat](https://x.com/JacksonWheat1/status/1803454676282613861/photo/1)." >}}
+{{< figure src="di_on_project_2025.png" title="Project 2025 Coalition Partners webpage in June 2024, featuring Discovery Institute. It was removed from the website shortly after. Screenshot [posted on Twitter/X by Jackson Wheat](https://x.com/JacksonWheat1/status/1803454676282613861/photo/1)." >}}
 
 Creationism is not science, and intelligent design (ID) is merely creationism with a science-coloured coat of paint. Neither of these ideas make any testable falsifiable predictions, except for those which have already been tested and falsified.
 
@@ -626,5 +626,7 @@ Creationism is not science, and intelligent design (ID) is merely creationism wi
 - ["Mendel's Accountant"](https://www.reddit.com/r/DebateEvolution/comments/1gx4mgc/mendels_accountants_tax_fraud/), a computer program written by John Sanford, intended to show that mutation would always lead to 'genetic entropy' (loss of genetic information and degradation). The code was found to be heavily skewed to favour this conclusion, by biassing the effect of harmful mutations, among several other flaws.
 
 - ["Biblical Radiocarbon"](https://www.reddit.com/r/DebateEvolution/comments/1e8j9rv/answers_research_journal_publishes_an_impressive/), a website running a program that aims to 'recalibrate' conventional radiocarbon dates into a young-earth timeline. The program's code was found to be of exceptionally poor quality with numerous bugs.
+
+- [Nathaniel Jeanson](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) is a Harvard PhD who has readily admitted that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
 It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems less likely in the case of the more qualified individuals.
