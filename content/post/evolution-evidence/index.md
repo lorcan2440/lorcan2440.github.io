@@ -39,6 +39,7 @@ This is a work in progress! It is nowhere near complete!
 - K. [**Metagenomics**](#metagenomics)
 - L. [**Bioanthropology and Primatology**](#bioanthropology-and-primatology)
 - M. [**Applications of Evolution**](#applications-of-evolution)
+- N. [**Miscellaneous**](#miscellaneous)
 
 ---
 
@@ -583,3 +584,47 @@ Artificial selection is nothing more than natural selection but with humans deci
 - Domestication of dogs and cats
 - Domestication of livestock
 - Gene drive for mosquitoes to eliminate malaria
+
+---
+
+## MISCELLANEOUS
+
+### Scientific Consensus
+
+The overwhelming majority of scientists accept evolution as the best explanation for the diversity of life on Earth. It is **not** an 'argument from authority' fallacy to cite the scientific community for a scientific argument, as the consensus is based on the evidence acquired through the scientific method, not on opinions or beliefs of individuals with power.
+
+According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. The 2\% who do not are almost exclusively religious fundamentalists outside of the fields of biology, and are therefore both uninformed and biassed. There are practically zero scientists who reject evolution on scientific grounds.
+
+{{< figure src="survey_for_evo_support.png" title="Most US adults, religious or not, accept evolution, and virtually all scientists accept evolution. Source: [Pew Research Center, 2019](https://www.pewresearch.org/short-reads/2019/02/11/darwin-day/)." >}}
+
+### Intelligent Design is Political, not Scientific
+
+The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church and state. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001.
+
+As part of this effort to promote ID, the DI put out a petition called ["Dissent from Darwinism"](https://en.wikipedia.org/wiki/A_Scientific_Dissent_from_Darwinism), which asked a wide variety of experts including scientists, doctors and engineers whether they agreed with the following statement: 
+
+>"I am skeptical of claims for the ability of random mutation and natural selection to account for the complexity of life".
+
+This petition was intentionally and deceptively worded, since a reasonable scientist may well agree that mutation and selection are **not** sufficient for evolution, since there are in fact other mechanisms of evolution (e.g. genetic drift, gene flow, sexual selection...). Additionally, by including non-biologists such as engineers and doctors, the DI deliberately inflated the number of qualified signatories, and in fact the vast majority of the signatories were **not** biologists, totalling about 1,000 individuals in total.
+
+The National Center for Science Education (NCSE) put out a counter-petition called ["Project Steve"](https://ncse.ngo/project-steve), which asked scientists (not engineers or doctors) a far more precise statement to the contrary, and only signatories named "Steve" (or some close variation thereof) were counted. About 1,500 Steves signed this petition, outnumbering the original.
+
+The teaching of ID in US public schools was challenged in the 2005 *Kitzmiller v. Dover* case, which ruled that **ID is not science, but creationism**, and therefore cannot be taught. Overwhelming evidence was brought against the ID proponents, including several refutations to talking points which are still parroted to this day by their followers. After the trial, it was noticed that the DI's creation science textbook had simply copy-pasted the word "design proponents" in place of "creationists" in the text, with one edition of the book featuring the telling typo, ["cdesign proponentsists"](https://ncse.ngo/cdesign-proponentsists).
+
+In the run-up to the 2024 US presidential election, the DI quietly became a ['coalition partner' for Project 2025](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president#:~:text=of%20Freedom%20Institute-,Discovery%20Institute,-Eagle%20Forum). Once the public became aware of Project 2025 and its draconian plans, the DI seemingly requested its logo be removed from the Project 2025 website to cover its tracks, but this was caught and the DI remains a coalition partner as of 2025.
+
+{{< figure src="di_on_project_2025.png" title="Project 2025 Coalition Partners webpage in June 2024, featuring Discovery Institute. Screenshot [posted on Twitter/X by Jackson Wheat](https://x.com/JacksonWheat1/status/1803454676282613861/photo/1)." >}}
+
+Creationism is not science, and intelligent design (ID) is merely creationism with a science-coloured coat of paint. Neither of these ideas make any testable falsifiable predictions, except for those which have already been tested and falsified.
+
+### Incompetence of "Creation Scientists"
+
+"Creation scientists" are degree-holding scientists who intend to use science to find evidence for their religious convictions. Despite being qualified (sometimes), they have a reputation for being exceptionally dishonest, untrustworthy, and most importantly, highly incompetent in their work promoting creationism. Examples include:
+
+- [Jeffrey Tomkins](https://www.reddit.com/r/DebateEvolution/comments/18uonlm/human_and_chimpanzee_genetic_similarity_an/), who made numerous basic arithmetic and methodological errors in attempting to show that humans and chimpanzees share much less DNA than the conventional figure of >95\%.
+
+- ["Mendel's Accountant"](https://www.reddit.com/r/DebateEvolution/comments/1gx4mgc/mendels_accountants_tax_fraud/), a computer program written by John Sanford, intended to show that mutation would always lead to 'genetic entropy' (loss of genetic information and degradation). The code was found to be heavily skewed to favour this conclusion, by biassing the effect of harmful mutations, among several other flaws.
+
+- ["Biblical Radiocarbon"](https://www.reddit.com/r/DebateEvolution/comments/1e8j9rv/answers_research_journal_publishes_an_impressive/), a website running a program that aims to 'recalibrate' conventional radiocarbon dates into a young-earth timeline. The program's code was found to be of exceptionally poor quality with numerous bugs.
+
+It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems less likely in the case of the more qualified individuals.
