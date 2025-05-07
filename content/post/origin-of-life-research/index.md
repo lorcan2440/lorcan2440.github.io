@@ -75,11 +75,15 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 \[A7\] Haas, S., Tutolo, B. M. and Catling, D. C. (2025). '[**Soda lake phosphorus fluxes controlled by biological uptake imply abundant phosphate in plausible origin-of-life environments**](https://www.sciencedirect.com/science/article/pii/S0016703725000626)', *Geochimica et Cosmochimica Acta*, 393, pp.63-74. doi:10.1016/j.gca.2025.01.040.
 
->Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and alllowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem.
+>Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and alllowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem. Phosphate-rich lakes may have preferentially formed on the prebiotic earth because of carbonic acid weathering under CO$_2$-rich atmospheres.
 
 \[A8\] Priye, A. *et al.* (2017). '[**Synchronized chaotic targeting and acceleration of surface chemistry in prebiotic hydrothermal microenvironments**](https://www.pnas.org/doi/abs/10.1073/pnas.1612924114)', *Proceedings of the National Academy of Sciences*, 114(6), pp. 1275–1280. doi:10.1073/pnas.1612924114.
 
 >Synthesis of polymers typically requires monomers to be concentrated in the same place, but the vast volume of the prebiotic ocean would presumably dilute the chemicals within. However, the turbulent flows driven by thermal convection from subsea hydrothermal vents allow for mixing of chemical species in the bulk water while concetrating them at microporous mineral surfaces, enhancing surface reaction kinetics by a factor of ~1000. This effect was studied both by simulation and with microfluidics-based experiments.
+
+\[A9\] Barge, L. M. and Price, R. E. (2023). '[**Diverse geochemical conditions for prebiotic chemistry in shallow-sea alkaline hydrothermal vents**](https://www.nature.com/articles/s41561-022-01067-1)', *Nature Geoscience*, 15, pp.976-981. doi:10.1038/s41561-022-01067-1.
+
+>Shallow pools and hydrothermal vents are often proposed as sites for prebiotic chemistry, and several sites are known where both conditions exist together in the same place. Conditions at these shallow hydrothermal fields include wet-dry cycling, temperature variations and influxes of both saltwater and freshwater. This may remove the need for long-distance mass transport, allowing prebiotic chemistry to overcome the 'dilution problem'.
 
 ---
 
@@ -253,6 +257,10 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 >Hydrogen cyanide (HCN) is found throughout the universe and can form a wide range of molecules in prebiotically relevant conditions. The nucleobase adenine is a pentamer of HCN, formed by UV light in water. Among the purines, adenine has the highest resonance energy per pi electron, making it preferable for incorporation into RNA due to \[D3\]. Other purines, pyrimidines and urea also form with NCO$ ^-$ and C$ _2$N$ _2$. Acid hydrolysis of the mixture yields hydantoins (cylic carbamyl amino acids) and pteridines (similar to cofactors like riboflavins and pterins). Radiolysis of the mixture yields important carboxylic acids (oxalic acid, malonic acid, fumaric acid, succinic acid, citric acid, adipic acid, etc.) and carbonyls (formaldehyde, acetaldehyde, methylglioxal, acetone).
 
+\[E12\] Fiore, M. *et al.* (2022). '[**Synthesis of phospholipids under plausible prebiotic conditions and analogies with phospholipid biochemistry for origin of life studies**](https://www.liebertpub.com/doi/10.1089/ast.2021.0059)'. *Astrobiology*, 22(5), pp.598-627. doi:10.1089/ast.2021.0059.
+
+>A review summarising modern prebiotic lipid synthesis and reactions, including their phosphorylation, esterification and ligation with choline. Lipids are formed by Fischer-Tropsch-type reactions of simple gaseous precursors (CO, H$_2$O, H$_2$, CO$_2$), which in turn form from the thermal decomposition of formic acid and oxalic acid. This can form a diverse range of n-alkanes, straight/branched alkenes, fatty alcohols, fatty acids and fatty formyl esters. Triacyanocuprate and tetracyanocuprate can act as electron donors. Glycerol can be phosphorylated in a deep eutectic solvent of urea and choline chloride. Glycerol can form mono-, di- and triglycerides with hot fatty acids and various mineral catalysts. Since bilayer stability against Mg$ ^{2+}$ ions increases with phospholipid-to-lipid ratio, and Lipids form micelles while phospholipids form bilayers, this provides a selection mechanism for phospholipid membranes.
+
 ---
 
 ## SYNTHESIS OF MACROMOLECULES
@@ -375,6 +383,10 @@ Studies on the behaviour of lipid vesicles to test for their validity as the fir
 \[H4\] Cho, C.J. *et al.* (2025). '[**Protocells by spontaneous reaction of cysteine with short-chain thioesters**](https://www.nature.com/articles/s41557-024-01666-y)'. *Nat. Chem.* 17, pp.148-155 (2025). doi:10.1038/s41557-024-01666-y
 
 >Cysteine reacts with a 8-carbon thioester of choline in water at pH 8 to form a two-tailed amphiphile (a diacylcysteine), which forms membrane bilayer vesicles in the presence of a silica substrate. This occurred at concentrations far below the critical micelle concentration (CMC). Peptides with an *N*\-terminal cysteine residue were also capable of reaction and vesicle formation, with faster kinetics and lower CMC. The vesicles were stable in divalent cation solution up to 2 mM Mg(II) and 10 mM Ca(II). Aminoacylating ribozymes (using biotinyl-Tyr(Me)-oxazolone as their substrate) encapsulated within the vesicles retained their functionality.
+
+\[H5\] Cohen, Z. R. *et al.* (2024). '[**Stabilization of Prebiotic Vesicles by Peptides Depends on Sequence and Chirality: A Mechanism for Selection of Protocell-Associated Peptides**](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00150)'. *Langmuir*, 40(17), pp.8971-8980. doi:10.1021/acs.langmuir.4c00150.
+
+>Lipid bilayers encapsulating homochiral Leu-Leu, Leu-Gly and Leu-Ser dipeptides grew to larger sizes and were more stable to salt-induced flocculation than those encapsulating heterochiral dipeptides, which led to leaky vesicles. This provides a selection mechanism for homochirality in vesicle-bound dipeptides.
 
 ---
 
