@@ -22,6 +22,7 @@ A collection of interesting pictures, papers and examples to show how biological
 
 {{% callout note %}}
 This is a work in progress! It is nowhere near complete!
+A small number of the cited papers are available [here](https://drive.google.com/drive/folders/1B5PZ43nqorV5OYoAeAIme7DpWfUfyXmK).
 {{% /callout %}}
 
 ## CONTENTS
@@ -246,6 +247,7 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 
 ### Nylon-eating bacteria
 
+### *De novo* promoters and orphan genes
 
 ### DNT metabolism
 
