@@ -238,10 +238,19 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ## MOLECULAR BIOLOGY
 
+### Antibiotic resistance
+
+A striking visualisation of antibiotic resistance is a video of an experiment done by Harvard Medical School, where they created four zones with antibiotic concentrations increasing by a factor of 10 each time. The bacteria would spread outwards up to the boundaries. Most would go extinct, but a few mutants from some populations would survive and move into the next zone. When all zones had been reached, the colonies traced out the pattern of their phylogenetic tree.
+
+{{< figure src="antibiotic_phylogeny.png" title="The end of the experiment, showing how the colonies connect together to show their relatedness. Video: [here](https://www.youtube.com/watch?v=plVk4NVIUh8). Paper: [here](https://www.science.org/doi/10.1126/science.aag0822)." >}}
+
 ### Nylon-eating bacteria
 
+
 ### DNT metabolism
+
 https://www.talkorigins.org/faqs/dover/pf.html#p84
+
 https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F
 
 ### Antifreeze proteins
@@ -589,6 +598,8 @@ Artificial selection is nothing more than natural selection but with humans deci
 
 ## MISCELLANEOUS
 
+These are not necessarily evidence for evolution, but are tangentially related and generally support the theory.
+
 ### Scientific Consensus
 
 The overwhelming majority of scientists accept evolution as the best explanation for the diversity of life on Earth. It is **not** an 'argument from authority' fallacy to cite the scientific community for a scientific argument, as the consensus is based on the evidence acquired through the scientific method, not on opinions or beliefs of individuals with power.
@@ -596,6 +607,8 @@ The overwhelming majority of scientists accept evolution as the best explanation
 According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. The 2\% who do not are almost exclusively religious fundamentalists outside of the fields of biology, and are therefore both uninformed and biassed. There are practically zero scientists who reject evolution on scientific grounds.
 
 {{< figure src="survey_for_evo_support.png" title="Most US adults, religious or not, accept evolution, and virtually all scientists accept evolution. Source: [Pew Research Center, 2019](https://www.pewresearch.org/short-reads/2019/02/11/darwin-day/)." >}}
+
+A significant number of scientific societies have [explicitly rejected intelligent design](https://en.wikipedia.org/wiki/List_of_scientific_bodies_explicitly_rejecting_intelligent_design).
 
 ### Intelligent Design is Political, not Scientific
 
@@ -610,6 +623,8 @@ This petition was intentionally and deceptively worded, since a reasonable scien
 The National Center for Science Education (NCSE) put out a counter-petition called ["Project Steve"](https://ncse.ngo/project-steve), which asked scientists (not engineers or doctors) a far more precise statement to the contrary, and only signatories named "Steve" (or some close variation thereof) were counted. About 1,500 Steves signed this petition, outnumbering the original.
 
 The teaching of ID in US public schools was challenged in the 2005 *Kitzmiller v. Dover* case, which ruled that **ID is not science, but creationism**, and therefore cannot be taught. Overwhelming evidence was brought against the ID proponents, including several refutations to talking points which are still parroted to this day by their followers. After the trial, it was noticed that the DI's creation science textbook had simply copy-pasted the word "design proponents" in place of "creationists" in the text, with one edition of the book featuring the telling typo, ["cdesign proponentsists"](https://ncse.ngo/cdesign-proponentsists).
+
+{{< figure src="id_not_science.png" title="The judge at *Kitzmiller v. Dover* ruled in favour of maintaining the separation of church and state, identifying ID as creationism-aligned. Source: [NCSE](https://ncse.ngo/kitzmiller-v-dover-last-gasp-balancing-evolution)." >}}
 
 In the run-up to the 2024 US presidential election, the DI quietly became a ['coalition partner' for Project 2025](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president#:~:text=of%20Freedom%20Institute-,Discovery%20Institute,-Eagle%20Forum). Once the public became aware of Project 2025 and its draconian plans, the DI seemingly requested its logo be removed from the Project 2025 website to cover its tracks, but this was caught and the DI remains a coalition partner as of 2025.
 
