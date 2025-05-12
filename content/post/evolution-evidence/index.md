@@ -131,7 +131,7 @@ The migratory bird *Sylvia atricapilla* typically flies either south-westerly to
 
 Sources: [here](https://www.science.org/content/article/feed-bird-split-species), [here](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-berthold-et-al-1992/) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836794/).
 
-Another collection of observed cases of macroevolution is given [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now. Some examples of reducible complexity are as follows:
+Another collection of observed cases of macroevolution is given [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
 ### Marbled Crayfish
 https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf
@@ -148,25 +148,29 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), the bat genus *Pteropus* and guinea pigs, GULO has been lost independently, so we have to source our own vitamin C from our diet (or die from scurvy).
+**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been lost, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus* and guinea pigs (*Cavia porcellus*).
 
 **NANOG** (homeobox protein).
 
-**DDX11L** (): 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques
+**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques
 
 Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/), [here](https://geneticeducation.co.in/why-humans-can-not-synthesize-vitamin-c-the-role-of-gulo-pseudogene/)
 
 ### Endogenous retroviruses (ERVs)
 
+If a retrovirus infects a germline cell (egg or sperm), 
 
+### CpG islands
 
+https://biologos.org/series/how-should-we-interpret-biblical-genealogies/articles/testing-common-ancestry-its-all-about-the-mutations
 
+### Heat shock proteins
 
+https://link.springer.com/article/10.1007/BF00182743
 
 ### Chromosome 2 fusion in the human lineage
 
 Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54)
-
 
 ### Mutations in human evolution
 
@@ -183,7 +187,7 @@ Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025
 - **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
 - **GDF8** (myostatin): negatively regulates skeletal muscle growth.
 
-### Comparative Genomics
+### Genomics
 
 The complete genomes of many extant species have been sequenced. Projects in bioinformatics aim to describe and compare the contents and functions of these genomes.
 
@@ -199,7 +203,7 @@ The complete genomes of many extant species have been sequenced. Projects in bio
 
 {{< figure src="genome_size_comparison.png" title="The proportion of **non-coding DNA** across life tends to increase with genome size, as more complex organisms require more control over their gene expression and accumulate more 'junk DNA'." >}}
 
-### E. Coli Citrate Metabolism in the LTEE
+### *E. Coli* citrate metabolism in the LTEE
 
 The [Lenski long-term evolution experiment](https://en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment) (LTEE) is a famous study that's been ongoing since 1988, following 12 initially-identical but separate lines of *E. coli* bacteria over 80,000+ generations thus far. There are no external selective pressures in the LTEE, so the experiment is about what the bacteria could do on their own. Among the outcomes include *de novo* gene birth from non-coding DNA and near-complete speciation into two variants with differing colony size, but most importantly, one line evolved the ability to eat citrate (Cit) in aerobic conditions, a trait universally absent in wild-type *E. coli*. This led to an immediate rise in population density.
 
@@ -209,13 +213,21 @@ In an amusing attempt to refute this, ID advocate Scott Minnich (works at Discov
 
 Sources: [here](https://www.nature.com/articles/nature11514), [here](https://pubmed.ncbi.nlm.nih.gov/26833416/) and [here](https://www.youtube.com/watch?v=q0lB0GAMEsQ) (video).
 
-### Tetherin antagonism in HIV groups M and O
+### Tetherin antagonism in HIV groups M, N and O
 
-The human immunodeficiency virus (HIV) groups O and M evolved two different new ways to use their proteins Nef and Vpu to infect humans. Normally, HIV infects the helper T-cells of our immune system, reproducing within them and weakening them due to its retroviral activity. If HIV infects a different immune cell, the virus is hampered due to a protein called tetherin, which prevents its escape. However, the subgroups O and M of HIV evolved a way to antagonise tetherin, increasing viral infection capability, without the loss of its CD4-degrading activity. In group M, this required *at least* 4 concurrent point mutations in the *Vpu* protein, and in group O, this required just 1 mutation in the *Nef* protein (serine at position 169 became cysteine). So, the same trait evolved two ways, one of which (group M) was supposedly irreducibly complex. Group M now dominates worldwide HIV cases while group O resides mainly in sub-Saharan Africa.
+The human immunodeficiency virus (HIV) is a retrovirus that infects human immune cells expressing the CD4 surface protein, such as helper T-cells and macrophages. Once inside cells, HIV-1's *Nef* and *Vpu* proteins work independently to reduce the expression of CD4, which prevents 'superinfection' (two viruses infecting the same cell) and decreases the chance of an immune response. The slow death of helper T-cells leads to a weakened immune system. 
 
-Incidentally, HIV also simultaneously demonstrates observed 'macroevolution' (to the extent that it can be defined for viruses, which are not life). HIV has a 'zoonotic' (animal) origin, as it came from SIV (simian immunodeficiency virus). SIV infects many non-human primates, including the great apes, but became human transmissible as HIV in the early 1900s due to mutations that allowed it to bind our CD4 receptors, which differ slightly between humans and other apes.
+If HIV infects a different immune cell, such as a macrophage, the virus' escape is hampered by the high expression of a cell protein called tetherin. This limits the virulence of HIV in macrophages. However, some strains of HIV-1 have evolved ways to antagonise tetherin using their *Vpu* and *Nef* proteins, giving them a second function in addition to retaining their CD4-degrading activity in helper T-cells:
 
-Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8402909/), [here](https://pubmed.ncbi.nlm.nih.gov/25468793/) and [here](https://elifesciences.org/reviewed-preprints/93316v1).
+- In [HIV-1 group M](https://pmc.ncbi.nlm.nih.gov/articles/PMC8402909/), tetherin antagonism occurred with 4 concurrent point mutations in *Vpu*.
+- In [HIV-1 group N](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003093), weak tetherin antagonism occurred with 4 different point mutations in *Vpu*, but it led to loss of CD4-degrading activity.
+- In [HIV-1 group O](https://pubmed.ncbi.nlm.nih.gov/25468793/), this occured with just 1 point mutation in *Nef* (C169S).
+
+So, the same trait evolved two ways (in groups M and O), one of which (group M) was supposedly 'irreducibly complex': it was a beneficial trait that required sequential mutations in already functional proteins. Group M now dominates worldwide HIV cases while group O resides mainly in sub-Saharan Africa and group N is very rare.
+
+HIV also simultaneously demonstrates observed 'macroevolution' (to the extent that it can be defined for viruses, which are not life). HIV has a zoonotic (animal) origin, as it came from chimpazees' endemic SIV (simian immunodeficiency virus) strain. SIV is rampant among non-human primates, but [each species has evolved to tolerate its own strain](https://pmc.ncbi.nlm.nih.gov/articles/PMC9467346/). It became human transmissible as HIV in the early 1900s due to mutations that allowed it to bind our CD4 receptors, which differ slightly between humans and other apes, and is far more virulent in humans.
+
+Extra sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC9467346/).
 
 ### Human lactose tolerance
 
@@ -422,6 +434,10 @@ Analyses of strain-level bacterial diversity within hominid gut microbiomes reve
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995445/)
 
+### Adaptation of the CRISPR-Cas9 system
+
+https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2007.01444.x
+
 ---
 
 ## BIOANTHROPOLOGY AND PRIMATOLOGY
@@ -616,7 +632,7 @@ A significant number of scientific societies have [explicitly rejected intellige
 
 ### Intelligent Design is Political, not Scientific
 
-The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church and state. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001.
+The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001.
 
 As part of this effort to promote ID, the DI put out a petition called ["Dissent from Darwinism"](https://en.wikipedia.org/wiki/A_Scientific_Dissent_from_Darwinism), which asked a wide variety of experts including scientists, doctors and engineers whether they agreed with the following statement: 
 
@@ -635,6 +651,8 @@ In the run-up to the 2024 US presidential election, the DI quietly became a ['co
 {{< figure src="di_on_project_2025.png" title="Project 2025 Coalition Partners webpage in June 2024, featuring Discovery Institute. It was removed from the website shortly after. Screenshot [posted on Twitter/X by Jackson Wheat](https://x.com/JacksonWheat1/status/1803454676282613861/photo/1)." >}}
 
 Creationism is not science, and intelligent design (ID) is merely creationism with a science-coloured coat of paint. Neither of these ideas make any testable falsifiable predictions, except for those which have already been tested and falsified.
+
+Video playlist extensively exposing the DI: [here](https://www.youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q).
 
 ### Incompetence of "Creation Scientists"
 
