@@ -4,8 +4,8 @@ title: "Evidence for Evolution"
 subtitle: A collection of pictures, papers and examples that support the theory of evolution.
 date:
 summary:
-draft: true
-featured: false
+draft: false
+featured: true
 tags:
   - biology
 categories: []
@@ -61,23 +61,37 @@ Direct observations are not the *best evidence* of evolution as a whole. Direct 
 
 ### Lizards evolving placentas
 
-Reptiles are known for usually giving birth via egg-laying (oviparity), but there is evidence that some snakes and lizards (order *Squamata*) transitioned to giving live birth (viviparity) independently and recently. A 'transitional form' between these two modes is 'lecithotrophic viviparity', where the egg and yolk is retained and held wholly within the mother. While observing a population of *Zootoca vivipara* in the Alps, reproductive isolation was found between these two subgroups, and attempts at producing hybrids in the lab led to embryonic malformations. The oviparous group is now confined to the range spanning northern Spain and southern France (the Pyrenees), while the viviparous lizards extend across most of Europe.
+{{< figure src="lizard_viviparity.png" title="A [viviparous lizard](https://en.wikipedia.org/wiki/Viviparous_lizard)." >}}
+
+Reptiles are known for usually giving birth via egg-laying (oviparity), but there is evidence that some snakes and lizards (order *Squamata*) transitioned to giving live birth (viviparity) independently and recently. A 'transitional form' between these two modes is 'lecithotrophic viviparity', where the egg and yolk is retained and held wholly within the mother.
+
+While observing a population of *Zootoca vivipara* in the Alps, reproductive isolation was found between these two subgroups, and attempts at producing hybrids in the lab led to embryonic malformations. Sometimes, the viviparous group would even give birth to two live young and one egg within the same litter of three. The oviparous group is now confined to the range spanning northern Spain and southern France (the Pyrenees), while the viviparous lizards extend across most of Europe.
 
 Sources: [here](https://www.researchgate.net/publication/233720256_Squamate_reptiles_as_model_organisms_for_the_evolution_of_viviparity) (paper), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4806899/) (paper) and [here](https://www.youtube.com/watch?v=t1xy9XaEaeo) (video).
 
 ### Fruit flies feeding on apples
 
-The apple maggot fly (*Rhagoletis pomonella*) usually feeds on the berries of hawthorn trees, and is named after apples only because eastern American/Canadian apple growers in 1864 found its maggots feeding on their trees. Since then, the apple-eating and berry-eating groups have become more distinct. This is a case of 'sympatric speciation': the geographic range of the apple group (north-eastern America) is contained within that of the berry group (temperate biomes globally). There is a barrier between the groups because 1) the two trees flower at different times of the year (apples in summer, hawthorns in autumn/fall) so flies must reproduce asynchronously, and 2) each group only lays its eggs on their respective fruit.
+{{< figure src="apple_maggot_fly.png" title="An [apple maggot fly](https://en.wikipedia.org/wiki/Apple_maggot)." >}}
+
+The apple maggot fly (*Rhagoletis pomonella*) usually feeds on the berries of hawthorn trees, and is named after apples only because eastern American/Canadian apple growers in 1864 found its maggots feeding on their trees. Since then, the apple-eating and berry-eating groups have become more distinct. 
+
+This is a case of 'sympatric speciation': the geographic range of the apple group (north-eastern America) is contained within that of the berry group (temperate biomes globally). There is a barrier between the groups because 1) the two trees flower at different times of the year (apples in summer, hawthorns in autumn/fall) so flies must reproduce asynchronously, and 2) each group only lays its eggs on their respective fruit.
 
 Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf).
 
 ### The London Underground mosquito
 
-They were named due to people being bit by them while hiding in the underground tunnels of London's tube train network during the Blitz of World War 2. It's recently been shown that they did *not* first evolve there. It turns out that the ancestral species, *Culex pipiens*, lived above ground, while the new species, *C. p. f. molestus*, evolved in the Middle East \~2000 years ago, adapted to warm and dark below-ground city environments, of which the sealed tunnels of the 1860s London Underground was one. The new species breeds all-year-round, is cold intolerant and bites rats, mice and humans, while the prior species hibernates in winter. This is a case of 'allopatric speciation' (geographic isolation) by 'disruptive selection', a rarer type of natural selection where an intermediate trait is selected against while extreme traits are favoured, leading to rapid separation into a bimodal distribution of the two lifecycles. Cross-breeding the two forms in the lab led to infertile eggs, implying reproductive isolation.
+{{< figure src="london_underground_mosquito.png" title="A [london underground mosquito](https://en.wikipedia.org/wiki/London_Underground_mosquito)." >}}
+
+They were named due to people being bit by them while hiding in the underground tunnels of London's tube train network during the Blitz of World War 2. It's recently been shown that they did *not* first evolve there. It turns out that the ancestral species, *Culex pipiens*, lived above ground, while the new species, *C. p. f. molestus*, evolved in the Middle East \~2000 years ago, adapted to warm and dark below-ground city environments, of which the sealed tunnels of the 1860s London Underground was one. 
+
+The new species breeds all-year-round, is cold intolerant and bites rats, mice and humans, while the prior species hibernates in winter. This is a case of 'allopatric speciation' (geographic isolation) by 'disruptive selection', a rarer type of natural selection where an intermediate trait is selected against while extreme traits are favoured, leading to rapid separation into a bimodal distribution of the two lifecycles. Cross-breeding the two forms in the lab led to infertile eggs, implying reproductive isolation.
 
 Sources: [here](https://www.researchgate.net/publication/371326691_Rapid_Speciation_of_the_London_Underground_Mosquito_Culex_pipiens_molestus/fulltext/647f5872b3dfd73b776979eb/Rapid-Speciation-of-the-London-Underground-Mosquito-Culex-pipiens-molestus.pdf) and [here](https://www.nature.com/articles/d41586-025-00323-9).
 
 ### Multicellularity in Green Algae
+
+{{< figure src="green_algae_multicellular.png" title="Some [green algae](https://en.wikipedia.org/wiki/Green_algae)." >}}
 
 'Colonialism' (simple clumping/aggregation of single-celled organisms) is well-known, and does not count as multicellularity. But if the cells become obligately multicellular (lifecycle uses clonal division by mitosis and remain together, and splitting them apart kills the organism), the groundwork for *de novo* multicellularity is laid. This was observed in the lab  by introducing a population of green algae (*Chlamydomonas reinhardtii*, a protist) to cultures of another predatory protist, over a period of 1 year (\~750 generations). The strong selective pressure to defend against predation led to obligate multicellularity in the algae. This process, featuring increasingly large clusters of cells, is well-reflected in the extant clade *Archaeplastida*, which includes green algae (single cell protist), a variety of other colonial protists and plants (complex multicellular).
 
@@ -87,11 +101,15 @@ Sources: [here](https://www.nature.com/articles/s41598-019-39558-8), [here](http
 
 ### Darwin's Finches, revisited 150 years later
 
+{{< figure src="darwin_finches.png" title="The [Daphne Major finches](https://en.wikipedia.org/wiki/Daphne_Major_finches) and their relatedness." >}}
+
 This is a [textbook example](https://en.wikipedia.org/wiki/Darwin%27s_finches) of bird microevolution from Darwin's 1830s voyage of the Galápagos islands, but studies from the 1980s onwards have identified speciation in the '[Big Bird lineage](https://en.wikipedia.org/wiki/Big_Bird_(finch))' on Daphne Major island. Regional droughts which reduce seed dispersal to the islands, such as those that occurred in 1977 and 2004, as well as arrival of competitors, were found to be drivers of selection for beak stiffness. The new lineage of finches reproduces only with its own.
 
 Sources: [here](https://www.science.org/doi/10.1126/science.aao4593) (paper), [here](https://www.princeton.edu/news/2017/11/27/study-darwins-finches-reveals-new-species-can-develop-little-two-generations) (article) and [here](https://www.science.org/doi/10.1126/science.1128374).
 
 ### Salamanders, a classic ring species
+
+{{< figure src="salamander_ring.png" title="The ring of salamanders in California." >}}
 
 A '[ring species](https://en.wikipedia.org/wiki/Ring_species)' is a rare and aesthetically-pleasing display of speciation wherein a population living outside a circular barrier (e.g. the sands surrounding a lagoon) sequentially mutates and migrates around the circle, so that when they meet up again on the other side, they cannot interbreed. One of the most well-known cases of this is the salamander *Ensatina eschscholtzii*, which spread around the edge of a dry uninhabitable valley in California. A total of seven subspecies of these salamanders developed around the circle, two of which cannot interbreed with each other. Actually, this case is *not* a 'true' ring species, as the diversification process was more complex than simply continuously spreading around the circle, but it still does represent an example of complete speciation.
 
@@ -101,17 +119,23 @@ Source: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-speci
 
 ### Greenish Warbler, another ring species
 
+{{< figure src="greenish_warbler.png" title="A [greenish warbler](https://en.wikipedia.org/wiki/Greenish_warbler)." >}}
+
 This is another ring species, and one that is *closer* to a true ring species than the Californian salamanders (though still not a perfect ring species - it seems there are no simple true cases!). These birds, *Phylloscopus trochiloides*, inhabit the closed boundary of the Tibetan Plateau, of which two reproductively isolated forms co-exist in central Siberia. Genetic studies find some degree of selection against interbreeding, contributing to the speciation process. This happened over about a million years, so we're using the phylogenetic species concept here.
 
 Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/) and [here](https://www.nature.com/articles/nature13285).
 
 ### Hybrid plants and polyploidy
 
-*Tragopogon miscellus* are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploids species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
+{{< figure src="tragopogon_polyploidy.png">}}
+
+*Tragopogon miscellus* are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploid species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
 
 Source: [here](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081).
 
 ### Alligators and chickens growing feathers
+
+{{< figure src="alligator_feathers.png" title="Primitive feathers on an alligator." >}}
 
 In the lab, a change in the expression patterns (controlled by upstream genes) of two regulatory genes led to alligators developing feathers on their skin instead of scales. These occur via the 'Sonic hedgehog' (Shh) pathway, one of the many developmental cascades activated by homeotic genes. The phenotypes observed in these experiments closely resembled those of the unusual filamentous appendages found in the fossils of some feathered dinosaurs, as if transitional.
 
@@ -121,11 +145,17 @@ Sources: [here](https://academic.oup.com/mbe/article/32/1/23/2925601), [here](ht
 
 ### Endosymbiosis in an amoeba
 
-There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being 'eaten' by some amoebae before returning to free-living conditions. In the lab, it was found that some strains of wild amoeboid protists in clade *Rhizaria*, class *Thecofilosea*, were transmitting fully-incorporated *Legionellales* vertically by cell division. Extracellular transmission of bacteria was not observed, indicating mutualistic endosymbiosis, and genetic studies confirmed divergence of the endosymbiont via a shrinkage of its genome (as expected) and gene translocation to the protist's nuclear DNA.
+{{< figure src="rhizarian.png" title="A rhizarian protist." >}}
+
+There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being 'eaten' by some amoebae before returning to free-living conditions. 
+
+In the lab, it was found that some strains of wild amoeboid protists in clade *Rhizaria*, class *Thecofilosea*, were transmitting fully-incorporated *Legionellales* vertically by cell division. Extracellular transmission of bacteria was not observed, indicating mutualistic endosymbiosis, and genetic studies confirmed divergence of the endosymbiont via a shrinkage of its genome (as expected) and gene translocation to the protist's nuclear DNA.
 
 Sources: [here](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.642216/full) and [here](https://kids.frontiersin.org/articles/10.3389/frym.2022.1104350).
 
 ### Eurasian Blackcap
+
+{{< figure src="eurasian_blackcap.png" title="A [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap)." >}}
 
 The migratory bird *Sylvia atricapilla* typically flies either south-westerly towards Spain or south-easterly into Asia as winter approaches in Europe, but the rise of birdwatching as a hobby in the UK in the 1960s led to a new food source in Britain that the westerly-flying birds could migrate to. This change is known to be genetic in basis. Those that instead migrated to the British Isles in winter returned home 10 days earlier (due to the shorter distance to central Europe) than those that went towards Spain, and therefore would mate only with themselves (sympatric speciation). The UK-migrating group now has rounder wings and narrower, longer beaks, over just \~30 generations, and although genetic differentiation has not yet reached the point of preventing interbreeding entirely, these birds are quite clearly well on their way to speciation.
 
@@ -158,7 +188,27 @@ Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/), [here](https
 
 ### Endogenous retroviruses (ERVs)
 
-If a retrovirus infects a germline cell (egg or sperm), 
+If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
+
+We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the 'long terminal repeats' (LTRs) at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor as the chance of a coincidental separate identical insertion is negligible.
+
+For example, one type of ERV that is found in both humans and chimpanzees is called HERV-W. For this particular ERV, there are 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). This tells us that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired more recently after the split. The *env* gene of HERV-W remains transcribable, and produces a protein called syncytin-1, which has been co-opted for use in the formation of the placenta, but can also act as an immunogen in multiple sclerosis.
+
+To drive the point home, we can estimate explicitly the probability that two genomes would just so happen to have the observed 205 identical insertions, when one of them has 211 and the other has 208, if the ERVs are inserted randomly without any common ancestry (the null hypothesis). We assume a total of $ N = 10,000,000 $ possible insertion sites in both genomes ('hotspots'). The problem can be stated as listing $ {1, 2, ..., N} $ as the enumerated possible ERV insertion sites. We then take, uniformly, randomly, independently and without replacement, a 'human' subset of insertions $ X $ of size $ a = 211 $, and a 'chimp' subset of insertions $ Y $ of size $ b = 208 $. We want to find the probability that the intersection of $ X $ and $ Y $ has exactly $ z $ elements (shared insertions).
+
+{{< figure src="ervs_prob_calc.png" title="**If the text is hard to read, please switch to light mode on the website!** Diagram of the counting problem. We randomly place 211 X's in the top set of boxes and 208 X's in the bottom set of boxes, independently (max one X per box). How many X's will we observe in the same place? These represent the common ERV insertions." >}}
+
+We can solve for the required probability with combinatorics:
+
+$$ P(|X \cap Y| = z) = \frac{\binom{N}{z} \binom{N-z}{b-z} \binom{N-b}{a-z}}{\binom{N}{a} \binom{N}{b}} $$
+
+since there are $ \binom{N}{z} $ ways of choosing the intersection, $ \binom{N-z}{b-z} $ ways of choosing the rest of the chimp elements, and $ \binom{N-b}{a-z} $ ways of choosing the rest of the human elements ([source](https://math.stackexchange.com/a/1490030/488820)). This is a hypergeometric distribution, which I believe is more accurate than the calculation method performed by some others (e.g. *Stated Clearly* uses a binomial distribution, source [here](https://docs.google.com/document/d/1gZWCMW7ZWhdlLPVJU4nDWkmyQbUqZG3wsS0FD2sKmn0/edit?tab=t.0), video [here](https://www.youtube.com/watch?v=oXfDF5Ew3Gc)).
+
+Now, we sum over this probability between $ z = 205 $ and $ z = 208 $ to get our $p$-value. The answer is so tiny that normal calculators simply return zero. Using the more powerful [WolframAlpha](https://www.wolframalpha.com/input?i2d=true&i=Sum%5BDivide%5BnCr%5C%2840%29Power%5B10%2C7%5D%5C%2844%29+z%5C%2841%29+*+nCr%5C%2840%29Power%5B10%2C7%5D-z%5C%2844%29+208-z%5C%2841%29+*+nCr%5C%2840%29Power%5B10%2C7%5D-208%5C%2844%29+211-z%5C%2841%29+%2CnCr%5C%2840%29Power%5B10%2C7%5D%5C%2844%29+211%5C%2841%29+*+nCr%5C%2840%29Power%5B10%2C7%5D%5C%2844%29+208%5C%2841%29%5D%2C%7Bz%2C205%2C208%7D%5D) for the computation instead, we find that the answer is:
+
+$$ p = \sum_{z=205}^{208} P(|X \cap Y| = z) = 4.59398489... \times 10^{-1032}. $$
+
+As expected, the odds of observing what we see without common ancestry is ridiculously tiny: about 1 in $ 10^{1031} $. And that's just for *one* type of ERV in *one* pair of species!
 
 ### CpG islands
 
