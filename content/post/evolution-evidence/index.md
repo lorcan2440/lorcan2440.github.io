@@ -4,8 +4,8 @@ title: "Evidence for Evolution"
 subtitle: A collection of pictures, papers and examples that support the theory of evolution.
 date:
 summary:
-draft: false
-featured: true
+draft: true
+featured: false
 tags:
   - biology
 categories: []
