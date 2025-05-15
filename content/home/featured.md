@@ -39,10 +39,10 @@ design:
 **Collections of notes**: PDFs summing my STEM studies (and related) to date.
 
 - **[Maths Notes](/uploads/All%20Notes%20-%20Maths.pdf)** - Sections 1-5: algebra, geometry, calculus, linear algebra, applied maths.
-- **[Physics Notes](/uploads/All%20Notes%20-%20Physics.pdf)** - Sections 6-11: mechanics, structures, materials, thermofluids, electricity, electromagnetism, electronics, control engineering, astrophysics, cosmology, nuclear physics, quantum physics.
-- **[Chemistry Notes](/uploads/All%20Notes%20-%20Chemistry.pdf)** - Sections 12-16: chemical data, physical chemistry, surface chemistry, inorganic chemistry, earth science, physical geography, organic chemistry.
-- **[Biology Notes](/uploads/All%20Notes%20-%20Biology.pdf)** - Sections 17-20: molecular biology, biotechnology, microbiology, evolutionary biology, botany, paleontology, bioanthropology, medical biology.
-- **[Extra Notes](/uploads/All%20Notes%20-%20Extras.pdf)** - Sections 21-23: Chinese, Korean, history and philosophy of science.
+- **[Physics Notes](/uploads/All%20Notes%20-%20Physics.pdf)** - Sections 6-11: mechanics, mechanical engineering, structures, structural engineering, materials, thermofluids, electrical engineering, electromagnetism, electronics, control systems, astrophysics, cosmology, nuclear physics, quantum physics.
+- **[Chemistry Notes](/uploads/All%20Notes%20-%20Chemistry.pdf)** - Sections 12-16: chemical data, physical chemistry, chemical engineering, inorganic chemistry, surface chemistry, organic chemistry.
+- **[Biology Notes](/uploads/All%20Notes%20-%20Biology.pdf)** - Sections 17-20: molecular biology, cell biology, genetics, biotechnology, microbiology, evolutionary biology, ecology, botany, geology, geography, paleontology, bioanthropology, medical biology.
+- **[Extra Notes](/uploads/All%20Notes%20-%20Extras.pdf)** - Sections 21-23: Chinese, Korean, history of science, philosophy of science, politicisation of science.
 
 **Differential Equations**: made as part of my tutorial work.
 
