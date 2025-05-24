@@ -231,7 +231,7 @@ This is just barely below 7, which is exactly what we expected. The benzyl alcoh
 
 **Aqueous protons**
 
-It's worth noting that even though we've been writing $ [H^+] \ (aq) $ to mean the species which contributes to pH, it is **not** the case that these are actual free protons (i.e. bare hydrogen nuclei) roaming around in solution. In reality, protons are always found bound to water molecules, called 'hydronium' ($ H_3O^+ $). Whenever we write $ [H^+] \ (aq) $, we are really referring to $ [H_3O^+] \ (aq) $: it's simply quicker to write $ [H^+] $ instead.
+It's worth noting that even though we've been writing $ [H^+] $ to mean the species which contributes to pH, it is **not** the case that these are actual free protons (i.e. bare hydrogen nuclei) roaming around in solution. In reality, protons are always found bound to water molecules, called 'hydronium' ($ H_3O^+ $). Whenever we write $ [H^+] $, we are really referring to $ [H_3O^+] $: it's simply quicker to write $ [H^+] $ instead.
 
 Using the 'proper' formula, the autoionisation of water would therefore be:
 
