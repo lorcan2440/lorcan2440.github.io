@@ -251,7 +251,15 @@ If all activity coefficients are equal to 1 (i.e. ideal behaviour, no species ar
 
 **Temperature dependence of equilibria**
 
-Additionally, like all physical or chemical changes, there is some associated enthalpy change, meaning there will be some amount of heat released or absorbed during the process. For acid dissociations, this is usually an exothermic process, so heat is released, slightly warming the solution for some time. Since equilibrium constants are strongly temperature dependent, the ratios of the ion concentrations would change too, affecting the transient pH while the heat is dissipated. Due to the high heat capacity ('thermal inertia') of water, this effect is likely to be small, but as before, when desiring high precision, it may be worth considering. Another effect could be the thermal expansion of the solution on the slight heating, increasing the volume and diluting the concentrations, changing the equilibrium ratios again.
+Additionally, like all physical or chemical changes, there is some associated enthalpy change, meaning there will be some amount of heat released or absorbed during the process. For acid dissociations, this is usually an exothermic process, so heat is released, slightly warming the solution for some time. Since equilibrium constants are strongly temperature dependent, the ratios of the ion concentrations would change too, affecting the transient pH while the heat is dissipated. Due to the high heat capacity ('thermal inertia') of water, this effect is likely to be small, and it would be would be compensated by a shift in the equilibria to lessen the exothermic dissociation reactions (by Le Chatelier's principle), but it still may be worth considering for high precision work.
+
+Another effect could be the thermal expansion (density reduction) of the solution on the slight heating, increasing the volume and diluting the concentrations, changing the equilibrium ratios again.
+
+**Volume of the solution**
+
+We have assumed that the volume of the water does not change when we add the benzyl alcohol. But at room temperature, pure benzyl alcohol (and acetic acid) are both liquids, so they occupy some finite volume too. But there is no guarantee that volume is conserved when we mix: for example, when we add sodium chloride ($ NaCl $) to water, the volume actually *decreases* slightly, as the ions are highly solvated, bringing the water molecules closer together, increasing the density slightly. A similar phenomenon occurs when we mix a polar liquid (e.g. ethanol, acetic acid, or benzyl alcohol) with water: the total volume is less than the sum of the original isolated volumes. This is called having a negative 'excess volume'.
+
+I wasn't able to find literature values for the excess volume of benzyl alcohol in water (with the possible exception of [this paper](http://www.eemj.icpm.tuiasi.ro/pdfs/vol22/no12/16_515_Birgauanu_23.pdf) that I can't access!). The total volume of the solution is likely to be close to the volume of the water alone, as the effect of adding the alcohol and contracting the volumes cancel out to some degree. But there would still be some leftover deviation. This contraction changes the volume and concentrations of the ions in solution, shifting equilibria slightly from what we calculated.
 
 **Dissolving vs dissociating**
 
