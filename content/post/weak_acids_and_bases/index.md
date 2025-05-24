@@ -152,7 +152,7 @@ The equilibrium constant for this reaction is called the *ionic product*, $ K_w 
 
 $$ K_w = [H^+][OH^-] = 1.0 \times 10^{-14} \ M^2 \ \ \textrm{at} \ 25 ^{\circ} C. $$
 
-This means that in pure water, there is a constant concentration of $ [H^+] = 10^{-7} \ M $ and $ [OH^-] = 10^{-7} \ M $ at 25 °C. In most cases, these concentrations are tiny enough to be neglected and considered zero, like we did in our ICE table.
+This means that in pure water, there is a constant concentration of $ [H^+] = 10^{-7} \ M $ and $ [OH^-] = 10^{-7} \ M $ at 25 °C. This is why pure water has a pH of 7. In most cases, these proton concentrations are tiny enough to be neglected and considered zero, like we did in our ICE table.
 
 But in our 'very weak acid' example, the dissociation of benzyl alcohol is so weak that it becomes comparable to the autoionisation of water. In fact, the water becomes the dominant source of acidity in the solution.
 
@@ -228,6 +228,16 @@ $$ pH = -\log_{10} \[H^+ \] = -\log_{10}(1.00199 \times 10^{-7}) = 6.99914. $$
 This is just barely below 7, which is exactly what we expected. The benzyl alcohol is such a weak acid that it has a negligible effect on the pH - but quantifying that effect precisely takes mathematical work!
 
 ## Some technicalities
+
+**Aqueous protons**
+
+It's worth noting that even though we've been writing $ [H^+] \ (aq) $ to mean the species which contributes to pH, it is **not** the case that these are actual free protons (i.e. bare hydrogen nuclei) roaming around in solution. In reality, protons are always found bound to water molecules, called 'hydronium' ($ H_3O^+ $). Whenever we write $ [H^+] \ (aq) $, we are really referring to $ [H_3O^+] \ (aq) $: it's simply quicker to write $ [H^+] $ instead.
+
+Using the 'proper' formula, the autoionisation of water would therefore be:
+
+$$ H_2O (l) + H_2O (l) \rightleftharpoons H_3O^+ (aq) + OH^- (aq) $$
+
+as one water molecule transfers a proton to another through a hydrogen bond. At no point is the proton 'free' in the usual sense.
 
 **Activity vs concentration**
 
