@@ -30,7 +30,7 @@ Recall that the unit 'M' ("molar") represents $ mol/L $ ("moles per litre") and 
 
 The dissociation of sulfuric acid in water can be represented as:
 
-$$ H_2SO_4 (s) \rightarrow 2 \ H^+ (aq) + SO_4^{2-} (aq). $$
+$$ H_2SO_4 (aq) \rightarrow 2 \ H^+ (aq) + SO_4^{2-} (aq). $$
 
 So, our 0.1 moles of $ H_2SO_4 $ will produce 0.2 moles of $ H^+ $ ions in 1 litre of solution.
 
