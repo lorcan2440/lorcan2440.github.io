@@ -303,6 +303,10 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 >Spray ejection of micron-sized droplets of liquid neutral water containing free amino acids (glycine, L-alanine) results in peptide formation (up to 6-mer) at the air-water interface. The surface of the droplets acts as a dry environment that shifts the equilibrium of the reaction towards condensation. This occurs at ambient conditions without any other reagents, catalysts, or radiation.
 
+\[F10\] Rout, S. K. *et al*. (2025). '[**Amino acids catalyse RNA formation under ambient alkaline conditions**](https://www.nature.com/articles/s41467-025-60359-3)'. *Nature Communications*, 16, 5193(2025). doi:10.1038/s41467-025-60359-3.
+
+>Starting with ribonucleoside 2′,3′-cyclic phosphates (an easily formed prebiotic molecule), addition of aliphatic hydrophobic amino acids (L-valine, L-leucine, L-isoleucine, L-alanine, glycine) at pH 9-10 at room temperature, up to 7-mer oligo-RNA was formed. The cyclic nucleoside phosphate is more stable than 5'-nucleotides, making it more prebiotically plausible. The NMR data shows there is a bias towards 3'-5' linkages, the correct one for optimally functional/extant RNA. Polymerisation occurred in the dried state. No [Mg]$ ^{2+} $ ions were required. These conditions could be found in cooler volcanic environments, whose alkalinity is also correlated with phosphate enrichment, allowing wet-dry cycling to occur. Thermal gradients (heat fluxes) also selectively enrich Val/Leu/Ile as required. This completes the 'missing link' in the coevolution of RNA and proteins, as it shows that amino acids can promote RNA formation while RNA can promote protein formation.
+
 ---
 
 ## REACTIONS OF MACROMOLECULES
@@ -353,8 +357,7 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 >A 13-amino acid oligopeptide was designed to exhibit hydrogenase activity. The protein is a redox metalloenzyme with a di-nickel cluster active site that converts solvated protons into hydrogen (2 H$^+$ + 2 e$^- \rightarrow $ H$_2$). This structure is much simpler than extant hydrogenases. The peptide was stable at pH 5.5 - 10 and at temperatures 20 $ ^{\circ}$C - 80 $ ^{\circ}$C. Simple Archean eon life is expected to be dependent on hydrogen gas for metabolism at these conditions.
 
-\[G12\] Mizuuchi, R. and Ichihashi, N. (2023). '[**Minimal RNA self-reproduction discovered from
-a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc01940c)'. *Chemical Science*, 14, pp.7656-7664. doi:10.1039/D3SC01940C.
+\[G12\] Mizuuchi, R. and Ichihashi, N. (2023). '[**Minimal RNA self-reproduction discovered from a random pool of oligomers**](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc01940c)'. *Chemical Science*, 14, pp.7656-7664. doi:10.1039/D3SC01940C.
 
 >Out of a random pool of 20-mer oligonucleotides (total of 10^12 possible sequences), in the presence of phosphate (which formed a bond at the 2' and 3' positions) and 100 mM MgCl$_2$, a sequence was found that permitted self-replication by template-directed ligation. The found RNA has a stem-loop secondary structure and contains a mixture of 2'-5' and 3'-5' linkages.
 
