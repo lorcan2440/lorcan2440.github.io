@@ -75,11 +75,11 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 \[A7\] Haas, S., Tutolo, B. M. and Catling, D. C. (2025). '[**Soda lake phosphorus fluxes controlled by biological uptake imply abundant phosphate in plausible origin-of-life environments**](https://www.sciencedirect.com/science/article/pii/S0016703725000626)', *Geochimica et Cosmochimica Acta*, 393, pp.63-74. doi:10.1016/j.gca.2025.01.040.
 
->Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and alllowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem. Phosphate-rich lakes may have preferentially formed on the prebiotic earth because of carbonic acid weathering under CO$_2$-rich atmospheres.
+>Phosphorus is required by all life (e.g. in RNA), but it is scarcely bioavailable in natural environments (the 'phosphorus problem'). It is known that iron-rich volcanic rocks can react with hot water or steam to form a range of phosphates, and that evaporation of resulting solutions can concentrate the phosphorus compounds. In sodium-carbonate (soda)-rich evaporative lakes with nearby volcanic activity, carbonates bind Ca$^{2+}$, preventing it from precipitating phosphate and allowing phosphorus to reach concentrations up to several millimolar. This is a prebiotically plausible solution to the phosphate problem. Phosphate-rich lakes may have preferentially formed on the prebiotic earth because of carbonic acid weathering under CO$_2$-rich atmospheres.
 
 \[A8\] Priye, A. *et al.* (2017). '[**Synchronized chaotic targeting and acceleration of surface chemistry in prebiotic hydrothermal microenvironments**](https://www.pnas.org/doi/abs/10.1073/pnas.1612924114)', *Proceedings of the National Academy of Sciences*, 114(6), pp. 1275–1280. doi:10.1073/pnas.1612924114.
 
->Synthesis of polymers typically requires monomers to be concentrated in the same place, but the vast volume of the prebiotic ocean would presumably dilute the chemicals within. However, the turbulent flows driven by thermal convection from subsea hydrothermal vents allow for mixing of chemical species in the bulk water while concetrating them at microporous mineral surfaces, enhancing surface reaction kinetics by a factor of ~1000. This effect was studied both by simulation and with microfluidics-based experiments.
+>Synthesis of polymers typically requires monomers to be concentrated in the same place, but the vast volume of the prebiotic ocean would presumably dilute the chemicals within. However, the turbulent flows driven by thermal convection from subsea hydrothermal vents allow for mixing of chemical species in the bulk water while concentrating them at microporous mineral surfaces, enhancing surface reaction kinetics by a factor of ~1000. This effect was studied both by simulation and with microfluidics-based experiments.
 
 \[A9\] Barge, L. M. and Price, R. E. (2023). '[**Diverse geochemical conditions for prebiotic chemistry in shallow-sea alkaline hydrothermal vents**](https://www.nature.com/articles/s41561-022-01067-1)', *Nature Geoscience*, 15, pp.976-981. doi:10.1038/s41561-022-01067-1.
 
@@ -121,7 +121,7 @@ All chiral biogenic molecules are enantiomerically pure, existing as L-amino aci
 
 \[B8\] Michaelian K. (2018). '[**Homochirality through Photon-Induced Denaturing of RNA/DNA at the Origin of Life**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027432/)'. *Life (Basel, Switzerland)*, *8*(2), 21. doi:10.3390/life8020021.
 
->UV radiation from sunlight can be scattered and totally internally reflected at a water-air interface to form \~5% circular polarisated radiation during late afternoon near the sea surface. At the higher sea surface temperatures in the afternoon, this radiation could melt RNA/DNA duplexes, with faster kinetics for strands containing more D-nucleotides due to the polarisation. Strands with D-nucleotides would become more available for template replication, selecting for more homochiral RNA/DNA. L-tryptophan also complexes enantioselectively with D-RNA, also increasing the *ee* of the tryptophan.
+>UV radiation from sunlight can be scattered and totally internally reflected at a water-air interface to form \~5% circular polarised radiation during late afternoon near the sea surface. At the higher sea surface temperatures in the afternoon, this radiation could melt RNA/DNA duplexes, with faster kinetics for strands containing more D-nucleotides due to the polarisation. Strands with D-nucleotides would become more available for template replication, selecting for more homochiral RNA/DNA. L-tryptophan also complexes enantioselectively with D-RNA, also increasing the *ee* of the tryptophan.
 
 \[B9\] Globus, N., Fedynitch, A. and Blandford, R. (2021). '[**Polarized Radiation and the Emergence of Biological Homochirality on Earth and Beyond**](https://iopscience.iop.org/article/10.3847/1538-4357/abe461)', *The Astrophysical Journal, 910(85)*. doi:10.3847/1538-4357/abe461
 
@@ -185,7 +185,7 @@ Relevant concepts in the complexification of prebiotic chemistry, as suitable sy
 
 \[D1\] Schneider, E.D. and Kay, J.J. (1994) '[**Life as a manifestation of the second law of Thermodynamics**](https://www.sciencedirect.com/science/article/pii/0895717794901880?via%3Dihub)', *Mathematical and Computer Modelling*, 19(6–8), pp. 25–48. doi:10.1016/0895-7177(94)90188-0. 
 
->Describes the '4th law of thermodynamics': an open system far from equilibrium will evolve in time so as to maximise its entropy production. This makes self-organization an inevitable consequence if the non-equilibrium condition is maintained, as the system seeks to dissipate gradients in Gibbs free energy imposed upon it.
+>Describes the '4th law of thermodynamics': an open system far from equilibrium will evolve in time so as to maximise the generation of entropy production in the surroundings. This makes low entropy self-organization an inevitable consequence if the non-equilibrium state is maintained, as the system seeks to dissipate gradients in Gibbs free energy imposed upon it. A common non-biological example is the formation of convection cells in confined fluids with strong applied thermal gradients.
 
 \[D2\] Koonin, E.V. and Novozhilov, A.S. (2008) '[**Origin and evolution of the Genetic Code: The universal enigma**](https://iubmb.onlinelibrary.wiley.com/doi/10.1002/iub.146)', *IUBMB Life*, 61(2), pp. 99–111. doi:10.1002/iub.146.
 
@@ -295,7 +295,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 >Nucleotides form polynucleotides in the presence of montmorillonite clay and simple salts (e.g. NaCl).
 
-\[F8\] Sumie, Y. *et al*. (2023). '[****Boron-assisted abiotic polypeptide synthesis**](https://www.nature.com/articles/s42004-023-00885-7)'. *Communications Chemistry*, 6, p.89. doi:10.1038/s42004-023-00885-7.
+\[F8\] Sumie, Y. *et al*. (2023). '[**Boron-assisted abiotic polypeptide synthesis**](https://www.nature.com/articles/s42004-023-00885-7)'. *Communications Chemistry*, 6, p.89. doi:10.1038/s42004-023-00885-7.
 
 >Up to 39-mers of polyglycine were formed by simple heating of glycine, catalysed by aqueous boric acid at pH 6 - 8 and temperatures of 90 - 130 C, with negligible side reactions. Borate is known to be present in the mineral tourmaline on the prebiotic earth, and can also help to form RNA by \[E6\].
 
@@ -363,7 +363,7 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 \[G13\] Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalytic amyloids**](https://www.nature.com/articles/nchem.1894)'. *Nature Chemistry*, 6, pp.303-309. doi:10.1038/nchem.1894.
 
->Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ at pH 10.3.
+>Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ (quite high) at pH 10.3.
 
 ---
 
