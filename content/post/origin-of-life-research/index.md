@@ -207,6 +207,10 @@ Relevant concepts in the complexification of prebiotic chemistry, as suitable sy
 
 >The probability of spontaneous molecular self-replication is a function of the information contained in the replicator. The probability to discover a self-replicator by random chance depends exponentially on the relative rate of formation of the monomers, and if rate at which monomers are formed is somewhat similar to the rate at which they would occur in a self-replicating polymer, the likelihood to discover such a replicator by chance is drastically increased (\~64 orders of magnitude). This is verified by computer simulation.
 
+\[D7\] Barbieri, M. (2018) '[**What is code biology?**](https://www.sciencedirect.com/science/article/pii/S0303264717302952?via%3Dihub)'. *BioSystems*, 164, pp. 1-10, doi:10.1016/j.biosystems.2017.10.0050303-2647.
+
+>A comprehensive review of the concept of 'code biology', exploring the origin of the genetic code and the RNA to protein translation system. One idea is that life originally used much fewer amino acids, but the utility of proteins drove selection for an expanded set of amino acids, rising to the 20 in use today.
+
 ---
 
 ## SYNTHESIS OF SMALL MOLECULES
@@ -400,3 +404,4 @@ Experiments on cells derived from extant biology. These are usually not prebioti
 \[I1\] Pelletier, J.F. *et al.* (2021). '[**Genetic requirements for cell division in a genomically minimal cell**](https://www.cell.com/cell/fulltext/S0092-8674(21)00293-2)'. *Cell,* 184(9), pp.2430-2440. doi:10.1016/j.cell.2021.03.008.
 
 >Building on Craig Venter's 2010 work creating synthetic cells derived from the bacteria *Mycoplasma mycoides*, a new type of synthetic minimal cell (JCVI-syn3.0) is created. These cells contain \~500 genes and undergo normal cell division with spherical cell shape.
+
