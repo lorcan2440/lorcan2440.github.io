@@ -721,3 +721,25 @@ Video playlist extensively exposing the DI: [here](https://www.youtube.com/playl
 - [Nathaniel Jeanson](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) is a Harvard PhD who has readily admitted that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
 It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems less likely in the case of the more qualified individuals.
+
+### Some Relevant Quotes
+
+>"Nothing in biology makes sense except in the light of evolution."
+
+--- Theodosius Dobzhansky, Evolutionary Biologist
+
+> I write about biology from the point of view of a physicist. Some physicists are arrogant and some are humble. I prefer to be humble. Arrogant physicists say that biology needs better concepts; since physicists are good at concepts, our job is to tell biologists how to think. Humble physicists say that biology needs better hardware; since physicists are good at hardware, our job is to invent new tools for biologists to use. With the exception of Max Delbruck and Francis Crick and a few other pioneers in the heroic age of molecular biology, physicists who tried to teach biologists how to think have failed dismally. 
+
+--- Freeman Dyson, Theoretical Physicist, as cited by Dr David Tong in his Cambridge Mathematical Biology [lecture notes](https://www.damtp.cam.ac.uk/user/tong/mathbio/mathbio.pdf).
+
+> It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
+
+--- Richard Feynman, Theoretical Physicist
+
+> All models are wrong, but some are useful.
+
+--- George Box, Statistician
+
+> I believe God did intend, in giving us intelligence, to give us the opportunity to investigate and appreciate the wonders of His creation. He is not threatened by our scientific adventures.
+
+--- Francis Collins, Director of the Human Genome Project and the NIH
