@@ -724,7 +724,7 @@ It is often difficult to discern whether these "creation scientists" are incompe
 
 ### Some Relevant Quotes
 
->"Nothing in biology makes sense except in the light of evolution."
+>Nothing in biology makes sense except in the light of evolution.
 
 --- Theodosius Dobzhansky, Evolutionary Biologist
 

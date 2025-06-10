@@ -395,6 +395,10 @@ Studies on the behaviour of lipid vesicles to test for their validity as the fir
 
 >Lipid bilayers encapsulating homochiral Leu-Leu, Leu-Gly and Leu-Ser dipeptides grew to larger sizes and were more stable to salt-induced flocculation than those encapsulating heterochiral dipeptides, which led to leaky vesicles. This provides a selection mechanism for homochirality in vesicle-bound dipeptides.
 
+\[H6\] Katla, S.K., Lin, C. and Pérez-Mercader, J. (2025). '[**Self-reproduction as an autonomous process of growth and reorganization in fully abiotic, artificial and synthetic cells**](https://www.pnas.org/doi/10.1073/pnas.2412514122)'. *Proc. Natl. Acad. Sci. U.S.A.*, 122(22), e2412514122, doi:10.1073/pnas.2412514122.
+
+>Abiotic vesicles were created in water from a mixture of 1) PEG terminated with a hydrophobic chain transfer agent (an amphiphile), 2) monomers such as acrylonitrile (photopolymerisable to form block copolymers with PEG), 3) zinc tetraphenylporphyrin (a photocatalyst), in the presence of visible light. This represents a far-from-equilibrium system with robust dynamics. The polymers assemble into micelles enclosing the reactive monomers. These vesicles evolve in time through feedback between polymerisation, degradation and chemiosmotic gradients, resulting in self-reproduction. As vesicles grow, they polymerise their contents, leading to their partial release and their reproduction into new vesicles, exhibiting a loose form of heritable variation, competitive exclusion and Darwinian selection.
+
 ---
 
 ## SYNTHETIC BIOLOGY
