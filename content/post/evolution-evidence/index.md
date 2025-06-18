@@ -180,6 +180,8 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 **GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been lost, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus* and guinea pigs (*Cavia porcellus*).
 
+https://link.springer.com/article/10.1007/s00239-024-10165-0
+
 **NANOG** (homeobox protein).
 
 **DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques
@@ -226,7 +228,9 @@ https://link.springer.com/article/10.1007/BF00182743
 
 Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54)
 
-### Mutations in human evolution
+https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf
+
+### Beneficial mutations in human evolution
 
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
@@ -234,12 +238,50 @@ Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025
 
 *Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
 
+Mutations affecting brains and intelligence:
+
 - **ARHGAP11**: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
 - **TKTL1** (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
 - **NOTCH2NL**: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
 - **SRGAP2C** and **TBC1D3**: more human-specific genes contributing to the frontal cortex. Sources: [here](https://www.cell.com/cell/fulltext/S0092-8674(12)00461-8), [here](https://www.nature.com/articles/s41598-019-54887-4) and [here](https://genome.cshlp.org/content/34/11/1798.short).
+
+Mutations affecting muscles and biomechanics:
+
 - **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
 - **GDF8** (myostatin): negatively regulates skeletal muscle growth.
+
+Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.org/wiki/Recent_human_evolution)
+
+- **ADH1B** (alcohol dehydrogenase): the SNP Arg48His is more common in East Asians due to rice domestication, and reduces the risk of alcoholism. Another SNP Arg370Cys occurs in Africa which reduces alcohol dependence.
+- **PDE10A**: leads to enlarged spleens in the Bajau people. The spleen is a reservoir of oxygenated red blood cells, allowing them to hold their breath for longer (hypoxia tolerance) while freediving. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6).
+- **NOS3** (nitric oxide synthase) and others for high-altitude adaptation: in three distinct populations (Tibetans, Andeans and Ethiopians), multiple different mutations in a variety of genes lead to hypoxia tolerance, allowing for their survival at high altitudes.
+- **Sickle cell trait**: in regions of Africa where malaria is prominent, carrying one copy of the recessive sickle cell anaemia allele confers resistance to the *Plasmodium* parasite. While there are associations of sickle cell trait to other medical conditions, many people with the trait remain healthy, making it net beneficial in malaria-endemic regions. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(11)00384-9).
+- **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions.
+
+### Interesting neutral mutations in recent human evolution
+
+In some of these cases, no harmful effect is observed despite what is typically thought of as a 'loss of function' (e.g. gene deletion). These result in variation in the population, and may serve as a substrate for future selection, or simply be neutral. Additionally, what is neutral in a current environment may become beneficial in a future environment.
+
+- **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
+- **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
+- *Palmaris longus* **muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with no loss of overall grip strength or hand function, despite a small reduction in pinch strength in the 4th and 5th fingers.
+- **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
+
+### Human lactose tolerance
+
+In lactose intolerant people (\~65% of humans worldwide), the ability to digest lactose is lost during adolescence. The lactase enzyme is required to metabolise lactose into glucose and galactose. Without lactase in the small intestine, lactose remains available for the bacteria in the large intestine which ferment it, leading to fatty acid and gas production, causing symptoms of lactose intolerance.
+
+The *LCT* gene codes for lactase, and has a low-affinity promoter. The *MCM6* gene, found upstream on chromosome 2, codes for a subunit of helicase (an unrelated protein used in DNA replication), and an intron of *MCM6* contains an enhancer for *LCT*. Transcription factors that bind to the *LCT* promoter include HNF1-α, GATA and CDX-2, while Oct1 binds to the *LCT* enhancer.
+
+In mammals, most metabolic genes except lactase are expressed at low levels early in development as nutrients are provided primarily by breast milk, but during adolescence, as these other genes are promoted, low-affinity promoters like *LCT* are outcompeted, sharply reducing *LCT* expression. In lactase persistence, point mutations to the *LCT* enhancer result in an increased affinity for the *LCT* promoter, allowing it to remain competitive for transcription throughout life, allowing lifelong lactase synthesis. So, this is *not* a loss of regulation or function, as routinely claimed by ID advocates. Some mutations also reduce the age-related DNA methylation of the enhancer. Lactase persistence has evolved independently with several SNPs (single nucleotide polymorphisms) under strong positive selection in the past 10,000 years of human history, primarily in societies that had dairy farming and pastoralist agriculture.
+
+Sources: [here](https://pubmed.ncbi.nlm.nih.gov/39171584/) and [here](https://www.youtube.com/watch?v=Ii8sLnCWUTo) (video)
+
+### Herbicide and insecticide resistance
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3180.2007.00581.x
+
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030205
 
 ### Genomics
 
@@ -283,16 +325,6 @@ HIV also simultaneously demonstrates observed 'macroevolution' (to the extent th
 
 Extra sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC9467346/).
 
-### Human lactose tolerance
-
-In lactose intolerant people (\~65% of humans worldwide), the ability to digest lactose is lost during adolescence. The lactase enzyme is required to metabolise lactose into glucose and galactose. Without lactase in the small intestine, lactose remains available for the bacteria in the large intestine which ferment it, leading to fatty acid and gas production, causing symptoms of lactose intolerance.
-
-The *LCT* gene codes for lactase, and has a low-affinity promoter. The *MCM6* gene, found upstream on chromosome 2, codes for a subunit of helicase (an unrelated protein used in DNA replication), and an intron of *MCM6* contains an enhancer for *LCT*. Transcription factors that bind to the *LCT* promoter include HNF1-α, GATA and CDX-2, while Oct1 binds to the *LCT* enhancer.
-
-In mammals, most metabolic genes except lactase are expressed at low levels early in development as nutrients are provided primarily by breast milk, but during adolescence, as these other genes are promoted, low-affinity promoters like *LCT* are outcompeted, sharply reducing *LCT* expression. In lactase persistence, point mutations to the *LCT* enhancer result in an increased affinity for the *LCT* promoter, allowing it to remain competitive for transcription throughout life, allowing lifelong lactase synthesis. So, this is *not* a loss of regulation or function, as routinely claimed by ID advocates. Some mutations also reduce the age-related DNA methylation of the enhancer. Lactase persistence has evolved independently with several SNPs (single nucleotide polymorphisms) under strong positive selection in the past 10,000 years of human history, primarily in societies that had dairy farming and pastoralist agriculture.
-
-Sources: [here](https://pubmed.ncbi.nlm.nih.gov/39171584/) and [here](https://www.youtube.com/watch?v=Ii8sLnCWUTo) (video)
-
 ### Re-evolution of bacterial flagella
 
 The flagellum is the flagship allegedly irreducibly complex structure, cited ad nauseum by ID advocates. Since it is the one that has been talked about the most, it has also attracted a lot of attention from real scientists who have promptly disarmed it. In one experiment, the master regulator for flagellum synthesis (FleQ) was knocked out, leaving all of the other flagellar genes intact. But under selective pressure for motility, it was found that another transcription factor that regulates nitrogen uptake from the same protein family (NtrC) was able to 'substitute' for FleQ, essentially by becoming hyperexpressed, so there's so much NtrC in the cell that some of it binds to the FleQ-regulated genes and activates them too.
@@ -315,7 +347,7 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 
 ### *De novo* promoters and orphan genes
 
-### DNT metabolism
+### DNT metabolism in bacteria
 
 https://www.talkorigins.org/faqs/dover/pf.html#p84
 
@@ -442,6 +474,10 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 {{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
 
+### Evolution of the vertebrate eye
+
+Anatomical constraints in eye evolution: [here](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1)
+
 ---
 
 ## COMPARATIVE PHYSIOLOGY
@@ -453,6 +489,30 @@ Aphids have an endosymbiotic relationship with *Buchnera Aphidicola* bacteria. T
 An example of higher-degree endosymbiosis is the Darwin termite (*Mastotermes darwiniensis*). The termite relies on a protist *Mixotricha paradoxa* to process the wood. The protists further rely on other bacteria living on its surface (each look like a thin hair that wiggles; symbiotic signalling in exchange for food). Within the protist, there is another endosymbiont spherical bacterium that digests cellulose in wood, releasing acetate for the protist. These bacteria have removed the need for *M. paradoxa* to have mitochondria, which have degraded into simpler organelles (hydrogenosomes and mitosomes).
 
 Sources: [here](https://schaechter.asmblog.org/schaechter/2015/11/symbiont-exchange-in-the-aphidbuchnera-symbiosis-part-1.html) and Chapter 38 of *The Ancestor's Tale* by Richard Dawkins.
+
+### Physical constraints in the evolution of the eye
+
+Solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
+
+With eyesight, there is the additional task of extracting information from the radiation, providing both thermodynamic and information-theoretic constraints on the evolution of the eye.
+
+- **Radiation entropy maximisation**: solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for (e.g. photosynthesis). Solar radiation contains both energy and entropy, with slightly different Wien peaks for the two. The eye evolved to maximise the information extracted from the radiation, and the eye's spectral sensitivity is optimised to the maximum entropy peak instead of the energy peak. Sources: [here](https://www.nature.com/articles/srep36038) and [here](https://www.nature.com/articles/s41598-017-01622-6).
+
+- **Utility-based coding**: updates the opponent process theory explaining how S, M, L cone signals are encoded in the optic nerve and visual pathway. The new theory describes the optimal encoding of spectral information given competing selective pressure to extract high-acuity spatial information. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10527909/pdf/nihms-1907957.pdf)
+
+- **Principal components of reflectance spectra**: the encoding of S, M and L into three channels can be explained by the observation that the three channels are the first three PCs in a PCA of the reflectance spectra of natural materials and scenes, encoding 98\% of the total variance. This allows minimal information loss with the fewest number of channels, a consequence of the fact that the eye evolved to extract information from the environment. Source: [here](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-2-218)
+
+### Thermodynamics of photosynthesis
+
+The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy to maximally generate entropy in the surroundings while maintaining a low-entropy internal state.
+
+Intro-level explainer on the thermodynamics of life: [here](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html).
+
+In a plant for example, the energy input is sunlight (very high exergy) and the high entropy output is water in the vapour state (transpiration). All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
+
+Basic thermodynamic analysis of photosynthesis: [here](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)
+
+Rigorous exergy analysis of photosynthesis: [here](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)
 
 ---
 
@@ -477,6 +537,10 @@ Source: [here](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phy
 ### Great ape Y chromosome mutation rates
 
 Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA) and [here]
+
+### Statistical evidence of common ancestry among primates
+
+Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)
 
 ---
 
@@ -530,7 +594,7 @@ Morphology and biomechanics are linked by causal morphogenesis (Wolff’s law). 
 
 Our genus, *Homo*, is thought to have emerged from one of the coexisting species of the genus *Australopithecus*. Based on the available fossil record, this transition appears to be quite subtle: the brain case sizes overlap, both can use stone tools, both have similar dentition (teeth), and biomechanics studies indicate both were mostly bipedal (though *A. afarensis* only had two arches plus a less-curved third arch in the foot, suggesting habitual bipedality, while *H. habilis* had three fully formed arches, suggesting full obligate bipedality). This high degree of similarity has even led to some paleoanthropologists to suggest that *H. habilis* should in fact be *Australopithecus habilis*. Although this has not been formally adopted, the challenge of a clear-cut taxonomic classification demonstrates the highly transitional nature of these species.
 
-Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a clear divide.
+Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a true clear divide.
 
 Source: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
 
