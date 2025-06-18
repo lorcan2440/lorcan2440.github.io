@@ -490,6 +490,23 @@ An example of higher-degree endosymbiosis is the Darwin termite (*Mastotermes da
 
 Sources: [here](https://schaechter.asmblog.org/schaechter/2015/11/symbiont-exchange-in-the-aphidbuchnera-symbiosis-part-1.html) and Chapter 38 of *The Ancestor's Tale* by Richard Dawkins.
 
+### Different types of eyes
+
+As one of the most impressively complex sensory organs, the eye's evolution has been especially well studied. Eyes in some form have evolved independently over 50 times, with vastly different structures and functions suited to each lineage.
+
+- Eyespots: a simple light-sensitive organelle found in euglenids (photosynthetic protists), containing photoreceptor proteins. Without any nerve cells, the signal cascade on light detection results in flagellar movement, enabling phototaxis.
+- Pit eye: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
+- Pinhole camera eye: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
+- Lens formation: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical abberation.
+- Multiple lenses: Found in **Pontella*. A triplet lens (two in females) with the outer elements outside the eye. The first surface is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
+- Telescoping lens: Found in *Copilia*. Two lenses work like a telescope with a point-like retina and only a 3° field of view. There is a horizontal scanning eye movements at <5 Hz, while the bottom apparatus (eyepiece + retina) moves in image plane of the 'objective'. The prey (plankton) moves vertically, giving a second dimension of scanning.
+- Corneal refraction in land animals: to correct for the air-water interface and spherical aberration. In humans, 2/3 of the optical power is in the cornea rather than the lens.
+- Reflective mirror in the scallop.
+- Compound eyes in insects and crustaceans.
+- Nanostructured cornea anti-reflection surfaces for quarter-wave matching in moths.
+- Binocular/stereoscopic vision in vertebrates.
+- Trichromatic vision in primates.
+
 ### Physical constraints in the evolution of the eye
 
 Solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
