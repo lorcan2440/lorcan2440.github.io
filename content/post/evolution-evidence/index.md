@@ -226,9 +226,7 @@ https://link.springer.com/article/10.1007/BF00182743
 
 ### Chromosome 2 fusion in the human lineage
 
-Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54)
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf
+Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf) (paper).
 
 ### Beneficial mutations in human evolution
 
@@ -238,17 +236,21 @@ Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025
 
 *Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
 
-Mutations affecting brains and intelligence:
+Human-specific mutations affecting brains and intelligence:
 
 - **ARHGAP11**: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
 - **TKTL1** (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
 - **NOTCH2NL**: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
-- **SRGAP2C** and **TBC1D3**: more human-specific genes contributing to the frontal cortex. Sources: [here](https://www.cell.com/cell/fulltext/S0092-8674(12)00461-8), [here](https://www.nature.com/articles/s41598-019-54887-4) and [here](https://genome.cshlp.org/content/34/11/1798.short).
+- **SRGAP2**: Partially duplicated to SRGAP2B 3.4 MYA, followed by two larger duplications at 2.4 MYA and 1 MYA. Source: [here](https://www.cell.com/fulltext/S0092-8674(12)00461-8) and [here](https://www.nature.com/articles/s41598-019-54887-4).
+- **FOXP2**: Linked to development of speech and language skills. Source: [here](https://www.nature.com/articles/nature01025).
+- **TBC1D3**: another human-specific gene contributing to the frontal cortex. Source: [here](https://genome.cshlp.org/content/34/11/1798.short)
 
-Mutations affecting muscles and biomechanics:
+Human-specific mutations affecting muscles and biomechanics:
 
 - **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
 - **GDF8** (myostatin): negatively regulates skeletal muscle growth.
+- **MYH16**: changes the musculature of the jaw. Source: [here](https://www.nature.com/articles/nature02358).
+- **HACSN1**: a developmental enhancer leading to limb and digit specialisations. Source: [here](https://www.science.org/doi/abs/10.1126/science.1159974)
 
 Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.org/wiki/Recent_human_evolution)
 
@@ -344,6 +346,12 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 {{< figure src="antibiotic_phylogeny.png" title="The end of the experiment, showing how the colonies connect together to show their relatedness. Video: [here](https://www.youtube.com/watch?v=plVk4NVIUh8). Paper: [here](https://www.science.org/doi/10.1126/science.aag0822)." >}}
 
 ### Nylon-eating bacteria
+
+Nylon is a synthetic insoluble semi-crystalline polymer of 6-aminohexanoic acid, invented in 1935 and used in a variety of consumer products. In 1965, Japanese researcher Takashi Fukumura found that 11 bacterial strains in the wastewater of the Toyo Rayon 6-polyamide factory (today Toray) in Nagoya were able to grow on ε-caprolactam, the cyclic amide precursor to nylon 6. One more species, *Corynebacterium aurantiacum*, also was found to be able to metabolise linear and cyclic 6-aminohexanoate oligomers. Another group of researchers 4 years later found in the waste water of the same factory a strain from the phylum *Pseudomonas* also able to metabolise 6-aminohexanoate oligomers.
+
+One of the 'nylonase' enzymes involved was produced by a frame-shift mutation that completely scrambled existing genetic code data, with the new gene still having a novel, albeit weak, catalytic capacity.
+
+In 1974 then we have Hirosuke Okada with his research on *Flavobacterium*. He found that *Flavobacterium* was able to metabolize ε-caprolactam, 6-aminohexanoate and cyclic aminohexanoate-dimer as well as the linear di- bis hexamers of 6-aminohexanoate.
 
 ### *De novo* promoters and orphan genes
 
@@ -490,24 +498,28 @@ An example of higher-degree endosymbiosis is the Darwin termite (*Mastotermes da
 
 Sources: [here](https://schaechter.asmblog.org/schaechter/2015/11/symbiont-exchange-in-the-aphidbuchnera-symbiosis-part-1.html) and Chapter 38 of *The Ancestor's Tale* by Richard Dawkins.
 
-### Different types of eyes
+### Evolution of eyesight
 
 As one of the most impressively complex sensory organs, the eye's evolution has been especially well studied. Eyes in some form have evolved independently over 50 times, with vastly different structures and functions suited to each lineage.
 
-- Eyespots: a simple light-sensitive organelle found in euglenids (photosynthetic protists), containing photoreceptor proteins. Without any nerve cells, the signal cascade on light detection results in flagellar movement, enabling phototaxis.
-- Pit eye: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
-- Pinhole camera eye: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
-- Lens formation: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical abberation.
-- Multiple lenses: Found in **Pontella*. A triplet lens (two in females) with the outer elements outside the eye. The first surface is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
-- Telescoping lens: Found in *Copilia*. Two lenses work like a telescope with a point-like retina and only a 3° field of view. There is a horizontal scanning eye movements at <5 Hz, while the bottom apparatus (eyepiece + retina) moves in image plane of the 'objective'. The prey (plankton) moves vertically, giving a second dimension of scanning.
-- Corneal refraction in land animals: to correct for the air-water interface and spherical aberration. In humans, 2/3 of the optical power is in the cornea rather than the lens.
-- Reflective mirror in the scallop.
-- Compound eyes in insects and crustaceans.
-- Nanostructured cornea anti-reflection surfaces for quarter-wave matching in moths.
-- Binocular/stereoscopic vision in vertebrates.
-- Trichromatic vision in primates.
+#### Different types of eyes
 
-### Physical constraints in the evolution of the eye
+- **Retinal phototrophy**: the retinal molecule is used by *Haloarchaea* in bacteriorhodopsin proteins to capture light energy via chemiosmosis. This is the key light sensor molecule needed for eyes, without any of the complex structures that evolved later.
+- **Eyespots**: a simple light-sensitive organelle found in euglenids (unicellular photosynthetic protists), containing photoreceptor proteins. Without any nerve cells, the signal cascade on light detection results in flagellar movement, enabling phototaxis.
+- **Pit eye**: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
+- **Pinhole camera eye**: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
+- **Lens formation**: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical aberration.
+- **Multiple lenses**: Found in **Pontella*. A triplet lens (two in females) with the outer elements outside the eye. The first surface is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
+- **Telescoping lens**: Found in *Copilia*. Two lenses work like a telescope with a point-like retina and only a 3° field of view. There is a horizontal scanning eye movements at <5 Hz, while the bottom apparatus (eyepiece + retina) moves in image plane of the 'objective'. The prey (plankton) moves vertically, giving a second dimension of scanning.
+- **Corneal refraction in land animals**: to correct for the air-water interface and spherical aberration. In humans, 2/3 of the optical power is in the cornea rather than the lens.
+- **Reflective concave mirror** (argentea) in the scallop.
+- **Tapetum lucidum**: a reflective layer behind the retina in many nocturnal and crepuscular mammals (cats, dogs, deer), aiding in night vision. A variety of structures and molecules are used.
+- **Compound eyes** in insects and crustaceans.
+- **Nanostructured cornea anti-reflection surfaces** for quarter-wave matching in moths.
+- **Binocular/stereoscopic vision** in vertebrates.
+- **Trichromatic vision** in primates.
+
+#### Physical constraints in the evolution of the eye
 
 Solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
 
@@ -519,7 +531,33 @@ With eyesight, there is the additional task of extracting information from the r
 
 - **Principal components of reflectance spectra**: the encoding of S, M and L into three channels can be explained by the observation that the three channels are the first three PCs in a PCA of the reflectance spectra of natural materials and scenes, encoding 98\% of the total variance. This allows minimal information loss with the fewest number of channels, a consequence of the fact that the eye evolved to extract information from the environment. Source: [here](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-2-218)
 
-### Thermodynamics of photosynthesis
+### Evolution of photosynthesis
+
+Photosynthesis is another form of phototrophy which uses chlorophyll as the light-absorbing molecule. Like the eye, it is extremely complex today, but started out from simpler systems based on the same fundamental principles.
+
+#### Photosystems in unicellular life
+
+The two main parts of photosynthesis are Photosystems I and II:
+
+- PSI: an electron transport chain using ferredoxin to generate NADPH.
+- PSII: a water-splitting complex generating protons, which can be used for chemiosmosis in ATP synthase. Likely to have evolved first due to its simpler structure and immediate utility in generating ATP.
+
+The ATP produced can then be used in a metabolic cycle to fix carbon dioxide into useful organic compounds.
+
+The bacterial kingdom *Bacillati* contains a range of photosynthetic bacteria:
+
+- Phylum *Cyanobacteria*: contains both Photosystem I and II, using the Calvin cycle.
+- Phylum *Bacillota*: only uses Photosystem I, without any associated synthetic cycle.
+- Phylum *Chloroflexota*, order *Chloroflexales*, only uses Photosystem II, using the 3-hydroxypropionate bi-cycle.
+
+The bacterial kingdom *Pseudomonadati* also contains a similar variety:
+
+- Phylum *Chlorobiota* (green sulfur bacteria): contains Photosystem I, using the reverse Krebs cycle.
+- Phylum *Pseudomonadota* (purple bacteria): contains Photosystem II, using the Calvin cycle.
+
+Cyanobacteria became incorporated into eukaryotes as chloroplasts via endosymbiosis, allowing plants and algae to make use of photosynthesis, with both photosystems I and II.
+
+#### Thermodynamics of photosynthesis
 
 The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy to maximally generate entropy in the surroundings while maintaining a low-entropy internal state.
 
@@ -633,7 +671,7 @@ Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomat
 - **Dmanisi skulls**: a set of skulls of *Homo erectus*, 1.81 MYA.
 - **Turkana Boy**: near-complete young *Homo erectus*, 1.55 MYA.
 - **Peking Man**: a Chinese specimen of *Homo erectus*, 500 kYA.
-- **East Asian archaics**: a collection of late *Homo erectus* or archaic *Homo sapiens* specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
+- **East Asian archaics**: a collection of late *Homo erectus*, archaic *Homo sapiens* and Denisovan specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
 - **Denny**: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
 - **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
 - **Lomekwi stone tools**: oldest stone tools, attributed to *Australopithecus* or *Kenyanthropus*.
@@ -668,13 +706,9 @@ The animals used in lab studies for medicines are chosen based on evolutionary r
 
 Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
 
-Importantly, medicine is complicated, and evolution is not the only factor in determining suitability! In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, [telomeres are longer than in humans due to stronger telomerase activity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/), which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. 
+Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, [telomeres are longer than in humans due to stronger telomerase activity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/), which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. 
 
-Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed.
-
-- Transgenic mice
-- Knockout mice
-- *C. elegans* and *D. melanogaster* for developmental studies
+Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. [Chimps in general are rarely useful models for humans despite their genetic similarity](https://journals.sagepub.com/doi/10.1177/026119291103900608), due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed.
 
 ### Protein Folding Prediction
 
@@ -767,7 +801,7 @@ A significant number of scientific societies have [explicitly rejected intellige
 
 ### Intelligent Design is Political, not Scientific
 
-The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001.
+The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001. Once this document was exposed, the DI published [The Wedge Document: So What?](https://www.discovery.org/m/2019/04/Wedge-Document-So-What.pdf) in an attempt at damage control, where they both denied and doubled down on some their intentions.
 
 As part of this effort to promote ID, the DI put out a petition called ["Dissent from Darwinism"](https://en.wikipedia.org/wiki/A_Scientific_Dissent_from_Darwinism), which asked a wide variety of experts including scientists, doctors and engineers whether they agreed with the following statement: 
 
@@ -794,6 +828,8 @@ Video playlist extensively exposing the DI: [here](https://www.youtube.com/playl
 "Creation scientists" are degree-holding scientists who intend to use science to find evidence for their religious convictions. Despite being qualified (sometimes), they have a reputation for being exceptionally dishonest, untrustworthy, and most importantly, highly incompetent in their work promoting creationism. Examples include:
 
 - [Jeffrey Tomkins](https://www.reddit.com/r/DebateEvolution/comments/18uonlm/human_and_chimpanzee_genetic_similarity_an/), who made numerous basic arithmetic and methodological errors in attempting to show that humans and chimpanzees share much less DNA than the conventional figure of >95\%.
+
+- [Günter Bechly](https://evolutionnews.org/2025/01/farewell-to-gunter-bechly/) worked at the DI and allegedly ended his life in a murder-suicide car crash, killing one other person. The DI made no mention of these allegations in their post reminiscing on his career. Sources: [here](https://www.krone.at/3644919) and [here](https://www.reddit.com/r/DebateEvolution/comments/1i383fr/deleted_by_user/).
 
 - ["Mendel's Accountant"](https://www.reddit.com/r/DebateEvolution/comments/1gx4mgc/mendels_accountants_tax_fraud/), a computer program written by John Sanford, intended to show that mutation would always lead to 'genetic entropy' (loss of genetic information and degradation). The code was found to be heavily skewed to favour this conclusion, by biassing the effect of harmful mutations, among several other flaws.
 
