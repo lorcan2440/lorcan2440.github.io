@@ -563,7 +563,9 @@ The biosphere, and life itself (such as a cell) is an open system, and one in a 
 
 Intro-level explainer on the thermodynamics of life: [here](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html).
 
-In a plant for example, the energy input is sunlight (very high exergy) and the high entropy output is water in the vapour state (transpiration). All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
+The concept of **exergy** is very helpful in understanding the thermodynamics of photosynthesis. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it. Although a plant radiates away as much energy as it receives (otherwise it would heat up!), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis, building up complex organic molecules from simple inorganic ones.
+
+The transpiration stream of the plant provides the high-entropy output in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
 
 Basic thermodynamic analysis of photosynthesis: [here](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)
 
@@ -766,6 +768,7 @@ Evolutionary (genetic) algorithms are rarely the best solution to a problem sinc
 - Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples [here](https://link.springer.com/article/10.1007/s42791-021-00040-0).
 - [Hyperparameter optimisation in neural networks](https://link.springer.com/article/10.1023/A:1008272615525) and [this](https://arxiv.org/pdf/1711.09846) from DeepMind.
 - [Training deep neural networks in reinforcement learning](https://github.com/uber-research/deep-neuroevolution), from Uber's research team, also [this](https://arxiv.org/abs/1611.01578) from Google Brain, and [this](https://openai.com/index/evolution-strategies/) post from OpenAI.
+- [Diffusion models](https://arxiv.org/pdf/2410.02543) are a type of generative AI used to create images or videos, and have been mathematically shown to be equivalent to an evolutionary algorithm.
 - [Operations research](https://www.sciencedirect.com/science/article/abs/pii/S095219761830174X) (e.g. facility layout design, supply network design, vehicle routing, capacity planning, inventory management, scheduling, risk management)
 - Inverse problems (e.g. inverse kinematics).
 - [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5, and using COMSOL [here](https://www.comsol.com/blogs/optimizing-the-geometry-of-optical-antennas-with-genetic-algorithms)
@@ -835,6 +838,8 @@ Video playlist extensively exposing the DI: [here](https://www.youtube.com/playl
 
 - ["Biblical Radiocarbon"](https://www.reddit.com/r/DebateEvolution/comments/1e8j9rv/answers_research_journal_publishes_an_impressive/), a website running a program that aims to 'recalibrate' conventional radiocarbon dates into a young-earth timeline. The program's code was found to be of exceptionally poor quality with numerous bugs.
 
+- Salvador (Sal) Cordova, a creation scientist who gave a presentation at a conventional evolution conference. The presentation was highly unprofessional and he made no attempt to communicate any of his points clearly. Dr Dan Stern Cardinale and Dr Zach Hancock reviewed the presentation [here](https://www.youtube.com/watch?v=Vfj2_3QgkUc).
+
 - [Nathaniel Jeanson](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) is a Harvard PhD who has readily admitted that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
 It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems less likely in the case of the more qualified individuals.
@@ -845,7 +850,13 @@ It is often difficult to discern whether these "creation scientists" are incompe
 
 --- Theodosius Dobzhansky, Evolutionary Biologist
 
-> I write about biology from the point of view of a physicist. Some physicists are arrogant and some are humble. I prefer to be humble. Arrogant physicists say that biology needs better concepts; since physicists are good at concepts, our job is to tell biologists how to think. Humble physicists say that biology needs better hardware; since physicists are good at hardware, our job is to invent new tools for biologists to use. With the exception of Max Delbruck and Francis Crick and a few other pioneers in the heroic age of molecular biology, physicists who tried to teach biologists how to think have failed dismally. 
+>As a natural historian according to the principles of science, up to the present time I have been not been able to discover any character by which man can be distinguished from the ape; for there are somewhere apes which are less hairy than man, erect in position, going just like him on two feet, and recalling the human species by the use they make of their hands and feet, to such an extent, that the less educated travellers have given them out as a kind of man.
+
+>I demand of you, and of the whole world, that you show me a generic character — one that is according to generally accepted principles of classification, by which to distinguish between Man and Ape. I myself most assuredly know of none.... But, if I had called man an ape, or vice versa, I should have fallen under the ban of all the ecclesiastics. It may be that as a naturalist I ought to have done so.
+
+--- Carl Linnaeus, pre-Darwinian Botanist and Taxonomist
+
+> I write about biology from the point of view of a physicist. Some physicists are arrogant and some are humble. I prefer to be humble. Arrogant physicists say that biology needs better concepts; since physicists are good at concepts, our job is to tell biologists how to think. Humble physicists say that biology needs better hardware; since physicists are good at hardware, our job is to invent new tools for biologists to use. With the exception of Max Delbruck and Francis Crick and a few other pioneers in the heroic age of molecular biology, physicists who tried to teach biologists how to think have failed dismally.
 
 --- Freeman Dyson, Theoretical Physicist, as cited by Dr David Tong in his Cambridge Mathematical Biology [lecture notes](https://www.damtp.cam.ac.uk/user/tong/mathbio/mathbio.pdf).
 
