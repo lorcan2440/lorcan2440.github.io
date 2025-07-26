@@ -65,7 +65,7 @@ Direct observations are not the *best evidence* of evolution as a whole. Direct 
 
 Reptiles are known for usually giving birth via egg-laying (oviparity), but there is evidence that some snakes and lizards (order *Squamata*) transitioned to giving live birth (viviparity) independently and recently. A 'transitional form' between these two modes is 'lecithotrophic viviparity', where the egg and yolk is retained and held wholly within the mother.
 
-While observing a population of *Zootoca vivipara* in the Alps, reproductive isolation was found between these two subgroups, and attempts at producing hybrids in the lab led to embryonic malformations. Sometimes, the viviparous group would even give birth to two live young and one egg within the same litter of three. The oviparous group is now confined to the range spanning northern Spain and southern France (the Pyrenees), while the viviparous lizards extend across most of Europe.
+While observing a population of the lizard *Zootoca vivipara* in the Alps, reproductive isolation was found between these two subgroups, and attempts at producing hybrids in the lab led to embryonic malformations. Sometimes, the viviparous group would even give birth to two live young and one egg within the same litter of three. The oviparous group is now confined to the range spanning northern Spain and southern France (the Pyrenees), while the viviparous lizards extend across most of Europe. This represents an example of speciation with complete reproductive isolation, together with the gain of a complex new function (viviparity) to boot.
 
 Sources: [here](https://www.researchgate.net/publication/233720256_Squamate_reptiles_as_model_organisms_for_the_evolution_of_viviparity) (paper), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4806899/) (paper) and [here](https://www.youtube.com/watch?v=t1xy9XaEaeo) (video).
 
@@ -266,7 +266,7 @@ In some of these cases, no harmful effect is observed despite what is typically 
 
 - **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
-- *Palmaris longus* **muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with no loss of overall grip strength or hand function, despite a small reduction in pinch strength in the 4th and 5th fingers.
+- *Palmaris longus* **muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 
 ### Human lactose tolerance
@@ -371,7 +371,7 @@ Source: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com
 
 ### Cytochrome c oxidase
 
-The cytochrome c oxidase (COX) enzyme is a ubiquitous component of the electron transport chain for respiration, found in bacteria, archaea and the mitochrondria of eukaryotes. Since COX is universally conserved, there is a strong correlation between the number of amino acid substitutions in the COX enzyme and the time since the divergence of the species, an example of the 'molecular clock'.
+The cytochrome c oxidase (COX) enzyme is a famous and ubiquitous component of the electron transport chain for respiration, found in bacteria, archaea and the mitochondria of eukaryotes. Since COX is universally conserved, we would expect it to be more similar in closely related organisms, and less so in more distant ones. In fact we find experimentally that there is a strong correlation between the number of amino acid substitutions in the COX enzyme and the time since the divergence of the species. This is a powerful demonstration of the ‘[molecular clock](https://en.wikipedia.org/wiki/Molecular_clock)’, which gives us an estimate of the time taken for two genomes to have mutated away from a common ancestor, helping us put a time scale onto our evolutionary tree model.
 
 Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
@@ -414,17 +414,35 @@ Trees grow at a rate of approximately 1 ring in their trunk per year. By samplin
 
 Dendrochronology can be used to date wooden artifacts in archaeology from about 10000 years ago to present, since the last ring can be matched to the year it was cut down and used. The carbonised wood in charcoal can be both carbon dated and dendrochronologically dated, allowing us to cross-reference the two methods. We can also infer the climate conditions over its lifetime (paleoclimatology), inferring the past temperature, precipitation and cloud cover from the ring data. Climate data can also be cross-referenced against other sources (e.g. ice cores, sediment cores, historical records, meteorological data...). Examining the trace mineral content of the rings (e.g. carbon-12/13 ratio) provides further data on atmospheric conditions (stable isotope dendrochronology).
 
+Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4853109/)
+
+### Ice core dating
+
 ### Varve chronology
 
 Sedimentary layers in lakes and oceans.
+
+Source: [here](https://repository.arizona.edu/bitstream/handle/10150/654431/3828-3499-1-PB.pdf?sequence=1&isAllowed=y)
 
 ### Paleomagnetic dating
 
 {{< figure src="geomagnetic_striping.png" title="As per the [Vine-Matthews-Morley hypothesis](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis), the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation. This allows dating by measuring continental drift, and can calibrate magnetic analyses elsewhere by correlating with geomagnetic field reversals." >}}
 
+### Iron-60 deposits in magnetofossils
+
+Magnetotactic bacteria (MTBs) live a few centimetres below the sediment on an ocean floor. When sediment deposits on the ocean floor, the MTBs move up to maintain their depth. MTBs uniquely contain ferromagnetic particles which they use to passively align themselves to the geomagnetic field (magnetoreception). These particles are produced by the MTBs consuming iron hydroxide. When they die, their filaments retain the iron, forming a column of '[magnetofossils](https://en.wikipedia.org/wiki/Magnetofossil)' where depth correlates with age.
+
+In 1999, a new isotope of iron was discovered on the deep seafloor, iron-60 ($ ^{60}Fe$), in polymetallic nodules. $ ^{60}Fe$ is radioactive with a half-life of 2.6 million years, and cannot be formed by stellar nucleosynthesis, so its only plausible origin is from a distant supernova showering the Earth with $ ^{60}Fe$. Using beryllium dating and stratigraphy, a sharp increase in the $ ^{60}Fe/Fe$ ratio of MTB magnetofossils was observed between 2.7 - 1.7 MYA.
+
+Calculations were performed to estimate the required position, distance and stellar mass of a potential supernova that could be responsible. It was found that the supernova must have occurred within the Tuc-Hor stellar group ∼2.8 Myr ago, 330 light years away, with supernova material arriving on Earth ∼2.2 Myr ago. It was found that the iron-60 deposits are consistent with turbulent radioisotopic transport in dust grains originating from the supernova explosions.
+
+Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](https://arxiv.org/pdf/1903.04589) and [here](https://iopscience.iop.org/article/10.3847/0004-637X/827/1/48/meta).
+
 ### Oklo natural nuclear reactor
 
 ### Radiometric Dating with Uranium series
+
+Coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277379105001654)
 
 ### Radiometric Dating with Argon
 
@@ -593,11 +611,13 @@ Source: [here](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phy
 
 ### Great ape Y chromosome mutation rates
 
-Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA) and [here]
+Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
 ### Statistical evidence of common ancestry among primates
 
-Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)
+
+
+Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934) (paper) and [here](https://www.youtube.com/watch?v=D7LUXDgTM3A) (video)
 
 ---
 
@@ -796,11 +816,26 @@ These are not necessarily evidence for evolution, but are tangentially related a
 
 The overwhelming majority of scientists accept evolution as the best explanation for the diversity of life on Earth. It is **not** an 'argument from authority' fallacy to cite the scientific community for a scientific argument, as the consensus is based on the evidence acquired through the scientific method, not on opinions or beliefs of individuals with power.
 
-According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. The 2\% who do not are almost exclusively religious fundamentalists outside of the fields of biology, and are therefore both uninformed and biassed. There are practically zero scientists who reject evolution on scientific grounds.
+According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. This percentage is higher than.
+
+The status of a scientific theory is completely independent of the general public's level of support for it. For example, among the American public (sources: [here](https://www.theatlantic.com/technology/archive/2014/04/a-majority-of-americans-question-the-science-of-the-big-bang/360976/), [here](https://www.forbes.com/sites/trevornace/2018/04/04/only-two-thirds-of-american-millennials-believe-the-earth-is-round/) and [here](https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx))
+
+- 94\% believe smoking causes cancer
+- 84\% of Americans who believe the Earth is round
+- 83\% believe vaccines are safe and effective (in 2014; may be lower now!)
+- 60\% believe the Earth is about 4.5 billion years old
+- 58\% believe in evolution (naturalistic or theistic)
+- 46\% believe in the Big Bang theory
+
+despite all of the above being scientific facts that are undisputed in the scientific community.
+
+There are practically zero scientists who reject evolution on scientific grounds, and those who do are often paid by religious organisation to promote their agenda i.e. they are strongly biased.
 
 {{< figure src="survey_for_evo_support.png" title="Most US adults, religious or not, accept evolution, and virtually all scientists accept evolution. Source: [Pew Research Center, 2019](https://www.pewresearch.org/short-reads/2019/02/11/darwin-day/)." >}}
 
 A significant number of scientific societies have [explicitly rejected intelligent design](https://en.wikipedia.org/wiki/List_of_scientific_bodies_explicitly_rejecting_intelligent_design).
+
+Other relevant info: [Level of support for evolution](https://en.wikipedia.org/wiki/Level_of_support_for_evolution)
 
 ### Intelligent Design is Political, not Scientific
 
@@ -826,23 +861,35 @@ Creationism is not science, and intelligent design (ID) is merely creationism wi
 
 Video playlist extensively exposing the DI: [here](https://www.youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q).
 
+The DI was originally and continues to be funded by rich Christian nationalist organisations, with over $15 million per year in donations (source: [here](https://www.desmog.com/discovery-institute/)).
+
 ### Incompetence of "Creation Scientists"
 
 "Creation scientists" are degree-holding scientists who intend to use science to find evidence for their religious convictions. Despite being qualified (sometimes), they have a reputation for being exceptionally dishonest, untrustworthy, and most importantly, highly incompetent in their work promoting creationism. Examples include:
 
 - [Jeffrey Tomkins](https://www.reddit.com/r/DebateEvolution/comments/18uonlm/human_and_chimpanzee_genetic_similarity_an/), who made numerous basic arithmetic and methodological errors in attempting to show that humans and chimpanzees share much less DNA than the conventional figure of >95\%.
 
-- [Günter Bechly](https://evolutionnews.org/2025/01/farewell-to-gunter-bechly/) worked at the DI and allegedly ended his life in a murder-suicide car crash, killing one other person. The DI made no mention of these allegations in their post reminiscing on his career. Sources: [here](https://www.krone.at/3644919) and [here](https://www.reddit.com/r/DebateEvolution/comments/1i383fr/deleted_by_user/).
-
 - ["Mendel's Accountant"](https://www.reddit.com/r/DebateEvolution/comments/1gx4mgc/mendels_accountants_tax_fraud/), a computer program written by John Sanford, intended to show that mutation would always lead to 'genetic entropy' (loss of genetic information and degradation). The code was found to be heavily skewed to favour this conclusion, by biassing the effect of harmful mutations, among several other flaws.
 
-- ["Biblical Radiocarbon"](https://www.reddit.com/r/DebateEvolution/comments/1e8j9rv/answers_research_journal_publishes_an_impressive/), a website running a program that aims to 'recalibrate' conventional radiocarbon dates into a young-earth timeline. The program's code was found to be of exceptionally poor quality with numerous bugs.
+- ["Biblical Radiocarbon"](https://www.reddit.com/r/DebateEvolution/comments/1e8j9rv/answers_research_journal_publishes_an_impressive/), a website published by creationists at Answers in Genesis (AiG) running a program that aims to 'recalibrate' conventional radiocarbon dates into a young-earth timeline. The program's code was found to be of exceptionally poor quality with numerous bugs.
 
-- Salvador (Sal) Cordova, a creation scientist who gave a presentation at a conventional evolution conference. The presentation was highly unprofessional and he made no attempt to communicate any of his points clearly. Dr Dan Stern Cardinale and Dr Zach Hancock reviewed the presentation [here](https://www.youtube.com/watch?v=Vfj2_3QgkUc).
+- [Salvador (Sal) Cordova](https://www.reddit.com/r/DebateEvolution/comments/1m5yc24/sals_latest_yettobepublished_totally_legit/), a creation scientist who gave a presentation at a conventional evolution conference. The presentation was highly unprofessional and he made no attempt to communicate any of his points clearly. Dr Dan Stern Cardinale and Dr Zach Hancock reviewed the presentation [here](https://www.youtube.com/watch?v=Vfj2_3QgkUc). He has also written a very poor quality paper [here](https://drive.google.com/file/d/13zbR3TsSJTmaLzFmR9yQxiNXW_Y-47ST/view?usp=sharing) which was rejected from the BioArxiv preprint server as well as several journals over a course of 8 years.
 
 - [Nathaniel Jeanson](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) is a Harvard PhD who has readily admitted that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
-It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems less likely in the case of the more qualified individuals.
+- Raw Matt (Matthew Nailor) is an accomplice on the 'Standing for Truth' YouTube channel, a bottom-tier platform for YEC apologetics. He wrote a "paper" [here](https://drive.google.com/file/d/1AQyq2X7uaYMqNmb1hhHEJfaaPBAR-GIW/view?usp=sharing) with some of the most terrible formatting and content imaginable, and also fraudulently copied-and-pasted the PLOS One logo onto his paper, to pretend that the PLOS journal published his paper.
+
+It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems far less likely in the case of the more qualified individuals.
+
+There is also a group of intelligent design (ID) proponents working at the Discovery Institute (DI). Unlike the YECs, the DI's ID proponents are **all liars**: no exceptions. They are paid to lie for a specific wider agenda and have been exposed many times, such as in [this video series](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=2mzV14zBaG9iSaC8). Some examples:
+
+- Casey Luskin: deceptively edited a segment of a PBS Nova documentary to remove a voiceover explaining how a scientist made a plaster cast of the 'Lucy' (*Australopithecus afarensis*) pelvis fossil. He substituted this with a narrative claiming the scientists fraudulently cut and deformed the original specimen to make it falsely appear bipedal.
+
+- [Günter Bechly](https://evolutionnews.org/2025/01/farewell-to-gunter-bechly/) worked at the DI and allegedly ended his life in a murder-suicide car crash, killing one other person. The DI made no mention of these allegations in their post reminiscing on his career. Sources: [here](https://www.krone.at/3644919) and [here](https://www.reddit.com/r/DebateEvolution/comments/1i383fr/deleted_by_user/).
+
+- Michael Behe: selectively deleted parts of a data table showing the effect of mutations in a population of polar bears to falsely claim that neutral (benign) mutations are far rarer than they actually are.
+  
+- Jonathan McLatchie: attended a Bible college (i.e. virtually zero academic standards; not a real college) and pretends to be a scientist. Also ragequit a 'Christianity vs atheism' debate against atheist Matt Dilahunty.
 
 ### Some Relevant Quotes
 
