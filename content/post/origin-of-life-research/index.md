@@ -85,6 +85,14 @@ Chemical reactions occurring in space, forming the 'building blocks of the build
 
 >Shallow pools and hydrothermal vents are often proposed as sites for prebiotic chemistry, and several sites are known where both conditions exist together in the same place. Conditions at these shallow hydrothermal fields include wet-dry cycling, temperature variations and influxes of both saltwater and freshwater. This may remove the need for long-distance mass transport, allowing prebiotic chemistry to overcome the 'dilution problem'.
 
+\[A10\] Baaske, P. *et al.* (2007). '[**Extreme accumulation of nucleotides in simulated hydrothermal pore systems**](https://www.pnas.org/doi/10.1073/pnas.0609592104), *Proc. Natl. Acad. Sci. U.S.A.*, 104(22) pp.9346-9351, doi:10.1073/pnas.0609592104.
+
+>The thermal gradients in the plugged pore systems of hydrothermal vents leads to convection-driven flow patterns. This leads to extreme accumulation of chemical concentrations at the base of the pore. By performing experiments in microfluidics channels, the diffusion and thermophoresis parameters of nucleotides and RNAs were determined and used in a computational model to simulate the concentration distribution in a pore. Accumulation grows exponentially with channel length and oligo-RNA length. With a realistic 30 C temperature difference, 7-fold accumulation is found for nucleotides in a 10:1 aspect channel, rising to several billion-fold for 22-mer ssRNA in a 125:1 aspect channel, over a timescale of hours to days. Tar formation is experimentally found to be precluded by the termination of thermophoresis in the molar range, as well as convective removal of microparticles. This provides a robust solution to the 'concentration problem', and can also apply to amino acids and lipids.
+
+\[A11\] Maeda, Y., Tlusty, T. and Libchaber, A. (2012). '[**Effects of long DNA folding and small RNA stem–loop in thermophoresis**](https://www.pnas.org/doi/10.1073/pnas.1215764109), *Proc. Natl. Acad. Sci. U.S.A.*, 109(44) pp.17972-17977, doi:10.1073/pnas.1215764109.
+
+> A genome-sized strand of DNA (from an extant virus) is added to a 5\% PEG aqueous solution. When a temperature gradient is applied, the PEG migrated away by thermophoresis, leaving an osmotic pressure gradient that caused the DNA to form ring structures. Next, the DNA was replaced with short RNAs. For oligo-RNAs without stem-loop secondary structures, such as poly-uracils, no accumulation is observed, leading to depletion. However, for ssRNAs with stem-loop structures, accumulation in the temperature gradient is observed, increasing with stem-loop length. Accumulation was also observed for a 6-mer dsRNA self-acylating ribozyme. The accumulation effect is largest for low salt concentrations. In combination with their previous study where the non-prebiotically-relevant PEG was substituted for large rRNAs yielding the same observations, this provides a mechanism for selective concentration of RNAs by the complexity of their secondary structures, a defining feature of RNA catalytic chemistry, while removing inert homogeneous RNAs.
+
 ---
 
 ## HOMOCHIRALITY
@@ -265,6 +273,10 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 >A review summarising modern prebiotic lipid synthesis and reactions, including their phosphorylation, esterification and ligation with choline. Lipids are formed by Fischer-Tropsch-type reactions of simple gaseous precursors (CO, H$_2$O, H$_2$, CO$_2$), which in turn form from the thermal decomposition of formic acid and oxalic acid. This can form a diverse range of n-alkanes, straight/branched alkenes, fatty alcohols, fatty acids and fatty formyl esters. Triacyanocuprate and tetracyanocuprate can act as electron donors. Glycerol can be phosphorylated in a deep eutectic solvent of urea and choline chloride. Glycerol can form mono-, di- and triglycerides with hot fatty acids and various mineral catalysts. Since bilayer stability against Mg$ ^{2+}$ ions increases with phospholipid-to-lipid ratio, and Lipids form micelles while phospholipids form bilayers, this provides a selection mechanism for phospholipid membranes.
 
+\[E13\] Bonfio, C. *et al.* (2019). '[**Length-Selective Synthesis of Acylglycerol-Phosphates through Energy-Dissipative Cycling**](https://pubs.acs.org/doi/10.1021/jacs.8b12331)', *Journal of the American Chemical Society*, 141(9), pp.3934-3939. doi:10.1021/jacs.8b12331.
+
+>Medium-to-long chain carboxylic acids and glycerol phosphates are both prebiotically relevant (made by photocatalysis/Fischer-Tropsch reactions to generate a complex mixture, then phosphorylation). Activation of the carboxylic acids with imidazole followed by reaction of glycerol 2-phosphate led to phospholipid formation. The medium-chain amphiphiles were found to self-assemble into vesicles stable across a wide range of conditions and capable of retaining nucleotides and oligonucleotides inside. Hydrolysis after acylation was higher in short-chain amphiliphiles, providing a recycling mechanism for selection of longer chains.
+
 ---
 
 ## SYNTHESIS OF MACROMOLECULES
@@ -368,6 +380,10 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 \[G13\] Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalytic amyloids**](https://www.nature.com/articles/nchem.1894)'. *Nature Chemistry*, 6, pp.303-309. doi:10.1038/nchem.1894.
 
 >Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ (quite high) at pH 10.3.
+
+\[G14\] Mariani, A. and Sutherland, J. D. (2017). '[**Non-Enzymatic RNA Backbone Proofreading through Energy-Dissipative Recycling**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201703169), *Angew. Chem. Int. Ed.*, 56, pp.6563–6566. doi:10.1002/anie.201703169.
+
+>Starting with a 13-mer oligo-RNA duplex with a 2'-5' linkage in the middle of one strand (and the rest 3'-5' linked), mildly alkaline conditions (pH 9.25, 21 C) led to the isomerisation of the 2'-5' linkage into a 6-mer oligo-RNA 2'-3' cylic phosphate. Hydrolysis with $ [Mg^{2+}] \leq $ 40 mM opened the cyclic phosphate to give the 6-mer and 7-mer oligo-RNAs, with the 6-mer having either a terminal nucleoside 2- or 3-phosphate. From there, acetylation with N-acetylimidazole and phosphorlyation with N-cyanoimidazole led to regioselective ligation to form 3'-5' RNA from the 6/7-mers. Only 1\% degradation of the all-3'-5'-linked RNA was observed after 24 days. With multiple rounds of this energy-dissipative 'recycling' of RNA, all-3'-5'-linked RNA can emerge from a backbone-heterogeneous (2'-5' and 3'-5') mixture.
 
 ---
 

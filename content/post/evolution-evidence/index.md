@@ -268,6 +268,7 @@ In some of these cases, no harmful effect is observed despite what is typically 
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
 - *Palmaris longus* **muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
+- **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
 
 ### Human lactose tolerance
 
@@ -615,9 +616,7 @@ Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
 ### Statistical evidence of common ancestry among primates
 
-
-
-Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934) (paper) and [here](https://www.youtube.com/watch?v=D7LUXDgTM3A) (video)
+Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934) (paper), [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post)
 
 ---
 
