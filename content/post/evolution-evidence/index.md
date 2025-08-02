@@ -27,24 +27,24 @@ A small number of the cited papers are available [here](https://drive.google.com
 
 ## CONTENTS
 
-- A. [**Direct Observation**](#direct-observation)
-- B. [**Genetics**](#genetics)
-- C. [**Molecular Biology**](#molecular-biology)
-- D. [**Paleontology**](#paleontology)
-- E. [**Geology**](#geology)
-- F. [**Biogeography**](#biogeography)
-- G. [**Comparative Anatomy**](#comparative-anatomy)
-- H. [**Comparative Physiology**](#comparative-physiology)
-- I. [**Evolutionary Developmental Biology**](#evolutionary-developmental-biology)
-- J. [**Population Genetics**](#population-genetics)
-- K. [**Metagenomics**](#metagenomics)
-- L. [**Bioanthropology and Primatology**](#bioanthropology-and-primatology)
-- M. [**Applications of Evolution**](#applications-of-evolution)
-- N. [**Miscellaneous**](#miscellaneous)
+1. [**Direct Observation**](#1-direct-observation)
+2. [**Genetics**](#2-genetics)
+3. [**Molecular Biology**](#3-molecular-biology)
+4. [**Paleontology and Bioanthropology**](#4-paleontology-and-bioanthropology)
+5. [**Geology**](#5-geology)
+6. [**Biogeography**](#6-biogeography)
+7. [**Comparative Anatomy**](#7-comparative-anatomy)
+8. [**Comparative Physiology**](#8-comparative-physiology)
+9. [**Developmental Biology**](#9-developmental-biology)
+10.  [**Population Genetics**](#10-population-genetics)
+11.  [**Metagenomics**](#11-metagenomics)
+12.  [**Applications of Evolution**](#12-applications-of-evolution)
+
+X. [**Miscellaneous**](#x-miscellaneous)
 
 ---
 
-## DIRECT OBSERVATION
+## 1. DIRECT OBSERVATION
 
 Microevolution (adaptation and other changes within a species) is commonly observed, but the more striking consequences of evolution usually take place on timescales far too long to observe from start to finish. However, there are some well-established cases where macroevolution can be observed in real time. Some definitions here will be useful:
 
@@ -170,7 +170,7 @@ https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfis
 
 ---
 
-## GENETICS
+## 2. GENETICS
 
 Genetic similarity between organisms is indicative of evolutionary relatedness, since mutation accumulate within lineages and are passed on to offspring. Studying the genomes of extant life therefore informs evolutionary history.
 
@@ -338,7 +338,7 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ---
 
-## MOLECULAR BIOLOGY
+## 3. MOLECULAR BIOLOGY
 
 ### Antibiotic resistance
 
@@ -378,11 +378,15 @@ Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 ---
 
-## PALEONTOLOGY
+## 4. PALEONTOLOGY AND BIOANTHROPOLOGY
 
-**NOTE: this section only shows *non-human* fossils. For fossils of primates and human evolution, see the [Bioanthropology](#bioanthropology-and-primatology) section.**
+**NOTE: paleontology is the study of fossils, but since human evolution is a common topic, I include lots of human-specific evidence here from the broader field of bioanthropology, which includes non-fossil evidence.**
 
 Fossils are remnants of long-dead life and provide a tangible record of the distant past. We can compare fossilised structures and estimate fossil age using radiometric dating of nearby ash layers to help piece together evolutionary lineages, which can be cross-checked against more precise genetic studies. Taken together, they serve as signposts of how lineages changed over time.
+
+### Transitional fossils
+
+Technically, all fossils are 'transitional', since all life is evolving at all times, but sometimes the changes are more visibly stark. Taxonomically classifying fossils by their structure, and ordering them by their radiometric dates or strata, leads to insight on how a particular lineage evolved over long timescales.
 
 {{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [here](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf) (Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458)." >}}
 
@@ -394,10 +398,84 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 
 {{< figure src="ediacaran.jpg" title="Animals did not appear in the Cambrian explosion. Phyla belonging to the animal kingdom are known from the Ediacaran period, before the Cambrian. The Cambrian explosion was a relatively rapid radiation of these phyla. The Ediacaran biota is known from *lagerstätten* (exceptionally well-preseved soft tissue) and ichnofossils (trace fossils), and are among the earliest known macroscopic life." >}}
 
+### Fake fossils?
+
+The fact that these fraudulent cases are so rare, are so thoroughly well-scrutinised when they do happen, and are always rejected by the scientific community, serves as reassurance that the vast majority of the fossil record is in fact perfectly reliable, just naturally incomplete.
+
 {{< figure src="frauds.png" title="Infamous paleontological frauds commonly cited by critics of the theory of evolution to suggest that all or most of the fossil record cannot be trusted. All cases were quickly exposed by the scientific community, not its critics, and some were accepted due to systemic ideological dogmas of the time, such as ethnonationalism." >}}
+
+### Human evolution
+
+Human evolution is an especially well-studied topic. We are primates and great apes, and there is an abundance of fossils to tell us how our lineages developed over time. Genus *Homo* arose from the prior genus *Australopithecus* about 2.5 million years ago, and following a period filled with numerous species of *Homo*, our species *Homo sapiens* emerged about 300,000 years ago. Our close relationship with chimpanzees, gorillas and bonobos make them great for studying behaviour, too.
+
+{{< figure src="skulls.jpg" title="Cranial fossils of some hominin skulls close to the human lineage, showing the steady variation in morphology from past to present." >}}
+
+{{< figure src="laetoli_footprints.jpg" title="Preserved footprints found in an ash bed in Tanzania, indicating bipedality in genus *Australopithecus*." >}}
+
+{{< figure src="little_foot.jpg" title="A nearly-complete specimen of the extinct hominin *Australopithecus africanus*, with many of its joints still in full articulation." >}}
+
+{{< figure src="lucy.jpg" title="A specimen of Australopithecus afarensis, found to display numerous traits associated with bipedalism, in particular the pelvis and the angled femur." >}}
+
+{{< figure src="species_of_extinct_primates.png" title="A list of many of the known extinct primate species, some of which are close to the human lineage." >}}
+
+### Primatology
+
+The study of extant primates can also give us clues into our shared past.
+
+{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
+
+{{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+
+### Bipedalism in Hominins
+
+Walking up on two feet (bipedalism) is a trait unique to humans today among the primates, so studying how this evolved is important. The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
+
+1. Anterior foramen magnum*: skull rests on the top of the spine.
+2. Sagittally-oriented iliac blades*: pelvis rests upright
+3. Valgus knee (bicondylar angle)*: femur angled to keep knees in line.
+4. In-line hallux: the big toe is aligned with the other toes, aiding in walking.
+5. Bowl-shaped pelvis: supports the visceral organs around the abdomen.
+6. Lumbar lordosis (S-shaped vertebral column): supports upright posture.
+7. Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
+
+\* strongest indicators, since these biomechanically prevent quadrupedalism.
+
+Morphology and biomechanics are linked by causal morphogenesis (Wolff's law).
+
+### Taxonomy of *Australopithecus* and *Homo habilis*
+
+Our genus, *Homo* emerged from one of the coexisting species of the genus *Australopithecus*. Based on the available fossil record, this transition appears to be quite subtle: the brain case sizes overlap, both can use stone tools, both have similar dentition (teeth), and biomechanics studies indicate both were mostly bipedal (though *A. afarensis* only had two arches plus a less-curved third arch in the foot, suggesting habitual bipedality, while *H. habilis* had three fully formed arches, suggesting full obligate bipedality). This high degree of similarity has even led to some paleoanthropologists to suggest that *H. habilis* should in fact be *Australopithecus habilis*. Although this has not been formally adopted, the challenge of a clear-cut taxonomic classification demonstrates the highly transitional nature of these species.
+
+Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a true clear divide.
+
+Sources: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
+
+
+### Neanderthals are not our ancestors
+
+Autapomorphies (uniquely defining traits) of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
+
+### Significant hominin fossils, ichnofossils and artifacts
+
+- **Ardi**: partial skeleton of *Ardipithecus ramidus*, 4.4 MYA, discovered in the Afar rift valley (Ethiopia).
+- **Little Foot (StW 573)**: near-complete specimen, *Australopithecus africanus*, 3.67 MYA. Found in the 'Cradle of Humankind' in South Africa, an area home to many other early hominins.
+- **Burtele foot**: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to *Ardipithecus ramidus*, implying contemporaneity with *Homo*, *Australopithecus*, *Paranthropus* and *Kenyanthropus*.
+- **Taung Child**: skull of a 3-year-old *Australopithecus africanus*, 3.3 MYA.
+- **Dikika Child (Selam)**: skull of a 3-year-old *Australopithecus afarensis*, 3.3 MYA.
+- **Lucy (AL 288-1)**: partial skeleton of *Australopithecus afarensis*, 3.2 MYA.
+- **Ledi Geraru mandible (LD 350-1)**: jaw assigned to basal genus *Homo*, 2.78 MYA.
+- **Mrs Ples**: complete skull of *Australopthecus africanus*, 2.35 MYA.
+- **Dmanisi skulls**: a set of skulls of *Homo erectus*, 1.81 MYA.
+- **Turkana Boy**: near-complete young *Homo erectus*, 1.55 MYA.
+- **Peking Man**: a Chinese specimen of *Homo erectus*, 500 kYA.
+- **East Asian archaics**: a collection of late *Homo erectus*, archaic *Homo sapiens* and Denisovan specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
+- **Denny**: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
+- **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
+- **Lomekwi stone tools**: oldest stone tools, attributed to *Australopithecus* or *Kenyanthropus*.
+
 ---
 
-## GEOLOGY
+## 5. GEOLOGY
 
 ### Stratigraphy
 
@@ -483,7 +561,7 @@ The radioisotope carbon-14 is continuously formed in the upper atmosphere by cos
 
 ---
 
-## BIOGEOGRAPHY
+## 6. BIOGEOGRAPHY
 
 ### Ecological succession
 
@@ -495,7 +573,7 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 ---
 
-## COMPARATIVE ANATOMY
+## 7. COMPARATIVE ANATOMY
 
 {{< figure src="bird_ear_bones_1.png" title="Main structures of central nervous system (including optic tectum) and inner ear (vestibular system and cochlear duct) across birds (extinct and extant) and closely related non-avian dinosaurs. The highlighted specimen, MPM-334-1, is a [recently-discovered basal bird cranium](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1398)." >}}
 
@@ -507,7 +585,7 @@ Anatomical constraints in eye evolution: [here](https://evolution-outreach.biome
 
 ---
 
-## COMPARATIVE PHYSIOLOGY
+## 8. COMPARATIVE PHYSIOLOGY
 
 ### Endosymbiosis in insects
 
@@ -592,15 +670,19 @@ Rigorous exergy analysis of photosynthesis: [here](https://www.sciencedirect.com
 
 ---
 
-## EVOLUTIONARY DEVELOPMENTAL BIOLOGY
+## 9. DEVELOPMENTAL BIOLOGY
 
-How is it that every cell in your body has the same DNA, yet different body parts can have completely different functions? How does your body know where to put everything? Development from an embryo is a tightly-regulated process, with the goal of controlling what genes get expressed where and when. There is a close relationship between evolutionary diversity and developmental diversity, and so we can study one to learn about the other.
+How is it that every cell in your body has the same DNA, yet different body parts can have completely different functions? How does your body know where to put everything? Development from an embryo is a tightly-regulated process, with the goal of controlling what genes get expressed where and when. There is a close relationship between evolutionary diversity and developmental diversity, and so we can study one to learn about the other. This is the basis of [evolutionary developmental (evo-devo) biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology).
+
+### Comparative embryology
 
 {{< figure src="embryology.jpg" title="Humans possess tails in early development because they descend from a common ancestor which had tails. The tail serves no purpose and normally regresses by week 8 of a pregnancy. It is therefore a vestigial trait." >}}
 
+### Homeotic genes: Hox, ParaHox, Pax, MADS-box
+
 ---
 
-## POPULATION GENETICS
+## 10. POPULATION GENETICS
 
 ### Phylogenetic reconstruction
 
@@ -620,7 +702,7 @@ Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934) (paper
 
 ---
 
-## METAGENOMICS
+## 11. METAGENOMICS
 
 ### Great ape gut microbiome
 
@@ -634,92 +716,27 @@ https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.200
 
 ---
 
-## BIOANTHROPOLOGY AND PRIMATOLOGY
+## 12. APPLICATIONS OF EVOLUTION
 
-Human evolution is an especially well-studied topic. We are primates and great apes, and there is an abundance of fossils to tell us how our lineages developed over time. Genus *Homo* arose from the prior genus *Australopithecus* about 2.5 million years ago, and following a period filled with numerous species of *Homo*, our species *Homo sapiens* emerged about 300,000 years ago. Our close relationship with chimpanzees, gorillas and bonobos make them great for studying behaviour, too.
-
-{{< figure src="skulls.jpg" title="Cranial fossils of some hominin skulls close to the human lineage, showing the steady variation in morphology from past to present." >}}
-
-{{< figure src="laetoli_footprints.jpg" title="Preserved footprints found in an ash bed in Tanzania, indicating bipedality in genus *Australopithecus*." >}}
-
-{{< figure src="little_foot.jpg" title="A nearly-complete specimen of the extinct hominin *Australopithecus africanus*, with many of its joints still in full articulation." >}}
-
-{{< figure src="lucy.jpg" title="A specimen of Australopithecus afarensis, found to display numerous traits associated with bipedalism, in particular the pelvis and the angled femur." >}}
-
-{{< figure src="species_of_extinct_primates.png" title="A list of many of the known extinct primate species, some of which are close to the human lineage." >}}
-
-{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
-
-{{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
-
-### Bipedalism in Hominins
-
-Morphology and biomechanics are linked by causal morphogenesis (Wolff’s law). The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
-
-1. Anterior foramen magnum*: skull rests on the top of the spine.
-2. Sagittally-oriented iliac blades*: pelvis rests upright
-3. Valgus knee (bicondylar angle)*: femur angled to keep knees in line.
-4. In-line hallux: the big toe is aligned with the other toes, aiding in walking.
-5. Bowl-shaped pelvis: supports the visceral organs around the abdomen.
-6. Lumbar lordosis (S-shaped vertebral column): supports upright posture.
-7. Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
-
-\* strongest indicators, since these biomechanically prevent quadrupedalism.
-
-### Taxonomy of *Australopithecus* and *Homo habilis*
-
-Our genus, *Homo*, is thought to have emerged from one of the coexisting species of the genus *Australopithecus*. Based on the available fossil record, this transition appears to be quite subtle: the brain case sizes overlap, both can use stone tools, both have similar dentition (teeth), and biomechanics studies indicate both were mostly bipedal (though *A. afarensis* only had two arches plus a less-curved third arch in the foot, suggesting habitual bipedality, while *H. habilis* had three fully formed arches, suggesting full obligate bipedality). This high degree of similarity has even led to some paleoanthropologists to suggest that *H. habilis* should in fact be *Australopithecus habilis*. Although this has not been formally adopted, the challenge of a clear-cut taxonomic classification demonstrates the highly transitional nature of these species.
-
-Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a true clear divide.
-
-Source: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
-
-
-### Neanderthals are not our ancestors
-
-Autapomorphies of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
-
-### Significant hominin fossils, ichnofossils and artifacts
-
-- **Ardi**: partial skeleton of *Ardipithecus ramidus*, 4.4 MYA, discovered in the Afar rift valley (Ethiopia).
-- **Little Foot (StW 573)**: near-complete specimen, *Australopithecus africanus*, 3.67 MYA. Found in the 'Cradle of Humankind' in South Africa, an area home to many other early hominins.
-- **Burtele foot**: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to *Ardipithecus ramidus*, implying contemporaneity with *Homo*, *Australopithecus*, *Paranthropus* and *Kenyanthropus*.
-- **Taung Child**: skull of a 3-year-old *Australopithecus africanus*, 3.3 MYA.
-- **Dikika Child (Selam)**: skull of a 3-year-old *Australopithecus afarensis*, 3.3 MYA.
-- **Lucy (AL 288-1)**: partial skeleton of *Australopithecus afarensis*, 3.2 MYA.
-- **Ledi Geraru mandible (LD 350-1)**: jaw assigned to basal genus *Homo*, 2.78 MYA.
-- **Mrs Ples**: complete skull of *Australopthecus africanus*, 2.35 MYA.
-- **Dmanisi skulls**: a set of skulls of *Homo erectus*, 1.81 MYA.
-- **Turkana Boy**: near-complete young *Homo erectus*, 1.55 MYA.
-- **Peking Man**: a Chinese specimen of *Homo erectus*, 500 kYA.
-- **East Asian archaics**: a collection of late *Homo erectus*, archaic *Homo sapiens* and Denisovan specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
-- **Denny**: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
-- **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
-- **Lomekwi stone tools**: oldest stone tools, attributed to *Australopithecus* or *Kenyanthropus*.
-
----
-
-## APPLICATIONS OF EVOLUTION
-
-This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. **It does not include applications of explaining aspects of biology itself**, which are numerous. (["Nothing in biology makes sense except in the light of evolution"](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) - Theodosius Dobzhansky). The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
+This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. **It does not include applications of explaining aspects of biology itself**, which are numerous. The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
 ### Protein Engineering
 
 We can develop entirely new enzymes using 'directed evolution' of proteins with a variety of uses. By artificially cloning the gene for an enzyme and introducing mutations, screening for activity and stability, we 'artificially select' more optimal enzymes for our use case. This is a well-established lab procedure that puts evolution into practice. 
 
-**Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to activity reduction on immobilisation, stability to temperature variations and cofactor dependence), so [new enzymes are needed](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260?via%3Dihub), which come from directed evolution. These are the most common type of commericalised glucose biosensors in use today. Although enzyme-free biosensors have been researched, they have not yet been commercialised due to lacking the chemoselectivity that enzymes excel at, so evolution-backed biosensors remain the state-of-the-art in type 1 diabetes management as of 2025.
+**Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to activity reduction on immobilisation, stability to temperature variations and cofactor dependence), so new enzymes are needed, which come from directed evolution. These are the most common type of commericalised glucose biosensors in use today. Although enzyme-free biosensors have been researched, they have not yet been commercialised due to lacking the chemoselectivity that enzymes excel at, so evolution-backed biosensors remain the state-of-the-art in type 1 diabetes management as of 2025. Source: [here](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260) and 
 
-**Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require [directed evolution for thermostability](https://link.springer.com/article/10.1007/BF00127437). They are also used in hospitals at triage to test for septic shock.
+**Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require directed evolution for thermostability. They are also used in hospitals at triage to test for septic shock or risk of meningitis. Source: [here](https://link.springer.com/article/10.1007/BF00127437) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0956566397001231).
 
-**Artificial metalloenzymes**: new enzymes can be designed to catalyse completely [new chemical reactions](https://pubmed.ncbi.nlm.nih.gov/20715024/) unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity. Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...).
+**Artificial metalloenzymes**: new enzymes can be designed to catalyse completely new chemical reactions unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity. Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...). Source: [here](https://pubmed.ncbi.nlm.nih.gov/20715024/).
 
 {{< figure src="directed_evolution.png" title="The procedure for the combinatorial mutagenesis of enzymes. Each cycle is one 'generation'. The error-prone PCR provides the mutations, while the activity and enantioselectivity assays provide the artificial selection. The metal cofactor is inserted via reaction with a [specially encoded amino acid](https://pubmed.ncbi.nlm.nih.gov/32284585/) in the enzyme. Source: [here](https://www.nature.com/articles/nchem.2927)." >}}
 
-**Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its [cofactor dependence on calcium ions](https://pubmed.ncbi.nlm.nih.gov/9634803/) was also removed, as calcium would be chelated by EDTA in the wash.
+**Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its cofactor dependence on calcium ions was also removed, as calcium would be chelated by EDTA in the wash. Source: [here](https://pubmed.ncbi.nlm.nih.gov/9634803/).
 
-**High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product.
+**High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product. Source: [here](https://foodsafety.institute/food-biotechnology/industrial-applications-engineered-glucose-isomerase/).
 
-**Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as [carotenoids](https://www.nature.com/articles/nbt0700_750). They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain.
+**Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as carotenoids. They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain. Source: [here](https://www.nature.com/articles/nbt0700_750).
 
 ### Animal Model Selection
 
@@ -727,15 +744,15 @@ The animals used in lab studies for medicines are chosen based on evolutionary r
 
 Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
 
-Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, [telomeres are longer than in humans due to stronger telomerase activity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/), which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. 
+Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, telomeres are longer than in humans due to stronger telomerase activity, which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/).
 
-Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. [Chimps in general are rarely useful models for humans despite their genetic similarity](https://journals.sagepub.com/doi/10.1177/026119291103900608), due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed.
+Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. Chimps in general are rarely useful models for humans despite their genetic similarity, due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed. Source: [here](https://journals.sagepub.com/doi/10.1177/026119291103900608).
 
 ### Protein Folding Prediction
 
 Protein structure prediction is famously hard task, and has only recently become feasible with powerful machine learning models like *AlphaFold*, trained on structures painstakingly obtained manually via cryo-electron microscopy and X-ray crystallography. *AlphaFold* uses a transformer-based ML architecture (the same structure as used in LLMs like ChatGPT) called the *EvoFormer*, which combines protein sequence data with data on sequence identity conservation across evolutionary lineages, which essentially provides information on which amino acid residues are crucial to the 3D structure and which are less constrained. 
 
-It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to [predict the consequences of how a virus will mutate](https://arxiv.org/html/2411.12370v1) during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution!
+It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to predict the consequences of how a virus will mutate during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution! Source: [here](https://arxiv.org/html/2411.12370v1).
 
 ### Universal Flu Vaccine
 
@@ -774,11 +791,15 @@ More info:
 
 ### Basin Modelling for Oil and Gas Exploration
 
-[Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks. 
+[Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks.
 
 In oil and gas, predictions mean profits, and errors mean tremendous financial losses! The success of this industry (at the expense of the climate, unfortunately...) would not be possible without the validity of the underlying theory.
 
-There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, operates incurring [annual losses of several tens of millions of USD](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and are [practically bankrupt as of 2025](https://finance.yahoo.com/quote/ZNOG/), staying afloat only by selling shares to gullible investors.
+There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, operates incurring annual losses of several tens of millions of USD and are practically bankrupt as of 2025, staying afloat only by selling shares to gullible investors. Sources: [here](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and [here](https://finance.yahoo.com/quote/ZNOG/).
+
+Radiometric dating has also been used by mining companies. For example, in 2021, Hannan Metals used U-Pb dating of zircons to expand a Miocene-epoch deposit of gold and copper in Peru. Source: [here](https://hannanmetals.com/news/2021/hannan-radiometric-dating-confirms-miocene-porphyry-belt-at-the-previsto-copper-gold-project-peru/).
+
+Historically, American coal miners in the 19th century would use fossils of *Archimedes* (a Paleozoic-era bryozoan with a distinctive screw-shaped stalk) to indicate how to deep to dig when searching for coal. These bryozoans are commonly found in limestones that were older (lower in strata) than the mostly siliciclastic coal-bearing rocks and do not contain much of any coal, so would be pointless to excavate. Source: [here](https://www.researchgate.net/publication/264383478_David_Dale_Owen_1807-1860_and_the_naming_of_Archimedes_the_first_described_fenestrate_bryozoan_a_complex_fossil_with_important_stratigraphic_and_economic_implications)
 
 ### Evolutionary Algorithms
 
@@ -807,7 +828,7 @@ Artificial selection is nothing more than natural selection but with humans deci
 
 ---
 
-## MISCELLANEOUS
+## X. MISCELLANEOUS
 
 These are not necessarily evidence for evolution, but are tangentially related and generally support the theory.
 

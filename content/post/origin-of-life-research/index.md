@@ -417,11 +417,17 @@ Studies on the behaviour of lipid vesicles to test for their validity as the fir
 
 ---
 
-## SYNTHETIC BIOLOGY
+## SYNTHETIC BIOLOGY AND MOLECULAR BIOLOGY
 
 Experiments on cells derived from extant biology. These are usually not prebiotically relevant, but can inform us about the minimum viable complexity of simple cells.
 
 \[I1\] Pelletier, J.F. *et al.* (2021). '[**Genetic requirements for cell division in a genomically minimal cell**](https://www.cell.com/cell/fulltext/S0092-8674(21)00293-2)'. *Cell,* 184(9), pp.2430-2440. doi:10.1016/j.cell.2021.03.008.
 
 >Building on Craig Venter's 2010 work creating synthetic cells derived from the bacteria *Mycoplasma mycoides*, a new type of synthetic minimal cell (JCVI-syn3.0) is created. These cells contain \~500 genes and undergo normal cell division with spherical cell shape.
+
+\[I2\] Wang, M., Hoegler, K. and Hecht, M. (2019). '[**Unevolved De Novo Proteins Have Innate Tendencies to Bind Transition Metals**](https://www.mdpi.com/2075-1729/9/1/8)', *Life*, 9(8). doi:10.3390/life9010008.
+
+>
+
+\[I3\] Raanan, H. *et al.* (2020). '[**Small protein folds at the root of an ancient metabolic network**](https://www.pnas.org/doi/10.1073/pnas.1914982117)', *Proc. Natl. Acad. Sci. U.S.A.*, 117(13) pp.7193-7199. doi:10.1073/pnas.1914982117.
 
