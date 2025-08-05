@@ -305,7 +305,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 \[F6\] Jerome, C.A. *et al*. (2022). '[**Catalytic Synthesis of Polyribonucleic Acid on Prebiotic Rock Glasses**](https://www.liebertpub.com/doi/epdf/10.1089/ast.2022.0027)'. *Astrobiology*, 22(6), pp.629–636. doi:https://doi.org/10.1089/ast.2022.0027.
 
->Nucleoside triphosphates form polynucleotides, with a strong bias towards 3'-5' linkage regioselectivity, in the presence of natural silicate glasses.
+>Nucleoside triphosphates form polynucleotides, with a strong bias towards 3'-5' linkage regioselectivity, in the presence of natural silicate glasses. It is already known that 2'-5' linkages in ssRNA hydrolyse at pH 7 around 3 times faster than 3'-5' linkages, providing a potential recycling mechanism that favours higher 3'-5' content.
 
 \[F7\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:10.3390/life4030318.
 
@@ -322,6 +322,10 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 \[F10\] Rout, S. K. *et al*. (2025). '[**Amino acids catalyse RNA formation under ambient alkaline conditions**](https://www.nature.com/articles/s41467-025-60359-3)'. *Nature Communications*, 16, 5193(2025). doi:10.1038/s41467-025-60359-3.
 
 >Starting with ribonucleoside 2′,3′-cyclic phosphates (an easily formed prebiotic molecule), addition of aliphatic hydrophobic amino acids (such as L-valine, L-leucine, L-isoleucine, L-alanine, glycine) at pH 9-10 at room temperature, resulted in formation of up to 7-mer oligo-RNA. The cyclic nucleoside phosphate is more stable than 5'-nucleotides, making it more prebiotically plausible. The NMR data showed a bias towards 3'-5' linkages (about 60\%), the correct one for optimally functional/extant RNA. Polymerisation occurred in the dried state. No [Mg]$ ^{2+} $ ions were required. These conditions could be found in cooler volcanic environments, whose alkalinity is also correlated with phosphate enrichment, allowing wet-dry cycling to occur. Thermal gradients (heat fluxes) also selectively enrich Val/Leu/Ile as required. This completes the 'missing link' in the coevolution of RNA and proteins, as it shows that amino acids can promote RNA formation while RNA can promote protein formation.
+
+\[F11\] Dass, A. V. *et al.* (2022). '[**RNA Oligomerisation without Added Catalyst from 2′,3′-Cyclic Nucleotides by Drying at Air-Water Interfaces**](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/syst.202200026)'. *ChemSystemsChem*, 5(1). doi:10.1002/syst.202200026.
+
+>Starting with 2',3'-cGMP (cyclic guanine nucleotides) in warm water, oligomerisation up to 10-mer RNA was observed at the air-water interface within 24 hours on drying, with no catalyst required. This occurred in a variety of conditions: alkaline (pH 7 - 12), hot water (40 - 80 C: optimal temperature 40 C), with salt ions (20 mM Na$ ^+$, 40 mM K$ ^+$, slightly enhanced by K$ ^+$). The RNA linkages were in equal proportions 2'-5' and 3'-5'. This serves as yet another model reaction of wet-dry cycling processes forming RNA, this time at the water's surface rather than at deep sea environments.
 
 ---
 
