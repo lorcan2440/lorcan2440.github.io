@@ -281,43 +281,47 @@ Feasible reaction schemes based on experimental evidence to produce amino acids,
 
 ## SYNTHESIS OF MACROMOLECULES
 
-Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid structures, proteins and carbohydrates with enantioselectivity and regioselectivity where relevant.
+Feasible reactions to produce macromolecules such as RNA, DNA, proteins and carbohydrates with enantioselectivity and regioselectivity where relevant.
 
-\[F1\] Chen, F. and Yang D. (2006). '[**Condensation of amino acids to form peptides in aqueous solution induced by the oxidation of sulfur(IV): An oxidative model for prebiotic peptide formation**](https://link.springer.com/article/10.1007/s11084-006-9012-y)', *Origins of Life and Evolution of Biospheres*, 37(1), pp. 47-54. doi:https://doi.org/10.1007/s11084-006-9012-y
+### Polypeptides (prebiotic protein synthesis)
+
+\[F1\] Chen, F. and Yang D. (2006). '[**Condensation of amino acids to form peptides in aqueous solution induced by the oxidation of sulfur(IV): An oxidative model for prebiotic peptide formation**](https://link.springer.com/article/10.1007/s11084-006-9012-y)', *Origins of Life and Evolution of Biospheres*, 37(1), pp. 47-54. doi:10.1007/s11084-006-9012-y
 
 >Carboxylic acids and amines undergo condensation reactions to form polypeptides in the presence of sulfur(IV) (e.g. SO$_2$, NaHSO$_3$) and oxidant (K$_3$\[Fe(CN)$_6$\]). This functionality also applies to amino acid polymerisation, including ligation to small polypeptides. The yield is about 2% relative to the amount of sulfur used.
 
-\[F2\] Singh, J. *et al*. (2022). '[**Prebiotic Catalytic Peptide Ligation Yields Proteinogenic Peptides by Intramolecular Amide Catalyzed Hydrolysis Facilitating Regioselective Lysine Ligation in Neutral Water**](https://pubs.acs.org/doi/10.1021/jacs.2c03486)'. *Journal of the American Chemical Society*, 144(23), pp.10151–10155. doi:https://doi.org/10.1021/jacs.2c03486.
+\[F2\] Singh, J. *et al*. (2022). '[**Prebiotic Catalytic Peptide Ligation Yields Proteinogenic Peptides by Intramolecular Amide Catalyzed Hydrolysis Facilitating Regioselective Lysine Ligation in Neutral Water**](https://pubs.acs.org/doi/10.1021/jacs.2c03486)'. *Journal of the American Chemical Society*, 144(23), pp.10151–10155. doi:10.1021/jacs.2c03486.
 
 >Primary thiols catalyse the ligation of amino acids, amides, and peptides with amidonitriles in water. At pH 7, this reaction is regiospecific to the correct functional groups, leaving the unprotected side chains unaltered in all amino acids.
 
-\[F3\] Greenwald, J., Friedmann, M.P. and Riek, R. (2016). '[**Amyloid Aggregates Arise from Amino Acid Condensations under Prebiotic Conditions**](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201605321)', *Angewandte Chemie International Edition*, 55(38), pp.11609–11613. doi:https://doi.org/10.1002/anie.201605321.
+\[F3\] Greenwald, J., Friedmann, M.P. and Riek, R. (2016). '[**Amyloid Aggregates Arise from Amino Acid Condensations under Prebiotic Conditions**](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201605321)', *Angewandte Chemie International Edition*, 55(38), pp.11609–11613. doi:10.1002/anie.201605321.
 
 >Some amino acids (alanine, valine, aspartic acid, glycine) can polymerise into peptides mediated by carbonyl sulfide in water, and assemble into ordered amyloid fibres with a cross-beta-sheet quaternary structure. These amyloids are highly resistant to hydrolysis. A range of pHs and temperatures allow amyloid formation.
 
-\[F4\] Stolar, T. *et al*. (2021). '[**Mechanochemical Prebiotic Peptide Bond Formation**](https://onlinelibrary.wiley.com/doi/10.1002/anie.202100806)', *Angewandte Chemie*, 60(23), pp.12727–12731. doi:https://doi.org/10.1002/anie.202100806.
+\[F4\] Stolar, T. *et al*. (2021). '[**Mechanochemical Prebiotic Peptide Bond Formation**](https://onlinelibrary.wiley.com/doi/10.1002/anie.202100806)', *Angewandte Chemie*, 60(23), pp.12727–12731. doi:10.1002/anie.202100806.
 
 >Mechanical impacts from meteorites and geochemical phenomena can drive mechanochemistry. Under ball milling, solid glycine can polymerise with and without water present. The length of the polypeptides increased with temperature, as well as cyclic dimer formation. In the presence of TiO$_2$, the dimers served as a source of glycine allowing formation of peptides up to 10-mers.
 
-\[F5\] Olasagasti, F. and Rajamani, S. (2019). '[**Lipid-Assisted Polymerization of Nucleotides**](https://www.mdpi.com/2075-1729/9/4/83)', *Life*, 9(4), pp. 83–83. doi:https://doi.org/10.3390/life9040083.
-
->A mixture of lipids and nucleotides led to polynucleotide formation under wet-dry cycling.
-
-\[F6\] Jerome, C.A. *et al*. (2022). '[**Catalytic Synthesis of Polyribonucleic Acid on Prebiotic Rock Glasses**](https://www.liebertpub.com/doi/epdf/10.1089/ast.2022.0027)'. *Astrobiology*, 22(6), pp.629–636. doi:https://doi.org/10.1089/ast.2022.0027.
-
->Nucleoside triphosphates form polynucleotides, with a strong bias towards 3'-5' linkage regioselectivity, in the presence of natural silicate glasses. It is already known that 2'-5' linkages in ssRNA hydrolyse at pH 7 around 3 times faster than 3'-5' linkages, providing a potential recycling mechanism that favours higher 3'-5' content.
-
-\[F7\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:10.3390/life4030318.
-
->Nucleotides form polynucleotides in the presence of montmorillonite clay and simple salts (e.g. NaCl).
-
-\[F8\] Sumie, Y. *et al*. (2023). '[**Boron-assisted abiotic polypeptide synthesis**](https://www.nature.com/articles/s42004-023-00885-7)'. *Communications Chemistry*, 6, p.89. doi:10.1038/s42004-023-00885-7.
+\[F5\] Sumie, Y. *et al*. (2023). '[**Boron-assisted abiotic polypeptide synthesis**](https://www.nature.com/articles/s42004-023-00885-7)'. *Communications Chemistry*, 6, p.89. doi:10.1038/s42004-023-00885-7.
 
 >Up to 39-mers of polyglycine were formed by simple heating of glycine, catalysed by aqueous boric acid at pH 6 - 8 and temperatures of 90 - 130 C, with negligible side reactions. Borate is known to be present in the mineral tourmaline on the prebiotic earth, and can also help to form RNA by \[E6\].
 
-\[F9\] Holden, D. T., Morato, N. M. and Cooks, R. G. (2022). '[**Aqueous microdroplets enable abiotic synthesis and chain extension of unique peptide isomers from free amino acids**](https://www.pnas.org/doi/10.1073/pnas.2212642119)'. *Proceedings of the National Academy of Sciences*, 119(42), e2212642119. doi:10.1073/pnas.2212642119.
+\[F6\] Holden, D. T., Morato, N. M. and Cooks, R. G. (2022). '[**Aqueous microdroplets enable abiotic synthesis and chain extension of unique peptide isomers from free amino acids**](https://www.pnas.org/doi/10.1073/pnas.2212642119)'. *Proceedings of the National Academy of Sciences*, 119(42), e2212642119. doi:10.1073/pnas.2212642119.
 
 >Spray ejection of micron-sized droplets of liquid neutral water containing free amino acids (glycine, L-alanine) results in peptide formation (up to 6-mer) at the air-water interface. The surface of the droplets acts as a dry environment that shifts the equilibrium of the reaction towards condensation. This occurs at ambient conditions without any other reagents, catalysts, or radiation.
+
+### Polynucleotides (prebiotic RNA synthesis)
+
+\[F7\] Olasagasti, F. and Rajamani, S. (2019). '[**Lipid-Assisted Polymerization of Nucleotides**](https://www.mdpi.com/2075-1729/9/4/83)', *Life*, 9(4), pp. 83–83. doi:10.3390/life9040083.
+
+>A mixture of lipids and nucleotides led to polynucleotide formation under wet-dry cycling.
+
+\[F8\] Jerome, C.A. *et al*. (2022). '[**Catalytic Synthesis of Polyribonucleic Acid on Prebiotic Rock Glasses**](https://www.liebertpub.com/doi/epdf/10.1089/ast.2022.0027)'. *Astrobiology*, 22(6), pp.629–636. doi:10.1089/ast.2022.0027.
+
+>Nucleoside triphosphates form polynucleotides, with a strong bias towards 3'-5' linkage regioselectivity, in the presence of natural silicate glasses. It is already known that 2'-5' linkages in ssRNA hydrolyse at pH 7 around 3 times faster than 3'-5' linkages, providing a potential recycling mechanism that favours higher 3'-5' content.
+
+\[F9\] Jheeta, S. and Joshi, P. (2014). '[**Prebiotic RNA Synthesis by Montmorillonite Catalysis**](https://www.mdpi.com/2075-1729/4/3/318)'. *Life*, 4(3), pp.318–330. doi:10.3390/life4030318.
+
+>Nucleotides form polynucleotides in the presence of montmorillonite clay and simple salts (e.g. NaCl).
 
 \[F10\] Rout, S. K. *et al*. (2025). '[**Amino acids catalyse RNA formation under ambient alkaline conditions**](https://www.nature.com/articles/s41467-025-60359-3)'. *Nature Communications*, 16, 5193(2025). doi:10.1038/s41467-025-60359-3.
 
@@ -325,7 +329,7 @@ Feasible reactions to produce macromolecules such as RNA, DNA, associated lipid 
 
 \[F11\] Dass, A. V. *et al.* (2022). '[**RNA Oligomerisation without Added Catalyst from 2′,3′-Cyclic Nucleotides by Drying at Air-Water Interfaces**](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/syst.202200026)'. *ChemSystemsChem*, 5(1). doi:10.1002/syst.202200026.
 
->Starting with 2',3'-cGMP (cyclic guanine nucleotides) in warm water, oligomerisation up to 10-mer RNA was observed at the air-water interface within 24 hours on drying, with no catalyst required. This occurred in a variety of conditions: alkaline (pH 7 - 12), hot water (40 - 80 C: optimal temperature 40 C), with salt ions (20 mM Na$ ^+$, 40 mM K$ ^+$, slightly enhanced by K$ ^+$). The RNA linkages were in equal proportions 2'-5' and 3'-5'. This serves as yet another model reaction of wet-dry cycling processes forming RNA, this time at the water's surface rather than at deep sea environments.
+>Starting with 2',3'-cGMP (cyclic guanine nucleotides) in warm water, oligomerisation up to 10-mer RNA was observed at the air-water interface within 24 hours on drying, with no catalyst required. This occurred in a variety of conditions: alkaline (pH 7 - 12), hot water (40 - 80 C: optimal temperature 40 C), with salt ions (20 mM Na$ ^+$, 40 mM K$ ^+$, slightly enhanced by K$ ^+$). Up to 15-mers were found in trace amounts. The RNA linkages were in equal proportions 2'-5' and 3'-5'. This serves as yet another model reaction of wet-dry cycling processes forming RNA, this time at the water's surface rather than at deep sea environments.
 
 ---
 
@@ -435,3 +439,8 @@ Experiments on cells derived from extant biology. These are usually not prebioti
 
 \[I3\] Raanan, H. *et al.* (2020). '[**Small protein folds at the root of an ancient metabolic network**](https://www.pnas.org/doi/10.1073/pnas.1914982117)', *Proc. Natl. Acad. Sci. U.S.A.*, 117(13) pp.7193-7199. doi:10.1073/pnas.1914982117.
 
+>
+
+\[I4\] Sahakyan, H. *et al.* (2025). '[**In silico evolution of globular protein folds from random sequences**](https://www.pnas.org/doi/10.1073/pnas.2509015122)', Proc. Natl. Acad. Sci. U.S.A. 122 (27) e2509015122. doi:10.1073/pnas.2509015122.
+
+>Stable, globular protein folds can evolve from random amino acid sequences with ease, resulting from selection acting on a realistic number of amino acid replacements. About half of the *in silico* evolved proteins resemble simple folds found in nature, whereas the rest are unique.

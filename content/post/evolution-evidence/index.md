@@ -384,19 +384,33 @@ Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 Fossils are remnants of long-dead life and provide a tangible record of the distant past. We can compare fossilised structures and estimate fossil age using radiometric dating of nearby ash layers to help piece together evolutionary lineages, which can be cross-checked against more precise genetic studies. Taken together, they serve as signposts of how lineages changed over time.
 
-### Transitional fossils
+Some of the most obvious evidence for evolution is 'transitional fossils'. Technically, all fossils are 'transitional', since all life is evolving at all times, but some lineages offer especially clear changes in form over deep time, when ordered by their radiometric dates or strata.
 
-Technically, all fossils are 'transitional', since all life is evolving at all times, but sometimes the changes are more visibly stark. Taxonomically classifying fossils by their structure, and ordering them by their radiometric dates or strata, leads to insight on how a particular lineage evolved over long timescales.
+### Horse evolution
 
 {{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [here](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf) (Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458)." >}}
 
-{{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
+### Bird evolution
 
-{{< figure src="whale_1.jpg" title="*Ambulocetus* can be described as a 'walking whale', as some land mammals (*Artiodactyla*) became aquatic within the past 60 MYA. Cetacean evolution is especially well recorded." >}}
+{{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
 
 {{< figure src="bird_fossil.png" title="A new species of transitional 'dinosaur to bird' fossil, *Jinguofortis perplexus*, with anatomy labelled *in situ* and to scale. It is from clade *Pygostylia*, dated to the early Cretaceous, 127 million years ago. Source: [here](https://www.pnas.org/doi/10.1073/pnas.1812176115)." >}}
 
+### Whale evolution
+
+{{< figure src="whale_fossils.png" title="Some of the most complete whale fossils: **(a)**: *Pakicetus* (49 MYA), **(b)**: *Ambulocetus* (48 MYA), **(c)**: *Kuchicetus* (48 MYA), **(d)**: *Dorudon* (35 MYA). The hind limb reduces in size, indicating a gradient of adaptation for efficient swimming. These all include the astragalus (ankle bone), which is seen in all even toed artiodactyls (cows, sheep, goats, deer, pigs, hippos...) but is lost in modern whales and dolphins. Photos edited to remove distractions in the backgrounds; original source [here](https://archosaurmusings.wordpress.com/2011/09/26/whale-evolution-series/). Many other species with nearly complete fossils are known: e.g. [here](https://en.wikipedia.org/wiki/Evolution_of_cetaceans)." >}}
+
+{{< figure src="indohyus_fossils.png" title="*Indohyus* (50 MYA) was the land mammal ancestor of all whales, belonging to the clade *Artiodactyla*. **(a)**: skulls of *Indohyus* (left) and a modern raccoon (right), with the white box showing the ear structure of the auditory bulla, unique to all whales. **(b)**: the *Indohyus* skull in more detail. The osteosclerotic bones (such as the involucrum) are indicative of habitual aquatic lifestyle (also found in all whales), supported by oxygen-18 isotope analysis. Source: [here](https://core.ac.uk/download/291497088.pdf). **(c)**: The post-cranial fossil material found from *Indohyus*. **(d)**: Reconstruction of postcrania and artist's impression." >}}
+
+### The earliest animals
+
 {{< figure src="ediacaran.jpg" title="Animals did not appear in the Cambrian explosion. Phyla belonging to the animal kingdom are known from the Ediacaran period, before the Cambrian. The Cambrian explosion was a relatively rapid radiation of these phyla. The Ediacaran biota is known from *lagerstätten* (exceptionally well-preseved soft tissue) and ichnofossils (trace fossils), and are among the earliest known macroscopic life." >}}
+
+### Plant evolution
+
+Plant fossils has its own field of study: paleobotany.
+
+{{< figure src="plant_fossils.png" title="**(a)**: *Archaeopteris hibernica*, a 'progymnosperm', considered a transitional form between ferns and seed plants. It is a useful index fossil, found worldwide from the late Devonian to the early Carboniferous (380 - 320 MYA). **(b)**: *Wattieza casasii*, an extinct tree from the middle Devonian (~400 MYA) closely related to modern ferns and horsetails." >}}
 
 ### Fake fossils?
 
@@ -449,7 +463,6 @@ Our genus, *Homo* emerged from one of the coexisting species of the genus *Austr
 Another example of this comes (ironically) from creationists, who are ideologically required to divide the hominin fossil record into two allegedly mutually exclusive groups: the 'ape' kind and the 'human' kind. However, six famous hominin cranium fossils of *H. habilis* and early *H. erectus* (KNM-ER 1813, Java man, Peking man, KNM-ER 1470, KNM-ER 3733 and Turkana Boy) were all classified by seven different creationists completely differently, precisely as expected of a 'transitional' species without a true clear divide.
 
 Sources: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
-
 
 ### Neanderthals are not our ancestors
 
@@ -555,7 +568,25 @@ The radioisotope carbon-14 is continuously formed in the upper atmosphere by cos
 
 ### Amino acid racemisation dating
 
-### Oxygen isotope ratio cycle (δ18O/δ16O)
+### Oxygen isotope ratio cycle ($δ^{18}O/δ^{16}O$)
+
+The **orbital monsoon hypothesis** is based on the well-established concept of [Milankovitch cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles), where long-term changes in Earth's orbit (axial tilt, eccentricity and precession) result in changing frequencies, intensities and distributions of monsoons (intense wind and rain) on Earth due to changes in solar insolation. This has a strong impact on the [climate of North Africa](https://en.wikipedia.org/wiki/North_African_climate_cycles).
+
+There are several lines of evidence for this model, including:
+
+1. The repeated occurence of [sapropels](https://en.wikipedia.org/wiki/Sapropel) (dark organic-rich marine sediment) in the plankton-rich sediment cores of the Mediterranean sea (indicative of low oxygen content due to freshwater influx from the River Nile).
+2. The repeated occurence of freshwater diatoms blown into the saltwater ocean sediment cores in the Atlanic ocean due to heavy monsoon trade winds.
+3. The cycle in isotopic ratios of oxygen-18 to oxygen-16 in calcite stalagtites/stalagmites in caves in China and Brazil, indicative of cycles in the water temperature due to the variable climate.
+
+These cycles all have a period of about 22,000 years, closely matching the precession cycle of the Earth.
+
+Sources: [here](https://www.youtube.com/watch?v=o1f8vfYsnHo) (video).
+
+Saltwater and freshwater have different ratios of oxygen isotopes, due to more evaporation (depletion of oxygen-16) in the ocean. This means that we can learn about what sort of water an animal drank by studying the isotopes that were incorporated into its bones and teeth as it grew: higher oxygen-18 content implies saltwater (marine), while lower oxygen-18 content implies freshwaster (rivers and estuaries).
+
+The isotopes show that *Ambulocetus* (transitional whale) likely drank both saltwater and freshwater, which fits perfectly with the idea that these animals lived in estuaries or bays between freshwater and the open ocean. Whales that evolved afterwards (*Kutchicetus*, etc.) show even higher levels of saltwater oxygen isotopes, indicating that they lived in nearshore marine habitats and were able to drink saltwater as today’s whales can.
+
+{{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us  out the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that probably comprised an ancient estuary." >}}
 
 ### Ice core paleoclimate data
 
@@ -578,6 +609,16 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 {{< figure src="bird_ear_bones_1.png" title="Main structures of central nervous system (including optic tectum) and inner ear (vestibular system and cochlear duct) across birds (extinct and extant) and closely related non-avian dinosaurs. The highlighted specimen, MPM-334-1, is a [recently-discovered basal bird cranium](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1398)." >}}
 
 {{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
+
+{{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
+
+
+
+
+{{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
+
+{{< figure src="arm_anatomy_mammals.png" title="The similarities get even closer in mammals, with all sharing the same number and arrangement of the bones, but in variable lengths. Note: the colour code applies to the left set of images; the others are from a different source." >}}
+
 
 ### Evolution of the vertebrate eye
 
@@ -674,9 +715,11 @@ Rigorous exergy analysis of photosynthesis: [here](https://www.sciencedirect.com
 
 How is it that every cell in your body has the same DNA, yet different body parts can have completely different functions? How does your body know where to put everything? Development from an embryo is a tightly-regulated process, with the goal of controlling what genes get expressed where and when. There is a close relationship between evolutionary diversity and developmental diversity, and so we can study one to learn about the other. This is the basis of [evolutionary developmental (evo-devo) biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology).
 
-### Comparative embryology
+### Vestigial structures
 
 {{< figure src="embryology.jpg" title="Humans possess tails in early development because they descend from a common ancestor which had tails. The tail serves no purpose and normally regresses by week 8 of a pregnancy. It is therefore a vestigial trait." >}}
+
+{{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
 
 ### Homeotic genes: Hox, ParaHox, Pax, MADS-box
 
