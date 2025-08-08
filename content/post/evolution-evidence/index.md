@@ -340,11 +340,23 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ## 3. MOLECULAR BIOLOGY
 
+### rRNA phylogenetics
+
+For the earliest stages in evolution (unicellular organisms), fossils are scarce, and genomes have mutated beyond recognition in many places, so we must look more carefully. The ribosome is a key piece of cellular machinery that translates RNA into proteins, whose functionality is so tightly constrained that it can be used to measure relatedness across the whole tree of life.
+
+A surprising result of this analysis is according to ribosome similarities, all eukaryotes descend within archaea. This strongly supports the hypothesis of endosymbiosis, where an ancient archaea cell and an ancient bacteria cell merged to become a eukaryotic cell, with the archaea providing the genes that went into the nucleus.
+
+{{< figure src="rRNA-phylogenety.png" title=" Source: Hug *et al.*, 2016." >}}
+
+
+
 ### Antibiotic resistance
 
 A striking visualisation of antibiotic resistance is a video of an experiment done by Harvard Medical School, where they created four zones with antibiotic concentrations increasing by a factor of 10 each time. The bacteria would spread outwards up to the boundaries. Most would go extinct, but a few mutants from some populations would survive and move into the next zone. When all zones had been reached, the colonies traced out the pattern of their phylogenetic tree.
 
 {{< figure src="antibiotic_phylogeny.png" title="The end of the experiment, showing how the colonies connect together to show their relatedness. Video: [here](https://www.youtube.com/watch?v=plVk4NVIUh8). Paper: [here](https://www.science.org/doi/10.1126/science.aag0822)." >}}
+
+Despite being a highly tangible example of evolution in action, antibiotic resistance is rarely described as "evolution" in the medical literature (sources: [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050030) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1852151/#pbio-0050112-b001)).
 
 ### Nylon-eating bacteria
 
@@ -432,13 +444,45 @@ Human evolution is an especially well-studied topic. We are primates and great a
 
 {{< figure src="species_of_extinct_primates.png" title="A list of many of the known extinct primate species, some of which are close to the human lineage." >}}
 
-### Primatology
+### Primate anatomy and taxonomy
 
 The study of extant primates can also give us clues into our shared past.
+
+In 1698, English anatomist Edward Tyson dissected a chimpanzee and noted in his book that the chimpanzee has more in common with humans than with any other ape or monkey, particularly with respect to its brain.
+
+In 1747, taxonomist Carl Linnaeus wrote to J. G. Gmelin, expressing (with circumspect forbearance) his conclusion that humans and other apes must, by the logic of his own nested hierarchies, belong to the same group, which he called *Anthropomorpha*. He writes:
+
+>As a natural historian according to the principles of science, up to the present time I have been not been able to discover any character by which man can be distinguished from the ape; for there are somewhere apes which are less hairy than man, erect in position, going just like him on two feet, and recalling the human species by the use they make of their hands and feet, to such an extent, that the less educated travellers have given them out as a kind of man.
+
+>I demand of you, and of the whole world, that you show me a generic character — one that is according to generally accepted principles of classification, by which to distinguish between Man and Ape. I myself most assuredly know of none.... But, if I had called man an ape, or vice versa, I should have fallen under the ire of all the theologians. It may be that as a naturalist I ought to have done so.
+
+These early naturalists (along with many other Western contemporaries) recognised the similarities, but, living prior to Darwin, had no theoretical framework with which to explain them.
 
 {{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
 
 {{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+
+### Primate behaviour
+
+Primate behaviours are stunningly reminiscent of human behaviours.
+
+Many non-human primates display a clear 'theory of mind' (the understanding that others' beliefs, desires, intentions, emotions and thoughts may be different from one's own). Primatological studies find they:
+
+- warn unaware group members of danger ([Crockford *et al.*, 2012](https://pubmed.ncbi.nlm.nih.gov/22209531/))
+- preferentially comfort bereaved mother chimps ([Goldsborough *et al.*, 2020](https://pubmed.ncbi.nlm.nih.gov/31485897/))
+- mediate and resolve fights they were not involved in ([de Waal, 2004](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020101))
+- use tools extensively, such as in nut cracking, termite fishing, spearing bushbabies for hunting etc. ([Gibbons, 2007](https://www.science.org/content/article/chimpanzee-stone-age) and [Hicks *et al.*, 2019](https://www.researchgate.net/publication/351050377_McGrew_2019_PAN_Review_of_Hicks_et_al_Bili-Uere_chimpanzees_DRC))
+- provide a group mate with tools they need for a task they are not involved in ([Yamamoto, Humle & Tanaka, 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007416))
+- use plants containing medicinal compounds to heal serious facial wounds, chewing them up and packing them in ([Laumer *et al.*, 2024](https://www.nature.com/articles/s41598-024-58988-7))
+- exhibit reconciliation, consolation and empathy
+- engage in vicious warfare against other groups, torturing rival males to death and assimilating rival females into their group ([Wilson & Wrangham, 2003](https://www.researchgate.net/publication/216460577_Intergroup_Relations_in_Chimpanzees))
+- conspire to instigate violent coups against alpha males ([Jensen, Call & Tomasello, 2007](https://www.researchgate.net/publication/6193257_Chimpanzees_Are_Vengeful_but_not_Spiteful))
+- understand justice and fairness, with a similar level of prosociality as human toddlers ([Proctor *et al.*, 2013](https://www.pnas.org/doi/10.1073/pnas.1222132110))
+- easily pass the 'mirror test' (recognise themself in the mirror and use it to groom themselves) 
+- rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en))
+- use complex language: gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Mezzarath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113)), Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/)). Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
+
+Many of these behaviours were at one point (even recently) thought to be the unique characteristic of humans that sets us apart, but in fact they are merely differences in degree rather than kind.
 
 ### Bipedalism in Hominins
 
@@ -453,6 +497,8 @@ Walking up on two feet (bipedalism) is a trait unique to humans today among the 
 7. Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
 
 \* strongest indicators, since these biomechanically prevent quadrupedalism.
+
+Fossils of extinct primates can be analysed to see whether these traits are present, allowing us to trace the gradual evolution of bipedalism.
 
 Morphology and biomechanics are linked by causal morphogenesis (Wolff's law).
 
@@ -647,7 +693,7 @@ As one of the most impressively complex sensory organs, the eye's evolution has 
 - **Pit eye**: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
 - **Pinhole camera eye**: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
 - **Lens formation**: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical aberration.
-- **Multiple lenses**: Found in **Pontella*. A triplet lens (two in females) with the outer elements outside the eye. The first surface is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
+- **Multiple lenses**: Found in *Pontella*. Males have three lenses; females have two. The extra front-facing lens in males is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
 - **Telescoping lens**: Found in *Copilia*. Two lenses work like a telescope with a point-like retina and only a 3° field of view. There is a horizontal scanning eye movements at <5 Hz, while the bottom apparatus (eyepiece + retina) moves in image plane of the 'objective'. The prey (plankton) moves vertically, giving a second dimension of scanning.
 - **Corneal refraction in land animals**: to correct for the air-water interface and spherical aberration. In humans, 2/3 of the optical power is in the cornea rather than the lens.
 - **Reflective concave mirror** (argentea) in the scallop.
@@ -655,7 +701,7 @@ As one of the most impressively complex sensory organs, the eye's evolution has 
 - **Compound eyes** in insects and crustaceans.
 - **Nanostructured cornea anti-reflection surfaces** for quarter-wave matching in moths.
 - **Binocular/stereoscopic vision** in vertebrates.
-- **Trichromatic vision** in primates.
+- **Trichromatic vision** in primates. The Old World monkeys (including apes), as well as some female New World monkeys, are trichromatic, having gained a third cone from the dichromatic mammalian ancestral lineage.
 
 #### Physical constraints in the evolution of the eye
 
@@ -959,12 +1005,6 @@ There is also a group of intelligent design (ID) proponents working at the Disco
 >Nothing in biology makes sense except in the light of evolution.
 
 --- Theodosius Dobzhansky, Evolutionary Biologist
-
->As a natural historian according to the principles of science, up to the present time I have been not been able to discover any character by which man can be distinguished from the ape; for there are somewhere apes which are less hairy than man, erect in position, going just like him on two feet, and recalling the human species by the use they make of their hands and feet, to such an extent, that the less educated travellers have given them out as a kind of man.
-
->I demand of you, and of the whole world, that you show me a generic character — one that is according to generally accepted principles of classification, by which to distinguish between Man and Ape. I myself most assuredly know of none.... But, if I had called man an ape, or vice versa, I should have fallen under the ban of all the ecclesiastics. It may be that as a naturalist I ought to have done so.
-
---- Carl Linnaeus, pre-Darwinian Botanist and Taxonomist
 
 > I write about biology from the point of view of a physicist. Some physicists are arrogant and some are humble. I prefer to be humble. Arrogant physicists say that biology needs better concepts; since physicists are good at concepts, our job is to tell biologists how to think. Humble physicists say that biology needs better hardware; since physicists are good at hardware, our job is to invent new tools for biologists to use. With the exception of Max Delbruck and Francis Crick and a few other pioneers in the heroic age of molecular biology, physicists who tried to teach biologists how to think have failed dismally.
 
