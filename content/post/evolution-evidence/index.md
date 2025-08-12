@@ -346,9 +346,7 @@ For the earliest stages in evolution (unicellular organisms), fossils are scarce
 
 A surprising result of this analysis is according to ribosome similarities, all eukaryotes descend within archaea. This strongly supports the hypothesis of endosymbiosis, where an ancient archaea cell and an ancient bacteria cell merged to become a eukaryotic cell, with the archaea providing the genes that went into the nucleus.
 
-{{< figure src="rRNA-phylogenety.png" title=" Source: Hug *et al.*, 2016." >}}
-
-
+{{< figure src="rRNA-phylogeny.png" title=" Source: Hug *et al.*, 2016." >}}
 
 ### Antibiotic resistance
 
@@ -360,11 +358,18 @@ Despite being a highly tangible example of evolution in action, antibiotic resis
 
 ### Nylon-eating bacteria
 
-Nylon is a synthetic insoluble semi-crystalline polymer of 6-aminohexanoic acid, invented in 1935 and used in a variety of consumer products. In 1965, Japanese researcher Takashi Fukumura found that 11 bacterial strains in the wastewater of the Toyo Rayon 6-polyamide factory (today Toray) in Nagoya were able to grow on ε-caprolactam, the cyclic amide precursor to nylon 6. One more species, *Corynebacterium aurantiacum*, also was found to be able to metabolise linear and cyclic 6-aminohexanoate oligomers. Another group of researchers 4 years later found in the waste water of the same factory a strain from the phylum *Pseudomonas* also able to metabolise 6-aminohexanoate oligomers.
+Nylon is a synthetic insoluble semi-crystalline polymer of 6-aminohexanoic acid, invented in 1935 and used in a variety of consumer products.
 
-One of the 'nylonase' enzymes involved was produced by a frame-shift mutation that completely scrambled existing genetic code data, with the new gene still having a novel, albeit weak, catalytic capacity.
+In 1965, Japanese researcher Takashi Fukumura found that 11 bacterial strains in the wastewater of the Toyo Rayon (today Toray) 6-polyamide factory in Nagoya were able to grow on ε-caprolactam, the cyclic amide precursor to Nylon 6. One more species, *Corynebacterium aurantiacum*, also was found to be able to metabolise linear and cyclic 6-aminohexanoate oligomers. Another group of researchers 4 years later found a strain from the phylum *Pseudomonas* in the waste water of the same factory that was also able to metabolise 6-aminohexanoate oligomers.
 
-In 1974 then we have Hirosuke Okada with his research on *Flavobacterium*. He found that *Flavobacterium* was able to metabolize ε-caprolactam, 6-aminohexanoate and cyclic aminohexanoate-dimer as well as the linear di- bis hexamers of 6-aminohexanoate.
+In 1974, Hirosuke Okada conducted research on *Flavobacterium* also living in the wastewater. He found that the strain *Flavobacterium sp. K172* was able to metabolise ε-caprolactam, 6-aminohexanoate and cyclic aminohexanoate-dimer as well as the linear di- bis hexamers of 6-aminohexanoate. The new enzymes had no activity on biologically derived molecules having similar chemical structures.
+
+After some debate in the literature, it has been concluded that one of the new 'nylonase' enzymes (6-aminohexanoate-dimer hydrolase, [EC 3.5.1.46](https://enzyme.expasy.org/EC/3.5.1.46), EII, NylB, [P07062](https://www.uniprot.org/uniprotkb/P07062/entry)) evolved in a two-step process:
+
+1. a gene duplication in *Flavobacterium* to produce a protein named EII'
+2. base substitutions of EII' to produce EII.
+
+It has been shown ([Negoro *et al.*, 2007](https://www.sciencedirect.com/science/article/abs/pii/S0022283607005347)) that EII' has 88\% sequence similarity with EII, but only 0.5\% of the catalytic activity. Just two point mutations in EII' found in EII were needed to raise the activity to 85\% of EII.
 
 ### *De novo* promoters and orphan genes
 
@@ -380,7 +385,9 @@ Living in cold environments poses a serious challenge to poikilothermic (not the
 
 The [β-helix](https://en.wikipedia.org/wiki/Beta_helix) motif found in these proteins is common enough in natural secondary structures that it has convergently evolved many times: ice restructing proteins making use of it are known in the winter flounder (*Pseudopleuronectes americanus*), the spruce budworm (*Choristoneura fumiferana*), the mealworm beetle (*Tenebrio molitor*), the snow flea (*Hypogastrura harveyi*), some sea ice-living diatoms (*Fragilariopsis cylindrus*) and even some plants like winter rye (*Secale cereale*). The spruce budworm antifreeze can inhibit freezing as low as -30 °C, below even the supercooling limit of liquid water, but some others only work down to about -5 °C, allowing only marginal additional exploratory capacity in cold environments. These antifreeze proteins have different amino acid composition but all perform the same function. Some protein sequences resemble C-type lectins or sialic acid synthase.
 
-Source: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
+In ([Zhuang *et al.*, 2019](https://www.pnas.org/doi/full/10.1073/pnas.1817138116)), it is shown that the antifreeze protein from the northern codfish originated from non-coding DNA, in a process involving frame shift mutations (by 1-nt deletion), duplications and *de novo* gene birth. Comparison to psueodgenes in closely related species is used to support this. This likely evolved in response to the cyclic northern hemisphere glaciation that began in the late Pliocene (about 3 MYA).
+
+Sources: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
 
 ### Cytochrome c oxidase
 
@@ -475,14 +482,18 @@ Many non-human primates display a clear 'theory of mind' (the understanding that
 - provide a group mate with tools they need for a task they are not involved in ([Yamamoto, Humle & Tanaka, 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007416))
 - use plants containing medicinal compounds to heal serious facial wounds, chewing them up and packing them in ([Laumer *et al.*, 2024](https://www.nature.com/articles/s41598-024-58988-7))
 - exhibit reconciliation, consolation and empathy
+- mourn their dead (source: [here](https://www.science.org/content/article/chimps-grieve-over-dead-relatives))
 - engage in vicious warfare against other groups, torturing rival males to death and assimilating rival females into their group ([Wilson & Wrangham, 2003](https://www.researchgate.net/publication/216460577_Intergroup_Relations_in_Chimpanzees))
 - conspire to instigate violent coups against alpha males ([Jensen, Call & Tomasello, 2007](https://www.researchgate.net/publication/6193257_Chimpanzees_Are_Vengeful_but_not_Spiteful))
 - understand justice and fairness, with a similar level of prosociality as human toddlers ([Proctor *et al.*, 2013](https://www.pnas.org/doi/10.1073/pnas.1222132110))
 - easily pass the 'mirror test' (recognise themself in the mirror and use it to groom themselves) 
-- rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en))
-- use complex language: gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Mezzarath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113)), Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/)). Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
+- rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en)). 
+
+Primates also have complex language capabilities. Gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Mezzarath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113)), Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/)). Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
 
 Many of these behaviours were at one point (even recently) thought to be the unique characteristic of humans that sets us apart, but in fact they are merely differences in degree rather than kind.
+
+Many primatologists doing fieldwork regularly observe the 'humanity' in chimpanzees in particular.
 
 ### Bipedalism in Hominins
 
@@ -512,7 +523,7 @@ Sources: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.02
 
 ### Neanderthals are not our ancestors
 
-Autapomorphies (uniquely defining traits) of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
+One of our closest relatives, the Neanderthals, went extinct about 40,000 years ago. Autapomorphies (uniquely defining traits) of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
 
 ### Significant hominin fossils, ichnofossils and artifacts
 
@@ -542,9 +553,7 @@ The idea that rocks are deposited in layers (strata: older below, younger above)
 
 Fossil species that are used to distinguish one layer from another are called *index fossils*, which occur for a limited interval of time. Usually index fossils are fossil organisms that are common, easily identified, and found across a large area. When a fossil is found, the nearest volcanic ash layers above and below it can be radiometrically dated, allowing us to bound the age of the fossil (tephrochronology).
 
-In 1997, a study surveyed the existing fossil record for 384 different clades all across the animal kingdom, and cross-referenced them with their claimed evolutionary relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
-
-Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)
+In ([Benton & Hitchen, 1997](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)), the existing fossil record for 384 different clades all across the animal kingdom was surveyed and cross-referenced with their claimed evolutionary relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
 
 ### Dendrochronology
 
@@ -572,7 +581,7 @@ Magnetotactic bacteria (MTBs) live a few centimetres below the sediment on an oc
 
 In 1999, a new isotope of iron was discovered on the deep seafloor, iron-60 ($ ^{60}Fe$), in polymetallic nodules. $ ^{60}Fe$ is radioactive with a half-life of 2.6 million years, and cannot be formed by stellar nucleosynthesis, so its only plausible origin is from a distant supernova showering the Earth with $ ^{60}Fe$. Using beryllium dating and stratigraphy, a sharp increase in the $ ^{60}Fe/Fe$ ratio of MTB magnetofossils was observed between 2.7 - 1.7 MYA.
 
-Calculations were performed to estimate the required position, distance and stellar mass of a potential supernova that could be responsible. It was found that the supernova must have occurred within the Tuc-Hor stellar group ∼2.8 Myr ago, 330 light years away, with supernova material arriving on Earth ∼2.2 Myr ago. It was found that the iron-60 deposits are consistent with turbulent radioisotopic transport in dust grains originating from the supernova explosions.
+Calculations were performed to estimate the required position, distance and stellar mass of a potential supernova that could be responsible. A supernova observed to have occurred within the Tuc-Hor stellar group ∼2.8 Myr ago, 330 light years away, with supernova material arriving on Earth ∼2.2 Myr ago, was identified as the likely source. It was found that the iron-60 deposits are consistent with turbulent radioisotopic transport in dust grains originating from this supernova explosion.
 
 Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](https://arxiv.org/pdf/1903.04589) and [here](https://iopscience.iop.org/article/10.3847/0004-637X/827/1/48/meta).
 
@@ -596,7 +605,7 @@ The radioisotope carbon-14 is continuously formed in the upper atmosphere by cos
 
 - The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
 
-- **[Han van Meegeren](https://en.wikipedia.org/wiki/Han_van_Meegeren#The_%22perfect_forgery%22)** was a Dutch painter during World War 2 and orchestrated a sophisticated art forgery. While his art skills were considered mediocre, he was able to create several convincing fakes of 17th century *Vermeer* paintings, some of which were sold to the Nazis in exchange for Nazi loot, including his piece *The Supper at Emmaus*. Van Meegeren confessed in 1946 and was found guilty with thorough chemical and X-ray analyses of the paintings. In 1967, a study using the lesser-known $ ^{210}$Pb radiometric dating technique was [used to analyse](https://www.science.org/doi/10.1126/science.155.3767.1238) the white lead (lead oxide) used in the paint. The smelting process to obtain lead removes much of the radium, which decays to $ ^{210}$Pb, so the method studied the ratio of $ ^{210}$Po (as a surrogate for $ ^{210}$Pb) to $ ^{226}$Ra. It was shown that the paint could not have been made more than a few decades prior (the 1930s), rather than the 300 years ago if it were genuine. Another study using gas chromatography in 1977 confirmed this finding.
+- **[Han van Meegeren](https://en.wikipedia.org/wiki/Han_van_Meegeren#The_%22perfect_forgery%22)** was a Dutch painter during World War 2 and orchestrated a sophisticated art forgery. While his art skills were considered mediocre, he was able to create several convincing fakes of 17th century *Vermeer* paintings, some of which were sold to the Nazis in exchange for Nazi loot, including his piece *The Supper at Emmaus*. Van Meegeren confessed in 1946 and was found guilty with other evidence, but some doubt remained. In 1967, a study using the lesser-known $ ^{210}$Pb radiometric dating technique was [used to analyse](https://www.science.org/doi/10.1126/science.155.3767.1238) the white lead (lead oxide) used in the paint. The smelting process to obtain lead removes much of the radium, which decays to $ ^{210}$Pb, so the method studied the ratio of $ ^{210}$Po (as a surrogate for $ ^{210}$Pb) to $ ^{226}$Ra. It was shown that the paint could not have been made more than a few decades prior (the 1930s), rather than the 300 years ago if it were genuine. Another study using gas chromatography in 1977 confirmed this finding.
 
 - **[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. His Y-chromosomal haplogroup was I2a2, and 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
@@ -657,7 +666,6 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 {{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
 
 {{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
-
 
 
 
@@ -749,7 +757,12 @@ Intro-level explainer on the thermodynamics of life: [here](https://saylordotorg
 
 The concept of **exergy** is very helpful in understanding the thermodynamics of photosynthesis. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it. Although a plant radiates away as much energy as it receives (otherwise it would heat up!), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis, building up complex organic molecules from simple inorganic ones.
 
-The transpiration stream of the plant provides the high-entropy output in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
+The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
+
+In ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), it is shown that:
+
+- The net entropy production rate of the Earth is much higher than all others planets (per unit surface area), attributed to the presence of life on Earth
+- The surface layer of seawater produces 30 - 680\% more entropy when cyanobacteria are present, compared to when they are absent.
 
 Basic thermodynamic analysis of photosynthesis: [here](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)
 
