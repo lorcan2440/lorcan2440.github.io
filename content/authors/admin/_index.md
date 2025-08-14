@@ -6,11 +6,10 @@ bio: An engineering graduate from the University of Cambridge. Interested
   in bioengineering, mechanical engineering, sustainable energy and automation.
 interests:
   - Automation (controls, IoT and ML)
-  - Sustainable Energy Storage
+  - Sustainable Energy
   - Aquaponics
   - Biosensors
   - Lab-grown Meat
-  - Evo-Devo and Systems Biology
 social:
   - icon: envelope
     icon_pack: fas
@@ -49,6 +48,6 @@ highlight_name: true
 
 ---
 
-Hi! I'm a recent engineering graduate living in Shropshire, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge.
+Hi! I'm a graduate engineer living in Wrexham, UK after finishing my Master's degree in bioengineering and mechanical engineering at the University of Cambridge.
 
 My website showcases the main projects I've worked on and experience I've gained both at university and independently. While I work torwards an interdisciplinary engineering career, I also enjoy studying across science as well.

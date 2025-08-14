@@ -894,7 +894,7 @@ Some useful resources on the thermodynamics of life:
 Some of the key figures in the field of non-equilibrium thermodynamics include:
 
 - [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), who wrote the book *What is Life?* in 1944, kickstarting the discussion of thermodynamics in the context of biology.
-- [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), who won the 1977 Nobel Prize in Chemistry for his work on dissipative structures and self-organisation.
+- [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), who won the 1977 Nobel Prize in Chemistry for his work on dissipative structures and self-organisation, and wrote the textbook on the topic.
 - [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod), who won the 1965 Nobel Prize in Physiology or Medicine. In his 1971 book *Chance and Necessity*, he discusses the results of a direct experimentation how life increases the entropy of the surroundings.
 - [Jeremy England](https://en.wikipedia.org/wiki/Jeremy_England), who applies dissipative structuring to the origin of life.
 - [Karo Michaelian](https://scholar.google.com/citations?user=NvAthrEAAAAJ), who has written extensively on the thermodynamics of evolution and abiogenesis. Some of his papers are featured in my '[Origin of Life](/post/origin-of-life-research/#non-equilibrium-thermodynamics-and-information-theory)' bibliography.
