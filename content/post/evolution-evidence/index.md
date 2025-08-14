@@ -38,7 +38,8 @@ A small number of the cited papers are available [here](https://drive.google.com
 9. [**Developmental Biology**](#9-developmental-biology)
 10.  [**Population Genetics**](#10-population-genetics)
 11.  [**Metagenomics**](#11-metagenomics)
-12.  [**Applications of Evolution**](#12-applications-of-evolution)
+12.  [**Physics and Chemistry**](#12-physics-and-chemistry)
+13.  [**Applications of Evolution**](#13-applications-of-evolution)
 
 X. [**Miscellaneous**](#x-miscellaneous)
 
@@ -184,7 +185,7 @@ https://link.springer.com/article/10.1007/s00239-024-10165-0
 
 **NANOG** (homeobox protein).
 
-**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques
+**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
 
 Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/), [here](https://geneticeducation.co.in/why-humans-can-not-synthesize-vitamin-c-the-role-of-gulo-pseudogene/)
 
@@ -226,7 +227,7 @@ https://link.springer.com/article/10.1007/BF00182743
 
 ### Chromosome 2 fusion in the human lineage
 
-Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI), [here](https://www.youtube.com/watch?v=l0huM0blk0k) and [here](https://www.youtube.com/watch?v=qVeriF1OL54) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf) (paper).
+Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI) (video), [here](https://www.youtube.com/watch?v=l0huM0blk0k) (video) and [here](https://www.youtube.com/watch?v=qVeriF1OL54) (video), [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (video) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf) (paper).
 
 ### Beneficial mutations in human evolution
 
@@ -573,7 +574,7 @@ Source: [here](https://repository.arizona.edu/bitstream/handle/10150/654431/3828
 
 ### Paleomagnetic dating
 
-{{< figure src="geomagnetic_striping.png" title="As per the [Vine-Matthews-Morley hypothesis](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis), the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation. This allows dating by measuring continental drift, and can calibrate magnetic analyses elsewhere by correlating with geomagnetic field reversals." >}}
+{{< figure src="geomagnetic_striping.png" title="As per the [Vine-Matthews-Morley hypothesis](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis), the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation. This was one of the early 'smoking guns' used to support tectonic theory, and also allows dating by measuring continental drift, helping to calibrate magnetic analyses elsewhere by correlating with geomagnetic field reversals." >}}
 
 ### Iron-60 deposits in magnetofossils
 
@@ -587,39 +588,67 @@ Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](h
 
 ### Oklo natural nuclear reactor
 
+### Extinction of the non-avian dinosaurs
+
+Fossils of dinosaurs stop appearing abruptly above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
+
+The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The 200-km-wide Chicxulub crater off the coast of the Yucatán Peninsula in Mexico was discovered by Alvarez and son in the 1970s. The feature was confirmed as an asteroid impact crater by gravity and magnetic anomaly surveys, and findings of shocked quartz and tektite glasses. In 1980, a worldwide thin layer of iridium-rich clay (160 times more iridium than usual) was found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids. Two independent studies using argon-argon dating have obtained dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
+
+Another hypothesis is the volcanic eruption of the Deccan Traps in India, which would have caused sudden climate change due to release of sulfur dioxide aerosols, suddenly dropping the temperature. However, most recent studies conclude that this was either merely a secondary factor, or that it was not a factor at all in the extinction.
+
+Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. Source: [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs).
+
 ### Radiometric Dating with Uranium series
 
 Coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277379105001654)
 
-### Radiometric Dating with Argon
+### Mount St Helens dating, using isochron dating
+
+### Validation of radiometric dating
+
+#### Argon dating of Mount Vesuvius
 
 Many volcanic rocks naturally contain the isotope potassium-40 ($ ^{40}$K), which decays ~10\% of the time to the stable isotope argon-40 ($ ^{40}$Ar) via electron capture followed by gamma decay with a half-life of 1.25 billion years. When these rocks first form from molten lava, any argon is expelled to the atmopshere on solidification, and the $ ^{40}$K begins to decay from its initial concentration at a predictable rate, forming trapped $ ^{40}$Ar in the rock.
 
-[**Mount Vesuvius**](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy): Pliny the Younger was a Roman eyewitness to the Mount Vesuvius eruption, which he recorded as occuring in the early afternoon of 24th August, 76 AD, destroying Pompeii, Herculaneum and other Roman cities. In 1997, a piece of volcanic tephra from the region was subject to $ ^{40}$Ar/$ ^{39}$Ar (argon) dating, yielding an age of 1925 $ \pm $ 94 years: only 7 years older than the actual age of 1918 years. A second sample, sanidine phenocrysts in pumice, was taken in 2004 using the same method, which yielded an age of 1925 $ \pm $ 66 years, which is the exact calendar year. Additionally, in 2003, the same sample was dating [using the U-Th/He dating method](https://www.osti.gov/servlets/purl/15014443), giving an age of 1866 ± 243 years, which is very precise considering this method is usually used for dating much older rocks.
+Pliny the Younger was a Roman eyewitness to the [**Mount Vesuvius eruption**](https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD), which he recorded as occuring in the early afternoon of 24th August, 76 AD, destroying Pompeii, Herculaneum and other Roman cities. In 1997, a piece of volcanic tephra from the region was subject to $ ^{40}$Ar/$ ^{39}$Ar (argon) dating, yielding an age of 1925 $ \pm $ 94 years: only 7 years older than the actual age of 1918 years. A second sample, sanidine phenocrysts in pumice, was taken in 2004 using the same method, which yielded an age of 1925 $ \pm $ 66 years, which is the exact calendar year. Additionally, in 2003, the same sample was dating using the U-Th/He dating method, giving an age of 1866 ± 243 years, which is very precise considering this method is usually used for dating much older rocks.
 
-### Mount St Helens dating, using isochron dating
+Sources: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy) and [here](https://www.osti.gov/servlets/purl/15014443).
 
-### Radiocarbon dating of recent fossils and artifacts
+#### Carbon dating of the Teide volcano
 
 The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ (at a slightly lower $ ^{14}$C abundance due to slower gas diffusion of $ ^{14}$CO$ _2$) and incorporated into the plant's tissues (e.g. glucose, cellulose). When the plant dies, carbon exchange stops, and the remaining carbon-14 decays with a half-life of 5,700 years. The ratio of $ ^{14}$C to $ ^{12}$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
 
-- The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
+The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
 
-- **[Han van Meegeren](https://en.wikipedia.org/wiki/Han_van_Meegeren#The_%22perfect_forgery%22)** was a Dutch painter during World War 2 and orchestrated a sophisticated art forgery. While his art skills were considered mediocre, he was able to create several convincing fakes of 17th century *Vermeer* paintings, some of which were sold to the Nazis in exchange for Nazi loot, including his piece *The Supper at Emmaus*. Van Meegeren confessed in 1946 and was found guilty with other evidence, but some doubt remained. In 1967, a study using the lesser-known $ ^{210}$Pb radiometric dating technique was [used to analyse](https://www.science.org/doi/10.1126/science.155.3767.1238) the white lead (lead oxide) used in the paint. The smelting process to obtain lead removes much of the radium, which decays to $ ^{210}$Pb, so the method studied the ratio of $ ^{210}$Po (as a surrogate for $ ^{210}$Pb) to $ ^{226}$Ra. It was shown that the paint could not have been made more than a few decades prior (the 1930s), rather than the 300 years ago if it were genuine. Another study using gas chromatography in 1977 confirmed this finding.
+#### Dating of recent fossils and artifacts
 
-- **[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. His Y-chromosomal haplogroup was I2a2, and 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
+**[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. His Y-chromosomal haplogroup was I2a2, and 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
 {{< figure src="cheddar_man.png" title="Map of Western Europe around the time of Cheddar Man, with Y-chromosomal haplogroups labelled. The original skull and his facial reconstruction based on genetic data is shown." >}}
 
-- **[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi)** is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps.
+**[Ötzi the Iceman](https://en.wikipedia.org/wiki/%C3%96tzi)** is a copper-age naturally frozen mummy radiocarbon dated to about 3,200 BC, found in the Alps. This is consistent with the materials, tools and food found with him, including a copper axe (at least 4,000 years old). DNA analysis found him to belong to Y-chromosomal haplogroup G2a-L91 (found today near the Mediteranean), and mitochondrial haplogroup K1f (extinct today). He had brown eyes, brown hair and a lactose intolerance. His genome is 99.7\% identical to modern Europeans, with 5\% of his DNA being Neanderthal.
 
-- The **[Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)** were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+**[Bog Bodies](https://en.wikipedia.org/wiki/List_of_bog_bodies)** are a category of archaeological finds of naturally mummified human remains found in peat bogs, which preserve soft tissue and hair. A large number of these finds are known, with famous cases being the [Tollund Man](https://en.wikipedia.org/wiki/Tollund_Man) and the [Elling Woman](https://en.wikipedia.org/wiki/Elling_Woman). The oldest known bog body so far is the [Koelbjerg man](https://en.wikipedia.org/wiki/Koelbjerg_Man), independently studied with carbon dating and pollen analysis to about 8,000 BC, or around 10,000 years ago. DNA and [stable strontium isotopes](https://en.wikipedia.org/wiki/Isotope_analysis_in_archaeology#Strontium) extracted from the teeth reavealed his sex and birth region, belonging to the [Maglemosian culture](https://en.wikipedia.org/wiki/Maglemosian_culture) of Mesolithic northern Europe.
 
-- The **[Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin)** is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
+The **[Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)** were found in 1947 in caves near the Dead Sea, and contained the earliest known records of the books of the Bible, written in Hebrew, Greek and Aramaic. Radiocarbon dating of the different scrolls gave dates from between 400 BC and 400 AD, which were mostly within 100 years of the dates estimated by analysis of the writing style (paleography).
+
+The **[Shroud of Turin](https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin)** is a linen cloth with a distinctive imprinting that resembles the traditional face of Jesus Christ, which is said to have appeared on the cloth shortly after his crucifixion. However, spectroscopic analysis in 1978 suggested the imprint was painted on using a red ochre and vermilion pigment commonly used in medieval art. Additionally, in 1988, three independent radiocarbon dating laboratories all dated the cloth to between 1260-1390 AD, matching its first known appearance in church history in France.
+
+The **[Vinland Map](https://en.wikipedia.org/wiki/Vinland_Map)** is a medieval map that allegedly shows the Viking discovery of North America, but was later found to be a forgery. Radiocarbon dating of the parchment and ink in 2009 found that the parchment was from the 15th century, while the ink contained modern carbon black, which was not used in medieval Europe.
+
+**[Han van Meegeren](https://en.wikipedia.org/wiki/Han_van_Meegeren#The_%22perfect_forgery%22)** was a Dutch painter during World War 2 and orchestrated a sophisticated art forgery. While his art skills were considered mediocre, he was able to create several convincing fakes of 17th century Vermeer paintings, some of which were sold to the Nazis in exchange for Nazi loot, including his piece *The Supper at Emmaus*. Van Meegeren confessed in 1946 and was found guilty with other evidence, but some doubt remained. In 1967, a study using the $ ^{210}$Pb radiometric dating technique was [used to analyse](https://www.science.org/doi/10.1126/science.155.3767.1238) the white lead (lead oxide) used in the paint. The smelting process to obtain lead removes much of the radium, which decays to $ ^{210}$Pb, so the method studied the ratio of $ ^{210}$Po (as a surrogate for $ ^{210}$Pb) to $ ^{226}$Ra. It was shown that the paint could not have been made more than a few decades prior (the 1930s), rather than the 300 years ago if it were genuine. Another study using gas chromatography in 1977 confirmed this finding.
 
 ### Thermoluminescence dating
 
+When radioactive decay occurs in crystalline minerals, the high-energy radiation can be absorbed by nearby valence band electrons, promoting them to the conduction band and leaving behind a hole in the valence band. Due to [point defects](https://en.wikipedia.org/wiki/Crystallographic_defect) in the crystal lattice, trap levels in the band structure capture these scattered electrons in a local metastable bound state, preventing recombination and fluorescence. Only when the crystal is heated (usually above ~500 C), these trapped electrons acquire sufficient energy to escape and recombine with the holes, releasing energy as photons called [thermoluminescence](https://en.wikipedia.org/wiki/Thermoluminescence) (TL). The released TL photon intensity is proportional to the number of trapped electrons, which in turn is proportional to the amount of radiation (either by radioactivity or cosmic rays) absorbed by the crystal since its last heating event. By calculating the background radiation level per year from rates of decay and cosmic ray flux, the age of the crystal since its last heating event can be found.
+
+In ([Roberts, Jones & Smith, 1990](https://www.nature.com/articles/345153a0)), TL dating is corroborated with radiocarbon dating and used in tandem with artefact finds to date the first peopling of northern Australia to between 50 and 60 kYA.
+
+TL dating is also used to date ceramics, tools and pottery. In ([Rink & Bartoll, 2015](https://www.cambridge.org/core/journals/antiquity/article/abs/dating-the-geometric-nasca-lines-in-the-peruvian-desert/BC66A0CB3A36EC987BAF15BA3A3ED8E3)), TL dating was used on the geometric Nasca stone lines in the Peruvian desert, finding them to have been constructed between 400 and 650 AD.
+
 ### Electron spin resonance dating
+
+Source: [here](https://www.sciencedirect.com/science/article/abs/pii/S1350448707003769)
 
 ### Amino acid racemisation dating
 
@@ -629,8 +658,8 @@ The **orbital monsoon hypothesis** is based on the well-established concept of [
 
 There are several lines of evidence for this model, including:
 
-1. The repeated occurence of [sapropels](https://en.wikipedia.org/wiki/Sapropel) (dark organic-rich marine sediment) in the plankton-rich sediment cores of the Mediterranean sea (indicative of low oxygen content due to freshwater influx from the River Nile).
-2. The repeated occurence of freshwater diatoms blown into the saltwater ocean sediment cores in the Atlanic ocean due to heavy monsoon trade winds.
+1. The repeated occurence of [sapropels](https://en.wikipedia.org/wiki/Sapropel) (dark organic-rich marine sediment) in the plankton-rich sediment cores of the Mediterranean sea (low oxygen content due to freshwater influx from the River Nile).
+2. The repeated occurence of freshwater diatoms blown into the ocean sediment cores in the Atlanic ocean due to heavy monsoon trade winds.
 3. The cycle in isotopic ratios of oxygen-18 to oxygen-16 in calcite stalagtites/stalagmites in caves in China and Brazil, indicative of cycles in the water temperature due to the variable climate.
 
 These cycles all have a period of about 22,000 years, closely matching the precession cycle of the Earth.
@@ -749,25 +778,6 @@ The bacterial kingdom *Pseudomonadati* also contains a similar variety:
 
 Cyanobacteria became incorporated into eukaryotes as chloroplasts via endosymbiosis, allowing plants and algae to make use of photosynthesis, with both photosystems I and II.
 
-#### Thermodynamics of photosynthesis
-
-The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy to maximally generate entropy in the surroundings while maintaining a low-entropy internal state.
-
-Intro-level explainer on the thermodynamics of life: [here](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html).
-
-The concept of **exergy** is very helpful in understanding the thermodynamics of photosynthesis. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it. Although a plant radiates away as much energy as it receives (otherwise it would heat up!), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis, building up complex organic molecules from simple inorganic ones.
-
-The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (via metabolism) for organisms higher up the food chains.
-
-In ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), it is shown that:
-
-- The net entropy production rate of the Earth is much higher than all others planets (per unit surface area), attributed to the presence of life on Earth
-- The surface layer of seawater produces 30 - 680\% more entropy when cyanobacteria are present, compared to when they are absent.
-
-Basic thermodynamic analysis of photosynthesis: [here](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)
-
-Rigorous exergy analysis of photosynthesis: [here](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)
-
 ---
 
 ## 9. DEVELOPMENTAL BIOLOGY
@@ -818,7 +828,80 @@ https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.200
 
 ---
 
-## 12. APPLICATIONS OF EVOLUTION
+## 12. PHYSICS AND CHEMISTRY
+
+Everything in biology is an emergent property of the underlying chemistry and physics, and so we can study the applications of these fields to biology to probe the fundamental principles evolution and life itself has to obey.
+
+#### Thermodynamics of life
+
+In thermodynamics, a 'system' is a specified volume of space, whose energy and matter content can be quantified. The [three types of systems](https://en.wikipedia.org/wiki/Thermodynamic_system#/media/File:Diagram_Systems.svg) are:
+
+- **Isolated system**: ❌ energy exchange; ❌ matter exchange.
+- **Closed system**: ✅ energy exchange; ❌ matter exchange.
+- **Open system**: ✅ energy exchange; ✅ matter exchange.
+
+For example, the **Earth** is (roughly) a closed system, since it receives energy from the Sun (insolation) and radiates thermal energy back out to space, but the mass transfers (atmospheric gas escape, space dust infall, mass defect from radioactivity) are negligible (sources: [here](https://mynasadata.larc.nasa.gov/basic-page/systems-thinking-about-earth-system#:~:text=Earth%20is%20mostly%20a%20closed%20system) and [here](https://en.wikipedia.org/wiki/Earth_mass#Variation)).
+
+The second law of thermodynamics states that
+
+>The entropy of an isolated system never decreases over time.
+
+In equation form, we can write this as:
+
+$$ \Delta S \geq 0 $$
+
+In the case of a closed system, energy inputs and outputs can allow for the entropy of the system to decrease, if compensated for with a higher increase in the entropy of the surroundings. In equation form, we can write the 2nd law for a closed system as:
+
+$$ \Delta S_{sys} = \int_1^2 \frac{\delta Q}{T} + \Delta S_{irrev} \ \ \ \ \text{where} \ \ \ \ \Delta S_{irrev} \geq 0 $$
+
+where $ \delta Q $ is the heat transferred to the system and $ T $ is the temperature of the system boundary where the heat is transferred (integrated over the system boundary from the two states). Notice that if heat is released from the system, then we have $ Q < 0 $, allowing a reduction in system entropy. 
+
+Common sources of irreversible entropy production $ \Delta S_{irrev} $ include heat transfer across a finite temperature difference, turbulent mixing of viscous fluid flows, and viscous dissipation in fluid boundary layers (skin friction).
+
+In the case of an open system, mass flows $ \dot{m} $ further allow a change in system entropy. We can write the 2nd law for an open system as:
+
+$$ \frac{\mathrm{d} S_{sys}}{\mathrm{d} t} + \sum \dot{m}\_{out} s_{out} - \sum \dot{m}\_{in} s_{in} = \oint_{\partial V}^{} \frac{\delta \dot{Q}}{T} + \dot{S}\_{irrev} $$
+
+$$ \text{where} \ \ \ \ \dot{S}_{irrev} \geq 0. $$
+
+where $ \dot{S}\_{irrev} $ is the rate of entropy generation due to irreversibilities. The $ \frac{dS_{sys}}{dt} $ term is zero if the system is at **steady state**, meaning the system state variables (including entropy) do not change with time. Note that for an open system, "equilibrium" and "steady state" are different things: an open system can be at steady state but not at equilibrium, if all mass flows balance out.
+
+The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy inputs to maximally generate entropy in the surroundings while maintaining a low-entropy internal state. The concept of [**exergy**](https://en.wikipedia.org/wiki/Exergy) is useful in quantifying the potential of an open system to do useful work and reduce its entropy. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it, and the exergy of a system is given by
+
+$$ B = H - T_0 S + \frac{1}{2} mv^2 + mgz $$
+
+where $ H $ is the enthalpy, $ S $ is the entropy and $ T_0 $ is the 'dead state temperature', which is the temperature of the surroundings where heat can potentially be dissipated to. The last two terms represent macroscopic energy (kinetic energy plus gravitational potential energy) relative to the dead state.
+
+For example, although a plant radiates away as much energy as it receives (otherwise it would heat up!), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis. The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (released by metabolism of food intake) for organisms higher up the food chains.
+
+Exergy can be used to combine the first law (conservation of energy) and the second law (entropy production) into a single equation, called an exergy balance. The **exergy equation** for an open system, along with the interpretations of each term, is:
+
+![alt text](exergy_equation.png)
+
+While elementary thermodynamics tells us that the processes of life are **possible**, it does not tell us how likely it is to occur, or how it actually happens. The more modern field of **non-equilibrium thermodynamics** is more suited to understanding the physical processes underpinning life, since all biological systems are open systems far from equilibrium. For any system subjected to a strong gradient of free energy, non-equilibrium thermodynamics tells us that the system will spontaneously self-organise into a state of maximum entropy production, known as a **dissipative structure**. For example, when a closed system of liquid water is heated strongly with a good-conducting boundary, it naturally forms turbulent convection cells which increases the mixing of hot and cool regions of the fluid, increasing the heat transfer rate and the irreversible entropy production rate in the system.
+
+Some useful resources on the thermodynamics of life:
+
+- [An intro-level explainer on thermodynamics in biochemistry](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html)
+- [Entropy and evolution](https://www.fisica.net/epistemologia/STYER_Entropy_and_Evolution.pdf) (Styer, 2008), a basic pedagogical paper explaining why evolution does not violate the 2nd law.
+- [A YouTube video by Veritasium on the concept of entropy](https://www.youtube.com/watch?v=DxL2HoqLbyA), with a section on entropy in life from 17:08.
+- [A YouTube video by NanoRooms on dissipative structuring in life](https://www.youtube.com/watch?v=fzcVBRdI730).
+- [A practical thermodynamic analysis of photosynthesis](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf) (Keller, 2013).
+- [A rigorous exergy analysis of photosynthesis](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983), (Petela, 2008), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
+- [Life as a manifestation of the second law of thermodynamics](https://www.sciencedirect.com/science/article/pii/0895717794901880), (Schneider & Kay, 1994), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
+- [Biological catalysis of the hydrological cycle: life’s thermodynamic function](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf), (Michaelian, 2012), a comprehensive paper analysing the processes of life on the entropy and energy budgets of the Earth.
+
+Some of the key figures in the field of non-equilibrium thermodynamics include:
+
+- [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), who wrote the book *What is Life?* in 1944, kickstarting the discussion of thermodynamics in the context of biology.
+- [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), who won the 1977 Nobel Prize in Chemistry for his work on dissipative structures and self-organisation.
+- [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod), who won the 1965 Nobel Prize in Physiology or Medicine. In his 1971 book *Chance and Necessity*, he discusses the results of a direct experimentation how life increases the entropy of the surroundings.
+- [Jeremy England](https://en.wikipedia.org/wiki/Jeremy_England), who applies dissipative structuring to the origin of life.
+- [Karo Michaelian](https://scholar.google.com/citations?user=NvAthrEAAAAJ), who has written extensively on the thermodynamics of evolution and abiogenesis. Some of his papers are featured in my '[Origin of Life](/post/origin-of-life-research/#non-equilibrium-thermodynamics-and-information-theory)' bibliography.
+
+---
+
+## 13. APPLICATIONS OF EVOLUTION
 
 This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. **It does not include applications of explaining aspects of biology itself**, which are numerous. The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
@@ -927,6 +1010,14 @@ Artificial selection is nothing more than natural selection but with humans deci
 - Domestication of dogs and cats
 - Domestication of livestock
 - Gene drive for mosquitoes to eliminate malaria
+
+### Universal Darwinism
+
+While "evolution" generally simply means "change over time", the more specific meaning in biology can be generalised. Any imperfectly self-replicating system (subject to random variation with some mechanism for selection of survival based on that variation) can be said to evolve: this is the concept of [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism), and it can be used as a philosophical or metaphysical framework to understand the dynamics of various other phenomena.
+
+Chemical evolution refers to self-replicating molecules (autocatalytic systems) that can change their structures over time, which is especially relevant to the origin of life. Lone biomolecules like RNA are not alive and are therefore not part of biological evolution, but can still undergo this more general notion of 'chemical evolution'.
+
+Richard Dawkins extends evolution to the development of cultures, a concept called [memetics](https://en.wikipedia.org/wiki/Memetics), where ideas and cultural practices are the 'genes' that are subject to selection and variation, and can evolve over time.
 
 ---
 
