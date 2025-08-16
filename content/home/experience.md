@@ -28,10 +28,10 @@ experience:
     company_url: 'https://www.scottishpower.co.uk/'
     company_logo: scottish_power
     location: Wrexham
-    date_start: '2025-09-01'
+    date_start: '2024-09-01'
     date_end: 
     description: |2-
-        * Beginning a 2-year engineering graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles and projects, including I&C and SCADA systems in the 132 kV transmission network.
+        * A 2-year engineering graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles and projects, including I&C and SCADA systems in the 132 kV transmission network.
 
   - title: Script Writer
     company: YouTube

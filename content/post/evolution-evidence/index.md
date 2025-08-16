@@ -536,6 +536,7 @@ One of our closest relatives, the Neanderthals, went extinct about 40,000 years 
 - **Lucy (AL 288-1)**: partial skeleton of *Australopithecus afarensis*, 3.2 MYA.
 - **Ledi Geraru mandible (LD 350-1)**: jaw assigned to basal genus *Homo*, 2.78 MYA.
 - **Mrs Ples**: complete skull of *Australopthecus africanus*, 2.35 MYA.
+- **Malapa hominins (MH1 and MH2)**: two partial skeletons of *Australopithecus sediba*, 2 MYA.
 - **Dmanisi skulls**: a set of skulls of *Homo erectus*, 1.81 MYA.
 - **Turkana Boy**: near-complete young *Homo erectus*, 1.55 MYA.
 - **Peking Man**: a Chinese specimen of *Homo erectus*, 500 kYA.
