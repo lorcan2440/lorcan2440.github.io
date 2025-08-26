@@ -408,7 +408,19 @@ Some of the most obvious evidence for evolution is 'transitional fossils'. Techn
 
 ### Horse evolution
 
-{{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [here](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf) (Bruce J. MacFadden, Fossil Horses - Evidence for Evolution. *Science* 307, 1728-1730 (2005). doi:10.1126/science.1105458)." >}}
+{{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [(McFadden, 2005)](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf)." >}}
+
+Horse feet gradually lost toes, going from 5 toes (small ancestral mammals) to 4 toes on ground (*Eohippus*) to 4 toes with 3 on ground (*Epihippus*) to 3 toes (*Mesohippus*) to 1 toe (*Equus*). Throughout this process, the carpal bones (homologous with the mammalian wrist) moved upwards due to elongation of the metacarpals, giving the modern appearance of a three-segment leg. The hind limbs also underwent similar later transitions in *Mesychippus*.
+
+Ancestral horses (*Eohippus*) originally had toes and lived in more forested areas. The evolution into hooved horses coincided with a changing climate, when the forested environments that *Eohippus* lived in started to recede and give way to grasslands. While padded feet with toes work fine in forests, they're not as good as hooves on hard dry soil, especially when you want to move long distances and/or at high speeds.
+
+Over tens of millions of years the smallest digit of the four-toed foot of *Hyracotherium* becomes drastically reduced leaving its descendants with three toes, and the two lateral toes recede further leaving one big toe with a hoof at the end.
+
+While *Eohippus* and *Hyracotherium* had four-toed feet, they could still run on dry grasslands. Horses evolved to become specialised for high bursts of speed and being able to trot or canter for long periods of time in this environment. The evolutionary cost however is that horses are less agile - but life on grasslands doesn't require much agility since there aren't many obstacles to manoeuvre around to escape predators.
+
+Modern horses have gone through extensive artificial selection, with pre-domestication horses being smaller. Wild horses are endangered today. Artificial selection has a tendency to evolve animals into extremes that would not be good strategies in nature, due to the difference in selection objectives.
+
+Sources: [Florida Museum](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [Limbs of the Horse](https://en.wikipedia.org/wiki/Limbs_of_the_horse)
 
 ### Bird evolution
 
@@ -444,7 +456,9 @@ Human evolution is an especially well-studied topic. We are primates and great a
 
 {{< figure src="skulls.jpg" title="Cranial fossils of some hominin skulls close to the human lineage, showing the steady variation in morphology from past to present." >}}
 
-{{< figure src="laetoli_footprints.jpg" title="Preserved footprints found in an ash bed in Tanzania, indicating bipedality in genus *Australopithecus*." >}}
+{{< figure src="hominin_brain_sizes.png" title="The brain case sizes - both in cc and normalised to body size as the encephalisation quotient (EQ) - follow a smooth progression throughout human evolution." >}}
+
+{{< figure src="laetoli_footprints.jpg" title="Preserved footprints found in an ash bed in Tanzania, indicating bipedality in genus *Australopithecus*. The gait has been shown to be intermediate between humans and chimps." >}}
 
 {{< figure src="little_foot.jpg" title="A nearly-complete specimen of the extinct hominin *Australopithecus africanus*, with many of its joints still in full articulation." >}}
 
@@ -466,7 +480,7 @@ In 1747, taxonomist Carl Linnaeus wrote to J. G. Gmelin, expressing (with circum
 
 These early naturalists (along with many other Western contemporaries) recognised the similarities, but, living prior to Darwin, had no theoretical framework with which to explain them.
 
-{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a human's when the black pigment is removed." >}}
+{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a (White) human's when the dark pigment is removed." >}}
 
 {{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
 
@@ -487,10 +501,14 @@ Many non-human primates display a clear 'theory of mind' (the understanding that
 - engage in vicious warfare against other groups, torturing rival males to death and assimilating rival females into their group ([Wilson & Wrangham, 2003](https://www.researchgate.net/publication/216460577_Intergroup_Relations_in_Chimpanzees))
 - conspire to instigate violent coups against alpha males ([Jensen, Call & Tomasello, 2007](https://www.researchgate.net/publication/6193257_Chimpanzees_Are_Vengeful_but_not_Spiteful))
 - understand justice and fairness, with a similar level of prosociality as human toddlers ([Proctor *et al.*, 2013](https://www.pnas.org/doi/10.1073/pnas.1222132110))
-- easily pass the 'mirror test' (recognise themself in the mirror and use it to groom themselves) 
+- easily pass the 'mirror test' (recognise themself in the mirror and use it to groom themselves - easily observed at zoos)
 - rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en)). 
 
-Primates also have complex language capabilities. Gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Mezzarath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113)), Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/)). Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
+Primates also have complex language capabilities:
+
+- Gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Menzerath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113))
+- Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/))
+- Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
 
 Many of these behaviours were at one point (even recently) thought to be the unique characteristic of humans that sets us apart, but in fact they are merely differences in degree rather than kind.
 
@@ -500,19 +518,24 @@ Many primatologists doing fieldwork regularly observe the 'humanity' in chimpanz
 
 Walking up on two feet (bipedalism) is a trait unique to humans today among the primates, so studying how this evolved is important. The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
 
-1. Anterior foramen magnum*: skull rests on the top of the spine.
-2. Sagittally-oriented iliac blades*: pelvis rests upright
-3. Valgus knee (bicondylar angle)*: femur angled to keep knees in line.
-4. In-line hallux: the big toe is aligned with the other toes, aiding in walking.
-5. Bowl-shaped pelvis: supports the visceral organs around the abdomen.
-6. Lumbar lordosis (S-shaped vertebral column): supports upright posture.
-7. Arched foot: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
+1. **Anterior foramen magnum** *: skull rests on the top of the spine.
+2. **Sagittally-oriented iliac blades (bowl-shaped pelvis)** *: pelvis rests upright, supports visceral organs around the abdomen.
+3. **Valgus knee (bicondylar angle)** *: femur angled to keep knees in line.
+4. **In-line hallux**: big toe is aligned with the other toes, aiding in walking.
+5. **Lumbar lordosis** (S-shaped vertebral column): supports upright gait.
+6. **Arched foot**: three arches (medial, lateral, transverse) in the feet act as shock absorbers in walking.
 
 \* strongest indicators, since these biomechanically prevent quadrupedalism.
 
-Fossils of extinct primates can be analysed to see whether these traits are present, allowing us to trace the gradual evolution of bipedalism.
+Fossils of extinct primates can be analysed to see whether these traits are present, allowing us to trace the gradual evolution of bipedalism. For example:
 
-Morphology and biomechanics are linked by causal morphogenesis (Wolff's law).
+- *Ardipithecus ramidus* has a 'mosaic' pelvis: the ilium (top) is human-like, while the ischium (bottom) is more ape-like. It has an anterior inferior iliac spine, the muscle attachment site indicative of bipedalism. Its foramen magnum is also intermediate between a human and a chimp.
+- All species of *Australopithecus* have the foramen magnum in the anterior position, bowl-shaped pelvis, valgus knee, inline hallux, smaller back curvature and 12 thoracic vertebra. They had a partial third (transverse) arch in their feet (transitional).
+
+Presentation with extensive comparisons: [here](https://www.youtube.com/watch?v=Ot3CeKW_nIc&t=706s) by Gutsick Gibbon.
+
+Bones can 'follow' any biomechanical trend demanded during evolution, due to [Wolff's law of causal morphogenesis](https://en.wikipedia.org/wiki/Wolff%27s_law). This allows relatively fast variation in bone shape depending on the behaviour of organisms.
+
 
 ### Taxonomy of *Australopithecus* and *Homo habilis*
 
@@ -591,13 +614,13 @@ Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](h
 
 ### Extinction of the non-avian dinosaurs
 
-Fossils of dinosaurs stop appearing abruptly above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
+Fossils of dinosaurs stop appearing just above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
 
 The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The 200-km-wide Chicxulub crater off the coast of the Yucatán Peninsula in Mexico was discovered by Alvarez and son in the 1970s. The feature was confirmed as an asteroid impact crater by gravity and magnetic anomaly surveys, and findings of shocked quartz and tektite glasses. In 1980, a worldwide thin layer of iridium-rich clay (160 times more iridium than usual) was found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids. Two independent studies using argon-argon dating have obtained dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
 
 Another hypothesis is the volcanic eruption of the Deccan Traps in India, which would have caused sudden climate change due to release of sulfur dioxide aerosols, suddenly dropping the temperature. However, most recent studies conclude that this was either merely a secondary factor, or that it was not a factor at all in the extinction.
 
-Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. Source: [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs).
+Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself. Source: [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs).
 
 ### Radiometric Dating with Uranium series
 
@@ -671,7 +694,7 @@ Saltwater and freshwater have different ratios of oxygen isotopes, due to more e
 
 The isotopes show that *Ambulocetus* (transitional whale) likely drank both saltwater and freshwater, which fits perfectly with the idea that these animals lived in estuaries or bays between freshwater and the open ocean. Whales that evolved afterwards (*Kutchicetus*, etc.) show even higher levels of saltwater oxygen isotopes, indicating that they lived in nearshore marine habitats and were able to drink saltwater as today’s whales can.
 
-{{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us  out the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that probably comprised an ancient estuary." >}}
+{{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us infer the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that probably comprised an ancient estuary." >}}
 
 ### Ice core paleoclimate data
 
@@ -691,20 +714,23 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 ## 7. COMPARATIVE ANATOMY
 
+### Middle ear bones in birds
+
 {{< figure src="bird_ear_bones_1.png" title="Main structures of central nervous system (including optic tectum) and inner ear (vestibular system and cochlear duct) across birds (extinct and extant) and closely related non-avian dinosaurs. The highlighted specimen, MPM-334-1, is a [recently-discovered basal bird cranium](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1398)." >}}
 
 {{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
 
+### Nose position in whales
+
 {{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
 
-
+### Limbs in vertebrates and mammals
 
 {{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
 
 {{< figure src="arm_anatomy_mammals.png" title="The similarities get even closer in mammals, with all sharing the same number and arrangement of the bones, but in variable lengths. Note: the colour code applies to the left set of images; the others are from a different source." >}}
 
-
-### Evolution of the vertebrate eye
+### The eye in vertebrates
 
 Anatomical constraints in eye evolution: [here](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1)
 
@@ -891,6 +917,7 @@ Some useful resources on the thermodynamics of life:
 - [A rigorous exergy analysis of photosynthesis](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983), (Petela, 2008), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
 - [Life as a manifestation of the second law of thermodynamics](https://www.sciencedirect.com/science/article/pii/0895717794901880), (Schneider & Kay, 1994), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
 - [Biological catalysis of the hydrological cycle: life’s thermodynamic function](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf), (Michaelian, 2012), a comprehensive paper analysing the processes of life on the entropy and energy budgets of the Earth.
+- [Maximum power in evolution, ecology and economics](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0290), (Hall & McWhirter, 2023), a discussion of Lotka's statement of the '4th law of thermodynamics' as it applies to evolutionary biology.
 
 Some of the key figures in the field of non-equilibrium thermodynamics include:
 
