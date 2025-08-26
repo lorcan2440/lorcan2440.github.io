@@ -434,9 +434,9 @@ Sources: [Florida Museum](https://www.floridamuseum.ufl.edu/fossil-horses/amazin
 
 {{< figure src="indohyus_fossils.png" title="*Indohyus* (50 MYA) was the land mammal ancestor of all whales, belonging to the clade *Artiodactyla*. **(a)**: skulls of *Indohyus* (left) and a modern raccoon (right), with the white box showing the ear structure of the auditory bulla, unique to all whales. **(b)**: the *Indohyus* skull in more detail. The osteosclerotic bones (such as the involucrum) are indicative of habitual aquatic lifestyle (also found in all whales), supported by oxygen-18 isotope analysis. Source: [here](https://core.ac.uk/download/291497088.pdf). **(c)**: The post-cranial fossil material found from *Indohyus*. **(d)**: Reconstruction of postcrania and artist's impression." >}}
 
-### The earliest animals
+### Tetrapod evolution
 
-{{< figure src="ediacaran.jpg" title="Animals did not appear in the Cambrian explosion. Phyla belonging to the animal kingdom are known from the Ediacaran period, before the Cambrian. The Cambrian explosion was a relatively rapid radiation of these phyla. The Ediacaran biota is known from *lagerstätten* (exceptionally well-preseved soft tissue) and ichnofossils (trace fossils), and are among the earliest known macroscopic life." >}}
+Wikipedia pages: [Evolution of tetrapods](https://en.wikipedia.org/wiki/Evolution_of_tetrapods), [Skeletal changes](https://en.wikipedia.org/wiki/Skeletal_changes_of_vertebrates_transitioning_from_water_to_land) and [Vertebrate land invasion](https://en.wikipedia.org/wiki/Vertebrate_land_invasion).
 
 ### Plant evolution
 
@@ -444,11 +444,62 @@ Plant fossils has its own field of study: paleobotany.
 
 {{< figure src="plant_fossils.png" title="**(a)**: *Archaeopteris hibernica*, a 'progymnosperm', considered a transitional form between ferns and seed plants. It is a useful index fossil, found worldwide from the late Devonian to the early Carboniferous (380 - 320 MYA). **(b)**: *Wattieza casasii*, an extinct tree from the middle Devonian (~400 MYA) closely related to modern ferns and horsetails." >}}
 
+### Ediacaran Biota (early animals)
+
+While the 'Cambrian explosion' is the most well-known expansion of animal and plant life, responsible for the relatively rapid radiation of animal phyla, it was not the origin of most of these phyla, which appeared in the preceeding period, the Ediacaran (635 - 538.8 MYA).
+
+Geologic regions bearing lots of Ediacaran fossils include the [Doushantuo formation](https://en.wikipedia.org/wiki/Doushantuo_Formation) in China and the [Avalon peninsula](https://en.wikipedia.org/wiki/Avalon_Peninsula) in Canada.
+
+The early Ediacaran yields some interesting finds:
+
+- *Lantianella* (early Ediacaran, 635-590 MYA), likely belonging to *Cnidaria*.
+- Phosphatised animal embryos, such as *Megasphaera*, *Caveasphaera* and *Helicoforamina*.
+- Acritarchs: microfossils without an assignment.
+
+However, the later Ediacaran provides most of the better-known biota from this period, divided into the Avalon (571 - 555 MYA), White Sea (560 - 551 MYA) and Nama (555 - 541 MYA) assemblages.
+
+The Avalon biota, following the Avalon explosion, consists of sessile (non-moving) frondose (having fronds) fractal rangeomorphs such as *Charnia* and *Fractofusus* (stem non-sponge animals), frond-like arboreomoprhs (having bulb-shaped anchors) like *Charniodiscus* and disc-like organisms such as *Cyclomedusa*. Cnidarians include the muscle-bearing *Haootia quadriformis*.
+
+The White Sea biota includes *Tribrachidium* (sessile benthic suspension feeder with tri-radial symmetry), *Dickinsonia* (stem bilaterian), *Ikaria* (worm-like bilaterian) and *Kimberella* (stem mollusc or spiralian), representing increasingly modern animal clades.
+
+{{< figure src="white_sea_fossils.png" title="The White Sea assemblage features the progression of animal complexity." >}}
+
+The Nama assemblage follows the [end-Ediacaran extinction event](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) and coincides with the [Baykonurian glaciation](https://en.wikipedia.org/wiki/Baykonurian_glaciation). It includes fossils such as *Cloudina* (tubular and biomineralised, likely an annelid), *Yilingia* (segmented bilaterian: annelid or panarthropod) and *Namacalathus* (early relative of brachiopods and bryozoans).
+
+{{< figure src="ediacaran_cambrian_fossils.png" title="Ediacaran fossils show a steady progression in complexity, with some crossing the boundary into the Cambrian. These make up some of the stem-group animals that entered the first stages of the Cambrian, before radiating into the crown-group animals that predominated in the middle Cambrian stages. Figure source: ([Wood *et al.*, 2019](https://www.nature.com/articles/s41559-019-0821-6))." >}}
+
+The Ediacaran biota contain a wide range of [genera](https://en.wikipedia.org/wiki/List_of_Ediacaran_genera), and some of these fossils are shown:
+
+{{< figure src="ediacaran.jpg" title="The Ediacaran biota is known mostly from [*lagerstätten*](lagerstätten ) (exceptionally well-preseved soft tissue) and [ichnofossils](https://en.wikipedia.org/wiki/Trace_fossil) (trace fossils)." >}}
+
+There are also animal fossils dating to even further back than the Ediacaran:
+
+- The Cryogenian biota, indicated as sponges (animals) by the presence of molecular biomarkers (24-isopropylcholestane, a degraded steroid) in the sediment, dating to around 700 MYA. This use of steranes is discussed in ([Love *et al.*, 2009](https://www.nature.com/articles/nature07673)), as well as in ([Zumberge *et al.*, 2018](https://www.nature.com/articles/s41559-018-0676-2)) for demosponges.
+- [*Otavia antiqua*](https://en.wikipedia.org/wiki/Otavia): a multicellular animal assigned to phylum *Porifera* (sponges), appearing as far back as 760 MYA (late Tonian). Described in ([Brain *et al.*, 2012](https://www.researchgate.net/publication/255728283_The_first_animals_Ca_760-million-year-old_sponge-like_fossils_from_Namibia)).
+
+### Early Eukaryotes
+
+Two major clades of eukaryotes include:
+
+- Clade *Archaeplastida* contains red and green algae (multicellular protists), glaucophytes (unicellular protists) and land plants.
+- Clade *Amorphea* contains amoebas, the clade *Holomycota* (containing fungi) and the clade *Holozoa* (containing animals).
+
+Some known fossils from some of these clades include:
+
+- [*Bangiomorpha pubescens*](https://en.wikipedia.org/wiki/Bangiomorpha): a species of red algae (the complex multicellular clade *Archaeplastida*) found from 1,200 MYA (late Ectasian and Stenian). The fossil includes differentiated reproductive cells that are the oldest evidence of sexual reproduction. ([Butterfield, 2000](https://www.researchgate.net/publication/278693786_Bangiomorpha_pubescens_n_gen_n_sp_implications_for_the_evolution_of_sex_multicellularity_and_the_MesoproterozoicNeoproterozoic_radiation_of_eukaryotes)).
+- [*Horodyskia*](https://en.wikipedia.org/wiki/Horodyskia): a eukaryote dating to the Calymmian, 1,500 MYA.
+- The [Gaoyuzhuang biota](https://en.wikipedia.org/wiki/Gaoyuzhuang_Formation#:~:text=Paleobiota) are a group of possible algae (multicellular eukaryotes), such as [*Grandilingulata*](https://en.wikipedia.org/wiki/Grandilingulata), [*Tuanshanzia*](https://en.wikipedia.org/wiki/Tuanshanzia), [*Changchengia*](https://en.wikipedia.org/wiki/Changchengia), dating to the early Calymmian around 1,590 MYA. These are likely the base of clade *Archaeplastida*.
+- [*Rafatazmia chitrakootensis*](https://en.wikipedia.org/wiki/Rafatazmia) and [*Ramathallus lobatus*](https://en.wikipedia.org/wiki/Ramathallus): crown group red algae dating to the late Statherian, 1,650 MYA.
+- [*Grypania*](https://en.wikipedia.org/wiki/Grypania): a tube-shaped fossil proposed to be an algae, dated to the Orosirian, 1,870 MYA.
+- [*Diskagma buttonii*](https://en.wikipedia.org/wiki/Diskagma): a basal eukaryote of unknown affinity dated to the Rhyacian, 2,200 MYA.
+
 ### Fake fossils?
 
 The fact that these fraudulent cases are so rare, are so thoroughly well-scrutinised when they do happen, and are always rejected by the scientific community, serves as reassurance that the vast majority of the fossil record is in fact perfectly reliable, just naturally incomplete.
 
-{{< figure src="frauds.png" title="Infamous paleontological frauds commonly cited by critics of the theory of evolution to suggest that all or most of the fossil record cannot be trusted. All cases were quickly exposed by the scientific community, not its critics, and some were accepted due to systemic ideological dogmas of the time, such as ethnonationalism." >}}
+The occurrence of these frauds in the early 1900s led to increased caution and scrutiny on more recent fossil finds, increasing the reliability of the field.
+
+{{< figure src="frauds.png" title="" >}}
 
 ### Human evolution
 
@@ -724,7 +775,11 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 {{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
 
-### Limbs in vertebrates and mammals
+### Limbs in fish, tetrapods, vertebrates and mammals
+
+Homology increases with evolutionary relatedness.
+
+{{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs, with large variation in the number of digits. Source: [Berkley Evolution 101](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
 
 {{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
 
