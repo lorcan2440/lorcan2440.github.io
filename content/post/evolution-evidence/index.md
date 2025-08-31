@@ -418,11 +418,13 @@ Over tens of millions of years the smallest digit of the four-toed foot of *Hyra
 
 While *Eohippus* and *Hyracotherium* had four-toed feet, they could still run on dry grasslands. Horses evolved to become specialised for high bursts of speed and being able to trot or canter for long periods of time in this environment. The evolutionary cost however is that horses are less agile - but life on grasslands doesn't require much agility since there aren't many obstacles to manoeuvre around to escape predators.
 
-Modern horses have gone through extensive artificial selection, with pre-domestication horses being smaller. Wild horses are endangered today. Artificial selection has a tendency to evolve animals into extremes that would not be good strategies in nature, due to the difference in selection objectives.
+Modern horses have gone through extensive artificial selection, with pre-domestication horses being slightly smaller. Wild horses are endangered today. Artificial selection has a tendency to evolve animals into extremes that would not be good strategies in nature, due to the difference in selection objectives.
 
 Sources: [Florida Museum](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [Limbs of the Horse](https://en.wikipedia.org/wiki/Limbs_of_the_horse)
 
 ### Bird evolution
+
+One of the most famous transitional fossils known to Darwin, *Archaeopteryx* displays both ancestral traits (teeth, long bony tail, three claws on wing) and derived traits (feathers, wings, furcula/wishbone, reduced digits(smaller fingers)).
 
 {{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
 
@@ -553,13 +555,19 @@ Many non-human primates display a clear 'theory of mind' (the understanding that
 - conspire to instigate violent coups against alpha males ([Jensen, Call & Tomasello, 2007](https://www.researchgate.net/publication/6193257_Chimpanzees_Are_Vengeful_but_not_Spiteful))
 - understand justice and fairness, with a similar level of prosociality as human toddlers ([Proctor *et al.*, 2013](https://www.pnas.org/doi/10.1073/pnas.1222132110))
 - easily pass the 'mirror test' (recognise themself in the mirror and use it to groom themselves - easily observed at zoos)
-- rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en)). 
+- rescue nonrelated group members who are in mortal danger e.g. drowning in deep water ([Fouts & Mills, 1997](https://www.google.co.uk/books/edition/Next_of_Kin/7kN9AAAAMAAJ?hl=en))
+- perform worse at easier tasks and better at harder tasks when being watched by people than when alone, as if they were feeling the pressure/anxiety to perform in front of an audience (reputation management) ([Lin, Muramatsu & Yamamoto, 2024](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7))
+- dance for fun and to attract males ([Coy, Caspar & Patel-Grosz, 2025](https://pubmed.ncbi.nlm.nih.gov/39365409/))
+- point at things to tell group mates who haven't seen something before, demonstrating theory of mind ([Townrow & Krupenye, 2025](https://www.pnas.org/doi/10.1073/pnas.2412450122))
 
 Primates also have complex language capabilities:
 
 - Gelada vocalisations follow fundamental linguistic rules of grammar called Zipf's law and Menzerath's law ([Gustison *et al.*, 2016](https://www.pnas.org/doi/10.1073/pnas.1522072113))
 - Campbell's monkeys and panins both use syntax and grammar ([Ouattara, Alban & Klaus, 2009](https://pubmed.ncbi.nlm.nih.gov/20007377/))
+- Marmosets in groups call to each other with specific sounds, as if they have names ([Oren *et al.*, 2024](https://www.science.org/doi/10.1126/science.adp3757)).
 - Chimpanzees and human toddlers have a ~90\% overlap in 'innate' gestures ([Kersken *et al.*, 2019](https://link.springer.com/article/10.1007/s10071-018-1213-z))
+- Chimpanzees have unique gestures within families, a necessary precondition for inventing *de novo* language ([van Boekholt *et al.*, 2024](https://link.springer.com/article/10.1007/s10071-024-01904-3))
+- Bonobos combine vocalisations in non-trivial ways to create new meanings ([Berthet, Surbeck & Townsend, 2025](https://www.science.org/doi/10.1126/science.adv1170))
 
 Many of these behaviours were at one point (even recently) thought to be the unique characteristic of humans that sets us apart, but in fact they are merely differences in degree rather than kind.
 
@@ -617,7 +625,23 @@ One of our closest relatives, the Neanderthals, went extinct about 40,000 years 
 - **East Asian archaics**: a collection of late *Homo erectus*, archaic *Homo sapiens* and Denisovan specimens from China and surroundings, e.g. Dali man, Xiahe mandible, Harbin skull/Dragon man…
 - **Denny**: teeth from a 13-year old female containing DNA, Neanderthal-Denisovan hybrid, 90 kYA.
 - **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
-- **Lomekwi stone tools**: oldest stone tools, attributed to *Australopithecus* or *Kenyanthropus*.
+- **Lomekwi stone tools**: oldest stone tools known, predating genus *Homo*.
+
+### Evolution of tool use: paleolithic stone age technology
+
+Archaeological finds associated with hominin remains often include [stone tools](https://en.wikipedia.org/wiki/Stone_tool#Evolution) and other objects of interest. The progression in the complexity of these tools follows evolutionary lines, and is divided into [industries](https://en.wikipedia.org/wiki/Industry_(archaeology)):
+
+1. Lomekwian tools: from 3.3 MYA, knapped rocks attributed to *Australopithecus* or *Kenyanthropus*.
+2. Oldowan tools: from 2.9 MYA, attributed to *Homo habilis* and possibly *Australopithecus garhi*.
+3. Acheulean tools: from 1.5 MYA, attributed to *Homo erectus* and *Homo heidelbergensis*.
+4. Mousterian tools: from 300 kYA, attributed to *Homo neanderthalensis*.
+5. Aurignacian tools: from 50 KYA, attributed to anatomically modern *Homo sapiens*.
+
+Once *Homo sapiens* evolved, tool complexity increased rapidly since ~50 kYA, culminating in the advent of civilised societies.
+
+In ([Braun *et al.*, 2025](https://www.sciencedirect.com/science/article/pii/S0047248424001337)), it is found that extant wild chimpanzees choose tools in a similar way to those found in the Oldowan tool industry, selecting harder stones for hammers and softer stones for anvils.
+
+[Control of fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) for the purposes of cooking meat has been attributed to *Homo erectus* over 1 MYA, with confidence increasing for more recent use in heat treatment of stone weapons. Use of fire for processing metals did not occur until very recently (the iron/copper/bronze ages of recent civilisation).
 
 ---
 
@@ -779,7 +803,7 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 Homology increases with evolutionary relatedness.
 
-{{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs, with large variation in the number of digits. Source: [Berkley Evolution 101](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
+{{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs (humerus, radius and ulna), with large variation in the number of digits. Source: [Berkley Evolution 101](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
 
 {{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
 
@@ -1185,7 +1209,7 @@ There is also a group of intelligent design (ID) proponents working at the Disco
 
 - Michael Behe: selectively deleted parts of a data table showing the effect of mutations in a population of polar bears to falsely claim that neutral (benign) mutations are far rarer than they actually are.
   
-- Jonathan McLatchie: attended a Bible college (i.e. virtually zero academic standards; not a real college) and pretends to be a scientist. Also ragequit a 'Christianity vs atheism' debate against atheist Matt Dilahunty.
+- Jonathan McLatchie: taught at a Bible college (Sattler college), graduated with a PhD dissertation that is unavailable online ([here](https://libsearch.ncl.ac.uk/discovery/fulldisplay?docid=alma9912708129402411&context=L&vid=44NEW_INST:NEWUI&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Mclatchie&offset=0), extremely unusual, potentially indicative of poor quality) and pretends to be a scientist without having done any legitimate work (his only published paper is in the DI's in-house journal 'Bio-Complexity'). He was exposed as incompetent in an exchange with PZ Meyers ([here](https://www.youtube.com/watch?v=omKP_AkdhsQ)), and ragequit a 'Christianity vs atheism' debate against Matt Dilahunty ([here](https://www.youtube.com/live/a-wIaCRIdOA?si=sLJ1hLMGohsu-nX8&t=4700)).
 
 ### Some Relevant Quotes
 
