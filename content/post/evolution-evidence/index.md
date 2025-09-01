@@ -179,9 +179,9 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been lost, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus* and guinea pigs (*Cavia porcellus*).
+**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all broken in different ways.
 
-https://link.springer.com/article/10.1007/s00239-024-10165-0
+In ([Mansueto & Good, 2024](https://link.springer.com/article/10.1007/s00239-024-10165-0)), it is shown that chromosome 8 (containing GULO) underwent inversion in the haplorhine lineage, but that this did not affect the functionality of GULO. When the pseudogene was formed, the mutation rate increased significantly, indicating loss of a selective pressure, such that the Neanderthal GULO differs from the *Homo sapiens* GULO by four SNPs.
 
 **NANOG** (homeobox protein).
 
@@ -711,6 +711,8 @@ Coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277
 
 ### Mount St Helens dating, using isochron dating
 
+
+
 ### Validation of radiometric dating
 
 #### Argon dating of Mount Vesuvius
@@ -900,9 +902,29 @@ How is it that every cell in your body has the same DNA, yet different body part
 
 ### Vestigial structures
 
-{{< figure src="embryology.jpg" title="Humans possess tails in early development because they descend from a common ancestor which had tails. The tail serves no purpose and normally regresses by week 8 of a pregnancy. It is therefore a vestigial trait." >}}
+Evolutionary change sometimes lags behind the needs of an organism. Body parts inherited from ancestors that had utility may become useless or serve a totally different function (exaptation) in a new environment. These are vestigial structures. 
 
-{{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
+There are some structures that were considered vestigial in the past on the basis that they appeared to serve no function, but later scientific study found functionality. If there is no evidence for an evolutionary change in this function, then these structures are **not** vestigial (e.g. appendix, yolk sac...)
+
+#### The vestigial tail and pharyngeal gill slits
+
+**Pharyngeal gill slits**: all deuterostomes have gill slits in their pharynx, originally used for filter feeding, and evolving into gills in fish. They have been lost entirely in echinoderms. In mammals, they become inner ear structures and throat cartilage.
+
+**Post-anal tail**: all chordates have a tail at some point in their life. In the more recent clade *Hominoidea* (apes), the tail has been lost, regressing normally by week 8 of development in humans. In very rare cases, mutations can upregulate the developmental gene *Wnt-3a*, whose normal suppression induces apoptosis in the cells of the tail, leading to the re-emergence of the tail at birth where it can be surgically removed (an **atavistic trait**).
+
+{{< figure src="human_embryo_tail.png" title="**(a)**: human embryo at week 6 ([Gasser, 1975](https://www.ehd.org/pdf/gasser/greyscale/Gasser_Fig6-1gs.pdf)). **(b)**: a rare disorder where the tail persists until birth (an atavistic trait) ([Shad & Biswas, 2012](https://casereports.bmj.com/content/2012/bcr.11.2011.5160))." >}}
+
+#### Blind fish
+
+The blind cave fish ([*Astyanax mexicanus*](https://en.wikipedia.org/wiki/Mexican_tetra)) is a species for which some live in dark caves their whole lives, while others live above ground in rivers. The cave-dwelling fish differ significantly in their appearance: they have non-functional remnants of eyeballs (vestigial; sometimes fully lost), have lost the pigmentation in their scales and they also have significantly smaller midbrains (the region of the brain that processes vision). These traits have convergently evolved independently in multiple cave populations. Experiments have shown that the blind fish have a metabolic energy reduction of 15\% relative to the above-ground fish ([Moran, Softley & Warrant, 2015](https://www.science.org/doi/10.1126/sciadv.1500363)), providing a selection advantage for the cave fish to lose their eyes (the 'expensive tissue hypothesis'). The blind cave fish is likely on its way towards peripatric speciation.
+
+### Comparative embryology
+
+Von Baer's law of embryology refers to the observation that in the earlier stages of development, embryos of closely related animals are similar. Diversification of the embryo follows evolutionary diversification. [This differs from Haeckel's idea](https://upload.wikimedia.org/wikipedia/commons/0/0a/Haeckel_vs_von_Baer.svg) that "ontogeny recapitulates phylogeny".
+
+{{< figure src="human_chicken_embryo.png" title="Early-stage chicken and human embryos look similar and share vestigial structures. Image source: *Biology* textbook by Campbell, 12th ed., page 479." >}}
+
+{{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the dolphin *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
 
 ### Homeotic genes: Hox, ParaHox, Pax, MADS-box
 
@@ -916,15 +938,19 @@ Comparative genomics studies the similarities and differences between the genome
 
 A test of the validity of this reconstruction can be done using a known phylogeny. In 1992, a study was done on an artificially mutated strain of the virus bacteriophage T7, whose genome was sequenced repeatedly as it reproduced in bacteria. The experiment was stopped after 9 different viral strains had emerged, and only their genomes were used in 5 different phylogenetic reconstruction algorithms. All 5 algorithms produced the same, correct known tree, out of the 135,135 possible tree structures, with slight variation in the time to branching, showing that the algorithms are valid and can be used to reconstruct phylogenies from extant genome data more generally.
 
-Source: [here](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)
+Source: ([Hillis *et al.*, 1991](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)).
 
 ### Great ape Y chromosome mutation rates
 
 Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
-### Statistical evidence of common ancestry among primates
+### Statistical tests of common ancestry
 
-Source: [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934) (paper), [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post)
+([Baum *et al.*, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)) gives a rigorous and comprehensive statistical analysis of common ancestry applied to the primates. This paper is discussed [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post).
+
+The random distribution in the FSA would have or did have trees with correlated structures, at their starts, since they would be part of the distribution that had the most parsimonious trees. Assuming that a set of characters were not derived as a result of being in relation to another family does not mean that some family trees would not have a set of characters correlated or derived from some other means other than being related to another family tree. And the actual data set of each actual known family fell way outside the generated distribution and thus FSA fails.
+
+The efficiency of Markov chain Monte Carlo (MCMC) in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work.
 
 ---
 
