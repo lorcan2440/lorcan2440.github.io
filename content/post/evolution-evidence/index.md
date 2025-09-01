@@ -357,7 +357,15 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 
 Despite being a highly tangible example of evolution in action, antibiotic resistance is rarely described as "evolution" in the medical literature (sources: [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050030) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1852151/#pbio-0050112-b001)).
 
-### Nylon-eating bacteria
+### Herbicide resistance
+
+The first herbicides, [2,4-D (2,4-dichlorophenoxyacetic acid)](https://en.wikipedia.org/wiki/2,4-Dichlorophenoxyacetic_acid) and [2,4,5-T](https://en.wikipedia.org/wiki/2,4,5-Trichlorophenoxyacetic_acid) are synthetic auxins and were discovered due to their selective targeting of [dicot plants](https://en.wikipedia.org/wiki/Dicotyledon) (includes weeds e.g. dandelions, chickweed, poison ivy etc), while leaving [monocot plants](https://en.wikipedia.org/wiki/Monocotyledon) (includes crops derived from grasses e.g. wheat, corn, barley) mostly unharmed. The monocots are a monophyletic clade nesting within the angiosperms (flowering plants), indicating an evolutionarily conserved mechanism of molecular tolerance in domestic crops.
+
+Other herbicides like glyphosate target all plants regardless, as they inhibit the more fundamental [Shikimate pathway](https://en.wikipedia.org/wiki/Shikimate_pathway) of amino acid synthesis, found in all plants but not in animals. Researchers extracted *Salmonella* bacteria living in sludge near the glyphosate factories and found them to be resistant due to a mutant [EPSP synthase enzyme](https://en.wikipedia.org/wiki/EPSP_synthase), and used genetic modification to produce GM seeds confering resistance. Many species of weed have since evolved resistance to glyphosate due to its overuse, with the first occuring as quickly as the GM seeds were invented ([Heap & Duke, 2018](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.4760)), and around 60 species resistant as of 2024. This has contributed to the switch in herbicides back to 2,4-D.
+
+(While there is [significant controversy](https://www.youtube.com/watch?v=CxVXvFOPIyQ) surrounding herbicides such as Monsanto's extremely unethical business practices and industry-funded carcinogenicity studies, this has no bearing on the underlying biology!)
+
+### Nylon metabolism in bacteria
 
 Nylon is a synthetic insoluble semi-crystalline polymer of 6-aminohexanoic acid, invented in 1935 and used in a variety of consumer products.
 
@@ -372,13 +380,13 @@ After some debate in the literature, it has been concluded that one of the new '
 
 It has been shown ([Negoro *et al.*, 2007](https://www.sciencedirect.com/science/article/abs/pii/S0022283607005347)) that EII' has 88\% sequence similarity with EII, but only 0.5\% of the catalytic activity. Just two point mutations in EII' found in EII were needed to raise the activity to 85\% of EII.
 
-### *De novo* promoters and orphan genes
-
 ### DNT metabolism in bacteria
 
 https://www.talkorigins.org/faqs/dover/pf.html#p84
 
 https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F
+
+### *De novo* promoters and orphan genes
 
 ### Antifreeze proteins
 
@@ -940,7 +948,7 @@ Everything in biology is an emergent property of the underlying chemistry and ph
 
 #### Thermodynamics of life
 
-In thermodynamics, a 'system' is a specified volume of space, whose energy and matter content can be quantified. The [three types of systems](https://en.wikipedia.org/wiki/Thermodynamic_system#/media/File:Diagram_Systems.svg) are:
+In thermodynamics, a 'system' is a specified volume of space with a boundary, whose energy and matter content can be quantified. The [three types of systems](https://en.wikipedia.org/wiki/Thermodynamic_system#/media/File:Diagram_Systems.svg) are:
 
 - **Isolated system**: ❌ energy exchange; ❌ matter exchange.
 - **Closed system**: ✅ energy exchange; ❌ matter exchange.
@@ -988,17 +996,17 @@ While elementary thermodynamics tells us that the processes of life are **possib
 
 Some useful resources on the thermodynamics of life:
 
-- [An intro-level explainer on thermodynamics in biochemistry](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html)
-- [Entropy and evolution](https://www.fisica.net/epistemologia/STYER_Entropy_and_Evolution.pdf) (Styer, 2008), a basic pedagogical paper explaining why evolution does not violate the 2nd law.
+- An intro-level explainer on thermodynamics in biochemistry, [here](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html)
+- Entropy and evolution ([Styer, 2008](https://www.fisica.net/epistemologia/STYER_Entropy_and_Evolution.pdf)), a basic pedagogical paper explaining why evolution does not violate the 2nd law.
 - [A YouTube video by Veritasium on the concept of entropy](https://www.youtube.com/watch?v=DxL2HoqLbyA), with a section on entropy in life from 17:08.
 - [A YouTube video by NanoRooms on dissipative structuring in life](https://www.youtube.com/watch?v=fzcVBRdI730).
-- [A practical thermodynamic analysis of photosynthesis](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf) (Keller, 2013).
-- [A rigorous exergy analysis of photosynthesis](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983), (Petela, 2008), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
-- [Life as a manifestation of the second law of thermodynamics](https://www.sciencedirect.com/science/article/pii/0895717794901880), (Schneider & Kay, 1994), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
-- [Biological catalysis of the hydrological cycle: life’s thermodynamic function](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf), (Michaelian, 2012), a comprehensive paper analysing the processes of life on the entropy and energy budgets of the Earth.
-- [Maximum power in evolution, ecology and economics](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0290), (Hall & McWhirter, 2023), a discussion of Lotka's statement of the '4th law of thermodynamics' as it applies to evolutionary biology.
+- A practical thermodynamic analysis of photosynthesis ([Keller, 2013](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)).
+- A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
+- Life as a manifestation of the second law of thermodynamics ([Schneider & Kay, 1994](https://www.sciencedirect.com/science/article/pii/0895717794901880)), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
+- Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life on the entropy and energy budgets of the Earth.
+- Maximum power in evolution, ecology and economics ([Hall & McWhirter, 2023](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0290)), a discussion of Lotka's statement of the '4th law of thermodynamics' as it applies to evolutionary biology.
 
-Some of the key figures in the field of non-equilibrium thermodynamics include:
+Some of the key authors in non-equilibrium thermodynamics include:
 
 - [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), who wrote the book *What is Life?* in 1944, kickstarting the discussion of thermodynamics in the context of biology.
 - [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), who won the 1977 Nobel Prize in Chemistry for his work on dissipative structures and self-organisation, and wrote the textbook on the topic.
@@ -1016,19 +1024,23 @@ This section focusses on practical applications of the evolutionary theory, prim
 
 We can develop entirely new enzymes using 'directed evolution' of proteins with a variety of uses. By artificially cloning the gene for an enzyme and introducing mutations, screening for activity and stability, we 'artificially select' more optimal enzymes for our use case. This is a well-established lab procedure that puts evolution into practice. 
 
-**Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to activity reduction on immobilisation, stability to temperature variations and cofactor dependence), so new enzymes are needed, which come from directed evolution. These are the most common type of commericalised glucose biosensors in use today. Although enzyme-free biosensors have been researched, they have not yet been commercialised due to lacking the chemoselectivity that enzymes excel at, so evolution-backed biosensors remain the state-of-the-art in type 1 diabetes management as of 2025. Source: [here](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260) and 
+**Glucose biosensors**: when type 1 diabetics need to monitor their blood glucose levels to time insulin injections, they use a glucose biosensor, which typically works by measuring the rate of reaction of a glucose-binding enzyme. The wild-type enzymes found naturally are usually not stable enough for reliable operation in a biosensor (due to activity reduction on immobilisation, stability to temperature variations and cofactor dependence), so new enzymes are needed, which come from directed evolution. These are the most common type of commericalised glucose biosensors in use today. Although enzyme-free biosensors have been researched, they have not yet been commercialised due to lacking the chemoselectivity that enzymes excel at, so evolution-backed biosensors remain the state-of-the-art in type 1 diabetes management as of 2025. ([Gutierez *et al.*, 2013](https://www.sciencedirect.com/science/article/abs/pii/S0956566313004260)).
 
-**Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require directed evolution for thermostability. They are also used in hospitals at triage to test for septic shock or risk of meningitis. Source: [here](https://link.springer.com/article/10.1007/BF00127437) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0956566397001231).
+**Lactate biosensors**: another type of electrochemical biosensor making use of directed evolution. Lactate biosensors are used by high-performance athletes to monitor lactate levels in the blood and sweat, indicative of fatigue, and require directed evolution for thermostability. They are also used in hospitals at triage to test for septic shock or risk of meningitis. ([Minagawa, Nakayama & Nakamoto, 1995](https://link.springer.com/article/10.1007/BF00127437)) and ([Minagawa *et al.*, 1998](https://www.sciencedirect.com/science/article/abs/pii/S0956566397001231)).
 
-**Artificial metalloenzymes**: new enzymes can be designed to catalyse completely new chemical reactions unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity. Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...). Source: [here](https://pubmed.ncbi.nlm.nih.gov/20715024/).
+**Artificial metalloenzymes**: new enzymes can be designed to catalyse completely new chemical reactions unseen in biology. In one study (figure below), a new enzyme was evolved containing an abiotic di-rhodium cofactor, which catalyses the cyclopropanation of styrene and diazo compounds with enantioselectivity. Industrial applications include the synthesis of pharmaceutical (e.g. sulfonamide antibiotics), improvement of enzymatic biofuel cells, carbonic anhydrase-based carbon capture technology and bioremediation by degradation of toxins (PAHs, PCBs, organophosphates...). ([Reetz, 2011](https://pubmed.ncbi.nlm.nih.gov/20715024/)).
 
 {{< figure src="directed_evolution.png" title="The procedure for the combinatorial mutagenesis of enzymes. Each cycle is one 'generation'. The error-prone PCR provides the mutations, while the activity and enantioselectivity assays provide the artificial selection. The metal cofactor is inserted via reaction with a [specially encoded amino acid](https://pubmed.ncbi.nlm.nih.gov/32284585/) in the enzyme. Source: [here](https://www.nature.com/articles/nchem.2927)." >}}
 
-**Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its cofactor dependence on calcium ions was also removed, as calcium would be chelated by EDTA in the wash. Source: [here](https://pubmed.ncbi.nlm.nih.gov/9634803/).
+**Bio-detergents**: subtilisin is a protease used in laundry detergents, which was engineered to be more stable at high temperatures and alkaline pH. Its cofactor dependence on calcium ions was also removed, as calcium would be chelated by EDTA in the wash. ([Yang *et al.*, 2018](https://pubmed.ncbi.nlm.nih.gov/9634803/)).
 
 **High-fructose corn syrup**: glucose isomerase is an enzyme used in the production of high-fructose corn syrup (HFCS), which is sweeter than regular corn syrup. It was engineered to be more stable at high temperatures and to have a higher affinity for glucose. This allows for more efficient conversion of glucose to fructose, resulting in a sweeter product. Source: [here](https://foodsafety.institute/food-biotechnology/industrial-applications-engineered-glucose-isomerase/).
 
-**Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as carotenoids. They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain. Source: [here](https://www.nature.com/articles/nbt0700_750).
+**Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as carotenoids. They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain. ([Schmidt-Dannert, Umeno & Arnold, 2000](https://www.nature.com/articles/nbt0700_750)).
+
+**Bioremediation**: engineering of bacteria extends to waste degradation in an effort to combat environmental pollution, such as of [plastics like PET](https://biology.mit.edu/directing-evolution-in-search-of-a-better-plastic-degrading-enzyme/).
+
+PFAS (per- and poly-fluorinated alkyl substances) are a now-infamous group of environmental pollutants commonly known as 'forever chemicals': organic molecules whose structures render them practically inert to biological and chemical attack. The carbon-fluorine bond is rare in biochemistry, with only a few [dehalogenase](https://en.wikipedia.org/wiki/Dehalogenase) enzymes known in [organohalide-respiring bacteria](https://en.wikipedia.org/wiki/Halorespiration). ([Yang & Liu, 2025](https://pubmed.ncbi.nlm.nih.gov/40323512/)) reviews the very recent literature exploring the new possibility for bioremediation of PFAS in the environment. In ([Jaffé *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/38658084/)) and ([Huang *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/39531816/)), it is found that *Acidimicrobium* sp. strain A6 is capable of degrading PFOA, PFOS, and PFHxS using its *rdhA* gene. Another study, ([Wijayahena *et al.*, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0048969724085061)), finds similar results for PFOS and some others by *Labrys portucalensis F11*. Unlike nylon, it is improbable that nature alone would evolve an enzyme to metabolise PFAS due to the recency, chemical dissimilarity and lack of environmental pressure, so technological innovations are needed. [It is hoped that](https://www.aspidia.com/post/bioremediation-of-pfas-a-scientific-reality-not-a-utopian-dream) bioengineering techniques such as genetic engineering and directed evolution could help improve the rate and efficiency of PFAS degradation. While other solutions involving PFAS-absorbing probiotics ([Lindell *et al.*, 2025](https://www.nature.com/articles/s41564-025-02032-5)) have been proposed, environmental cleanup remains a challenge.
 
 ### Animal Model Selection
 
@@ -1036,15 +1048,15 @@ The animals used in lab studies for medicines are chosen based on evolutionary r
 
 Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
 
-Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, telomeres are longer than in humans due to stronger telomerase activity, which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/).
+Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, telomeres are longer than in humans due to stronger telomerase activity, which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. ([Gorbunova & Seluanov, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/)).
 
-Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. Chimps in general are rarely useful models for humans despite their genetic similarity, due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed. Source: [here](https://journals.sagepub.com/doi/10.1177/026119291103900608).
+Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. Chimps in general are rarely useful models for humans despite their genetic similarity, due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed. ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)).
 
 ### Protein Folding Prediction
 
 Protein structure prediction is famously hard task, and has only recently become feasible with powerful machine learning models like *AlphaFold*, trained on structures painstakingly obtained manually via cryo-electron microscopy and X-ray crystallography. *AlphaFold* uses a transformer-based ML architecture (the same structure as used in LLMs like ChatGPT) called the *EvoFormer*, which combines protein sequence data with data on sequence identity conservation across evolutionary lineages, which essentially provides information on which amino acid residues are crucial to the 3D structure and which are less constrained. 
 
-It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to predict the consequences of how a virus will mutate during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution! Source: [here](https://arxiv.org/html/2411.12370v1).
+It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to predict the consequences of how a virus will mutate during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution! ([Wee & Wei, 2025](https://academic.oup.com/ve/article/11/1/veaf026/8121542)).
 
 ### Universal Flu Vaccine
 
@@ -1080,7 +1092,6 @@ More info:
 - Approved evolution-based treatment regime for prostate cancer: [here](https://www.nature.com/articles/s41467-017-01968-5)
 - Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
-
 ### Basin Modelling for Oil and Gas Exploration
 
 [Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks.
@@ -1091,20 +1102,22 @@ There exists only one oil prospecting company in the world that refuses to use o
 
 Radiometric dating has also been used by mining companies. For example, in 2021, Hannan Metals used U-Pb dating of zircons to expand a Miocene-epoch deposit of gold and copper in Peru. Source: [here](https://hannanmetals.com/news/2021/hannan-radiometric-dating-confirms-miocene-porphyry-belt-at-the-previsto-copper-gold-project-peru/).
 
-Historically, American coal miners in the 19th century would use fossils of *Archimedes* (a Paleozoic-era bryozoan with a distinctive screw-shaped stalk) to indicate how to deep to dig when searching for coal. These bryozoans are commonly found in limestones that were older (lower in strata) than the mostly siliciclastic coal-bearing rocks and do not contain much of any coal, so would be pointless to excavate. Source: [here](https://www.researchgate.net/publication/264383478_David_Dale_Owen_1807-1860_and_the_naming_of_Archimedes_the_first_described_fenestrate_bryozoan_a_complex_fossil_with_important_stratigraphic_and_economic_implications)
+Historically, American coal miners in the 19th century would use fossils of *Archimedes* (a Paleozoic-era bryozoan with a distinctive screw-shaped stalk) to indicate how to deep to dig when searching for coal. These bryozoans are commonly found in limestones that were older (lower in strata) than the mostly siliciclastic coal-bearing rocks and do not contain much of any coal, so would be pointless to excavate. ([Jackson, 2008](https://www.researchgate.net/publication/264383478_David_Dale_Owen_1807-1860_and_the_naming_of_Archimedes_the_first_described_fenestrate_bryozoan_a_complex_fossil_with_important_stratigraphic_and_economic_implications)).
 
 ### Evolutionary Algorithms
 
 Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are stochastic and highly generalised: they are essentially biased parallelised random searches, and this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases, illustrating the power of the underlying Darwinian principles.
 
-- Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples [here](https://link.springer.com/article/10.1007/s42791-021-00040-0).
-- [Hyperparameter optimisation in neural networks](https://link.springer.com/article/10.1023/A:1008272615525) and [this](https://arxiv.org/pdf/1711.09846) from DeepMind.
-- [Training deep neural networks in reinforcement learning](https://github.com/uber-research/deep-neuroevolution), from Uber's research team, also [this](https://arxiv.org/abs/1611.01578) from Google Brain, and [this](https://openai.com/index/evolution-strategies/) post from OpenAI.
-- [Diffusion models](https://arxiv.org/pdf/2410.02543) are a type of generative AI used to create images or videos, and have been mathematically shown to be equivalent to an evolutionary algorithm.
-- [Operations research](https://www.sciencedirect.com/science/article/abs/pii/S095219761830174X) (e.g. facility layout design, supply network design, vehicle routing, capacity planning, inventory management, scheduling, risk management)
-- Inverse problems (e.g. inverse kinematics).
+Evolutionary algorithms applied to various engineering problems include:
+
+- Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples in the review ([Belhocine, Shinde & Patil, 2021](https://link.springer.com/article/10.1007/s42791-021-00040-0)).
+- Hyperparameter optimisation in neural networks ([Pujol & Poli, 1998](https://link.springer.com/article/10.1023/A:1008272615525)) and ([Jaderberg, 2017](https://arxiv.org/pdf/1711.09846)) from DeepMind.
+- Training neural networks for deep reinforcement learning ([here](https://github.com/uber-research/deep-neuroevolution)), from Uber's research team, also ([Zoph & Le, 2016](https://arxiv.org/abs/1611.01578)) from Google Brain, and [this](https://openai.com/index/evolution-strategies/) post from OpenAI.
+- Diffusion models are a type of generative AI used to create images or videos, and have been mathematically shown to be equivalent to an evolutionary algorithm ([Zhang *et al.*, 2024](https://arxiv.org/pdf/2410.02543)).
+- Operations research (e.g. facility layout design, supply network design, vehicle routing, capacity planning, inventory management, scheduling, risk management) ([Lee, 2018](https://www.sciencedirect.com/science/article/abs/pii/S095219761830174X)).
+- Inverse problems, such as image reconstruction from PET or EIT data, which are used in medicine, soft robotics and particle technology ([Abouhawwash & Alessio, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415095/)).
 - [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5, and using COMSOL [here](https://www.comsol.com/blogs/optimizing-the-geometry-of-optical-antennas-with-genetic-algorithms)
-- [FPGA circuit design](https://www.osti.gov/servlets/purl/1118155)
+- FPGA circuit design ([Ashraf *et al.*, 2012](https://www.osti.gov/servlets/purl/1118155)).
 
 ### Artificial Selection and Genetic Engineering
 
