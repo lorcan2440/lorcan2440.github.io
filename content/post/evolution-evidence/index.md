@@ -1,7 +1,7 @@
 ---
 
 title: "Evidence for Evolution"
-subtitle: A collection of pictures, papers and examples that support the theory of evolution.
+subtitle: A collection of evidence that support the theory of evolution.
 date:
 summary:
 draft: false
@@ -11,14 +11,14 @@ tags:
 categories: []
 
 image:
-    preview_only: true
+    preview_only: false
     filename: featured.jpg
 
 commentable: true
 
 ---
 
-A collection of interesting pictures, papers and examples to show how biological evolution explains the diversity of life.
+A collection of interesting evidence to show how biological evolution explains the diversity of life from across as many disciplines as possible.
 
 {{% callout note %}}
 This is a work in progress! It is nowhere near complete!
@@ -56,11 +56,13 @@ Microevolution (adaptation and other changes within a species) is commonly obser
 
 Although microevolution is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is somewhat trivial and is not contested by critics of evolutionary theory. Therefore, we will list here only examples of macroevolution that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
 
+### The argument
+
 *If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
 
 Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
-### Lizards evolving placentas
+### Lizards with placentas
 
 {{< figure src="lizard_viviparity.png" title="A [viviparous lizard](https://en.wikipedia.org/wiki/Viviparous_lizard)." >}}
 
@@ -68,7 +70,7 @@ Reptiles are known for usually giving birth via egg-laying (oviparity), but ther
 
 While observing a population of the lizard *Zootoca vivipara* in the Alps, reproductive isolation was found between these two subgroups, and attempts at producing hybrids in the lab led to embryonic malformations. Sometimes, the viviparous group would even give birth to two live young and one egg within the same litter of three. The oviparous group is now confined to the range spanning northern Spain and southern France (the Pyrenees), while the viviparous lizards extend across most of Europe. This represents an example of speciation with complete reproductive isolation, together with the gain of a complex new function (viviparity) to boot.
 
-Sources: [here](https://www.researchgate.net/publication/233720256_Squamate_reptiles_as_model_organisms_for_the_evolution_of_viviparity) (paper), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4806899/) (paper) and [here](https://www.youtube.com/watch?v=t1xy9XaEaeo) (video).
+Sources: ([Blackburn, 2006](https://www.researchgate.net/publication/233720256_Squamate_reptiles_as_model_organisms_for_the_evolution_of_viviparity)), ([Cornetti *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4806899/)) and [here](https://www.youtube.com/watch?v=t1xy9XaEaeo) (video).
 
 ### Fruit flies feeding on apples
 
@@ -78,7 +80,7 @@ The apple maggot fly (*Rhagoletis pomonella*) usually feeds on the berries of ha
 
 This is a case of 'sympatric speciation': the geographic range of the apple group (north-eastern America) is contained within that of the berry group (temperate biomes globally). There is a barrier between the groups because 1) the two trees flower at different times of the year (apples in summer, hawthorns in autumn/fall) so flies must reproduce asynchronously, and 2) each group only lays its eggs on their respective fruit.
 
-Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf).
+Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf) (several primary sources within).
 
 ### The London Underground mosquito
 
@@ -88,9 +90,9 @@ They were named due to people being bit by them while hiding in the underground 
 
 The new species breeds all-year-round, is cold intolerant and bites rats, mice and humans, while the prior species hibernates in winter. This is a case of 'allopatric speciation' (geographic isolation) by 'disruptive selection', a rarer type of natural selection where an intermediate trait is selected against while extreme traits are favoured, leading to rapid separation into a bimodal distribution of the two lifecycles. Cross-breeding the two forms in the lab led to infertile eggs, implying reproductive isolation.
 
-Sources: [here](https://www.researchgate.net/publication/371326691_Rapid_Speciation_of_the_London_Underground_Mosquito_Culex_pipiens_molestus/fulltext/647f5872b3dfd73b776979eb/Rapid-Speciation-of-the-London-Underground-Mosquito-Culex-pipiens-molestus.pdf) and [here](https://www.nature.com/articles/d41586-025-00323-9).
+Sources: ([Garras & Gray, 2022](https://www.researchgate.net/publication/371326691_Rapid_Speciation_of_the_London_Underground_Mosquito_Culex_pipiens_molestus/fulltext/647f5872b3dfd73b776979eb/Rapid-Speciation-of-the-London-Underground-Mosquito-Culex-pipiens-molestus.pdf)) and ([Simms, 2025](https://www.nature.com/articles/d41586-025-00323-9)).
 
-### Multicellularity in Green Algae
+### Green Algae with multicellularity
 
 {{< figure src="green_algae_multicellular.png" title="Some [green algae](https://en.wikipedia.org/wiki/Green_algae)." >}}
 
@@ -98,7 +100,7 @@ Sources: [here](https://www.researchgate.net/publication/371326691_Rapid_Speciat
 
 Another common trait of extant multicellular life is differentiated tissue formation due to cell specialisation. This too has been observed, and represents the formation of complex genetic control systems (by negative feedback loops) as studied by [evolutionary developmental biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology). *Volvox* is a good example, being within clade *Archaeplastida* (above) and having two cell types - one for sexual reproduction, one for phototaxis. Genetics also finds that the famous 'Yamanaka factors' for cell differentiation (as well as many other key innovations like cell-to-cell signaling, adhesion and the innate immune system) in animals inherit from those in choanoflagellates (the closest-related protists to animals and our likely last unicellular ancestors). So, both protist-to-plant and protist-to-animal transitions look pretty reasonable on this alone.
 
-Sources: [here](https://www.nature.com/articles/s41598-019-39558-8), [here](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-016-0794-x) (papers), [here](https://www.nature.com/articles/s41467-024-54152-x) for cell specialisation, [here](https://www.youtube.com/watch?v=pnua_NkuYoU) (video) and [here](https://www.youtube.com/watch?v=k8Y29mBgNf0) (long video).
+Sources: ([Herron *et al.*, 2019](https://www.nature.com/articles/s41598-019-39558-8)), ([Yamashita *et al.*, 2016](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-016-0794-x)), ([Gao *et al.*, 2024](https://www.nature.com/articles/s41467-024-54152-x)) for cell specialisation, [here](https://www.youtube.com/watch?v=pnua_NkuYoU) (video) and [here](https://www.youtube.com/watch?v=k8Y29mBgNf0) (long video).
 
 ### Darwin's Finches, revisited 150 years later
 
@@ -106,7 +108,7 @@ Sources: [here](https://www.nature.com/articles/s41598-019-39558-8), [here](http
 
 This is a [textbook example](https://en.wikipedia.org/wiki/Darwin%27s_finches) of bird microevolution from Darwin's 1830s voyage of the Galápagos islands, but studies from the 1980s onwards have identified speciation in the '[Big Bird lineage](https://en.wikipedia.org/wiki/Big_Bird_(finch))' on Daphne Major island. Regional droughts which reduce seed dispersal to the islands, such as those that occurred in 1977 and 2004, as well as arrival of competitors, were found to be drivers of selection for beak stiffness. The new lineage of finches reproduces only with its own.
 
-Sources: [here](https://www.science.org/doi/10.1126/science.aao4593) (paper), [here](https://www.princeton.edu/news/2017/11/27/study-darwins-finches-reveals-new-species-can-develop-little-two-generations) (article) and [here](https://www.science.org/doi/10.1126/science.1128374).
+Sources: ([Lamichhaney *et al.*, 2017](https://www.science.org/doi/10.1126/science.aao4593)), ([Grant & Grant, 2006](https://www.science.org/doi/10.1126/science.1128374)) and [here](https://www.princeton.edu/news/2017/11/27/study-darwins-finches-reveals-new-species-can-develop-little-two-generations) (article).
 
 ### Salamanders, a classic ring species
 
@@ -124,7 +126,7 @@ Source: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-speci
 
 This is another ring species, and one that is *closer* to a true ring species than the Californian salamanders (though still not a perfect ring species - it seems there are no simple true cases!). These birds, *Phylloscopus trochiloides*, inhabit the closed boundary of the Tibetan Plateau, of which two reproductively isolated forms co-exist in central Siberia. Genetic studies find some degree of selection against interbreeding, contributing to the speciation process. This happened over about a million years, so we're using the phylogenetic species concept here.
 
-Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/) and [here](https://www.nature.com/articles/nature13285).
+Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/) and ([Alcaide *et al.*, 2014](https://www.nature.com/articles/nature13285)).
 
 ### Hybrid plants and polyploidy
 
@@ -132,7 +134,25 @@ Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-spec
 
 *Tragopogon miscellus* are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploid species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
 
-Source: [here](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081).
+Source: ([Soltis *et al.*, 2004](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081)).
+
+### Amoeboid rhizarian, with endosymbiosis
+
+{{< figure src="rhizarian.png" title="A rhizarian protist." >}}
+
+There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being 'eaten' by some amoebae before returning to free-living conditions. 
+
+In the lab, it was found that some strains of wild amoeboid protists in clade *Rhizaria*, class *Thecofilosea*, were transmitting fully-incorporated *Legionellales* vertically by cell division. Extracellular transmission of bacteria was not observed, indicating mutualistic endosymbiosis, and genetic studies confirmed divergence of the endosymbiont via a shrinkage of its genome (as expected) and gene translocation to the protist's nuclear DNA.
+
+Sources: ([Solbach, Bonkowski & Dumack, 2021](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.642216/full)) and ([Al-Quadan & Abukwaik, 2022](https://kids.frontiersin.org/articles/10.3389/frym.2022.1104350)).
+
+### Marbled Crayfish, with parthenogenesis
+
+{{< figure src="marbled_crayfish.png" title="A [marbled crayfish](https://en.wikipedia.org/wiki/Marbled_crayfish)." >}}
+
+The marbled crayfish (*Procambarus virginalis*), also known as 'marmorkrebs', is an invasive freshwater crayfish species which was first recorded in Germany in the 1990s. Genetic studies trace the whole species back to a single female of the slough crayfish (*Procambarus fallax*) fished from the Everglades (swamp in Florida) and native to the southeastern US. The marbled crayfish originates entirely from the tropical pet trade, with no known native populations in existence. Since its first discovery, the species has rapidly spread into the wild and is now found abundantly across Europe and in Japan. It is the only species of crayfish reproducing by obligate parthenogenesis (self-reproduction), with only one other species (the red swamp crayfish, *Procambrus clarkii*) using parthenogenesis only under certain conditions. The marbled crayfish also has a fully triploid genome, while other species are normally diploid, allowing greater variational robustness to environmental change: it can live in acidic, alkaline, polluted and clean water regardless.
+
+Sources: ([Gutekunst *et al.*, 2018](https://www.nature.com/articles/s41559-018-0467-9)), [here](https://www.nationalgeographic.com/animals/article/marbled-crayfish-marmorkrebs-evolution-genes-tumors-spd) (article), ([Scholtz *et al.*, 2003](https://www.nature.com/articles/421806a)), [here](https://marinescience.blog.gov.uk/2025/05/15/marbled-crayfish-a-serious-non-native-threat-with-potential-risk-of-introduction-through-the-pet-trade/) (government document) and [here](https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf) (company document).
 
 ### Alligators and chickens growing feathers
 
@@ -142,32 +162,27 @@ In the lab, a change in the expression patterns (controlled by upstream genes) o
 
 A similar thing has been done to turn the chickens' scales on their feet into feathers, this time with only one change to the Shh pathway, showing how birds are indeed dinosaurs and descend within *Sauropsida*.
 
-Sources: [here](https://academic.oup.com/mbe/article/32/1/23/2925601), [here](https://academic.oup.com/mbe/article/35/2/417/4627828) and [here](https://academic.oup.com/mbe/article/37/9/2477/5818883).
-
-### Endosymbiosis in an amoeba
-
-{{< figure src="rhizarian.png" title="A rhizarian protist." >}}
-
-There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being 'eaten' by some amoebae before returning to free-living conditions. 
-
-In the lab, it was found that some strains of wild amoeboid protists in clade *Rhizaria*, class *Thecofilosea*, were transmitting fully-incorporated *Legionellales* vertically by cell division. Extracellular transmission of bacteria was not observed, indicating mutualistic endosymbiosis, and genetic studies confirmed divergence of the endosymbiont via a shrinkage of its genome (as expected) and gene translocation to the protist's nuclear DNA.
-
-Sources: [here](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.642216/full) and [here](https://kids.frontiersin.org/articles/10.3389/frym.2022.1104350).
+Sources: ([Lowe *et al.*, 2014](https://academic.oup.com/mbe/article/32/1/23/2925601)), ([Wu *et al.*, 2017](https://academic.oup.com/mbe/article/35/2/417/4627828)) and ([Lee *et al.*, 2020](https://academic.oup.com/mbe/article/37/9/2477/5818883)).
 
 ### Eurasian Blackcap
 
 {{< figure src="eurasian_blackcap.png" title="A [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap)." >}}
 
-The migratory bird *Sylvia atricapilla* typically flies either south-westerly towards Spain or south-easterly into Asia as winter approaches in Europe, but the rise of birdwatching as a hobby in the UK in the 1960s led to a new food source in Britain that the westerly-flying birds could migrate to. This change is known to be genetic in basis. Those that instead migrated to the British Isles in winter returned home 10 days earlier (due to the shorter distance to central Europe) than those that went towards Spain, and therefore would mate only with themselves (sympatric speciation). The UK-migrating group now has rounder wings and narrower, longer beaks, over just \~30 generations, and although genetic differentiation has not yet reached the point of preventing interbreeding entirely, these birds are quite clearly well on their way to speciation.
+The migratory bird *Sylvia atricapilla* typically flies either south-westerly towards Spain or south-easterly into Asia as winter approaches in Europe, but the rise of birdwatching as a hobby in the UK in the 1960s led to a new food source that the westerly-flying birds could migrate to. This change is known to be genetic in basis, involving the magnetoreception-based compass and the circadian rhythym as hybrids fly in intermediate directions. The birds that instead migrated to the British Isles in winter returned home 10 days earlier (due to the shorter distance to central Europe) than those that went towards Spain, and therefore would mate only with themselves (sympatric speciation). The UK-migrating group now has rounder wings and narrower, longer beaks, over just \~30 generations, and although genetic differentiation has not yet reached the point of preventing interbreeding entirely, these birds are quite clearly well on their way to speciation (an incipient species).
 
-Sources: [here](https://www.science.org/content/article/feed-bird-split-species), [here](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-berthold-et-al-1992/) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836794/).
+Sources: ([Torrice, 2009](https://www.science.org/content/article/feed-bird-split-species)), [here](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-berthold-et-al-1992/) (an interview about [(Berthold *et al.*, 1992)](https://www.nature.com/articles/360668a0)) and ([Mettler *et al.*, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836794/)).
 
-Another collection of observed cases of macroevolution is given [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
-
-### Marbled Crayfish
-https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf
+Further collections of observed cases of macroevolution is given on TalkOrigins [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
 ### Cichlid fish
+
+{{< figure src="cichlid_fish.png" title="Evolution of cichlid fish in Lake Victoria and surrounding lakes. Figure source: ([Meier *et al.*, 2023](https://www.science.org/doi/10.1126/science.ade2833))." >}}
+
+Lake Victoria is Africa's largest lake and a major source for the White Nile river. Lake Victoria's basin formed 400 kYA, but has been dessiccated (completely dried) three times since then, with the modern Lake Victoria last filling up with water only 15 kYA. Lake Victoria today contains ~500 species of fish, mostly from the subfamily *Haplochromini* (haplochromine cichlids). Genomic analysis finds that these fish are derived from the cichlids in the geologically older Lake Kivu, currently located ~200 km away, and that three populations of swamp-dwelling cichlids, living in the dry period prior to the last dessication, colonised Lake Victoria and underwent rapid adaptive radiation into the extant biodiversity via repeated hybridisation and specialisation.
+
+Lakes Malawi and Tanganyika also contain the same clade of cichlid fish but are much older, showing steadier rates of evolution over timescales of millions of years. The cichlids have collectively evolved multiple opsin gene variants, with spectral sensitivity tuning correlating with mate choice (colouration for sexual selection) and habitat (deep vs shallow water). Their success and capacity for diversity is strongly attributed to their [secondary (pharyngeal) set of jaws](https://en.wikipedia.org/wiki/Pharyngeal_jaw), allowing flexible food webs to develop.
+
+Sources: ([Verheyen *et al.*, 2003](https://d-nb.info/1107018137/34)), ([Meier *et al.*, 2017](https://www.nature.com/articles/ncomms14363)), ([O'Quinn *et al.*, 2010](https://pubmed.ncbi.nlm.nih.gov/20601410/)) on opsins and ([Johnson, Kelts & Adada, 2009](https://www.researchgate.net/publication/232689605_The_Holocene_History_of_Lake_Victoria)) on the history of Lake Victoria.
 
 ---
 
@@ -185,9 +200,9 @@ In ([Mansueto & Good, 2024](https://link.springer.com/article/10.1007/s00239-024
 
 **NANOG** (homeobox protein).
 
-**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
+Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/)).
 
-Sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/), [here](https://geneticeducation.co.in/why-humans-can-not-synthesize-vitamin-c-the-role-of-gulo-pseudogene/)
+**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
 
 ### Endogenous retroviruses (ERVs)
 
