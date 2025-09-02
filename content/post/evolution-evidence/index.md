@@ -92,7 +92,7 @@ The new species breeds all-year-round, is cold intolerant and bites rats, mice a
 
 Sources: ([Garras & Gray, 2022](https://www.researchgate.net/publication/371326691_Rapid_Speciation_of_the_London_Underground_Mosquito_Culex_pipiens_molestus/fulltext/647f5872b3dfd73b776979eb/Rapid-Speciation-of-the-London-Underground-Mosquito-Culex-pipiens-molestus.pdf)) and ([Simms, 2025](https://www.nature.com/articles/d41586-025-00323-9)).
 
-### Green Algae with multicellularity
+### Green algae with multicellularity
 
 {{< figure src="green_algae_multicellular.png" title="Some [green algae](https://en.wikipedia.org/wiki/Green_algae)." >}}
 
@@ -102,7 +102,7 @@ Another common trait of extant multicellular life is differentiated tissue forma
 
 Sources: ([Herron *et al.*, 2019](https://www.nature.com/articles/s41598-019-39558-8)), ([Yamashita *et al.*, 2016](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-016-0794-x)), ([Gao *et al.*, 2024](https://www.nature.com/articles/s41467-024-54152-x)) for cell specialisation, [here](https://www.youtube.com/watch?v=pnua_NkuYoU) (video) and [here](https://www.youtube.com/watch?v=k8Y29mBgNf0) (long video).
 
-### Darwin's Finches, revisited 150 years later
+### Darwin's finches, revisited 150 years later
 
 {{< figure src="darwin_finches.png" title="The [Daphne Major finches](https://en.wikipedia.org/wiki/Daphne_Major_finches) and their relatedness." >}}
 
@@ -120,7 +120,7 @@ This process took millions of years, so it wasn't *directly* observed, but the s
 
 Source: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/).
 
-### Greenish Warbler, another ring species
+### Greenish warbler, another ring species
 
 {{< figure src="greenish_warbler.png" title="A [greenish warbler](https://en.wikipedia.org/wiki/Greenish_warbler)." >}}
 
@@ -132,7 +132,7 @@ Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-spec
 
 {{< figure src="tragopogon_polyploidy.png">}}
 
-*Tragopogon miscellus* are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploid species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
+*Tragopogon miscellus* (goatsbeards) are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploid species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
 
 Source: ([Soltis *et al.*, 2004](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081)).
 
@@ -146,7 +146,7 @@ In the lab, it was found that some strains of wild amoeboid protists in clade *R
 
 Sources: ([Solbach, Bonkowski & Dumack, 2021](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.642216/full)) and ([Al-Quadan & Abukwaik, 2022](https://kids.frontiersin.org/articles/10.3389/frym.2022.1104350)).
 
-### Marbled Crayfish, with parthenogenesis
+### Marbled crayfish, with parthenogenesis
 
 {{< figure src="marbled_crayfish.png" title="A [marbled crayfish](https://en.wikipedia.org/wiki/Marbled_crayfish)." >}}
 
@@ -164,7 +164,7 @@ A similar thing has been done to turn the chickens' scales on their feet into fe
 
 Sources: ([Lowe *et al.*, 2014](https://academic.oup.com/mbe/article/32/1/23/2925601)), ([Wu *et al.*, 2017](https://academic.oup.com/mbe/article/35/2/417/4627828)) and ([Lee *et al.*, 2020](https://academic.oup.com/mbe/article/37/9/2477/5818883)).
 
-### Eurasian Blackcap
+### Eurasian blackcap
 
 {{< figure src="eurasian_blackcap.png" title="A [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap)." >}}
 
@@ -194,7 +194,7 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all broken in different ways.
+**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all of which are monophyletic groups and all are broken in different ways (parsimonious).
 
 In ([Mansueto & Good, 2024](https://link.springer.com/article/10.1007/s00239-024-10165-0)), it is shown that chromosome 8 (containing GULO) underwent inversion in the haplorhine lineage, but that this did not affect the functionality of GULO. When the pseudogene was formed, the mutation rate increased significantly, indicating loss of a selective pressure, such that the Neanderthal GULO differs from the *Homo sapiens* GULO by four SNPs.
 
@@ -248,14 +248,14 @@ Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI) (video), [here](htt
 
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
-Most recent survey of genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
+Most recent survey of ape genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
 
-*Paranthropus* proteins: [here](https://www.youtube.com/watch?v=TbQsesNjTeo)
+Proteins from *Paranthropus*: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video)
 
 Human-specific mutations affecting brains and intelligence:
 
 - **ARHGAP11**: the basal form, ARHGAP11A, encodes the protein RhoGAP with nuclear localisation, found in all extant non-human mammals. A partial duplication ~5 MYA seen in *Homo sapiens*, Neanderthals and Denisovans led to them additionally acquiring ARHGAP11B, which shows mitochondrial localisation instead. It promotes basal progenitor cells (BP cells) and increases the neocortex size significantly. Sources: [here](https://pubmed.ncbi.nlm.nih.gov/32554627/), [here](https://pubmed.ncbi.nlm.nih.gov/25721503/) and [here](https://www.science.org/doi/10.1126/sciadv.1601941).
-- **TKTL1** (transketolase-like 1): modern Homo sapiens has an arginine point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine form. The human gene promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
+- **TKTL1** (transketolase-like 1): modern Homo sapiens has an arginine (R) point mutation (K261R) while Neanderthals, Denisovans, archaic Homo sapiens and other extant primates have the lysine (K) form. Our allele promotes production of basal radial glial cells (bRG cells, neural stem cells), significantly increasing upper-layer cortical neuron production and the size of the brain’s gyri (ridges) in the frontal lobe. Source: [here](https://www.science.org/doi/10.1126/science.abl6422) and [here](https://www.youtube.com/watch?v=rnqT0K5Ls2I) (video)
 - **NOTCH2NL**: NOTCH genes prolong proliferation of neuronal progenitor cells and expand cortical neurogenesis. Many of these genes are duplicated in *Homo sapiens*, Neanderthals and Denisovans to varying degrees. Source: [here](https://pubmed.ncbi.nlm.nih.gov/32330268/)
 - **SRGAP2**: Partially duplicated to SRGAP2B 3.4 MYA, followed by two larger duplications at 2.4 MYA and 1 MYA. Source: [here](https://www.cell.com/fulltext/S0092-8674(12)00461-8) and [here](https://www.nature.com/articles/s41598-019-54887-4).
 - **FOXP2**: Linked to development of speech and language skills. Source: [here](https://www.nature.com/articles/nature01025).
@@ -282,8 +282,8 @@ In some of these cases, no harmful effect is observed despite what is typically 
 
 - **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
-- *Palmaris longus* **muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
-- **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
+- **Palmaris longus muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
+- **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 - **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
 
 ### Human lactose tolerance
@@ -397,9 +397,15 @@ It has been shown ([Negoro *et al.*, 2007](https://www.sciencedirect.com/science
 
 ### DNT metabolism in bacteria
 
-https://www.talkorigins.org/faqs/dover/pf.html#p84
+Dinitrotoluene (DNT) is a unwanted side product in the synthesis of the explosive trinitrotoluene (TNT), which has been produced in the US between 1916 and 1986, and contaminates land surrounding US Air Force bases. Bacteria living in soil polluted with DNT on various bases and DoD sites were found to be consuming the DNT for metabolism as their sole carbon and nitrogen source via aerobic respiration. The DNT was metabolised primarily to nitrite, as well as trace amounts of 2-amino-4-nitrotoluene due to action of nonspecific nitroreductases. These bacteria have been exploited for bioremediation efforts in these areas, with protein engineering helping to increase the degradation rate.
 
-https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F
+Genetic and molecular studies on one such strain, *Burkholderia cepacia R34*, found that the bacteria evolved a complex, multiple-protein biochemical pathway by exaptation of proteins with other functions. The novel enzymes included 2,4-DNT dioxygenase (catalyses DNT → 4-methyl-5-nitrocatechol) and methylnitrocatechol monooxygenase (catalyses 4-methyl-5-nitrocatechol → 2-hydroxy-5-methylquinone). The presence of the transposon remnants and other vestigial genes on the operon strongly suggest the recent evolution of the 2,4-DNT degradation pathway since the extraneous elements have not been eliminated from the region.
+
+{{< figure src="dnt_metabolism_pathway.png" title="The pathway for DNT metabolism. The last product is then converted to pyruvate and methylmalonate semialdehyde. Figure source: ([Johnson, Jain & Spain, 2002](https://pubmed.ncbi.nlm.nih.gov/12107140/))">}}
+
+At the *Kitzmiller v Dover* court case, intelligent design advocate Dr Scott Minnich was presented with this example and he admitted that it satisfied Dr Michael Behe's definition of irreducible complexity.
+
+Sources: [here](https://cswab.org/wp-content/uploads/2020/01/DNT-degradation-24-DNT-in-ranges-soils-includes-Badger-.pdf) (document), [here](https://apps.dtic.mil/sti/tr/pdf/ADA480803.pdf) (bioremediation), ([Leungsakul, Johnson & Wood, 2006](https://journals.asm.org/doi/10.1128/aem.02966-05)) (protein engineering), [here](https://www.talkorigins.org/faqs/dover/pf.html#p84) and [here](https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F) (TalkOrigins).
 
 ### *De novo* promoters and orphan genes
 
