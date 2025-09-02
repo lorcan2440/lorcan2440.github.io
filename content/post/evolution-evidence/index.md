@@ -409,6 +409,8 @@ Sources: [here](https://cswab.org/wp-content/uploads/2020/01/DNT-degradation-24-
 
 ### *De novo* promoters and orphan genes
 
+Source: ([Yona, Alm & Gore, 2018](https://www.nature.com/articles/s41467-018-04026-w))
+
 ### Antifreeze proteins
 
 Living in cold environments poses a serious challenge to poikilothermic (not thermally regulated) life, as the water in cells may freeze, halting all metabolic processes and killing the organism. Antifreeze proteins have evolved as a solution: when an ice crystal nucleates, the protein's ice-binding domain attaches to the surface of the crystal, arresting its growth. The ice-binding domain is a regular arrangement of polar hydrophobic amino acids with a separation very close to the lattice constant of ice, creating an ideal fit for hydrogen bonding and Van der Waals' forces at the interface.
