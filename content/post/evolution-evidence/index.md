@@ -132,15 +132,19 @@ Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-spec
 
 {{< figure src="tragopogon_polyploidy.png">}}
 
-*Tragopogon miscellus* (goatsbeards) are 'allopolyploid' plants (multiple sets of chromosomes, some from another species) that formed repeatedly during the past 80 years following the introduction of three diploid species from Europe to the US. This new species has become established in the wild and reproduces on its own. The crossbreeding process that we have used to make new fruits and crops more generally exploits polyploidy (e.g. cultivated strawberries) to enhance susceptibility to selection for desired traits.
+The crossbreeding process that we have used to make new fruits and crops generally exploits polyploidy (e.g. cultivated strawberries) to enhance sensitivity to selection for desired traits. Karpechenko in 1928 was the first to apply this by crossing cabbage (*Brassica oleracea*) and radish (*Raphanus sativus*) (both diploids with n = 9). The vast majority of the hybrid seeds failed to produce fertile plants, but a few were fertile and produced highly vigorous offspring with doubled chromosome number (n = 18), and were infertile when crossed with the parent (reproductive isolation). This process also occurs commonly in nature and often results in speciation.
 
-Source: ([Soltis *et al.*, 2004](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081)).
+Two new plant species (*T. mirus* and *T. miscellus* (goatsbeards)), which are 'allopolyploid' plants, have evolved from a common *Tragopogon* ancestor in the Idaho/Washington region within the last 50 to 60 years, following the introduction of three diploid species from Europe to the US. *T. miscellus* has become established in the wild and reproduces on its own.
+
+*Epilobium angustifolium* (fireweeds) has undergone speciation by doubling of the chromosome count, and these autopolyploids cannot produce offspring with the original stock.
+
+Source: ([Roose & Gotlieb, 1976](https://academic.oup.com/evolut/article/30/4/818/6867053)), ([Soltis *et al.*, 2004](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081)), ([Mosquin, 1967](https://www.jstor.org/stable/2406768)) and [here](https://escholarship.org/content/qt0s7998kv/qt0s7998kv.pdf) (info on polyploid speciation)
 
 ### Amoeboid rhizarian, with endosymbiosis
 
 {{< figure src="rhizarian.png" title="A rhizarian protist." >}}
 
-There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being 'eaten' by some amoebae before returning to free-living conditions. 
+There is excessive evidence that the organelles like mitochondria and chloroplasts (and more recently discovered, the [nitroplast](https://asm.org/articles/2024/june/beyond-endosymbiosis-discovering-first-nitroplast)) found within extant eukaryotes were originally free-living prokaryotes, which became incorporated (endosymbiosis), but no such thing had been observed, until now. The bacterial order *Legionellales* are responsible for Legionnaire's disease and live in water, but are uniquely able to survive and reproduce even after being "eaten" by some amoebae before returning to free-living conditions. 
 
 In the lab, it was found that some strains of wild amoeboid protists in clade *Rhizaria*, class *Thecofilosea*, were transmitting fully-incorporated *Legionellales* vertically by cell division. Extracellular transmission of bacteria was not observed, indicating mutualistic endosymbiosis, and genetic studies confirmed divergence of the endosymbiont via a shrinkage of its genome (as expected) and gene translocation to the protist's nuclear DNA.
 
@@ -182,15 +186,29 @@ The migratory bird *Sylvia atricapilla* typically flies either south-westerly to
 
 Sources: ([Torrice, 2009](https://www.science.org/content/article/feed-bird-split-species)), [here](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-berthold-et-al-1992/) (an interview about [(Berthold *et al.*, 1992)](https://www.nature.com/articles/360668a0)) and ([Mettler *et al.*, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836794/)).
 
+### House mice
+
+In the ~250 years after people introduced house mice to the Faroe Islands, rapid speciation has occured, with noticeable differences in morphology.
+
+Source: ([Berry, Jakobson & Peters, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1978.tb03314.x)).
+
+### Worms in the lab
+
+In 1964, six individuals of the polychaete worm *Neanthes arenaceodentata* were collected from a harbour in southern California and used to found a laboratory population of >1000. By 1991, the lab population could no longer interbreed with the wild population, as there was some premating isolation, and complete postmating isolation. Chromosomal differences were also observed between the lab and wild populations. 
+
+Sources: ([Weinberg, Starczak and Jörg, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1992.tb00629.x)) and [here](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/evolution/lect9_18.html).
+
+### Lice on birds
+
+A population of slender pigeon lice (*Columbicola columbae*), which naturally parasitise rock pigeons (*Columba livia*), were captured. The lice hide between the parallel feather barbs of the birds to avoid being eaten, requiring them to be below a certain width. The lice were then transferred to giant runts (a domesticated breed of pigeon), which are three times larger, and observed over a period of 4 years (~60 lice generations). Louse body length, metathorax width, and head width were measured, and it was found that the new lice had grown significantly larger. Directional selection is for larger lice on larger hosts, since lice mobility and reproductive capacity is higher without compromising ability to hide within feathers. Partial reproductive isolation was also observed between the two lice groups.
+
+Source: ([Villa *et al.*, 2019](https://www.pnas.org/doi/pdf/10.1073/pnas.1901247116)).
+
+### Additional examples
+
 Further collections of observed cases of macroevolution is given on TalkOrigins [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
-### Worms
-
-Six individuals of the polychaete worm *Neanthes arenaceodentata* collected from a harbor in southern California in 1964. These were used to found a laboratory population of >1000. By 1991, the lab population could no longer interbreed with the wild population, as there was some premating isolation, and complete postmating isolation. Chromosomal differences were also observed between the lab and wild populations.
-
-Source: ([Weinberg, Starczak and Jörg, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1992.tb00629.x)).
-
-
+- *Drosophila* in the lab: ([Ghosh & Joshi, 2012](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.413)) and ([Syed *et al.*, 2017](https://www.nature.com/articles/s41598-017-03182-1)).
 
 ---
 
