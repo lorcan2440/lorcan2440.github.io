@@ -154,6 +154,16 @@ The marbled crayfish (*Procambarus virginalis*), also known as 'marmorkrebs', is
 
 Sources: ([Gutekunst *et al.*, 2018](https://www.nature.com/articles/s41559-018-0467-9)), [here](https://www.nationalgeographic.com/animals/article/marbled-crayfish-marmorkrebs-evolution-genes-tumors-spd) (article), ([Scholtz *et al.*, 2003](https://www.nature.com/articles/421806a)), [here](https://marinescience.blog.gov.uk/2025/05/15/marbled-crayfish-a-serious-non-native-threat-with-potential-risk-of-introduction-through-the-pet-trade/) (government document) and [here](https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf) (company document).
 
+### Cichlid fish
+
+{{< figure src="cichlid_fish.png" title="Evolution of cichlid fish in Lake Victoria and surrounding lakes. Figure source: ([Meier *et al.*, 2023](https://www.science.org/doi/10.1126/science.ade2833))." >}}
+
+Lake Victoria is Africa's largest lake and a major source for the White Nile river. Lake Victoria's basin formed 400 kYA, but has been dessiccated (completely dried) three times since then, with the modern Lake Victoria last filling up with water only 15 kYA. Lake Victoria today contains ~500 species of fish, mostly from the subfamily *Haplochromini* (haplochromine cichlids). Genomic analysis finds that these fish are derived from the cichlids in the geologically older Lake Kivu, currently located ~200 km away, and that three populations of swamp-dwelling cichlids, living in the dry period prior to the last dessication, colonised Lake Victoria and underwent rapid adaptive radiation into the extant biodiversity via repeated hybridisation and specialisation.
+
+Lakes Malawi and Tanganyika also contain the same clade of cichlid fish but are much older, showing steadier rates of evolution over timescales of millions of years. The cichlids have collectively evolved multiple opsin gene variants, with spectral sensitivity tuning correlating with mate choice (colouration for sexual selection) and habitat (deep vs shallow water). Their success and capacity for diversity is strongly attributed to their [secondary (pharyngeal) set of jaws](https://en.wikipedia.org/wiki/Pharyngeal_jaw), allowing flexible food webs to develop.
+
+Sources: ([Verheyen *et al.*, 2003](https://d-nb.info/1107018137/34)), ([Meier *et al.*, 2017](https://www.nature.com/articles/ncomms14363)), ([O'Quinn *et al.*, 2010](https://pubmed.ncbi.nlm.nih.gov/20601410/)) on opsins and ([Johnson, Kelts & Adada, 2009](https://www.researchgate.net/publication/232689605_The_Holocene_History_of_Lake_Victoria)) on the history of Lake Victoria.
+
 ### Alligators and chickens growing feathers
 
 {{< figure src="alligator_feathers.png" title="Primitive feathers on an alligator." >}}
@@ -174,15 +184,13 @@ Sources: ([Torrice, 2009](https://www.science.org/content/article/feed-bird-spli
 
 Further collections of observed cases of macroevolution is given on TalkOrigins [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
-### Cichlid fish
+### Worms
 
-{{< figure src="cichlid_fish.png" title="Evolution of cichlid fish in Lake Victoria and surrounding lakes. Figure source: ([Meier *et al.*, 2023](https://www.science.org/doi/10.1126/science.ade2833))." >}}
+Six individuals of the polychaete worm *Neanthes arenaceodentata* collected from a harbor in southern California in 1964. These were used to found a laboratory population of >1000. By 1991, the lab population could no longer interbreed with the wild population, as there was some premating isolation, and complete postmating isolation. Chromosomal differences were also observed between the lab and wild populations.
 
-Lake Victoria is Africa's largest lake and a major source for the White Nile river. Lake Victoria's basin formed 400 kYA, but has been dessiccated (completely dried) three times since then, with the modern Lake Victoria last filling up with water only 15 kYA. Lake Victoria today contains ~500 species of fish, mostly from the subfamily *Haplochromini* (haplochromine cichlids). Genomic analysis finds that these fish are derived from the cichlids in the geologically older Lake Kivu, currently located ~200 km away, and that three populations of swamp-dwelling cichlids, living in the dry period prior to the last dessication, colonised Lake Victoria and underwent rapid adaptive radiation into the extant biodiversity via repeated hybridisation and specialisation.
+Source: ([Weinberg, Starczak and Jörg, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1992.tb00629.x)).
 
-Lakes Malawi and Tanganyika also contain the same clade of cichlid fish but are much older, showing steadier rates of evolution over timescales of millions of years. The cichlids have collectively evolved multiple opsin gene variants, with spectral sensitivity tuning correlating with mate choice (colouration for sexual selection) and habitat (deep vs shallow water). Their success and capacity for diversity is strongly attributed to their [secondary (pharyngeal) set of jaws](https://en.wikipedia.org/wiki/Pharyngeal_jaw), allowing flexible food webs to develop.
 
-Sources: ([Verheyen *et al.*, 2003](https://d-nb.info/1107018137/34)), ([Meier *et al.*, 2017](https://www.nature.com/articles/ncomms14363)), ([O'Quinn *et al.*, 2010](https://pubmed.ncbi.nlm.nih.gov/20601410/)) on opsins and ([Johnson, Kelts & Adada, 2009](https://www.researchgate.net/publication/232689605_The_Holocene_History_of_Lake_Victoria)) on the history of Lake Victoria.
 
 ---
 
@@ -409,7 +417,7 @@ Sources: [here](https://cswab.org/wp-content/uploads/2020/01/DNT-degradation-24-
 
 ### *De novo* promoters and orphan genes
 
-Source: ([Yona, Alm & Gore, 2018](https://www.nature.com/articles/s41467-018-04026-w))
+In ([Yona, Alm & Gore, 2018](https://www.nature.com/articles/s41467-018-04026-w)), the promoter for the *lac* operon in *E. coli* was replaced with random sequences of nucleotides of the same length (~100 nt). A small proportion of these random sequences immediately functioned as low-activity promoters for the operon, but most were inactive. However, after only a single mutation, the whole distribution had shifted towards significantly higher level of *lac* expression (functionality), with many exceeding that of the wild-type promoter, with not a single one remaining nonfunctional.
 
 ### Antifreeze proteins
 
@@ -722,11 +730,13 @@ Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](h
 
 Fossils of dinosaurs stop appearing just above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
 
-The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The 200-km-wide Chicxulub crater off the coast of the Yucatán Peninsula in Mexico was discovered by Alvarez and son in the 1970s. The feature was confirmed as an asteroid impact crater by gravity and magnetic anomaly surveys, and findings of shocked quartz and tektite glasses. In 1980, a worldwide thin layer of iridium-rich clay (160 times more iridium than usual) was found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids. Two independent studies using argon-argon dating have obtained dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
+The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The 200-km-wide Chicxulub crater off the coast of the Yucatán Peninsula in Mexico was discovered by Alvarez and son in the 1970s. The feature was confirmed as an asteroid impact crater by gravity and magnetic anomaly surveys, and findings of shocked quartz and tektite glasses. In 1980, a worldwide thin layer of iridium-rich clay (160 times more iridium than usual) was found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids. The isotopic ratios of other transition metals found in the layer such as osmium, ruthenium and chromium also closely match those found on asteroids and not elsewhere in the crust. Two independent studies using argon-argon dating have obtained dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
 
 Another hypothesis is the volcanic eruption of the Deccan Traps in India, which would have caused sudden climate change due to release of sulfur dioxide aerosols, suddenly dropping the temperature. However, most recent studies conclude that this was either merely a secondary factor, or that it was not a factor at all in the extinction.
 
-Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself. Source: [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs).
+Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself.
+
+Sources: ([Goderis *et al.*, 2021](https://www.science.org/doi/10.1126/sciadv.abe3647)) and ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))(iridium layer) and [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs) (survival of birds).
 
 ### Radiometric Dating with Uranium series
 
@@ -802,7 +812,7 @@ Saltwater and freshwater have different ratios of oxygen isotopes, due to more e
 
 The isotopes show that *Ambulocetus* (transitional whale) likely drank both saltwater and freshwater, which fits perfectly with the idea that these animals lived in estuaries or bays between freshwater and the open ocean. Whales that evolved afterwards (*Kutchicetus*, etc.) show even higher levels of saltwater oxygen isotopes, indicating that they lived in nearshore marine habitats and were able to drink saltwater as today’s whales can.
 
-{{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us infer the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that probably comprised an ancient estuary." >}}
+{{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us infer the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that comprised an ancient estuary. Source: ([Bajpai & Gingerich, 1998](https://www.pnas.org/doi/10.1073/pnas.95.26.15464))." >}}
 
 ### Ice core paleoclimate data
 
@@ -971,9 +981,44 @@ Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
 ([Baum *et al.*, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)) gives a rigorous and comprehensive statistical analysis of common ancestry applied to the primates. This paper is discussed [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post).
 
+**Maximum parsimony optimality criterion:** a metric for scoring trees such that shorter trees (ones with fewer branching events) are considered more parsimonious, because these require fewer mutation events to explain the given genetic data. Tree length acts as a *[loss function](https://en.wikipedia.org/wiki/Loss_function)* to be minimised.
+
+**Characters and character states:** a *character* is a categorical trait of an organism (e.g. hair colour), and the *state* of this character in a given organism is its value (e.g. blonde). In molecular phylogenetics, the characters are the loci of the DNA, and their states are the nucleotides.
+
+**Plesiomorphy and apomorphy:** for a given clade, a *plesiomorphy* (ancestral trait) is inherited from an ancestor outside the clade. An *apomorphy* (derived trait) is evolved in some of the members of the clade.
+
+**Inferential statistics**:
+
+- A [**Monte Carlo method**](https://en.wikipedia.org/wiki/Monte_Carlo_method) is a method wherein a computation of a deterministic quantity over an infeasibly large input state space is replaced with a simpler computation based on sampling from a random distribution over the search space, such that the Monte Carlo estimate converges to the true answer with more samples.
+- A [**Markov chain**](https://en.wikipedia.org/wiki/Markov_chain) is a random process over a defined state space for which, at each step of the process, the transition probability from one state to the next depends only on the current state (not on the past).
+- A [**Markov chain Monte Carlo (MCMC) method**](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) is a Monte Carlo method where the target is the stationary distribution of a Markov chain. Such a Markov chain can be traversed, and the states visited are a representative sample of the distribution.
+
+**Permutation tail probability (PTP) test:** a test of the explanatory power of a tree with taxonomic labels. Explained in ([Archie, 1989](https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/Archie1989.pdf)) and ([Faith & Cranston, 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1096-0031.1991.tb00020.x)).
+
+1. For each character in the dataset, randomly shuffle the character states among the taxa.
+2. For the randomised data, compute the maximum parsimony phylogenetic tree.
+3. Evaluate the loss function (tree length).
+4. Repeat steps 1-3 several thousand times to generate a distribution of tree lengths $ X $ that are possible under randomisation.
+5. For the unrandomised data (i.e. the labelled tree being tested), find its most parsimonious tree length $ x $ (the test statistic).
+6. Calculate $ p = P(X \leq x) $ (the tail probability: the chance that random data could produce a maximum parsimony tree at least as short as the one being tested).
+
+This an MCMC simulation of the distribution of tree lengths possible for a given randomised dataset.
+
+For a tree containing genuine phylogenetic information, the PTP test will return an extremely small tail probability, since it should be improbable that such a tree could ever remain valid when the data is scrambled; random trees should not be able to compete with the real tree.
+
+**Baum *et al.*'s study:** uses the genomes of a large sample of primate genomes (178 representative species) and identifies genes found to be conserved across the primates. The study uses this data to test three hypotheses individually:
+
+1. Common ancestry (CA) among all primates. Tested by running the PTP test on the labelled data as-is to generate a $p$-value.
+2. Family-level separate ancestry (FSA), where each family comprises a different tree. Randomly sample one member from each family and run the test on this data. 
+3. Species-level separate ancestry (SSA), where each species is a whole 'tree' (single branch)
+
+For **1** (CA), the distribution was approximately normal and the test statistic was a minimum tree length of 10125. This is -71.8 standard deviations away from the mean of the distribution, which was 13422.3. This corresponds to $ p \approx 10^{-2581} $ (infinitesimally small). This is an overwhelming acceptance of common ancestry among primates.
+
+For **2** (FSA, commonly proposed by creationists)...
+
 The random distribution in the FSA would have or did have trees with correlated structures, at their starts, since they would be part of the distribution that had the most parsimonious trees. Assuming that a set of characters were not derived as a result of being in relation to another family does not mean that some family trees would not have a set of characters correlated or derived from some other means other than being related to another family tree. And the actual data set of each actual known family fell way outside the generated distribution and thus FSA fails.
 
-The efficiency of Markov chain Monte Carlo (MCMC) in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work.
+The efficiency of MCMC in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work.
 
 ---
 
