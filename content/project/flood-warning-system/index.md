@@ -4,8 +4,7 @@ summary: A program to analyse flood likelihood and risk in England.
 tags:
   - Software
   - Machine Learning
-  - Dataviz
-  - Featured
+  - Data Visualisation
 date: "2023-02-09T00:00:00Z"
 draft: false
 hook: head-end
