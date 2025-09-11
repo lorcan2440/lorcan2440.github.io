@@ -4,6 +4,7 @@ title: "Principal Component Analysis Explained"
 summary: Understanding PCA from first principles with a visual example in Python.
 tags:
   - Statistics
+  - Data Visualisation
   - Machine Learning
 
 links:

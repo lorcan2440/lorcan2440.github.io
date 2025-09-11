@@ -4,7 +4,7 @@ title: "Queueing Simulation in Python with SimPy"
 summary: "A simulation of a queueing system using the SimPy library in Python."
 tags:
   - Statistics
-  - Machine Learning
+  - Process Simulation
 
 links:
   - icon: github
