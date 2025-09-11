@@ -6,8 +6,8 @@ tags:
   - Dataviz
 date: "2023-02-24T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-# external_link: 'https://github.com/lorcan2440/Simple-Truss-Calculator'
+# Optional external URL for project (replaces whole page with link!).
+# external_link: 'https://lorcan2440.pythonanywhere.com/'
 
 links:
   - icon: github
@@ -98,17 +98,17 @@ input selection. Inputs are validated by exception handling and shown with an er
 
 With a little more knowledge of web design, such as use of CSS, I could have made this demo a bit prettier, but for now, I am happy with the basics.
 
-Here's the final app - hosted using [PythonAnywhere](https://lorcan2440.pythonanywhere.com/) and embedded here...
+Here's the final app - hosted using [PythonAnywhere](https://lorcan2440.pythonanywhere.com/) and embedded here. Please use Light Mode on the website to see it better - click the 🌙 icon in the bar at the top right.
 
 #### <a id="app"> The House Prediction Program Demo</a>
 
 {{% callout note %}}
-Use Light Mode on the website! Click the 🌙 icon in the bar at the top right.
+If the app is not showing, my PythonAnywhere hosting server may have expired, sorry!
 {{% /callout %}}
 
 <iframe src="https://lorcan2440.pythonanywhere.com/" width="100%" height="730px" frameborder="0"></iframe>
 
-## Extra Notes: A Mathematical Overview of Regression and PCA
+## Extra Notes: A Mathematical Overview of Regression
 
 #### Linear Regression
 
@@ -121,10 +121,3 @@ $$ \underbrace{C(\mathbf{y}, \mathbf{x}, \mathbf{w})}_{\substack{\textup{cost fu
 ($y_i$: observed target variable, {{< math >}}$\hat{y}_{i}${{< /math >}}: predicted target variable, $x_{ij}$: observation $ i $ of independent variable $ j $, $n$: number of training examples, $m$: number of independent variables to be fitted, $\alpha$: regularisation hyperparameter controlling trade-off, $x_{i0}:=1$.)
 
 If polynomial regression is used, then $x_i$ contains all product combination terms up to a specified degree. This significantly increases the number of features used, many of which are strongly correlated.
-
-#### Principal Component Analysis
-
-Principal component analysis (PCA) identifies a set of new variables which are linear combinations of the existing features in a dataset. PCA aims to produce variables which are the most uncorrelated with each other, and thus are useful for model order reduction. Considering a dataset of $m$ predictor variables (features) with $n$ observations, the data matrix $\mathbf{X}$ is defined as the real $ n \times m $ matrix containing each observation in a row, where all columns (features) are rescaled to zero mean. If the singular value decomposition (SVD) of $\mathbf{X}$ is denoted as $\mathbf{X}$ = $\mathbf{U \Sigma V}^{\text{T}}$, then the columns of $\mathbf{V}$ (rows of $\mathbf{V}^{\text{T}}$) are the principal components (PCs). The PCs can be interpreted as the principal axes of the $m$-dimensional ellipsoidal contour surfaces of equal probability density for the dataset. The singular values $ \sigma $, listed in descending order along the leading diagonal of $\mathbf{\Sigma}$, represent the relative significance of each PC. The matrix $\mathbf{U \Sigma} = \mathbf{X V}$ is the transformed dataset, whose features are guaranteed to be independent: since the columns of $\mathbf{V}$ are the right eigenvectors of $\mathbf{XX}^{\text{T}}$, a square symmetric (real Hermitian) matrix, these columns must be orthogonal, so the PCs are uncorrelated. This can also be demonstrated by showing that the covariance matrix of $ \mathbf{X V} $ is diagonal.
-
-An alternative computation uses the eigendecomposition of the covariance matrix $\mathbf{C}$ where
-$ \mathbf{C} = (n - 1)^{-1} \mathbf{XX}^{\text{T}} $, so that $ \mathbf{C} = (n - 1)^{-1} \mathbf{V \Sigma^2 V}^{\text{T}} $. The eigenvalues of $ \mathbf{C} $, given by $ \lambda = (n - 1)^{-1} \sigma^2 $, then represent the variances of data in the respective PC, which can be plotted to form a 'scree plot'. This is useful for choosing the desired number $ k \leq m $ of PCs to retain such that the most variance is captured, while reducing the model dimension count and the memory space required. However, in Python’s `scikit-learn` library, the SVD approach is used, since [highly optimised algorithms](https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8) exist for the efficient computation of a direct SVD.
