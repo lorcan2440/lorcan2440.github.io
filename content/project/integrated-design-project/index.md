@@ -1,13 +1,12 @@
 ---
 title: Integrated Design Project
-summary: A design challenge to make an autonomous robot as part of a team
+summary: A design challenge to make an autonomous robot as part of a team.
 tags:
   - Design
   - Robotics
   - Controls
-  - Machine Learning
+  - Computer Vision
   - Software
-  - Featured
 date: "2023-02-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

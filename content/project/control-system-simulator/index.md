@@ -3,6 +3,7 @@
 title: "Interactive Control System"
 summary: An interface to explore control of dynamical systems in Python.
 tags:
+  - Featured
   - Control Systems
   - Process Simulation
 

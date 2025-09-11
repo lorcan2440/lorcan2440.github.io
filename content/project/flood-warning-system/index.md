@@ -2,6 +2,7 @@
 title: Flood Warning System
 summary: A program to analyse flood likelihood and risk in England.
 tags:
+  - Featured
   - Software
   - Machine Learning
   - Data Visualisation
