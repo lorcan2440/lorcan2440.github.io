@@ -104,7 +104,7 @@ We can illustrate this with an example. A dataset in three features $ \left\[ X_
 
 Notice that the clusters remain well-separated in the reduced 2D space, indicating that most of the information in the original data is retained. This would allow algorithms such as regression, classification or clustering to perform well with a lower dataset size, giving faster performance. The arrows in the first figure show the directions of the three PCs in the original feature space.
 
-The second figure shows the directions of each original feature in the PC space. When superimposed on the PCs, this is called a *biplot*. On the right of the figure, the *scree plot* shows the proportion of variance explained by each PC, which are the scaled eigenvalues of $ \mathbf{C} $, and the *loadings* plot shows the contribution of each original feature to the first two PCs. Notice that most of the variance is captured by the first two PCs, so discarding the third PC results in minimal loss of information.
+The second figure shows the directions of each original feature in the PC space. When superimposed on the PCs, this is called a *biplot*. On the right of the figure, the *scree plot* shows the proportion of variance explained by each PC, which are the relative size of the eigenvalues of $ \mathbf{C} $, and the *loadings* plot shows the contribution of each original feature to the first two PCs. Notice that most of the variance is captured by the first two PCs, so discarding the third PC results in minimal loss of information.
 
 Python code to generate the figure above (on [GitHub Gists here](https://gist.github.com/lorcan2440/125e05b82a327f22c3b90928a57f8b47)):
 
@@ -135,7 +135,7 @@ X = np.vstack(data)
 
 # transform into PC coordinates
 pca = PCA(n_components=3)
-X_pca = pca.fit_transform(X)
+X_pca = pca.fit_transform(X)  # this is X' in the text above
 
 #### Figure ####
 
