@@ -20,7 +20,151 @@ profile: true
 
 ---
 
-![alt text](image.png)
+While the world transitions to cleaner energy sources, fossil-fuelled power plants remain prevalent for electrical energy generation due to their technological maturity. If we presume that an immediate 100\% transition to renewables is infeasible, as most experts agree, then improving the efficiency and sustainability of existing fossil fuel power plants is essential to reduce greenhouse gas emissions and air pollution in the short to medium term while we ramp up renewable and storage capacity.
+
+## Basics of fossil fuel power
+
+Historically, the steam turbine (invented in 1884) was the dominant technology for power generation, where water is boiled by burning coal, oil or gas to drive a turbine, generating electricity. The water circuit forms a closed loop, and cycles through four thermodynamic processes, as shown on the temperature-entropy ($ T $-$ s $) diagram below:
+
+![alt text](steam_turbine_diagram.png)
+
+In the steam turbine, the **energy input** is the chemical energy released from burning the fuel plus the power input required to run the water pump (though the latter is negligible), and the **useful energy output** is the mechanical power from the turbine shaft, usually converted to electrical power by a generator. The other energy output is the waste heat rejected to the environment. The thermal efficiency is therefore:
+
+$$ \eta_{th} = \frac{\text{net work produced}}{\text{heat input}} = \frac{W_{turbine} - W_{pump}}{Q_{in}} $$
+
+However, this 'first law efficiency' metric ignores the fact that not all energy is equally useful: high-temperature heat is more valuable than low-temperature heat, and mechanical/electrical work is always more valuable than any kind of heat. Comparing the raw energy inputs and outputs can therefore be misleading, and can lead to such grave errors of judgement in energy policy that it has been termed the [the Second Sin of Thermodynamics](https://www.linkedin.com/pulse/primary-energy-fallacy-committest-thou-2nd-sin-paul-martin-nty3e/), as it is fundamentally a consequence of the *second law* of thermodynamics. The **exergy** (or available energy) of a system is the maximum useful work possible during a process that brings the system into equilibrium with the environment. The exergy efficiency (or second law efficiency) is therefore:
+
+$$ \eta_{ex} = \frac{\text{net work produced}}{\text{maximum work produced}} = \frac{\text{net work produced}}{\text{exergy of heat input}} $$
+
+The gas turbine (commercialised later in 1932) is an alternative to the steam turbine, using compressed fuel combustion (of e.g. methane, light crude oil, naphtha, syngas, kerosene, etc.) to drive a turbine directly, with the energy efficiencies of both having grown steadily over time.
+
+![alt text](gas_turbine_diagram.png)
+
+The gas turbine is open-cycle, with ambient air drawn in and hot exhaust gases expelled out. These hot gases contain available power, which if not harvested, represents a loss in efficiency. Depending on the setup, a heat exchanger can be used to close the cycle and recover some of this waste heat. In a **combined cycle gas turbine (CCGT)**, the waste heat from the gas turbine is used as the heat input source for a steam turbine, forming a synergistic hybrid cycle with higher overall thermal and exergy efficiencies.
+
+## Improving feedstock diversity
+
+Cleaner fuel options than fossil fuels are available, such as ethanol/biofuel, ammonia or hydrogen, but these each come with their own challenges: biofuels are land-intensive and can compete with food production, ammonia combustion produces $ NO_x $ unless carefully managed, and hydrogen (unless derived entirely from renewables, e.g. 'green hydrogen') is still a fossil fuel derivative.
+
+Improvements to fossil-fuelled power plants therefore focus on the infrastructure of the plant itself. Some well-established setups include:
+
+- **Integrated gasification combined cycle (IGCC)**: solid fuels can be used by first converting to gaseous fuels (e.g. coal → syngas) in a gasifier, which is then used in the gas turbine. This allows for easier FGD and $ CO_2 $ capture than coal-fired steam turbines (so-called "clean coal", which still remains highly polluting relative to other more sustainable options). The fuel supply must be filtered to ensure it is particulate-free i.e. no charcoal, soot or tar, to avoid clogging and eroding the turbomachinery.
+
+- **Steam injected gas turbine (STIG) cycle**: the hot turbine exhaust is passed through a heat recovery steam generator (HRSG) to heat an external water supply to steam, which is injected into the gas combustor to increase the mass flow rate and decrease the combustion temperature.
+
+- **Combined cycle gas turbine (CCGT)**: the hot turbine exhaust is passed through a HRSG and used as the heat input to a closed-cycle steam turbine. Most modern gas turbine power plants are CCGTs for their increased efficiency (~63% LHV with natural gas).
+
+## Improving efficiency
+
+A given unit of fuel contains a fixed amount of chemical energy, but the electrical energy that can be extracted from it depends on the temperature of the cycle: heat is more valuable at higher temperature, so the aim is to maximise the temperature where heat is added and minimise the temperature of heat rejection. Higher efficiency means less fuel needs to be burned for the same electrical capacity, reducing costs and emissions.
+
+Efficiency improvements to CCGTs include:
+
+- **Superheating and reheating stages**: allows the steam turbine to reach higher temperatures.
+
+- **Combined heat and power (CHP)**: heat can be extracted from any of the high-temperature points (e.g. HRSG outlet for hot steam, or pump outlet/coolant outlet for hot water) that can be sent directly to customers or used in thermal storage.
+
+- **Solid oxide fuel cells (SOFCs)**: operate efficiently at high temperatures. They can generate extra electricity from supplied $ H_2 $ (waste heat utilisation) or from the gas supply (pre-combustion). Methane-fired plants can use steam-methane reforming (SMR) to convert $ CH_4 $ into $ H_2 $ for a SOFC.
+
+- **Further advances in turbomachinery and combustion**: such as blade cooling, anti-creep ceramics and control of thermoacoustic oscillations can push turbine inlet temperatures higher and increase lifetime.
+
+## Improving sustainability
+
+Efficiency improvements alone do not address the real issue: fossil fuels still emit $ CO_2 $ when burned, as well as other pollutants such as $ NO_x $, $ SO_x $ and particulates.
+
+Carbon capture is a set of technologies that aim to mitigate the $ CO_2 $ emissions from fossil fuel power plants. As the main culprit of anthropogenic climate change and global warming, minimising the amount of this greenhouse gas released into the atmosphere is a key goal. Critics argue that carbon capture is merely an excuse to continue unmitigated fossil fuel usage, referring to their low actual capture rates. Still, it is likely they will be pursued to some extent. Carbon capture can be broadly classed as 'storage' (CCS) or 'utilisation' (CCU) methods, such as:
+
+- **Post-combustion capture**: use of amine scrubbers in the flue stack to remove $ CO_2 $ by chemisorption. They are expensive to retrofit and reduce plant efficiency, raising consumer electricity costs.
+
+- **Pre-combustion capture**: pre-processing the fuel feedstock into syngas via gasification or reforming. The CO is converted to $ CO_2 $ by the water-gas shift reaction (WSGR) and then removed from the gas stream by liquid solvent (e.g. methanol, PEG or an ionic liquid) and the remaining hydrogen is used as the fuel for combustion to water vapour.
+
+- **Oxy-combustion capture**: the flue gas is recycled back into a pure oxygen inlet of the combustion chamber, so the combustion occurs in an $ O_2 $-$ CO_2 $-$ H_2O $ atmosphere, concentrating the $ CO_2 $ at the output for easier removal.
+
+- **Allam-Fetvedt supercritical $ CO_2 $ cycle (NET Power cycle)**: a synergistic implementation of the oxy-combustion cycle where the output $ CO_2 $ is compressed to the high pressure for use in a supercritical $ CO_2 $ power cycle, at very high capture efficiency and low cost. Commercialised by NET Power. Source: [R. J. Allam](https://committees.parliament.uk/writtenevidence/45190/pdf/).
+
+- **Direct air capture (DAC)**: a separate unit for pulling $ CO_2 $ from the open air by chemisorption in alkaline solutions to form carbonate precipitates, intended to offset emissions from the flue. Critics argue that DAC is merely an excuse to continue unmitigated fossil fuel usage.
+
+There are some low-TLR options for CCU with DAC using advanced chemistries e.g. $ CO_2 $ redox flow batteries, fluorenol photobase catalysis, photocatalytic syngas production, but these are not yet viable and can use scarce or toxic catalysts in their designs.
+
+For non-cyclical CCS processes, high-pressure $ CO_2 $ is pumped into deep underground reservoirs for permanent storage, which is sequestered by rock. This shares similar seismic risks to fracking, but choice of geology and operations allow for easier mitigation.
+
+Pollution management technologies include:
+
+- **Bioenergy with CCS (BECCS)**: biogas (~75% methane) derived from anaerobic digestion of organic waste as a natural gas source with CCS. BECCS is ideally net-negative in carbon generation, with the possibility of SMR and SOFC for cogeneration, although due to the various losses, this is rarely realised in practice.
+
+- **Flue gas desulfurisation (FGD)**: removal of $ SO_2 $ from flue gas exhausts due to sulfur impurities in the fuel (common in coal) using a wet alkaline sorbent slurry to prevent acid rain formation.
+
+- **Combustion temperature control**: control systems and use of digital twins can tune turbine inlet temperatures online, e.g. Siemens’ reinforcement learning-based GT Auto Tuner, and reduce downstream $ NO_x $ emissions in selective catalytic reduction (SCR) systems.
+
+## Modelling a Combined Cycle Gas Turbine
+
+I wanted to simulate a typical power plant setup to understand the thermodynamics of power generation. I used Python to run through the calculations of a CCGT running an air-standard Brayton (gas turbine) cycle coupled to a Rankine (steam turbine) cycle. I made use of the [CoolProp library](https://coolprop.org/) to get accurate physical properties of air and water/steam mixtures at various states.
+
+There are nine key states in a CCGT:
+
+1. Steam pump inlet (steam condenser outlet)
+2. Steam pump outlet (steam side HRSG inlet)
+3. Steam turbine inlet (steam side HRSG outlet)
+4. Steam turbine outlet (steam condenser inlet)
+5. Gas compressor inlet (ambient air)
+6. Gas compressor outlet (combustor inlet)
+7. Gas turbine inlet (combustor outlet)
+8. Gas turbine outlet (gas side HRSG inlet)
+9. Gas turbine outlet (gas side HRSG exhaust)
+
+These are shown numbered in the diagram below, and the thermodynamic processes between them are plotted on T-s diagrams for both cycles. The heat released between states 8 and 9 (HRSG gas side) is equal to the heat absorbed between states 2 and 3 (HRSG steam side).
+
+{{< figure src="ccgt_diagram.png" title="States numbered 1-9 positioned along the cycles. $ Q_{in} $ is the heat input due to chemical energy release in combustion at high temperature, and $ Q_{out} $ is the heat rejected from the steam condenser at a low temperature." >}}
+
+The conditions used in the simulation were:
+
+- Gas turbine:
+  - Compressor inlet pressure: 101.325 kPa (1 bar; ambient)
+  - Compressor inlet temperature: 25 °C (ambient)
+  - Compressor pressure ratio: 23
+  - Compressor isentropic efficiency: 85%
+  - Fuel heat input: 1045.3 MW
+  - Turbine pressure ratio: 20.9186
+  - Turbine isentropic efficiency: 85%
+  - Mass flow rate of air: 1055.9 kg/s
+- Steam turbine:
+  - Mass flow rate of steam: 150.3 kg/s
+  - Pump inlet pressure: 0.04 bar
+  - Pump pressure ratio: 1000
+  - Pump isentropic efficiency: 85%
+  - Pump inlet temperature: 24.75 °C
+  - Turbine isentropic efficiency: 100%
+
+The full Python code is shown at the end of the post. Running the program gives the following output:
+
+```
+Gas turbine: 
+        Compressor power input: 528.67 MW
+        Combustion heat input: 1045.30 MW
+        Turbine power output: 899.73 MW
+Steam turbine: 
+        Pump power input: 0.72 MW
+        HRSG heat transfer: 519.15 MW
+        Turbine power output: 176.60 MW
+Efficiencies:
+        Thermal efficiency, gas cycle: 35.50%
+        Thermal efficiency, steam cycle: 33.88%
+        Thermal efficiency, overall: 52.32%
+        Maximum thermal efficiency, gas cycle: 74.13%
+        Maximum thermal efficiency, steam cycle: 40.73%
+        Maximum thermal efficiency, overall: 74.13%
+        Exergy efficiency, gas cycle: 47.88%
+        Exergy efficiency, steam cycle: 83.18%
+        Exergy efficiency, overall: 70.58%
+```
+
+The figures allow us to visualise the energy and exergy flows in a CCGT. For this particular setup, while 52\% of the heat energy was converted to useful work (the thermal efficiency), about 71\% of the maximum possible work (the exergy efficiency) was achieved. The losses in exergy are due to irreversibilities in the real processes, such as friction, turbulence, and heat losses to the environment.
+
+{{< figure src="Fig1_pie_charts.png" title="Energy and exergy budgets in pie chart form." >}}
+
+{{< figure src="Fig2_TS_diagrams.svg" title="The power cycles plotted on T-s indicator diagrams." >}}
+
+{{< figure src="Fig3_HRSG_pinch_point.svg" title="The T-X diagram within the heat exchanger." >}}
 
 Code on [GitHub gists here](https://github.com/lorcan2440/Process-Simulation/blob/main/CCGT-Thermodynamics/ccgt_exergy.py):
 
@@ -28,9 +172,8 @@ Code on [GitHub gists here](https://github.com/lorcan2440/Process-Simulation/blo
 from matplotlib import pyplot as plt
 import numpy as np
 from CoolProp.CoolProp import PropsSI
-from scipy.special import lambertw
 
-plt.style.use(r'C:\LibsAndApps\Python config files\proplot_style.mplstyle')
+#plt.style.use(r'C:\LibsAndApps\Python config files\proplot_style.mplstyle')
 
 # Gas turbine (Brayton cycle) parameters
 
