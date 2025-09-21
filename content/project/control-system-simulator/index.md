@@ -138,6 +138,40 @@ Why do we need controllers? Setpoints...
 
 ### 3. Proportional-integral-derivative (PID) control
 
+The general PID controller has
+
+$$ K(s) = K_p + \frac{K_i}{s} + K_d s $$
+
+in terms of the controller gains or
+
+$$ K(s) = K_p (1 + \frac{1}{T_i s} + T_d s) $$
+
+in terms of the controller time constants where $ T_i = \frac{K_p}{K_i} $ and $ T_d = \frac{K_d}{K_p} $.
+
+Using our known plant TF $ G(s) $, we can compute the **open-loop transfer function (OLTF, return ratio)**, $ L(s) = K(s) G(s) $:
+
+$$ L(s) = K_p k_{12} \frac{T_d s^2 + s + \frac{1}{T_i}}{s(s + d)(s - \lambda_2)}  \ \ \ \text{where} \ \ \lambda_2 = -(k_{12} + k_{21} + d). $$
+
+The quadratic factor in the numerator has discriminant $ \Delta = 1 - 4 \frac{T_d}{T_i} $.
+
+This will have **real roots** (representing two first-order high-pass filters) if $ \Delta < 0 $, i.e. if $ 0 < \frac{T_d}{T_i} < \frac{1}{4} $, in which case the OLTF is
+
+$$ L(s) = K_p k_{12} T_d \frac{(s - \alpha)(s - \beta)}{s(s + d)(s - \lambda_2)} $$
+
+where $ \alpha, \beta $ are the real roots of $ s^2 + \frac{1}{T_d} s + \frac{1}{T_d T_i} = 0 $.
+
+The quadratic will have **complex roots** (representing one second-order anti-resonance filter) if $ \Delta < 0 $, i.e. if $ \frac{T_d}{T_i} > \frac{1}{4} $, in which case the OLTF is
+
+$$ L(s) = \frac{K_p k_{12}}{T_i} \frac{1 + 2 \zeta T s + T^2 s^2}{s(s + d)(s - \lambda_2)} \ \ \ \text{where} \ \ T = \sqrt{T_i T_d}, \ \zeta = \frac{1}{2} \sqrt{\frac{T_i}{T_d}}. $$
+
+These standard forms allow us to easily interpret and sketch the Bode plot of $ L(s) $. The anti-resonant frequency of the complex roots case is $ \omega = \frac{1}{T} $, and $ \zeta $ is the damping coefficient, with smaller values indicating stronger suppression at this frequency.
+
+We can solve for the poles of the **closed-loop transfer function (CLTF)** by finding the roots of $ 1 + L(s) = 0 $. Expanding out gives a cubic polynomial in $ s $:
+
+$$ s^3 + (d - \lambda_2 + K_d k_{12}) s^2 + (K_p k_{12} - d \lambda_2) s + K_i k_{12} = 0. $$
+
+The three poles can be found systematically by solving this cubic numerically.
+
 - Proportional gain
 - Integral gain
 - Derivative gain

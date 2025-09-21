@@ -481,7 +481,7 @@ While *Eohippus* and *Hyracotherium* had four-toed feet, they could still run on
 
 Modern horses have gone through extensive artificial selection, with pre-domestication horses being slightly smaller. Wild horses are endangered today. Artificial selection has a tendency to evolve animals into extremes that would not be good strategies in nature, due to the difference in selection objectives.
 
-Sources: [Florida Museum](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [Limbs of the Horse](https://en.wikipedia.org/wiki/Limbs_of_the_horse)
+Sources: [here](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [here](https://www.floridamuseum.ufl.edu/fossil-horses/gallery/) (Florida Museum), and [here](https://en.wikipedia.org/wiki/Limbs_of_the_horse) (limbs of the horse)
 
 ### Bird evolution
 

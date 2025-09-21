@@ -206,7 +206,7 @@ $$ [H^+]^3 + K_a [H^+]^2 - (K_w + K_a c_0) [H^+] - K_a K_w = 0 $$
 
 where $ c_0 = 0.1, \ K_a = 3.9811 \times 10^{-16} \ \textrm{and} \ K_w = 1.0 \times 10^{-14} $, with all units in molar.
 
-Cubic equations are tough to solve algebraically. We can solve it numerically instead to get three possible roots:
+What we have derived is sometimes called the [Charlot equation](https://en.wikipedia.org/wiki/Charlot_equation). As a cubic equation, it is tough to solve algebraically. We can solve it numerically instead to get three possible roots:
 
 $$ [H^+] = 1.00199 \times 10^{-7}, \ \ -3.9652 \times 10^{-16}, \ \ -1.00199 \times 10^{-7} $$
 
