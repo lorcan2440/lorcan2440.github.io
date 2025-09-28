@@ -276,7 +276,7 @@ The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are a
 
 Most recent survey of ape genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
 
-Proteins from *Paranthropus*: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video)
+Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video)
 
 Human-specific mutations affecting brains and intelligence:
 
@@ -290,7 +290,7 @@ Human-specific mutations affecting brains and intelligence:
 Human-specific mutations affecting muscles and biomechanics:
 
 - **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
-- **GDF8** (myostatin): negatively regulates skeletal muscle growth.
+- **GDF8** (myostatin): negatively regulates skeletal muscle growth. GDF8 is upregulated (limiting muscle growth) in humans relative to other great apes. Downregulation leads to lower body fat and higher muscle mass ([myostatin-related muscle hypertrophy](https://en.m.wikipedia.org/wiki/Myostatin-related_muscle_hypertrophy)).
 - **MYH16**: changes the musculature of the jaw. Source: [here](https://www.nature.com/articles/nature02358).
 - **HACSN1**: a developmental enhancer leading to limb and digit specialisations. Source: [here](https://www.science.org/doi/abs/10.1126/science.1159974)
 
@@ -853,6 +853,12 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 ---
 
 ## 7. COMPARATIVE ANATOMY
+
+### Body plans
+
+Using the shared anatomy of each clade, as well as the fossil record, the characteristics of the basal ancestor of each clade can be inferred. These ancestors are visibly similar enough to also reasonably share their own common ancestor.
+
+{{< figure src="mammal_body_plan.png" title="Eight major extant clades of carnivorous mammals (order *Carnivora*): the families *Felidae* (cats), *Canidae* (dogs), *Ursidae* (bears), *Hyaenidae* (hyenas and aardwolf), *Ailuridae* (red panda), *Viverridae* (civets), *Herpestidae* (mongooses, meerkats), *Mustelidae* (weasels, otters, badgers, wolverines...). It is obvious that these ancestors in turn share many of the same characteristics, which points towards a more distant common ancestor (the nested hierarchy). Source: ([Duff, Beatman & MacMillan, 2020](https://evolution-outreach.biomedcentral.com/articles/10.1186/s12052-020-00124-w/figures/5))." >}}
 
 ### Middle ear bones in birds
 
