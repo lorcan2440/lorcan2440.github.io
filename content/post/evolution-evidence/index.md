@@ -300,9 +300,9 @@ Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.o
 - **PDE10A**: leads to enlarged spleens in the Bajau people. The spleen is a reservoir of oxygenated red blood cells, allowing them to hold their breath for longer (hypoxia tolerance) while freediving. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6).
 - **NOS3** (nitric oxide synthase) and others for high-altitude adaptation: in three distinct populations (Tibetans, Andeans and Ethiopians), multiple different mutations in a variety of genes lead to hypoxia tolerance, allowing for their survival at high altitudes.
 - **Sickle cell trait**: in regions of Africa where malaria is prominent, carrying one copy of the recessive sickle cell anaemia allele confers resistance to the *Plasmodium* parasite. While there are associations of sickle cell trait to other medical conditions, many people with the trait remain healthy, making it net beneficial in malaria-endemic regions. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(11)00384-9).
-- **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions.
+- **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions (where sunburn is less of a risk).
 
-### Interesting neutral mutations in recent human evolution
+### Neutral mutations in recent human evolution
 
 In some of these cases, no harmful effect is observed despite what is typically thought of as a 'loss of function' (e.g. gene deletion). These result in variation in the population, and may serve as a substrate for future selection, or simply be neutral. Additionally, what is neutral in a current environment may become beneficial in a future environment.
 
@@ -1057,6 +1057,26 @@ The efficiency of MCMC in converging on an optimal solution by taking random ste
 Analyses of strain-level bacterial diversity within hominid gut microbiomes revealed that clades of *Bacteroidaceae* and *Bifidobacteriaceae* have been maintained exclusively within host lineages across hundreds of thousands of host generations. Divergence times of these cospeciating gut bacteria are congruent with those of hominids, indicating that nuclear, mitochondrial, and gut bacterial genomes diversified in concert during hominid evolution. This study identifies human gut bacteria descended from ancient symbionts that speciated simultaneously with humans and the African apes.
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995445/)
+
+### Syphilis origin
+
+The sexually transmitted infection (STI) syphilis (caused by the bacterium *Treponema pallidum*) originated in America about 9,000 years ago according to phylogenetic analysis. It only spread to Europe when Christopher Columbus arrived in 1492 and raped a large number of Native American women with his crew, who contracted the disease and brought it back. This is supported by the first historical record of syphilis in Europe being in 1495, when French troops invaded Naples.
+
+Comparative genomic studies find that the syphilis-causing strain (*T. pallidum pallidum*) is a close sister to the yaws-causing strain (*T. pallidum pertenue*). A small number of mutations in genes controlling tissue invasion, immune evasion, and heat tolerance could have shifted it from a skin-to-skin childhood infection to an adult STI.
+
+It has been proposed based on the archaeological record in pre-Columbian North America that the disease was less severe in its original form, occurring as a non-venereal treponemal disease (like those causing e.g. yaws). It quickly evolved into an extremely virulent and acute form in the high population-density and zero-immunity Renaissance-era European population, before 'relaxing' again to being a chronic STI as is known today (more balanced transmission and host survival).
+
+Sources: [here](https://www.livescience.com/archaeology/syphilis-originated-in-the-americas-ancient-dna-shows-but-european-colonialism-spread-it-widely) and [here](https://anthropology.indiana.edu/research/publications/the-myth-of-syphilis-the-natural-history-of-treponematosis-in-north-america.html).
+
+### Head, body and pubic lice in great apes
+
+Humans have two types of lice: head/body lice (*Pediculus humanus*) and pubic lice (*Pthirus pubis*). Head/body lice are closely related to chimpanzee lice (*Pediculus schaeffi*), while pubic lice are closely related to gorilla lice (*Pthirus gorillae*). Phylogenetic analysis shows that the *Pediculus* lineage diverged from the chimpanzee lice about 6 million years ago, coinciding with the time of the human-chimpanzee split. 
+
+The *Pthirus* lineage diverged from the gorilla lice about 3.3 million years ago, indicating a host switch from gorillas to hominins (likely an australopithecine). It has been hypothesised that the host switch could only have happened after our ancestors had already lost most of their dense body hair, as otherwise the new lice would not have had an open ecological niche to occupy.
+
+More recently, head/body lice *Pediculus humanus* later split into two ecotypes: head lice (living in scalp hair) and body lice (living in textiles of clothing). mtDNA analysis found that the body lice evolved <100,000 years ago, when humans began wearing clothes.
+
+Sources: [here](https://www.floridamuseum.ufl.edu/science/human-pubic-lice-acquired-from-gorillas-gives-evolutionary-clues/) (gorilla lice) and [here](https://www.nature.com/scitable/blog/accumulating-glitches/learning_from_lice/) (chimp lice).
 
 ### Adaptation of the CRISPR-Cas9 system
 
