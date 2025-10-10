@@ -24,14 +24,14 @@ date_format: Jan 2006
 
 experience:
   - title: Graduate Engineer
-    company: ScottishPower
+    company: Scottish Power
     company_url: 'https://www.scottishpower.co.uk/'
     company_logo: scottish_power
-    location: Wrexham
+    location: Prenton
     date_start: '2024-09-01'
     date_end: 
     description: |2-
-        * A 2-year engineering graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles and projects, including I&C and SCADA systems in the 132 kV transmission network.
+        * A 2-year engineering graduate scheme at Scottish Power Energy Networks (SPEN), rotating through various roles and projects: 1) 132 kV ops, 2) 132 kV projects, 3) Market development & commercial ops, 4) Network connections, 5) Operational control centre.
 
   - title: Script Writer
     company: YouTube
@@ -43,7 +43,7 @@ experience:
     description: |2-
         * Devised academic curricula and scripts for educational maths and engineering tutorial videos on YouTube.
         * Collaborated with a YouTuber with over 3 million subscribers ([Professor Dave Explains](https://www.youtube.com/@ProfessorDaveExplains)), who animated, voiced and published the videos.
-        * Tutorial topics included [differential equations (ODEs and PDEs)](https://www.youtube.com/playlist?list=PLybg94GvOJ9FwwFOmp8sGTHZRiTWPYSs1) and four branches of engineering (electrical, mechanical, chemical, structural: in progress), for a total of ~100 videos at ~10 minutes each.
+        * Tutorial topics included [differential equations (ODEs and PDEs)](https://www.youtube.com/playlist?list=PLybg94GvOJ9FwwFOmp8sGTHZRiTWPYSs1).
 
   - title: Founder
     company: Sublime Shines

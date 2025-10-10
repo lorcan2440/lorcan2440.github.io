@@ -289,7 +289,7 @@ Human-specific mutations affecting brains and intelligence:
 
 Human-specific mutations affecting muscles and biomechanics:
 
-- **PPARGC1A** and **MHY7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch.
+- **PPARGC1A** and **MYH7**: promotes a higher proportion of slow-twitch muscle fibres rather than fast-twitch, favouring endurance and manual dexterity rather than sharp bursts of power. Sources: [here](https://www.pnas.org/doi/10.1073/pnas.1619071114) and [here](https://www.sciencedirect.com/science/article/abs/pii/S109564332300048X).
 - **GDF8** (myostatin): negatively regulates skeletal muscle growth. GDF8 is upregulated (limiting muscle growth) in humans relative to other great apes. Downregulation leads to lower body fat and higher muscle mass ([myostatin-related muscle hypertrophy](https://en.m.wikipedia.org/wiki/Myostatin-related_muscle_hypertrophy)).
 - **MYH16**: changes the musculature of the jaw. Source: [here](https://www.nature.com/articles/nature02358).
 - **HACSN1**: a developmental enhancer leading to limb and digit specialisations. Source: [here](https://www.science.org/doi/abs/10.1126/science.1159974)
@@ -306,7 +306,7 @@ Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.o
 
 In some of these cases, no harmful effect is observed despite what is typically thought of as a 'loss of function' (e.g. gene deletion). These result in variation in the population, and may serve as a substrate for future selection, or simply be neutral. Additionally, what is neutral in a current environment may become beneficial in a future environment.
 
-- **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
+- **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection in some cultures. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
 - **Palmaris longus muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
