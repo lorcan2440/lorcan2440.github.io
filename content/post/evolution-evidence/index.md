@@ -268,6 +268,14 @@ https://link.springer.com/article/10.1007/BF00182743
 
 ### Chromosome 2 fusion in the human lineage
 
+Humans have 23 pairs of chromosomes, while all other great apes have 24 pairs. To explain this discrepancy, it was suggested that two ancestral hominin chromosomes fused to form one in the human lineage. Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs, and fusions are known in humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)).
+
+Based on karyotypes, it was predicted in 1972 that human chromosome 2 and chimp chromosomes 12 and 13 (since renamed to 2A and 2B) were homologous and fit the bill for a fusion event. In an end-to-end fusion, we should expect to find 1) a forward and reverse telomere region in the centre of the fused chromosome, 2) a cryptic (vestigial) second centromere and 3) strong gene homology between the fused chromosome and the two separate chimp chromosomes.
+
+Telomeres are identified by the forward repeating sequence "TTAGGG" and the reverse complement "CCCTAA", while centromeres are identified by a longer 'alphoid repeat' sequence. When the genomes were sequenced in 2005, it was found that human chromosome 2 indeed satisfied all three of these predictive criteria, demonstrating the fusion beyond all reasonable doubt. The cryptic centromere is degraded and smaller in length. The fusion site also contains a non-functional pseudogene, DDX11L2, which is part of the DDX11L pseudogene family only found at telomeres ([Costa *et al.*, 2009](https://pubmed.ncbi.nlm.nih.gov/19476624/)).
+
+When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times.
+
 Sources: [here](https://www.youtube.com/watch?v=ThHjhep43RI) (video), [here](https://www.youtube.com/watch?v=l0huM0blk0k) (video) and [here](https://www.youtube.com/watch?v=qVeriF1OL54) (video), [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (video) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf) (paper).
 
 ### Beneficial mutations in human evolution
@@ -276,7 +284,7 @@ The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are a
 
 Most recent survey of ape genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
 
-Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video)
+Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
 
 Human-specific mutations affecting brains and intelligence:
 
@@ -902,8 +910,12 @@ As one of the most impressively complex sensory organs, the eye's evolution has 
 
 #### Different types of eyes
 
-- **Retinal phototrophy**: the retinal molecule is used by *Haloarchaea* in bacteriorhodopsin proteins to capture light energy via chemiosmosis. This is the key light sensor molecule needed for eyes, without any of the complex structures that evolved later.
+- **Retinal phototrophy**: the retinal molecule is used by *Haloarchaea* in bacteriorhodopsin proteins to capture light energy via chemiosmosis. This is the key light sensor molecule needed for eyes, without any of the complex structures that evolved later for information extraction rather than energy harvesting.
 - **Eyespots**: a simple light-sensitive organelle found in euglenids (unicellular photosynthetic protists), containing photoreceptor proteins. Without any nerve cells, the signal cascade on light detection results in flagellar movement, enabling phototaxis.
+- **Developmental control genes**: PAX6 is the master control gene for eye development in multicellular life, conserved across all animals ([Gehring, 2002](https://pubmed.ncbi.nlm.nih.gov/11902689/)).
+
+Animals have two main kinds of photoreceptor cell: ciliary (mostly in vertebrates) and rhabdomeric (mostly in invertebrates) and both kinds use retinal. Some animals have both, like the lab polychaete annelid *Platynereis dumerilii*.
+
 - **Pit eye**: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
 - **Pinhole camera eye**: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
 - **Lens formation**: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical aberration.
@@ -919,15 +931,15 @@ As one of the most impressively complex sensory organs, the eye's evolution has 
 
 #### Physical constraints in the evolution of the eye
 
-Solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
+Solar radiation is the main source of high-exergy (low-entropy) free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
 
 With eyesight, there is the additional task of extracting information from the radiation, providing both thermodynamic and information-theoretic constraints on the evolution of the eye.
 
-- **Radiation entropy maximisation**: solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for (e.g. photosynthesis). Solar radiation contains both energy and entropy, with slightly different Wien peaks for the two. The eye evolved to maximise the information extracted from the radiation, and the eye's spectral sensitivity is optimised to the maximum entropy peak instead of the energy peak. Sources: [here](https://www.nature.com/articles/srep36038) and [here](https://www.nature.com/articles/s41598-017-01622-6).
+- **Radiation entropy maximisation**: solar radiation is the main source of high-exergy free energy in the open biosphere, and its exploitation is therefore strongly selected for (e.g. photosynthesis). Solar radiation contains both energy and entropy, with slightly different Wien peaks for the two. The eye evolved to maximise the information extracted from the radiation, and the eye's spectral sensitivity is optimised to the maximum entropy peak instead of the energy peak. Sources: ([Delgado-Bonal & Martín-Torres, 2016](https://www.nature.com/articles/srep36038)) and ([Delgado-Bonal, 2017](https://www.nature.com/articles/s41598-017-01622-6)).
 
-- **Utility-based coding**: updates the opponent process theory explaining how S, M, L cone signals are encoded in the optic nerve and visual pathway. The new theory describes the optimal encoding of spectral information given competing selective pressure to extract high-acuity spatial information. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10527909/pdf/nihms-1907957.pdf)
+- **Utility-based coding**: updates the opponent process theory explaining how S, M, L cone signals are encoded in the optic nerve and visual pathway. The new theory describes the optimal encoding of spectral information given competing selective pressure to extract high-acuity spatial information. Source: ([Conway, Malik-Moraleda & Gibson, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10527909/pdf/nihms-1907957.pdf)).
 
-- **Principal components of reflectance spectra**: the encoding of S, M and L into three channels can be explained by the observation that the three channels are the first three PCs in a PCA of the reflectance spectra of natural materials and scenes, encoding 98\% of the total variance. This allows minimal information loss with the fewest number of channels, a consequence of the fact that the eye evolved to extract information from the environment. Source: [here](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-2-218)
+- **Principal components of reflectance spectra**: the encoding of S, M and L into three channels can be explained by the observation that the three channels are the first three PCs in a PCA of the reflectance spectra of natural materials and scenes, encoding 98\% of the total variance. This allows minimal information loss with the fewest number of channels, a consequence of the fact that the eye evolved to extract information from the environment. Source: ([Chiao, Cronin & Osorio, 2000](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-2-218)).
 
 ### Evolution of photosynthesis
 
@@ -975,6 +987,15 @@ There are some structures that were considered vestigial in the past on the basi
 
 {{< figure src="human_embryo_tail.png" title="**(a)**: human embryo at week 6 ([Gasser, 1975](https://www.ehd.org/pdf/gasser/greyscale/Gasser_Fig6-1gs.pdf)). **(b)**: a rare disorder where the tail persists until birth (an atavistic trait) ([Shad & Biswas, 2012](https://casereports.bmj.com/content/2012/bcr.11.2011.5160))." >}}
 
+#### Vestiges from recent hominin evolution
+
+Other notable vestigial traits in humans include:
+
+- Tiny muscles that move the ears and scalp (auricular muscles), used for directional hearing in other mammals but too weak to be useful in humans.
+- Goosebumps (arrector pili muscles), used to raise hairs for insulation and appear larger to predators in other mammals, but mostly ineffective in humans due to our relative hairlessness.
+- The coccyx (tailbone), a remnant of the tail in our primate ancestors, which serves as an attachment point for muscles of the pelvic floor.
+- The plantar reflex in infants, where the toes curl around an object placed under the foot. This is a remnant of the fully functional grasping reflex seen in primate infants, which helps them cling to their mothers.
+
 #### Blind fish
 
 The blind cave fish ([*Astyanax mexicanus*](https://en.wikipedia.org/wiki/Mexican_tetra)) is a species for which some live in dark caves their whole lives, while others live above ground in rivers. The cave-dwelling fish differ significantly in their appearance: they have non-functional remnants of eyeballs (vestigial; sometimes fully lost), have lost the pigmentation in their scales and they also have significantly smaller midbrains (the region of the brain that processes vision). These traits have convergently evolved independently in multiple cave populations. Experiments have shown that the blind fish have a metabolic energy reduction of 15\% relative to the above-ground fish ([Moran, Softley & Warrant, 2015](https://www.science.org/doi/10.1126/sciadv.1500363)), providing a selection advantage for the cave fish to lose their eyes (the 'expensive tissue hypothesis'). The blind cave fish is likely on its way towards peripatric speciation.
@@ -1011,7 +1032,7 @@ Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
 **Maximum parsimony optimality criterion:** a metric for scoring trees such that shorter trees (ones with fewer branching events) are considered more parsimonious, because these require fewer mutation events to explain the given genetic data. Tree length acts as a *[loss function](https://en.wikipedia.org/wiki/Loss_function)* to be minimised.
 
-**Characters and character states:** a *character* is a categorical trait of an organism (e.g. hair colour), and the *state* of this character in a given organism is its value (e.g. blonde). In molecular phylogenetics, the characters are the loci of the DNA, and their states are the nucleotides.
+**Characters and character states:** a *character* is a categorical trait of an organism (e.g. hair colour), and the *state* of this character in a given organism is its value (e.g. blonde). In molecular phylogenetics, the characters are the loci of the DNA, and their states are the nucleotides identities.
 
 **Plesiomorphy and apomorphy:** for a given clade, a *plesiomorphy* (ancestral trait) is inherited from an ancestor outside the clade. An *apomorphy* (derived trait) is evolved in some of the members of the clade.
 
@@ -1054,7 +1075,7 @@ The efficiency of MCMC in converging on an optimal solution by taking random ste
 
 ### Great ape gut microbiome
 
-Analyses of strain-level bacterial diversity within hominid gut microbiomes revealed that clades of *Bacteroidaceae* and *Bifidobacteriaceae* have been maintained exclusively within host lineages across hundreds of thousands of host generations. Divergence times of these cospeciating gut bacteria are congruent with those of hominids, indicating that nuclear, mitochondrial, and gut bacterial genomes diversified in concert during hominid evolution. This study identifies human gut bacteria descended from ancient symbionts that speciated simultaneously with humans and the African apes.
+Studies of gut bacteria in humans and other apes show that certain clades of microbes (*Bacteroidaceae* and *Bifidobacteriaceae*) have evolved along with their hosts for millions of generations. The timing of their genetic divergence matches the evolutionary split between humans and other apes, meaning that our gut bacteria, mitochondrial DNA, and nuclear DNA all diversified together. Some bacteria living in the human gut today are direct descendants of ancient symbionts that co-evolved and speciated in step with humans, chimpanzees, and gorillas, indicating our common ancient ancestry.
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995445/)
 
@@ -1145,7 +1166,7 @@ Some useful resources on the thermodynamics of life:
 - A practical thermodynamic analysis of photosynthesis ([Keller, 2013](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)).
 - A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
 - Life as a manifestation of the second law of thermodynamics ([Schneider & Kay, 1994](https://www.sciencedirect.com/science/article/pii/0895717794901880)), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
-- Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life on the entropy and energy budgets of the Earth.
+- Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life and solar radiation on the entropy and energy budgets of the Earth.
 - Maximum power in evolution, ecology and economics ([Hall & McWhirter, 2023](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0290)), a discussion of Lotka's statement of the '4th law of thermodynamics' as it applies to evolutionary biology.
 
 Some of the key authors in non-equilibrium thermodynamics include:
@@ -1291,7 +1312,7 @@ These are not necessarily evidence for evolution, but are tangentially related a
 
 The overwhelming majority of scientists accept evolution as the best explanation for the diversity of life on Earth. It is **not** an 'argument from authority' fallacy to cite the scientific community for a scientific argument, as the consensus is based on the evidence acquired through the scientific method, not on opinions or beliefs of individuals with power.
 
-According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. This percentage is higher than.
+According to Pew Research Center, as of 2019, 98\% of scientists accept evolution, whether religious or not. This percentage is higher than:
 
 The status of a scientific theory is completely independent of the general public's level of support for it. For example, among the American public (sources: [here](https://www.theatlantic.com/technology/archive/2014/04/a-majority-of-americans-question-the-science-of-the-big-bang/360976/), [here](https://www.forbes.com/sites/trevornace/2018/04/04/only-two-thirds-of-american-millennials-believe-the-earth-is-round/) and [here](https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx))
 
