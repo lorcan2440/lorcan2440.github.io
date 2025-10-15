@@ -268,13 +268,17 @@ https://link.springer.com/article/10.1007/BF00182743
 
 ### Chromosome 2 fusion in the human lineage
 
-Humans have 23 pairs of chromosomes, while all other great apes have 24 pairs. To explain this discrepancy, it was suggested that two ancestral hominin chromosomes fused to form one in the human lineage. Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs, and fusions are known in humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)).
+Humans have 23 pairs of chromosomes, while all other great apes have 24 pairs. To explain this discrepancy, it was suggested that two ancestral hominin chromosomes fused to form one in the human lineage. Based on karyotypes, it was predicted in 1972 that human chromosome 2 and chimp chromosomes 12 and 13 (since renamed to 2A and 2B) were homologous and fit the bill for a fusion event. In an end-to-end fusion of two chromatids, we should expect to find:
 
-Based on karyotypes, it was predicted in 1972 that human chromosome 2 and chimp chromosomes 12 and 13 (since renamed to 2A and 2B) were homologous and fit the bill for a fusion event. In an end-to-end fusion, we should expect to find 1) a forward and reverse telomere region in the centre of the fused chromosome, 2) a cryptic (vestigial) second centromere and 3) strong gene homology between the fused chromosome and the two separate chimp chromosomes.
+1. a **forward and reverse telomere region** in the centre (identified by a large number of repeating "TTAGGG" (forward) and "CCCTAA" (reverse) telomere sequences),
+2. a cryptic (vestigial) **second centromere** (identified by a long 'alphoid repeat' sequence), and
+3. strong **gene homology** between the fused chromosome and the two separate chimp chromosomes.
 
-Telomeres are identified by the forward repeating sequence "TTAGGG" and the reverse complement "CCCTAA", while centromeres are identified by a longer 'alphoid repeat' sequence. When the genomes were sequenced, it was found that human chromosome 2 indeed satisfied all three of these predictive criteria, demonstrating the fusion beyond all reasonable doubt ([Ijdo *et al.*, 1991](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf)). The cryptic centromere is degraded and smaller in length. The fusion site also contains a non-functional pseudogene, DDX11L2, which is part of the DDX11L pseudogene family only found at telomeres ([Costa *et al.*, 2009](https://pubmed.ncbi.nlm.nih.gov/19476624/)).
+When the genomes were sequenced, it was found that human chromosome 2 indeed satisfied all three of these predictive criteria, demonstrating the fusion beyond all reasonable doubt ([Ijdo *et al.*, 1991](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf)). The cryptic centromere is degraded and smaller in length ([Miga, 2017](https://pubmed.ncbi.nlm.nih.gov/27423248/)). The fusion site also contains a particular non-functional pseudogene, DDX11L2, that is only found at telomeres ([Costa *et al.*, 2009](https://pubmed.ncbi.nlm.nih.gov/19476624/)).
 
-When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times.
+When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times ([Poszewiecka *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9413910/)).
+
+Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs, and fusions are known in humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/), with a degraded second centromere and homologous banding.
 
 Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibbon) and [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (Dr Dan).
 
@@ -282,7 +286,7 @@ Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibb
 
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
-Most recent survey of ape genomes: [here](https://www.nature.com/articles/s41586-025-08816-3)
+Most recent survey of ape genomes: ([Yoo *et al.*, 2025](https://www.nature.com/articles/s41586-025-08816-3)).
 
 Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
 
@@ -477,7 +481,7 @@ Some of the most obvious evidence for evolution is 'transitional fossils'. Techn
 
 ### Horse evolution
 
-{{< figure src="horse-fossils.jpg" title="Horse evolution. Tree diagram source: [(McFadden, 2005)](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf)." >}}
+{{< figure src="horse-fossils.jpg" title="Horse evolution with complete specimens from three extinct genera shown: *Miohippus* (32-25 MYA), *Orohippus* (~50 MYA) and *Hyracotherium* (~55 MYA). Tree diagram source: ([McFadden, 2005](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf))." >}}
 
 Horse feet gradually lost toes, going from 5 toes (small ancestral mammals) to 4 toes on ground (*Eohippus*) to 4 toes with 3 on ground (*Epihippus*) to 3 toes (*Mesohippus*) to 1 toe (*Equus*). Throughout this process, the carpal bones (homologous with the mammalian wrist) moved upwards due to elongation of the metacarpals, giving the modern appearance of a three-segment leg. The hind limbs also underwent similar later transitions in *Mesychippus*.
 
@@ -493,7 +497,7 @@ Sources: [here](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) 
 
 ### Bird evolution
 
-One of the most famous transitional fossils known to Darwin, *Archaeopteryx* displays both ancestral traits (teeth, long bony tail, three claws on wing) and derived traits (feathers, wings, furcula/wishbone, reduced digits(smaller fingers)).
+One of the most famous transitional fossils known to Darwin, *Archaeopteryx* displays both ancestral traits (teeth, long bony tail, three claws on wing) and derived traits (feathers, wings, furcula/wishbone, smaller digits).
 
 {{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
 
@@ -527,15 +531,15 @@ The early Ediacaran yields some interesting finds:
 - Phosphatised animal embryos, such as *Megasphaera*, *Caveasphaera* and *Helicoforamina*.
 - Acritarchs: microfossils without an assignment.
 
-However, the later Ediacaran provides most of the better-known biota from this period, divided into the Avalon (571 - 555 MYA), White Sea (560 - 551 MYA) and Nama (555 - 541 MYA) assemblages.
+However, the later Ediacaran provides most of the better-known biota from this period, divided into the **Avalon** (571 - 555 MYA), **White Sea** (560 - 551 MYA) and **Nama** (555 - 541 MYA) assemblages.
 
-The Avalon biota, following the Avalon explosion, consists of sessile (non-moving) frondose (having fronds) fractal rangeomorphs such as *Charnia* and *Fractofusus* (stem non-sponge animals), frond-like arboreomoprhs (having bulb-shaped anchors) like *Charniodiscus* and disc-like organisms such as *Cyclomedusa*. Cnidarians include the muscle-bearing *Haootia quadriformis*.
+The **Avalon biota**, following the [Avalon explosion](https://en.wikipedia.org/wiki/Avalon_explosion), consists of sessile (non-moving) frondose (having fronds) fractal rangeomorphs such as *Charnia* and *Fractofusus* (stem non-sponge animals), frond-like arboreomoprhs (having bulb-shaped anchors) like *Charniodiscus* and disc-like organisms such as *Cyclomedusa*. Cnidarians include the muscle-bearing *Haootia quadriformis*.
 
-The White Sea biota includes *Tribrachidium* (sessile benthic suspension feeder with tri-radial symmetry), *Dickinsonia* (stem bilaterian), *Ikaria* (worm-like bilaterian) and *Kimberella* (stem mollusc or spiralian), representing increasingly modern animal clades.
+The **White Sea biota** includes *Tribrachidium* (sessile benthic suspension feeder with tri-radial symmetry), *Dickinsonia* (stem bilaterian), *Ikaria* (worm-like bilaterian) and *Kimberella* (stem mollusc or spiralian), representing increasingly modern animal clades.
 
 {{< figure src="white_sea_fossils.png" title="The White Sea assemblage features the progression of animal complexity." >}}
 
-The Nama assemblage follows the [end-Ediacaran extinction event](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) and coincides with the [Baykonurian glaciation](https://en.wikipedia.org/wiki/Baykonurian_glaciation). It includes fossils such as *Cloudina* (tubular and biomineralised, likely an annelid), *Yilingia* (segmented bilaterian: annelid or panarthropod) and *Namacalathus* (early relative of brachiopods and bryozoans).
+The **Nama assemblage** follows the [end-Ediacaran extinction event](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) and coincides with the [Baykonurian glaciation](https://en.wikipedia.org/wiki/Baykonurian_glaciation). It includes fossils such as *Cloudina* (tubular and biomineralised, likely an annelid), *Yilingia* (segmented bilaterian: annelid or panarthropod) and *Namacalathus* (early relative of brachiopods and bryozoans).
 
 {{< figure src="ediacaran_cambrian_fossils.png" title="Ediacaran fossils show a steady progression in complexity, with some crossing the boundary into the Cambrian. These make up some of the stem-group animals that entered the first stages of the Cambrian, before radiating into the crown-group animals that predominated in the middle Cambrian stages. Figure source: ([Wood *et al.*, 2019](https://www.nature.com/articles/s41559-019-0821-6))." >}}
 
