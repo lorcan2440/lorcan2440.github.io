@@ -320,7 +320,7 @@ In some of these cases, no harmful effect is observed despite what is typically 
 
 - **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection in some cultures. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
-- **Palmaris longus muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers).
+- **Palmaris longus muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers). The rate of occurrence rises to over 50\% in Egypt and Turkey. Source: ([Ioannis *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4596262/)).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 - **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
 
@@ -824,7 +824,7 @@ TL dating is also used to date ceramics, tools and pottery. In ([Rink & Bartoll,
 
 ### Electron spin resonance dating
 
-Source: [here](https://www.sciencedirect.com/science/article/abs/pii/S1350448707003769)
+Source: [here](https://peerj.com/articles/17478/) and [here](https://www.sciencedirect.com/science/article/abs/pii/S1350448707003769)
 
 ### Amino acid racemisation dating
 
@@ -862,6 +862,18 @@ Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-successio
 
 ### Prediction of *Tiktaalik*
 
+Evolution had long predicted (since Darwin) that tetrapods evolved from lobed-finned fish, implying there should exist a range of fossils showing the transition from water to land across the Devonian period (about 400 MYA), with traits from both tetrapods and their fish ancestors. By the early 2000s, fossils including *Eusthenopteron* (385 MYA, a lobe-finned fish), *Ichthyostega* and *Acanthostega* (365 MYA, early tetrapods) had already been found, with the synapomorphies of labyrinthodont teeth and tetrapod skull roof pattern linking them together. 
+
+In 2004, Neil Shubin and his team predicted that there should exist a transitional fossil between these species, in late Devonian rocks (~375 MYA) in the Canadian Arctic. This location was chosen for its well-preserved sedimentary formations from freshwater and deltaic environments of the period, with the Fram Formation of Ellesmere Island being the optimal candidate. Using stratigraphy to identify the correct depth, Shubin's team discovered three fossil specimens of the new species *Tiktaalik roseae* in 2004-2006, which collectively covered all of the species' anatomical features.
+
+Evolutionary pressures favouring land adaptation for these fish included:
+
+1. predation by the colossal *Dunkleosteus* in the deeper water, promoting survival in shallower waters near the shoreline
+2. regular desiccation in these shallower regions, requiring occasional survival out of the water
+3. ample untapped food supply of arthropods on land, rewarding those fish that could venture out of the water
+
+The prediction and subsequent discovery of *Tiktaalik* is a powerful demonstration of the predictive power of evolutionary theory, and an example of hypothesis testing by observation, which are the hallmarks of a robust scientific theory.
+
 ---
 
 ## 7. COMPARATIVE ANATOMY
@@ -882,15 +894,31 @@ Using the shared anatomy of each clade, as well as the fossil record, the charac
 
 {{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
 
-### Limbs in fish, tetrapods, vertebrates and mammals
+### Limbs in fish and tetrapods
 
-Homology increases with evolutionary relatedness.
+Homology increases with evolutionary relatedness. Using the well-known fish-to-tetrapod transitional fossil series, we can see how the bones in the fins of lobe-finned fish gradually evolve into the limbs of tetrapods, with the same arrangement of bones (humerus, radius and ulna) conserved throughout, but with increasing numbers of digits.
 
-{{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs (humerus, radius and ulna), with large variation in the number of digits. Source: [Berkley Evolution 101](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
+{{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs (humerus, radius and ulna), with large variation in the number of digits. Source: [here](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
+
+#### Lungs and breathing in lobe-finned fish
+
+As part of the water-to-land transition, the lobe-finned fish (*Sarcopterygii*) also had to adapt to breathing air rather than extracting oxygen from water via gills. *Tiktaalik*'s ribcage was imbricate (robust and with ribs overlapping), allowing expansion and contraction by muscles, implying they enclosed the lungs for breathing, unique among fish at the time. It also had otic notches, indicative of spiracles (gills like primitive blowholes, only found in air-breathing sarcopterygians), showing two modes of inspiration.
+
+#### Limb attachment in lobe-finned fish
+
+*Eusthenopteron* had pectoral (front-most) fins that connected to axial skeleton via part of the skull. In later species (e.g. *Tiktaalik*) and in tetrapods, this part of the skull is detached and comprises the pectoral girdle, also creating a neck for flexible head movement. A transition for this separation is seen in *Panderichthys*. It is known that bones form in development by two different mechanisms: 1) endochondral ossification (bone replaces cartilage) and 2) intramembranous ossification (bone forms directly from mesenchyme). The bones in the limbs of tetrapods are formed by endochondral ossification, while the bones in the skull and pectoral girdle (clavicle and most of the scapula) are formed by intramembranous ossification, demonstrating their former combined origin in lobe-finned fish. 
+
+{{< figure src="limbs_in_fish.png" title="Homology between the pectoral fin bones of lobe-finned fish (*Eusthenopteron*), elpistostegalian fish (*Panderichthys*, *Tiktaalik*, *Elpistostege*), and tetrapods (*Acanthostega*). Unossified carpals or scutes are omitted. Source: [here](https://commons.wikimedia.org/wiki/File:Fins_to_hands.png#/media/File:Fins_to_hands.png)" >}}
+
+### Limbs in vertebrates and mammals
+
+When we zoom into the vertebrate clade, we see similarity increase further. All vertebrate animals share the same structures in their arms (humerus, radius, ulna, carpals, metacarpals, phalanges).
 
 {{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
 
-{{< figure src="arm_anatomy_mammals.png" title="The similarities get even closer in mammals, with all sharing the same number and arrangement of the bones, but in variable lengths. Note: the colour code applies to the left set of images; the others are from a different source." >}}
+Within mammals, the similarities are further still, with all mammals sharing the same number and arrangement of the bones, but in variable lengths.
+
+{{< figure src="arm_anatomy_mammals.png" title="Mammal limb and digit homology. Note: the colour coding applies to the left set of images; the others are from a different source." >}}
 
 ### The eye in vertebrates
 
