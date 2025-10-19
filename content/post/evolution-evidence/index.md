@@ -58,7 +58,19 @@ Although microevolution is useful for conceptualising how Darwinian evolution wo
 
 ### The argument
 
-*If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
+Part of Darwin's main thesis was that evolution must be true unless *something* is stopping it: 
+
+1. If there is variation in organic beings, and if there is a severe struggle for life, then there must be some variations that are useful to surviving that struggle.
+2. There is variation in organic beings.
+3. There is a severe struggle for life.
+4. Therefore, there must be some variations that are useful to surviving that struggle (from 1, 2 and 3).
+5. If some variations are useful to surviving the struggle, and if there is a strong principle of inheritance, then useful variations will be preserved.
+6. There is a strong principle of inheritance (i.e. offspring are likely to resemble their parents)
+7. Therefore, useful variations will be preserved (from 4, 5 and 6).
+
+Given that none of the three premises (2, 3 and 6) can be questioned by a sane person, a disbelief in evolution is essentially a belief in an anti-evolutionary "force", in the sense that something is actively opposing evolution. There is no reason to believe in such a thing, so even in the total absence of any evidence for evolution, it suggests that evolution is indeed happening.
+
+Of course in reality, there is ample observable evidence for evolution. *If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
 
 Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
@@ -772,15 +784,19 @@ Most of the world's forests died off in the event, with pollen analysis finding 
 
 Sources: ([Goderis *et al.*, 2021](https://www.science.org/doi/10.1126/sciadv.abe3647)) and ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))(iridium layer) and [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs) (survival of birds).
 
-### Radiometric Dating with Uranium series
+### Radiometric dating and its verification
 
-Coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277379105001654)
+#### Uniformity of decay rate parameters
 
-### Mount St Helens dating, using isochron dating
+The laws of physics are observed to be uniform across space and time, and radioactive decay rates depend only on fundamental physics (gauge theory: nuclear forces and quantum field theory). The mechanisms of decay are sufficiently well understood (e.g. [Gamow theory](https://arxiv.org/pdf/2112.09578) of alpha decay, and [Fermi](https://en.wikipedia.org/wiki/Fermi%27s_interaction) / [Gamow-Teller](https://en.wikipedia.org/wiki/Beta_decay_transition#Gamow%E2%80%93Teller_transition) theories of beta decay) that we can understand (and test) in exactly what conditions would be necessary to perturb decay rates.
 
+Studies such as ([Emery, 1972](https://www.annualreviews.org/content/journals/10.1146/annurev.ns.22.120172.001121)) investigated a wide variety of radioisotopes and stimuli (temperature, pressure, EM fields...) and showed that decay rates are immutable except for extremely minor changes and/or highly unnatural conditions due to well-understood physical mechanisms (e.g. electron capture cannot occur for fully ionised atoms since there are no electrons to capture). ([Pommé *et al.*, 2018](https://www.sciencedirect.com/science/article/pii/S0969804317303822)) and ([Kossert & Nähle, 2014](https://www.sciencedirect.com/science/article/abs/pii/S0927650514000139)) also found no dependence on decay rates by neutrino flux or solar output. Without any evidence for the catastrophic conditions necessary to perturb decay rates, we can be confident that decay rates have remained constant over geologic time, enabling reliable radiometric dating.
 
+#### Radiometric Dating with Uranium series
 
-### Validation of radiometric dating
+With coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277379105001654)
+
+#### Mount St Helens dating, using isochron dating
 
 #### Argon dating of Mount Vesuvius
 
