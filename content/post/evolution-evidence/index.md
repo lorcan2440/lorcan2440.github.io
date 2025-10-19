@@ -406,13 +406,17 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ## 3. MOLECULAR BIOLOGY
 
-### rRNA phylogenetics
+### rRNA phylogenetics of archaea and eukaryotes
 
 For the earliest stages in evolution (unicellular organisms), fossils are scarce, and genomes have mutated beyond recognition in many places, so we must look more carefully. The ribosome is a key piece of cellular machinery that translates RNA into proteins, whose functionality is so tightly constrained that it can be used to measure relatedness across the whole tree of life.
 
 A surprising result of this analysis is according to ribosome similarities, all eukaryotes descend within archaea. This strongly supports the hypothesis of endosymbiosis, where an ancient archaea cell and an ancient bacteria cell merged to become a eukaryotic cell, with the archaea providing the genes that went into the nucleus.
 
-{{< figure src="rRNA-phylogeny.png" title=" Source: Hug *et al.*, 2016." >}}
+{{< figure src="rRNA-phylogeny.png" title="Eukaryotes nest within archaea, according to genomics. Source: Hug *et al.*, 2016." >}}
+
+Genomics finds that the most likely matches are from the Asgard clade (discovered in 2012) for the host archaeon, and the phylum *Alphaproteobacteria* for the endosymbiont. Candidate Asgard clades include *Heimdallarchaeota* (2019), *Wukongarchaeota* (2021) and *Njordarchaeota* (2022). In ([Brehmer *et al.*, 2022](https://academic.oup.com/gbe/article/14/6/evac079/6596370)), it is shown by genomic analysis that mitochondria predates the origin of phagocytosis, so potential endosymbionts may not have been at risk of digestion. In ([Imachi *et al.*, 2020](https://www.nature.com/articles/s41586-019-1916-6)), the genome of an Asgardian archaea was found to contain large numbers of homologs for 'eukaryotic signature proteins' (actins, actin-binding proteins, tubulin, small GTPases, domains for membrane-trafficking proteins), and the morphology of this isolated archaeon had long branched protrusions with no intracellular membranes, similar to the 'inside-out model' outlined below.
+
+{{< figure src="endosymbiosis_model.png" title="**Inside-Out Model / Entangle-Engulf-Endogenise Model** ([Baum & Baum, 2014](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0076-2)): explains the origin of the nucleus, mitochondria and the endoplasmic reticulum. **A:** an archaeon (eocyte) and a bacterium living separately. **B:** protrusions (‘blebs’) extended to increase proximity with the bacteria. **C, D:** increasing entanglement. **E:** fusion of internal and external membranes. **F:** fully endogenous with offshoots of internal membranes." >}}
 
 ### Antibiotic resistance
 
