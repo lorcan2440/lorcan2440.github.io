@@ -290,7 +290,7 @@ When the genomes were sequenced, it was found that human chromosome 2 indeed sat
 
 When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times ([Poszewiecka *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9413910/)).
 
-Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs, and fusions are known in humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/), with a degraded second centromere and homologous banding.
+Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs. Fusions are known in extant humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/), with a degraded second centromere and homologous banding. The 'hardest part' may be getting the fusion to spread (by genetic drift) to fixation in the population rather than the fusion event itself.
 
 Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibbon) and [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (Dr Dan).
 
@@ -648,6 +648,7 @@ Many non-human primates display a clear 'theory of mind' (the understanding that
 - perform worse at easier tasks and better at harder tasks when being watched by people than when alone, as if they were feeling the pressure/anxiety to perform in front of an audience (reputation management) ([Lin, Muramatsu & Yamamoto, 2024](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7))
 - dance for fun and to attract males ([Coy, Caspar & Patel-Grosz, 2025](https://pubmed.ncbi.nlm.nih.gov/39365409/))
 - point at things to tell group mates who haven't seen something before, demonstrating theory of mind ([Townrow & Krupenye, 2025](https://www.pnas.org/doi/10.1073/pnas.2412450122))
+- have 'circles of friends' with social grooming ([van Leeuwen *et al.*, 2025](https://linkinghub.elsevier.com/retrieve/pii/S2589004225017687))
 
 Primates also have complex language capabilities:
 
@@ -780,15 +781,23 @@ Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](h
 
 Fossils of dinosaurs stop appearing just above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
 
-The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The 200-km-wide Chicxulub crater off the coast of the Yucatán Peninsula in Mexico was discovered by Alvarez and son in the 1970s. The feature was confirmed as an asteroid impact crater by gravity and magnetic anomaly surveys, and findings of shocked quartz and tektite glasses. In 1980, a worldwide thin layer of iridium-rich clay (160 times more iridium than usual) was found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids. The isotopic ratios of other transition metals found in the layer such as osmium, ruthenium and chromium also closely match those found on asteroids and not elsewhere in the crust. Two independent studies using argon-argon dating have obtained dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
+The most widely supported explanation for the cause of the extinction is the **impact hypothesis**. The long line of evidence for this hypothesis includes:
+
+- **200 km wide Chicxulub crater** discovered by [Alvarez and son](https://en.wikipedia.org/wiki/Alvarez_hypothesis) in the 1970s, off the coast of the Yucatán Peninsula in Mexico. 
+- **Granite** found at the crater's seafloor peak ring, which is usually only found deeper under oceanic crust, indicating uplift due to the impact
+- **Gravity and magnetic anomaly** surveys confirmed the feature as an asteroid impact crater
+- **Impactite rocks** (e.g. shocked quartz, suevite and tektite glasses) found at the site ([DePalma *et al.*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6486721/))
+- Worldwide thin (~1 cm) layer of **iridium-rich clay** (160 times the usual concentration) found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids (iridium is siderophilic; it naturally alloys with iron and sinks into the Earth's core) ([Goderis *et al.*, 2021](https://www.science.org/doi/10.1126/sciadv.abe3647))
+- **Isotopic ratios** of other transition metals found in the layer such as osmium, ruthenium and chromium also closely match those found on asteroids and not elsewhere in the crust ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))
+- Two independent studies using **argon-argon dating** have obtained precise dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
 
 Another hypothesis is the volcanic eruption of the Deccan Traps in India, which would have caused sudden climate change due to release of sulfur dioxide aerosols, suddenly dropping the temperature. However, most recent studies conclude that this was either merely a secondary factor, or that it was not a factor at all in the extinction.
 
-Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds. A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself.
-
-Sources: ([Goderis *et al.*, 2021](https://www.science.org/doi/10.1126/sciadv.abe3647)) and ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))(iridium layer) and [here](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs) (survival of birds).
+Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds ([Waters, 2018](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs)). A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself. The **fungal infection mammalian selection (FIMS) hypothesis** suggests that the subsequent rise of mammals was due to their greater resistance to fungal infections compared to reptiles (which require sunlight exposure) as cloud cover increased and pollen/fungal spores spread in the aftermath of the impact ([Casadevall & Damman, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7365386/)).
 
 ### Radiometric dating and its verification
+
+Radiometric dating 
 
 #### Uniformity of decay rate parameters
 
@@ -1078,6 +1087,10 @@ Source: ([Hillis *et al.*, 1991](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/bi
 
 Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
+### Information theoretic model of genetic diversity
+
+Chapter 19 of *Information Theory, Inference, and Learning Algorithms* by David MacKay: "Why have Sex? Information Acquisition and Evolution": [here](https://www.inference.org.uk/itprnn/book.pdf#page=281)
+
 ### Statistical tests of common ancestry
 
 ([Baum *et al.*, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)) gives a rigorous and comprehensive statistical analysis of common ancestry applied to the primates. This paper is discussed [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post).
@@ -1113,13 +1126,11 @@ For a tree containing genuine phylogenetic information, the PTP test will return
 2. Family-level separate ancestry (FSA), where each family comprises a different tree. Randomly sample one member from each family and run the test on this data. 
 3. Species-level separate ancestry (SSA), where each species is a whole 'tree' (single branch)
 
-For **1** (CA), the distribution was approximately normal and the test statistic was a minimum tree length of 10125. This is -71.8 standard deviations away from the mean of the distribution, which was 13422.3. This corresponds to $ p \approx 10^{-2581} $ (infinitesimally small). This is an overwhelming acceptance of common ancestry among primates.
+For **1** (CA), the distribution was approximately normal and the test statistic was a minimum tree length of 10125. This is -71.8 standard deviations away from the mean of the distribution, which was 13422.3. This corresponds to $ p \approx 10^{-2581} $ (infinitesimally small). This is an **overwhelming acceptance of common ancestry** among primates.
 
-For **2** (FSA, commonly proposed by creationists)...
+For **2** (FSA, commonly proposed by creationists), the random distribution would have trees with correlated structures, at their starts, since they would be part of the distribution that had the most parsimonious trees. Assuming that a set of characters were not derived as a result of being in relation to another family does not mean that some family trees would not have a set of characters correlated or derived from some other means other than being related to another family tree. The actual data set of each actual known family fell way outside the generated distribution, so **FSA is falsified**.
 
-The random distribution in the FSA would have or did have trees with correlated structures, at their starts, since they would be part of the distribution that had the most parsimonious trees. Assuming that a set of characters were not derived as a result of being in relation to another family does not mean that some family trees would not have a set of characters correlated or derived from some other means other than being related to another family tree. And the actual data set of each actual known family fell way outside the generated distribution and thus FSA fails.
-
-The efficiency of MCMC in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work.
+The efficiency of MCMC in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work. This parallel is exploited in the [success of evolutionary algorithms](#13-applications-of-evolution) in computer science.
 
 ---
 
@@ -1291,7 +1302,7 @@ A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an o
 
 The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen where *intra-host* competition is maximised and *inter-host* competition is absent.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up, breaking the stagnation in progress.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge, working for Cancer Research UK) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up to break the stagnation.
 
 Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be/have been augmented with evolutionary principles to yield improved prognoses include:
 
@@ -1314,6 +1325,8 @@ More info:
 In oil and gas, predictions mean profits, and errors mean tremendous financial losses! The success of this industry (at the expense of the climate, unfortunately...) would not be possible without the validity of the underlying theory.
 
 There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, operates incurring annual losses of several tens of millions of USD and are practically bankrupt as of 2025, staying afloat only by selling shares to gullible investors. Sources: [here](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and [here](https://finance.yahoo.com/quote/ZNOG/).
+
+### Mining Exploration
 
 Radiometric dating has also been used by mining companies. For example, in 2021, Hannan Metals used U-Pb dating of zircons to expand a Miocene-epoch deposit of gold and copper in Peru. Source: [here](https://hannanmetals.com/news/2021/hannan-radiometric-dating-confirms-miocene-porphyry-belt-at-the-previsto-copper-gold-project-peru/).
 
@@ -1438,6 +1451,12 @@ There is also a group of intelligent design (ID) proponents working at the Disco
 - Michael Behe: selectively deleted parts of a data table showing the effect of mutations in a population of polar bears to falsely claim that neutral (benign) mutations are far rarer than they actually are.
   
 - Jonathan McLatchie: taught at a Bible college (Sattler college), graduated with a PhD dissertation that is unavailable online ([here](https://libsearch.ncl.ac.uk/discovery/fulldisplay?docid=alma9912708129402411&context=L&vid=44NEW_INST:NEWUI&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Mclatchie&offset=0), extremely unusual, potentially indicative of poor quality) and pretends to be a scientist without having done any legitimate work (his only published paper is in the DI's in-house journal 'Bio-Complexity'). He was exposed as incompetent in an exchange with PZ Meyers ([here](https://www.youtube.com/watch?v=omKP_AkdhsQ)), and ragequit a 'Christianity vs atheism' debate against Matt Dilahunty ([here](https://www.youtube.com/live/a-wIaCRIdOA?si=sLJ1hLMGohsu-nX8&t=4700)).
+
+### Philosophy of Science
+
+- Science rejection is linked to unjustified overconfidence in knowledge ([Fonseca *et al.*, 2023](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001915))
+- Science rejection is correlated with religious intolerance ([Ding, Johar & Morris, 2024](https://academic.oup.com/pnasnexus/article/3/4/pgae144/7656014))
+- Evolution rejection is correlated with not understanding how science operates ([Lombrozo, Thanukos & Weisberg, 2008](https://link.springer.com/article/10.1007/s12052-008-0061-8))
 
 ### Some Relevant Quotes
 
