@@ -226,7 +226,7 @@ Cancers are clonal populations of cells that can be considered as a 'breakaway p
 - [HeLa cell line](https://en.wikipedia.org/wiki/HeLa): immortal cells derived from cervical cancer cells taken from Henrietta Lacks in 1951. The cells are highly aneuploid with 82 abnormal chromosomes. The cells are transmissible between humans via tissue grafts, and are parasitic.
 - [HEK-293 (human embryonic kidney) cell line](https://en.wikipedia.org/wiki/HEK_293_cells): another immortalised cell line commonly used as a eukaryotic target for gene transfection in labs.
 
-This type of breakaway transition has been hypothesised as the distant origin of some evolutionary lineages, such as the single-celled [*Myxosporea*](https://en.wikipedia.org/wiki/Myxosporea) class of cnidarians (jellyfish). This has been referred to as the 'SCANDAL' hypothesis (speciation by cancer development in animals: ([Panchin, Aleochin & Panchin, 2019](https://pubmed.ncbi.nlm.nih.gov/30674330/))), although this idea remains speculative.
+This type of breakaway transition has been hypothesised as the distant origin of some evolutionary lineages, such as the single-celled [*Myxosporea*](https://en.wikipedia.org/wiki/Myxosporea) class of cnidarians (jellyfish). This has been referred to as the 'SCANDAL' hypothesis (speciation by cancer development in animals: ([Panchin, Aleochin & Panchin, 2019](https://pubmed.ncbi.nlm.nih.gov/30674330/))), although this idea remains controversial.
 
 ### Additional examples
 
