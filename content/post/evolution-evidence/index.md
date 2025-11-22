@@ -58,17 +58,25 @@ Although microevolution is useful for conceptualising how Darwinian evolution wo
 
 ### The argument
 
-Part of Darwin's main thesis was that evolution must be true unless *something* is stopping it: 
+Darwin's theory of evolution was conceived as the logical conclusion from a series of observations he made during his voyage on the *HMS Beagle* in the 1830s-50s:
 
-1. If there is variation in organic beings, and if there is a severe struggle for life, then there must be some variations that are useful to surviving that struggle.
-2. There is variation in organic beings.
-3. There is a severe struggle for life.
-4. Therefore, there must be some variations that are useful to surviving that struggle (from 1, 2 and 3).
-5. If some variations are useful to surviving the struggle, and if there is a strong principle of inheritance, then useful variations will be preserved.
-6. There is a strong principle of inheritance (i.e. offspring are likely to resemble their parents)
-7. Therefore, useful variations will be preserved (from 4, 5 and 6).
+1. Organisms are well suited (adapted) for their environment.
+2. Life shares many characteristics (traits) despite rich variation in form and function.
+3. Populations can only expand to sizes sustainable by the available resources.
+4. Populations are naturally generally stable in size (resources are the limiting factor).
+5. Variation between individuals affects access to resources, influencing their reproduction rates.
+6. Variation is heritable from parent to offspring.
+7. The environment (and therefore what is beneficial to organisms) is constantly changing.
 
-Given that none of the three premises (2, 3 and 6) can be questioned by a sane person, a disbelief in evolution is essentially a belief in an anti-evolutionary "force", in the sense that something is actively opposing evolution. There is no reason to believe in such a thing, so even in the total absence of any evidence for evolution, it suggests that evolution is indeed happening.
+Part of Darwin's main thesis was that evolution must be true unless *something* is stopping it:
+
+1. There is variation in organic beings.
+2. There is a severe struggle for life.
+3. Therefore, there must be some variations that are useful to surviving that struggle (from 1 and 2).
+4. There is a strong principle of inheritance (i.e. offspring are likely to resemble their parents).
+5. If some variations are useful to surviving the struggle, and if there is a strong principle of inheritance, then useful variations will be preserved (from 3 and 4).
+
+This is the basis for evolution by natural selection (Darwinian evolution). Given that none of the three premises (1, 2 and 4) can be questioned by a sane person, a disbelief in evolution is essentially a pro-active belief in an anti-evolutionary "force", in the sense that something is actively opposing evolution. Since there is no evidence to believe in such a force, even in the total absence of any evidence for evolution, it suggests that evolution is indeed happening.
 
 Of course in reality, there is ample observable evidence for evolution. *If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
 
