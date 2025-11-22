@@ -41,7 +41,7 @@ A small number of the cited papers are available [here](https://drive.google.com
 12.  [**Physics and Chemistry**](#12-physics-and-chemistry)
 13.  [**Applications of Evolution**](#13-applications-of-evolution)
 
-X. [**Miscellaneous**](#x-miscellaneous)
+X. [**Evolution Debate**](#x-evolution-debate)
 
 ---
 
@@ -432,7 +432,7 @@ The first herbicides, [2,4-D (2,4-dichlorophenoxyacetic acid)](https://en.wikipe
 
 Other herbicides like glyphosate target all plants regardless, as they inhibit the more fundamental [Shikimate pathway](https://en.wikipedia.org/wiki/Shikimate_pathway) of amino acid synthesis, found in all plants but not in animals. Researchers extracted *Salmonella* bacteria living in sludge near the glyphosate factories and found them to be resistant due to a mutant [EPSP synthase enzyme](https://en.wikipedia.org/wiki/EPSP_synthase), and used genetic modification to produce GM seeds confering resistance. Many species of weed have since evolved resistance to glyphosate due to its overuse, with the first occuring as quickly as the GM seeds were invented ([Heap & Duke, 2018](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.4760)), and around 60 species resistant as of 2024. This has contributed to the switch in herbicides back to 2,4-D.
 
-(While there is [significant controversy](https://www.youtube.com/watch?v=CxVXvFOPIyQ) surrounding herbicides such as Monsanto's extremely unethical business practices and industry-funded carcinogenicity studies, this has no bearing on the underlying biology!)
+(While there is [significant controversy](https://www.youtube.com/watch?v=CxVXvFOPIyQ) surrounding herbicides such as Monsanto's extremely unethical business practices, industry-funded carcinogenicity studies and the use of Agent Orange, this has no bearing on the underlying biological facts!)
 
 ### Nylon metabolism in bacteria
 
@@ -506,8 +506,6 @@ Ancestral horses (*Eohippus*) originally had toes and lived in more forested are
 Over tens of millions of years the smallest digit of the four-toed foot of *Hyracotherium* becomes drastically reduced leaving its descendants with three toes, and the two lateral toes recede further leaving one big toe with a hoof at the end.
 
 While *Eohippus* and *Hyracotherium* had four-toed feet, they could still run on dry grasslands. Horses evolved to become specialised for high bursts of speed and being able to trot or canter for long periods of time in this environment. The evolutionary cost however is that horses are less agile - but life on grasslands doesn't require much agility since there aren't many obstacles to manoeuvre around to escape predators.
-
-Modern horses have gone through extensive artificial selection, with pre-domestication horses being slightly smaller. Wild horses are endangered today. Artificial selection has a tendency to evolve animals into extremes that would not be good strategies in nature, due to the difference in selection objectives.
 
 Sources: [here](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [here](https://www.floridamuseum.ufl.edu/fossil-horses/gallery/) (Florida Museum), and [here](https://en.wikipedia.org/wiki/Limbs_of_the_horse) (limbs of the horse)
 
@@ -787,8 +785,9 @@ The most widely supported explanation for the cause of the extinction is the **i
 - **Granite** found at the crater's seafloor peak ring, which is usually only found deeper under oceanic crust, indicating uplift due to the impact
 - **Gravity and magnetic anomaly** surveys confirmed the feature as an asteroid impact crater
 - **Impactite rocks** (e.g. shocked quartz, suevite and tektite glasses) found at the site ([DePalma *et al.*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6486721/))
+- Fossil evidence of **mass extinction** of many species found in North Dakota at the K-Pg boundary, including fish filled with debris from the impact. Analysis of the fish bones shows the impact event occurred around springtime. ([DePalma *et al.*, 2019](https://www.pnas.org/doi/10.1073/pnas.1817407116))
 - Worldwide thin (~1 cm) layer of **iridium-rich clay** (160 times the usual concentration) found at the K-Pg boundary, indicating an extraterrestrial origin, since iridium is only found at high levels in asteroids (iridium is siderophilic; it naturally alloys with iron and sinks into the Earth's core) ([Goderis *et al.*, 2021](https://www.science.org/doi/10.1126/sciadv.abe3647))
-- **Isotopic ratios** of other transition metals found in the layer such as osmium, ruthenium and chromium also closely match those found on asteroids and not elsewhere in the crust ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))
+- **Isotopic ratios** of other transition metals found in the layer such as osmium, ruthenium and chromium closely match those found on carbonaceous chondrites (asteroids from the outer solar system) and not elsewhere in the crust ([Fischer-Gödde *et al.*, 2024](https://www.science.org/doi/10.1126/science.adk4868))
 - Two independent studies using **argon-argon dating** have obtained precise dates for the impact event of 66,043,000 ± 11,000 years ago and 66,051,000 ± 31,000 years ago, which are consistent with each other and the date of the K-Pg boundary itself.
 
 Another hypothesis is the volcanic eruption of the Deccan Traps in India, which would have caused sudden climate change due to release of sulfur dioxide aerosols, suddenly dropping the temperature. However, most recent studies conclude that this was either merely a secondary factor, or that it was not a factor at all in the extinction.
@@ -1264,19 +1263,34 @@ We can develop entirely new enzymes using 'directed evolution' of proteins with 
 
 **Genetically engineered bacteria**: *E. coli* can be engineered to produce new useful products, such as carotenoids. They can also produce bioplastics, which are biodegradable, although issues of scale-up and durability remain. ([Schmidt-Dannert, Umeno & Arnold, 2000](https://www.nature.com/articles/nbt0700_750)).
 
-**Bioremediation**: engineering of bacteria extends to waste degradation in an effort to combat environmental pollution, such as of [plastics like PET](https://biology.mit.edu/directing-evolution-in-search-of-a-better-plastic-degrading-enzyme/).
+**Bioremediation**: engineering of bacteria extends to waste degradation in an effort to combat environmental pollution.
+
+Bacteria have been observed to have evolved enzymes to degrade man-made PET (polyethylene terephthalate) plastics ([Alam *et al.*, 2025](https://academic.oup.com/ismej/article/19/1/wraf121/8159680), news article [here](https://www.sciencedaily.com/releases/2025/11/251104013023.htm)), both by selection in the environment of a Japanese recycling plant and in the oceans due to plastic pollution. The PET hydrolase enzymes identified carried the 'M5 motif' in their tertiary structure, which is a modification of the 'DLH domain' (a generic α/β-hydrolase fold found in many hydrolase enzymes) including a stabilising internal disulfide bridge. PETases have been explored for bioremediation purposes (source: [here](https://biology.mit.edu/directing-evolution-in-search-of-a-better-plastic-degrading-enzyme/)).
 
 PFAS (per- and poly-fluorinated alkyl substances) are a now-infamous group of environmental pollutants commonly known as 'forever chemicals': organic molecules whose structures render them practically inert to biological and chemical attack. The carbon-fluorine bond is rare in biochemistry, with only a few [dehalogenase](https://en.wikipedia.org/wiki/Dehalogenase) enzymes known in [organohalide-respiring bacteria](https://en.wikipedia.org/wiki/Halorespiration). ([Yang & Liu, 2025](https://pubmed.ncbi.nlm.nih.gov/40323512/)) reviews the very recent literature exploring the new possibility for bioremediation of PFAS in the environment. In ([Jaffé *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/38658084/)) and ([Huang *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/39531816/)), it is found that *Acidimicrobium* sp. strain A6 is capable of degrading PFOA, PFOS, and PFHxS using its *rdhA* gene. Another study, ([Wijayahena *et al.*, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0048969724085061)), finds similar results for PFOS and some others by *Labrys portucalensis F11*. Unlike nylon, it is improbable that nature alone would evolve an enzyme to metabolise PFAS due to the recency, chemical dissimilarity and lack of environmental pressure, so technological innovations are needed. [It is hoped that](https://www.aspidia.com/post/bioremediation-of-pfas-a-scientific-reality-not-a-utopian-dream) bioengineering techniques such as genetic engineering and directed evolution could help improve the rate and efficiency of PFAS degradation. While other solutions involving PFAS-absorbing probiotics ([Lindell *et al.*, 2025](https://www.nature.com/articles/s41564-025-02032-5)) have been proposed, environmental cleanup remains a challenge.
 
-### Animal Model Selection
+### Animal Model Selection in Translational Medicine
 
-The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals. For neurological studies, primates are sometimes used, as their brain structure is closer to ours, although animal welfare laws and ethics regulations mean these studies are only done for behavioural studies and occasionally for neurosurgery (e.g. neural prosthetic implants).
+The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals.
 
-Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
+For neurological studies, primates are sometimes used, as their brain structure is closer to ours. Improved animal welfare laws mean that primate studies are now rare (they are only done for behavioural studies and occasionally for neurosurgery, e.g. neural prosthetic implants), and some countries (e.g. the UK) are phasing out animal studies entirely, replacing them with modern biotechnologies such as organ-on-a-chip and 3D bioprinted tissues. However, as of 2025, animal studies remain highly important to modern medicine. Without evolution, we'd be stabbing in the dark as to whether a particular animal would serve as a good model for our *in vivo* testing, which would mean significantly fewer successful drugs and therapies passing the animal testing phase.
 
-Importantly, medicine is complicated, and evolution is not the only factor in determining suitability. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, telomeres are longer than in humans due to stronger telomerase activity, which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk. ([Gorbunova & Seluanov, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/)).
+Importantly, medicine is complicated, and evolution is not the only factor in determining the translatability of animal model results to humans. To decide whether "X happens in animals ⇒ X happens in humans", we must check:
 
-Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closed relatedness. Chimps carry viruses that are deadly to humans and are prohibitively impractical and unethical to keep in captivity for organ donation. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not. Chimps in general are rarely useful models for humans despite their genetic similarity, due to a variety of specific differences. Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed. ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)).
+1. Is the causal mechanism evolutionarily conserved?
+2. Is the regulatory network conserved, not just the components?
+3. Are physiological differences (size, metabolism, lifespan) irrelevant to the mechanism?
+4. Does the animal model have construct validity (shared mechanism), not just surface similarity?
+
+Only if all four conditions are met can you reasonably extrapolate animal model results to humans. In some diseases where there are relevant genotypic differences, mouse models are *not* effective representatives of humans, most notably cancer. Most cancer treatments animal-tested in mice fail in humans (more so than other drugs). In mice, telomeres are longer than in humans due to stronger telomerase activity, which reduces the contribution of cellular senescence to age-related cancers, making them less relevant for human studies. Telomerase repression is an evolutionary control measure for high body-mass mammals that compensates between longevity and cancer risk ([Gorbunova & Seluanov, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3733351/)).
+
+Another example is the fact that heart xenotransplants predominantly use pigs as donors rather than chimpanzees, despite the latter's closer relatedness, for three major reasons:
+
+1. Chimps carry viruses that are deadly to humans, e.g. SIV.
+2. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not.
+3. Chimps are prohibitively impractical and unethical to keep in captivity for organ donation.
+
+Chimps in general are rarely useful models for humans despite their high genetic similarity, due to a variety of epigenetic differences ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)). Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed ([Wang *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8961469/)).
 
 ### Protein Folding Prediction
 
@@ -1288,9 +1302,9 @@ It's hard to understate how revolutionary solving protein folding has been: it's
 
 Influenza has been around since antiquity, but the most famous outbreak was the Spanish Flu pandemic (1918-1919, 1/3 world infected, 50 million deaths). Influenza A has 8 segments of ssRNA in their capsid, with two glycoproteins (envelope spike proteins): neuraminidase (N) and hemagglutinin (H). There are several isotypes of the H and N proteins, denoted H1, H2…, N1, N2… . Only H1-3 and N1-2 are human transmissible (at present!). The swine flu epidemic of 2009 was due to *reassortment* (genetic mixing) of the H1N1 bird flu, the H1N1 swine flu and the H3N2 seasonal human flu. The virus' *fitness* is a balance of H and N expression, as too much of either will limit the lifetime of the virus. Anti-influenza drugs (e.g. Tamiflu) inhibit N activity, but must be taken early after infection.
 
-Due to **antigenic drift** (spike protein point mutations allowing evasion of antibodies), flu is a *seasonal virus*. The DNA polymerase within influenza A is error-prone (lacks proofreading) and therefore mutates rapidly, maintaining its virulence by the high viral loads. Influenza usually has a low mortality rate, and most of its deaths are due to secondary bacterial infections (e.g. pneumonia) which occur when the lung tissue is compromised. If two different influenza virus subtypes infect the same cell at the same time, their individual ssRNA segments may form a 'hybrid' virus during capsid assembly (**antigenic shift**), which is how influenza can jump between species.
+Due to [**antigenic drift**](https://en.wikipedia.org/wiki/Antigenic_drift) (spike protein point mutations allowing evasion of antibodies), flu is a *seasonal virus*. The DNA polymerase within influenza A is error-prone (lacks proofreading) and therefore mutates rapidly, maintaining its virulence by the high viral loads. Influenza usually has a low mortality rate, and most of its deaths are due to secondary bacterial infections (e.g. pneumonia) which occur when the lung tissue is compromised. If two different influenza virus subtypes infect the same cell at the same time, their individual ssRNA segments may form a 'hybrid' virus during capsid assembly ([**antigenic shift**](https://en.wikipedia.org/wiki/Antigenic_shift)), which is how influenza can jump between species.
 
-The PB1 protein in influenza A steals the protective 5' caps from host nuclear mRNAs and uses them on its own RNA, both increasing its virulence and dampening the host's self-protein synthesis and immune response. An alternate reading frame intrinsically disordered protein, PB1-F2, also contributes to virulence by inducing apoptosis in infected cells. A single point mutation, Asn66Ser, in PB1-F2 is associated with signfiicantly stronger pathogenicity and a more aggressive influenza infection.
+The PB1 protein in influenza A steals the protective 5' caps from host nuclear mRNAs and uses them on its own RNA, both increasing its virulence and dampening the host's self-protein synthesis and immune response. An alternate reading frame [intrinsically disordered protein](https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins), PB1-F2, also contributes to virulence by inducing apoptosis in infected cells. A single point mutation, Asn66Ser, in PB1-F2 is associated with signfiicantly stronger pathogenicity and a more aggressive influenza infection.
 
 A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an ongoing pandemic of H5N1, due to reassortments from a variety of flu strains increasing virulence among domestic poultry, and the virus is primarily responsible for the US chicken egg shortage in 2025. There have been a small number of human cases, though human-human transmission has not been observed as of 2025. The neuraminidase spike protein has been mutating over time, with longer alpha-helix stalk structure associated with increased transmissibility across mammalian species, and the rapid mutation rate of the H5N1 spike proteins make vaccine development challenging. A potential **universal vaccine** approach instead targets the nucleoproteins inside the capsid e.g. PB1, which are less tolerant to mutations, and can be recognised in infected cell MHC class I molecules by T cells. Universal bird flu vaccines are currently under development in case of a future human-transmissible bird flu pandemic.
 
@@ -1347,16 +1361,29 @@ Evolutionary algorithms applied to various engineering problems include:
 - [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5, and using COMSOL [here](https://www.comsol.com/blogs/optimizing-the-geometry-of-optical-antennas-with-genetic-algorithms)
 - FPGA circuit design ([Ashraf *et al.*, 2012](https://www.osti.gov/servlets/purl/1118155)).
 
-### Artificial Selection and Genetic Engineering
+### Artificial Selection, Domestication and Genetic Engineering
 
 Artificial selection is nothing more than natural selection but with humans deciding what is 'most fit', widely used in agriculture and animal husbandry. We can guide the evolutionary process towards exhibiting desired traits using selective breeding.
+
+#### Fruits and Vegetables
 
 {{< figure src="vegetables.png" title="Plants like the wild mustard (*Rhamphospermum arvense*) and wild cabbage (*Brassica oleracea*) have been selectively bred in different ways to produce a variety of modern crops. Despite the variability in form, all are within the same species and descended from the same plant." >}}
 
 {{< figure src="fruits_and_veg_2.png" title="All of modern fruit and vegetable produce is a result of selective breeding: man-made fruits and vegetables don't exist in the wild. We have bred plants for about 10,000 years, making them bigger, sweeter, less bitter, less toxic (less cyanide in seeds), seedless, etc. Wild fruits are smaller, not sweet, hard or inedible and full of seeds." >}}
 
-- Domestication of dogs and cats
-- Domestication of livestock
+#### Animals
+
+Artificial selection has a tendency to evolve animals into phenotypic extremes that would not be good strategies in nature, due to the difference in selection objectives. This is the case for many dog breeds, horses and cattle.
+
+- Cats
+- Dogs
+- Livestock (cows, sheep, pigs, chickens)
+- [**Pigeons**](https://en.wikipedia.org/wiki/Domestic_pigeon): originally domesticated from the rock dove (*Columba livia*), but became suited to urban city environments as building roofs mimick their natural cliff-edge nesting habitats.
+- Horses: pre-domestication horses were slightly smaller, and these wild horses are endangered today.
+- **Raccoons**: urban raccoons have smaller snouts compared to their rural raccoons, a similar trait observed in domesticated foxes. Source: [here](https://www.discovermagazine.com/is-trash-evolving-raccoons-into-the-next-household-pet-48257) (article) and [here](https://link.springer.com/article/10.1186/s12983-025-00583-1) (paper).
+
+#### Genetic Engineering and Gene Editing
+
 - Gene drive for mosquitoes to eliminate malaria
 
 ### Universal Darwinism
@@ -1369,9 +1396,9 @@ Richard Dawkins extends evolution to the development of cultures, a concept call
 
 ---
 
-## X. MISCELLANEOUS
+## X. EVOLUTION DEBATE
 
-These are not necessarily evidence for evolution, but are tangentially related and generally support the theory.
+This section shifts from defending evolution to attacking its critics. These are not necessarily evidence for evolution, but are tangentially related and generally support the theory: useful to know as citations and rhetorical points in debates.
 
 ### Scientific Consensus
 
@@ -1382,15 +1409,15 @@ According to Pew Research Center, as of 2019, 98\% of scientists accept evolutio
 The status of a scientific theory is completely independent of the general public's level of support for it. For example, among the American public (sources: [here](https://www.theatlantic.com/technology/archive/2014/04/a-majority-of-americans-question-the-science-of-the-big-bang/360976/), [here](https://www.forbes.com/sites/trevornace/2018/04/04/only-two-thirds-of-american-millennials-believe-the-earth-is-round/) and [here](https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx))
 
 - 94\% believe smoking causes cancer
-- 84\% of Americans who believe the Earth is round
-- 83\% believe vaccines are safe and effective (in 2014; may be lower now!)
+- 84\% (of Americans) believe the Earth is round
+- 83\% believe vaccines are safe and effective (in 2014)
 - 60\% believe the Earth is about 4.5 billion years old
-- 58\% believe in evolution (naturalistic or theistic)
+- 58\% believe in evolution (whether naturalistic or theistic)
 - 46\% believe in the Big Bang theory
 
 despite all of the above being scientific facts that are undisputed in the scientific community.
 
-There are practically zero scientists who reject evolution on scientific grounds, and those who do are often paid by religious organisation to promote their agenda i.e. they are strongly biased.
+There are practically zero scientists who reject evolution on scientific grounds, and those who do are often paid by religious organisations to promote their agenda i.e. they are strongly biased.
 
 {{< figure src="survey_for_evo_support.png" title="Most US adults, religious or not, accept evolution, and virtually all scientists accept evolution. Source: [Pew Research Center, 2019](https://www.pewresearch.org/short-reads/2019/02/11/darwin-day/)." >}}
 
@@ -1400,9 +1427,9 @@ Other relevant info: [Level of support for evolution](https://en.wikipedia.org/w
 
 ### Intelligent Design is Political, not Scientific
 
-The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001. Once this document was exposed, the DI published [The Wedge Document: So What?](https://www.discovery.org/m/2019/04/Wedge-Document-So-What.pdf) in an attempt at damage control, where they both denied and doubled down on some their intentions.
+The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* court ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001. Once this document was exposed, the DI published [The Wedge Document: So What?](https://www.discovery.org/m/2019/04/Wedge-Document-So-What.pdf) in an attempt at damage control, where they both denied and doubled down on some their intentions.
 
-As part of this effort to promote ID, the DI put out a petition called ["Dissent from Darwinism"](https://en.wikipedia.org/wiki/A_Scientific_Dissent_from_Darwinism), which asked a wide variety of experts including scientists, doctors and engineers whether they agreed with the following statement: 
+As part of this effort to promote ID, the DI released a petition called ["Dissent from Darwinism"](https://en.wikipedia.org/wiki/A_Scientific_Dissent_from_Darwinism), which asked a wide variety of experts including scientists, doctors and engineers whether they agreed with the following statement: 
 
 >"I am skeptical of claims for the ability of random mutation and natural selection to account for the complexity of life".
 
@@ -1410,11 +1437,11 @@ This petition was intentionally and deceptively worded, since a reasonable scien
 
 The National Center for Science Education (NCSE) put out a counter-petition called ["Project Steve"](https://ncse.ngo/project-steve), which asked scientists (not engineers or doctors) a far more precise statement to the contrary, and only signatories named "Steve" (or some close variation thereof) were counted. About 1,500 Steves signed this petition, outnumbering the original.
 
-The teaching of ID in US public schools was challenged in the 2005 *Kitzmiller v. Dover* case, which ruled that **ID is not science, but creationism**, and therefore cannot be taught. Overwhelming evidence was brought against the ID proponents, including several refutations to talking points which are still parroted to this day by their followers. After the trial, it was noticed that the DI's creation science textbook had simply copy-pasted the word "design proponents" in place of "creationists" in the text, with one edition of the book featuring the telling typo, ["cdesign proponentsists"](https://ncse.ngo/cdesign-proponentsists).
+The teaching of ID in US public schools was challenged in the 2005 *Kitzmiller v. Dover* case, which ruled that **ID is not science, but creationism**, and therefore cannot be taught. Overwhelming evidence was brought against the ID proponents, including several refutations to talking points which are still parroted to this day by their followers. After the trial, it was noticed that the DI's 'creation science' textbook *Of Pandas and People* had simply copy-pasted the word "design proponents" in place of "creationists" in the text, with one edition of the book featuring the telling typo, ["cdesign proponentsists"](https://ncse.ngo/cdesign-proponentsists).
 
 {{< figure src="id_not_science.png" title="The judge at *Kitzmiller v. Dover* ruled in favour of maintaining the separation of church and state, identifying ID as creationism-aligned. Source: [NCSE](https://ncse.ngo/kitzmiller-v-dover-last-gasp-balancing-evolution)." >}}
 
-In the run-up to the 2024 US presidential election, the DI quietly became a ['coalition partner' for Project 2025](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president#:~:text=of%20Freedom%20Institute-,Discovery%20Institute,-Eagle%20Forum). Once the public became aware of Project 2025 and its draconian plans, the DI seemingly requested its logo be removed from the Project 2025 website to cover its tracks, but this was caught and the DI remains a coalition partner as of 2025.
+In the run-up to the 2024 US presidential election, the DI quietly became a ['coalition partner' for Project 2025](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president#:~:text=of%20Freedom%20Institute-,Discovery%20Institute,-Eagle%20Forum). Once the public became aware of Project 2025 and its draconian ambitions, the DI allegedly requested its logo be removed from the Project 2025 website to cover its tracks, but this was caught and the DI remains a coalition partner as of 2025.
 
 {{< figure src="di_on_project_2025.png" title="Project 2025 Coalition Partners webpage in June 2024, featuring Discovery Institute. It was removed from the website shortly after. Screenshot [posted on Twitter/X by Jackson Wheat](https://x.com/JacksonWheat1/status/1803454676282613861/photo/1)." >}}
 
@@ -1422,7 +1449,7 @@ Creationism is not science, and intelligent design (ID) is merely creationism wi
 
 Video playlist extensively exposing the DI: [here](https://www.youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q).
 
-The DI was originally and continues to be funded by rich Christian nationalist organisations, with over $15 million per year in donations (source: [here](https://www.desmog.com/discovery-institute/)).
+The DI was originally and continues to be funded by rich Christian nationalist organisations, having raked in over $15 million per year in donations as of 2021 (source: [here](https://www.desmog.com/discovery-institute/)).
 
 ### Incompetence of "Creation Scientists"
 
@@ -1436,13 +1463,13 @@ The DI was originally and continues to be funded by rich Christian nationalist o
 
 - [Salvador (Sal) Cordova](https://www.reddit.com/r/DebateEvolution/comments/1m5yc24/sals_latest_yettobepublished_totally_legit/), a creation scientist who gave a presentation at a conventional evolution conference. The presentation was highly unprofessional and he made no attempt to communicate any of his points clearly. Dr Dan Stern Cardinale and Dr Zach Hancock reviewed the presentation [here](https://www.youtube.com/watch?v=Vfj2_3QgkUc). He has also written a very poor quality paper [here](https://drive.google.com/file/d/13zbR3TsSJTmaLzFmR9yQxiNXW_Y-47ST/view?usp=sharing) which was rejected from the BioArxiv preprint server as well as several journals over a course of 8 years.
 
-- [Nathaniel Jeanson](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) is a Harvard PhD who has readily admitted that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
+- Nathaniel Jeanson is a Harvard PhD who has [readily admitted](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
 - Raw Matt (Matthew Nailor) is an accomplice on the 'Standing for Truth' YouTube channel, a bottom-tier platform for YEC apologetics. He wrote a "paper" [here](https://drive.google.com/file/d/1AQyq2X7uaYMqNmb1hhHEJfaaPBAR-GIW/view?usp=sharing) with some of the most terrible formatting and content imaginable, and also fraudulently copied-and-pasted the PLOS One logo onto his paper, to pretend that the PLOS journal published his paper.
 
 It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems far less likely in the case of the more qualified individuals.
 
-There is also a group of intelligent design (ID) proponents working at the Discovery Institute (DI). Unlike the YECs, the DI's ID proponents are **all liars**: no exceptions. They are paid to lie for a specific wider agenda and have been exposed many times, such as in [this video series](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=2mzV14zBaG9iSaC8). Some examples:
+There is also a group of intelligent design (ID) proponents working at the Discovery Institute (DI). Unlike the YECs, the DI's ID proponents are all paid to lie for a specific wider agenda and can therefore only be concluded to be intentionally deceptive. They have been exposed many times, such as in [this video series](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=2mzV14zBaG9iSaC8). Some examples:
 
 - Casey Luskin: deceptively edited a segment of a PBS Nova documentary to remove a voiceover explaining how a scientist made a plaster cast of the 'Lucy' (*Australopithecus afarensis*) pelvis fossil. He substituted this with a narrative claiming the scientists fraudulently cut and deformed the original specimen to make it falsely appear bipedal.
 
