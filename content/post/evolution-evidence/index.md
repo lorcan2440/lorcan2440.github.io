@@ -218,11 +218,13 @@ Source: ([Villa *et al.*, 2019](https://www.pnas.org/doi/pdf/10.1073/pnas.190124
 
 ### Transmissible cancers and immortalised cell lines
 
+Cancers are clonal populations of cells that can be considered as a 'breakaway population' living within a host. While all known human cancers are confined to their host, some cancers are known in animals that are transmissible, essentially becoming their own parasitic species.
+
 - [Canine transmissible venereal tumour (CTVT)](https://www.tcg.vet.cam.ac.uk/about/ctvt)
 - [Tasmanian devil facial tumor disease (DFTD)](https://www.tcg.vet.cam.ac.uk/about/DFTD)
 - Transmissible cancers of mollusks ([Schönbichler & Bergthaler, 2023](https://www.nature.com/articles/s43018-023-00655-3))
 - [HeLa cell line](https://en.wikipedia.org/wiki/HeLa): immortal cells derived from cervical cancer cells taken from Henrietta Lacks in 1951. The cells are highly aneuploid with 82 abnormal chromosomes. The cells are transmissible between humans via tissue grafts, and are parasitic.
-- [HEK-293 (human embryonic kidney cells)](https://en.wikipedia.org/wiki/HEK_293_cells): another immortalised cell line commonly used as a common eukaryotic target for gene transfection in labs.
+- [HEK-293 (human embryonic kidney) cell line](https://en.wikipedia.org/wiki/HEK_293_cells): another immortalised cell line commonly used as a eukaryotic target for gene transfection in labs.
 
 This type of breakaway transition has been hypothesised as the distant origin of some evolutionary lineages, such as the single-celled [*Myxosporea*](https://en.wikipedia.org/wiki/Myxosporea) class of cnidarians (jellyfish). This has been referred to as the 'SCANDAL' hypothesis (speciation by cancer development in animals: ([Panchin, Aleochin & Panchin, 2019](https://pubmed.ncbi.nlm.nih.gov/30674330/))), although this idea remains speculative.
 
