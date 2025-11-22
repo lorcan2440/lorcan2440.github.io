@@ -220,11 +220,11 @@ Source: ([Villa *et al.*, 2019](https://www.pnas.org/doi/pdf/10.1073/pnas.190124
 
 Cancers are clonal populations of cells that can be considered as a 'breakaway population' living within a host. While all known human cancers are confined to their host, some cancers are known in animals that are transmissible, essentially becoming their own parasitic species.
 
-- [Canine transmissible venereal tumour (CTVT)](https://www.tcg.vet.cam.ac.uk/about/ctvt)
-- [Tasmanian devil facial tumor disease (DFTD)](https://www.tcg.vet.cam.ac.uk/about/DFTD)
-- Transmissible cancers of mollusks ([Schönbichler & Bergthaler, 2023](https://www.nature.com/articles/s43018-023-00655-3))
-- [HeLa cell line](https://en.wikipedia.org/wiki/HeLa): immortal cells derived from cervical cancer cells taken from Henrietta Lacks in 1951. The cells are highly aneuploid with 82 abnormal chromosomes. The cells are transmissible between humans via tissue grafts, and are parasitic.
-- [HEK-293 (human embryonic kidney) cell line](https://en.wikipedia.org/wiki/HEK_293_cells): another immortalised cell line commonly used as a eukaryotic target for gene transfection in labs.
+- **[Canine transmissible venereal tumour (CTVT)](https://www.tcg.vet.cam.ac.uk/about/ctvt)**: a sexually transmitted cancer in dogs, genetically found to have originated from a single dog about 6,000 years ago.
+- **[Tasmanian devil facial tumor disease (DFTD)](https://www.tcg.vet.cam.ac.uk/about/DFTD)**: two different cancers on the faces of a species of marsupial, transmissible by biting. DFT1 was first observed in 1996 while the second type DFT2 was discovered in 2014. These cancers have caused severe population decline, leading to endangerment of the species.
+- **Transmissible cancers of mollusks** ([Schönbichler & Bergthaler, 2023](https://www.nature.com/articles/s43018-023-00655-3)): cancer cells can be released from bivalve hosts and spread through seawater, surviving host-free for days before infecting new individuals.
+- **[HeLa cell line](https://en.wikipedia.org/wiki/HeLa)**: immortal cells derived from cervical cancer cells taken from Henrietta Lacks in 1951. The cells are highly aneuploid with 82 abnormal chromosomes. The cells are transmissible between humans via tissue grafts, and are parasitic.
+- **[HEK-293 (human embryonic kidney) cell line](https://en.wikipedia.org/wiki/HEK_293_cells)**: an immortalised cell line commonly used as a eukaryotic target for gene transfection in labs.
 
 This type of breakaway transition has been hypothesised as the distant origin of some evolutionary lineages, such as the single-celled [*Myxosporea*](https://en.wikipedia.org/wiki/Myxosporea) class of cnidarians (jellyfish). This has been referred to as the 'SCANDAL' hypothesis (speciation by cancer development in animals: ([Panchin, Aleochin & Panchin, 2019](https://pubmed.ncbi.nlm.nih.gov/30674330/))), although this idea remains controversial.
 
