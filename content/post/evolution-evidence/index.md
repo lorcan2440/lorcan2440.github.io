@@ -51,10 +51,13 @@ Microevolution (adaptation and other changes within a species) is commonly obser
 
 - *Biological species concept* \~ a species is any group who is reproductively isolated from other such groups, due to e.g. behavioural isolation, genetic incompatibility or failure to produce viable offspring. This is the most common species concept for studying extant life, but is undefined for asexual organisms (prokaryotes), so another concept is required.
 - *Phylogenetic species concept* \~ a species is the smallest monophyletic grouping when performing comparative genomic analysis on a population. This is much more suited for prokaryotes, defining species via genetic similarity.
+
+These multiple definitions are necessary since 'species' is not a fundamental unit of nature, but rather a human construct to help us understand biodiversity. This 'fuzziness' of the boundaries is expected under evolution which predicts continuous change. Many other species concepts also exist, each useful in their own ways.
+
 - *Speciation* \~ formation of more than one species from a population of one species, where *species* is defined suitably using one of the species concepts (like the above).
 - *Macroevolution* \~ variations in heritable traits in populations with multiple species over time. Speciation marks the start of macroevolution.
 
-Although microevolution is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is somewhat trivial and is not contested by critics of evolutionary theory. Therefore, we will list here only examples of macroevolution that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
+Although *microevolution* is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is generally not contested by critics of evolutionary theory. Therefore, we will list here only examples of *macroevolution* that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
 
 ### The argument
 
@@ -74,13 +77,13 @@ Part of Darwin's main thesis was that evolution must be true unless *something* 
 2. There is a severe struggle for life.
 3. Therefore, there must be some variations that are useful to surviving that struggle (from 1 and 2).
 4. There is a strong principle of inheritance (i.e. offspring are likely to resemble their parents).
-5. If some variations are useful to surviving the struggle, and if there is a strong principle of inheritance, then useful variations will be preserved (from 3 and 4).
+5. Therefore, useful variations will be preserved (from 3 and 4).
 
 This is the basis for evolution by natural selection (Darwinian evolution). Given that none of the three premises (1, 2 and 4) can be questioned by a sane person, a disbelief in evolution is essentially a pro-active belief in an anti-evolutionary "force", in the sense that something is actively opposing evolution. Since there is no evidence to believe in such a force, even in the total absence of any evidence for evolution, it suggests that evolution is indeed happening.
 
 Of course in reality, there is ample observable evidence for evolution. *If* macroevolution can be observed, *and* we know of no means by which the mechanisms of neo-Darwinian evolution (mutation/selection/drift/gene flow) can stop, *and* we have consilient evidence indicating continuation of the process back through time, *and* there is no reason to believe any contrary explanations (e.g. intelligent design/creationism), *then* the methodologically naturalistic, parsimonious, evidence-driven conclusion follows.
 
-Direct observations are not the *best evidence* of evolution as a whole. Direct observation is just one line of inquiry: the other lines serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
+Direct observations are not the *best evidence* of evolution as a whole: they do not lead directly to the most profound conclusion of evolution, which is universal common descent of all life. Direct observation is just one line of inquiry: the other lines of evidence serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
 ### Lizards with placentas
 
@@ -290,6 +293,12 @@ $$ p = \sum_{z=205}^{208} P(|X \cap Y| = z) = 4.59398489... \times 10^{-1032}. $
 
 As intuited, the odds of getting the observed HERV-W distribution in humans and chimps *without* common ancestry is ridiculously tiny: about 1 in $ 10^{1031} $. There are about $ 10^{80} $ atoms in the observable universe, so this is about the same chance of randomly picking the same atom in the universe 14 times in a row! And this is just for *one* type of ERV in *one* pair of species - many other types of ERVs are known in many different species (mostly mammals), and they can be used to reconstruct phylogenies in the same way as any other section of the genome.
 
+### Molecular clocks for the LTRs of ERVs
+
+{{< figure src="erv_ltr_comparisons.png" title="LTR similarity decreases with evolutionary distance." >}}
+
+Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manually_checked_schneule99s_evolutionary/) (reddit post) and [here](https://github.com/implies-casualty/erv-age-correlation) (code and data).
+
 ### CpG islands
 
 https://biologos.org/series/how-should-we-interpret-biblical-genealogies/articles/testing-common-ancestry-its-all-about-the-mutations
@@ -310,7 +319,7 @@ When the genomes were sequenced, it was found that human chromosome 2 indeed sat
 
 When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times ([Poszewiecka *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9413910/)).
 
-Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs. Fusions are known in extant humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/), with a degraded second centromere and homologous banding. The 'hardest part' may be getting the fusion to spread (by genetic drift) to fixation in the population rather than the fusion event itself.
+Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs. Fusions are known in extant humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/)), with a degraded second centromere and homologous banding. The 'hardest part' may be getting the fusion to spread (by genetic drift) to fixation in the population rather than the fusion event itself.
 
 Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibbon) and [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (Dr Dan).
 
@@ -319,8 +328,6 @@ Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibb
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
 Most recent survey of ape genomes: ([Yoo *et al.*, 2025](https://www.nature.com/articles/s41586-025-08816-3)).
-
-Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
 
 Human-specific mutations affecting brains and intelligence:
 
@@ -505,6 +512,16 @@ The cytochrome c oxidase (COX) enzyme is a famous and ubiquitous component of th
 
 Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
+### Ancient biopolymers
+
+- Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
+
+- RNA from wooly mammoths, 40 kYA: [here](https://www.nationalgeographic.com/animals/article/woolly-mammoth-rna-discovery) (article).
+
+- DNA in the environment, 2 MYA: [here](https://www.nature.com/articles/s41586-022-05453-y) (paper)
+
+- Collagen from dinosaur bone remains (Mary Schweitzer)
+
 ---
 
 ## 4. PALEONTOLOGY AND BIOANTHROPOLOGY
@@ -640,9 +657,9 @@ In 1747, taxonomist Carl Linnaeus wrote to J. G. Gmelin, expressing (with circum
 
 These early naturalists (along with many other Western contemporaries) recognised the similarities, but, living prior to Darwin, had no theoretical framework with which to explain them.
 
-{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin. A gorilla's fingers look strikingly similar to a (White) human's when the dark pigment is removed." >}}
+{{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin, experienced by primates including humans (e.g. [Michael Jackson](https://en.wikipedia.org/wiki/Health_and_appearance_of_Michael_Jackson)). The fingers of gorillas with vitiligo look strikingly similar to those of an adult (White) human's when the dark pigment is removed. The appearance of age in the gorilla fingers relative to humans is due to the autapomorphic [neoteny](https://en.wikipedia.org/wiki/Neoteny_in_humans) driven by [sexual selection](https://en.wikipedia.org/wiki/Sexual_selection_in_humans) in our lineage." >}}
 
-{{< figure src="sclera.jpg" title="1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+{{< figure src="sclera.jpg" title="About 1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
 
 ### Primate behaviour
 
@@ -720,7 +737,7 @@ One of our closest relatives, the Neanderthals, went extinct about 40,000 years 
 
 - **Ardi**: partial skeleton of *Ardipithecus ramidus*, 4.4 MYA, discovered in the Afar rift valley (Ethiopia).
 - **Little Foot (StW 573)**: near-complete specimen, *Australopithecus africanus*, 3.67 MYA. Found in the 'Cradle of Humankind' in South Africa, an area home to many other early hominins.
-- **Burtele foot**: partial foot, 3.4 MYA, with a divergent hallux. Tentatively assigned to *Ardipithecus ramidus*, implying contemporaneity with *Homo*, *Australopithecus*, *Paranthropus* and *Kenyanthropus*.
+- **Burtele foot**: partial foot, 3.4 MYA, with a divergent hallux, assigned to *Australopithecus deyiremeda*.
 - **Taung Child**: skull of a 3-year-old *Australopithecus africanus*, 3.3 MYA.
 - **Dikika Child (Selam)**: skull of a 3-year-old *Australopithecus afarensis*, 3.3 MYA.
 - **Lucy (AL 288-1)**: partial skeleton of *Australopithecus afarensis*, 3.2 MYA.
@@ -1087,6 +1104,10 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 {{< figure src="human_chicken_embryo.png" title="Early-stage chicken and human embryos look similar and share vestigial structures. Image source: *Biology* textbook by Campbell, 12th ed., page 479." >}}
 
 {{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the dolphin *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
+
+### Evo-devo
+
+{{< figure src="evo-devo.png" title="Mechanisms of developing new phenotypes" >}}
 
 ### Homeotic genes: Hox, ParaHox, Pax, MADS-box
 
