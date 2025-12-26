@@ -269,15 +269,13 @@ Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC14
 
 If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. ERV sequences become quickly methylated on inheritance and have their LTRs mutated so cannot jump around the genome any more like retrotransposons, becoming fixed in position before speciation occurs. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
 
-We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the 'long terminal repeats' (LTRs) at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor as the chance of a coincidental separate identical insertion is negligible. Most (at least 90\%: [source](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. Some ERVs can be exapted for use by the organism at a later time as a *de novo* gene, as new promoters form readily by random mutation alone.
+We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible. Most (at least 90\%: [source](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs.
 
-For example, one type of ERV that is found in both humans and chimpanzees is called HERV-W. For this particular ERV, there are 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). This tells us that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired more recently after the split. The *env* gene of HERV-W remains transcribable, and produces a protein called syncytin-1, which has been co-opted for use in the formation of the placenta, but can also act as an immunogen in multiple sclerosis.
+The ERV known as HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). This tells us that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired more recently after the split.
 
-To drive the point home, we can estimate explicitly the probability that two genomes would just so happen to have the observed 205 identical insertions, when one of them has 211 and the other has 208, if the ERVs are inserted randomly without any common ancestry (the null hypothesis). We assume a total of $ N = 10,000,000 $ possible insertion sites in both genomes ('hotspots'). The problem can be stated as listing $ \{ 1, 2, 3, ..., N \} $ as the enumerated possible ERV insertion sites. We then take, uniformly, randomly, independently and without replacement, a 'human' subset of insertions $ X $ of size $ a = 211 $, and a 'chimp' subset of insertions $ Y $ of size $ b = 208 $. We want to find the probability that the intersection of $ X $ and $ Y $ has exactly $ z $ elements (shared insertions).
+We can estimate the probability of this shared ERV distribution occurring under a separate ancestry model, by assuming random insertions of ERVs at sites into each genome. We assume a total of $ N = 10,000,000 $ possible insertion sites in both genomes ('hotspots'), and compute the probability of having at least $ z $ = 205 shared ERVs given $ a = 211 $ in humans and $ b = 208 $ in chimps as:
 
 {{< figure src="ervs_prob_calc.png" title="**If the text is hard to read, please switch to light mode on the website!** Diagram of the counting problem. We randomly place 211 X's in the top set of boxes and 208 X's in the bottom set of boxes, independently (max one X per box). How many X's will we observe in the same place? These represent the common ERV insertions." >}}
-
-We can solve for the required probability with combinatorics:
 
 $$ P(|X \cap Y| = z) = \frac{\binom{N}{z} \binom{N-z}{b-z} \binom{N-b}{a-z}}{\binom{N}{a} \binom{N}{b}}, \ \ \ \ 0 \leq z \leq \min(a, b) $$
 
@@ -285,15 +283,19 @@ since there are $ \binom{N}{z} $ ways of choosing the intersection, $ \binom{N-z
 
 $$ P(|X \cap Y| = z) = \frac{\binom{b}{z} \binom{N-b}{a-z}}{\binom{N}{a}} \ \Rightarrow  \ |X \cap Y| \sim \textrm{Hypergeometric}(N, b, a). $$
 
-I believe this model is more accurate than the calculations performed by some other sources (e.g. *Stated Clearly* uses a binomial distribution, source [here](https://docs.google.com/document/d/1gZWCMW7ZWhdlLPVJU4nDWkmyQbUqZG3wsS0FD2sKmn0/edit?tab=t.0), video [here](https://www.youtube.com/watch?v=oXfDF5Ew3Gc)), although it doesn't affect the conclusion we make.
+(For a different calculation by Stated Clearly using a slightly simpler model, see [here](https://docs.google.com/document/d/1gZWCMW7ZWhdlLPVJU4nDWkmyQbUqZG3wsS0FD2sKmn0/edit?tab=t.0) and [here](https://www.youtube.com/watch?v=oXfDF5Ew3Gc).)
 
-Now, we sum over this probability between $ z = 205 $ and $ z = 208 $ to get our $p$-value. The answer is so tiny that normal calculators simply return zero. Using the more powerful [WolframAlpha](https://www.wolframalpha.com/input?i2d=true&i=Sum%5BDivide%5BnCr%5C%2840%29208%5C%2844%29+z%5C%2841%29+*+nCr%5C%2840%29Power%5B10%2C7%5D+-+208%5C%2844%29+211+-+z%5C%2841%29%2CnCr%5C%2840%29Power%5B10%2C7%5D%5C%2844%29+211%5C%2841%29%5D%2C%7Bz%2C205%2C208%7D%5D) for the computation instead, we find that the answer is:
+Substituting in our numbers, we get (using [WolframAlpha](https://www.wolframalpha.com/input?i2d=true&i=Sum%5BDivide%5BnCr%5C%2840%29208%5C%2844%29+z%5C%2841%29+*+nCr%5C%2840%29Power%5B10%2C7%5D+-+208%5C%2844%29+211+-+z%5C%2841%29%2CnCr%5C%2840%29Power%5B10%2C7%5D%5C%2844%29+211%5C%2841%29%5D%2C%7Bz%2C205%2C208%7D%5D)):
 
 $$ p = \sum_{z=205}^{208} P(|X \cap Y| = z) = 4.59398489... \times 10^{-1032}. $$
 
 As intuited, the odds of getting the observed HERV-W distribution in humans and chimps *without* common ancestry is ridiculously tiny: about 1 in $ 10^{1031} $. There are about $ 10^{80} $ atoms in the observable universe, so this is about the same chance of randomly picking the same atom in the universe 14 times in a row! And this is just for *one* type of ERV in *one* pair of species - many other types of ERVs are known in many different species (mostly mammals), and they can be used to reconstruct phylogenies in the same way as any other section of the genome.
 
 ### Molecular clocks for the LTRs of ERVs
+
+We can also study the similarity of the sequences themselves of ERVs in different species. The molecular clock hypothesis assumes a roughly uniform mutation rate to genetic sequences over time, so more closely evolutionarily related species should have more similar sequence identity in their ERVs.
+
+A direct comparison of the LTR sequences of ERVs in different animals demonstrates this correlation with clarity:
 
 {{< figure src="erv_ltr_comparisons.png" title="LTR similarity decreases with evolutionary distance." >}}
 
@@ -511,6 +513,10 @@ Sources: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.co
 The cytochrome c oxidase (COX) enzyme is a famous and ubiquitous component of the electron transport chain for respiration, found in bacteria, archaea and the mitochondria of eukaryotes. Since COX is universally conserved, we would expect it to be more similar in closely related organisms, and less so in more distant ones. In fact we find experimentally that there is a strong correlation between the number of amino acid substitutions in the COX enzyme and the time since the divergence of the species. This is a powerful demonstration of the ‘[molecular clock](https://en.wikipedia.org/wiki/Molecular_clock)’, which gives us an estimate of the time taken for two genomes to have mutated away from a common ancestor, helping us put a time scale onto our evolutionary tree model.
 
 Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
+
+### Myoglobin
+
+Source: [here](https://pdb101.rcsb.org/motm/206)
 
 ### Ancient biopolymers
 
@@ -984,6 +990,20 @@ When we zoom into the vertebrate clade, we see similarity increase further. All 
 Within mammals, the similarities are further still, with all mammals sharing the same number and arrangement of the bones, but in variable lengths.
 
 {{< figure src="arm_anatomy_mammals.png" title="Mammal limb and digit homology. Note: the colour coding applies to the left set of images; the others are from a different source." >}}
+
+### Reaction wood in trees
+
+Trees are under selective pressure to grow tall to outcompete neighbours for sunlight, their primary energy source. However, tall trees are subject to structural instability and mechanical stresses due to their self-weight under gravity, and the imperfections in their wood structure. An analysis in ([Greenhill, 1881](https://martingillie.wordpress.com/wp-content/uploads/2013/11/longest-column.pdf)) showed that a pine tree of uniform trunk diameter 20 inches cannot grow beyond 90 m tall before failing by [self-buckling](https://en.wikipedia.org/wiki/Self-buckling). In reality, the limit is lower due to the inherent curvature of the trunk, as showed by [Perry's formula](https://en.wikipedia.org/wiki/Perry%E2%80%93Robertson_formula) (incorporated into structural standards by Robertson). Another limiting factor is the suction pressure created by transpiration in the xylem vessels, which can only reach a certain height before cavitation occurs: the upper leaves of a tree will be starved of soil nutrients if transpiration cannot pull the water up.
+
+Tree trunks have evolved to be naturally tapered (thicker at the base, thinner at the top), in a shape that comes very close to the theoretical optimum distribution for maximum limiting height with minimum material ([McMahon & Kronhauer, 1976](https://www.sciencedirect.com/science/article/abs/pii/002251937690182X)). This shape is a consequence of the balance between growing taller to get more energy, but requiring more material to support the extra height.
+
+Trees must respond to deviations from vertical growth to avoid structural failure ([thigmomorphogenesis](https://en.wikipedia.org/wiki/Thigmomorphogenesis)). The group of [woody plants](https://en.wikipedia.org/wiki/Woody_plant), including trees, have evolved a specialised tissue called [reaction wood](https://en.wikipedia.org/wiki/Reaction_wood), which is deposited at the base of the trunk in a way that counteracts the bending moment caused by gravity on a leaning tree trunk.
+
+In all [gymnosperms (non-flowering plants)](https://en.wikipedia.org/wiki/Gymnosperm), the reaction wood forms on the inner side of the leaning trunk (in compression), called 'compression wood' (high lignin content). Meanwhile, in [angiosperms (flowering plants)](https://en.wikipedia.org/wiki/Angiosperms), the reaction wood forms on the outer side (in tension), called 'tension wood' (high cellulose content). There is one exception to this trend: the clade *Amborella*, which is an angiosperm, but produces compression wood like gymnosperms. [*Amborella*](https://en.wikipedia.org/wiki/Amborella) has been shown by molecular phylogenetics to be the most evolutionarily basal extant angiosperm lineage (i.e. it is the sister clade to all other flowering plants). This divergence pattern is therefore entirely consistent with the predictions of evolutionary theory: the parsimonious conclusion is that the tension wood trait evolved once in the lineage leading to all other angiosperms after their split from *Amborella*.
+
+{{< figure src="tree_evolution.png" title="The phylogenetic relationship between gymnosperms (non-flowering plants) and angiosperms (flowering plants), showing *Amborella* as the earliest diverging angiosperm. Image source: Figure 1 of ([Williams, 2012](https://www.researchgate.net/publication/233834460_Pollen_Tube_Growth_Rates_and_the_Diversification_of_Flowering_Plant_Reproductive_Cycles))." >}}
+
+Reaction wood production is mediated by the plant hormone auxin (indole-3-acetic acid, which also controls gravitropism more generally) and ethylene, which act as signalling molecules to induce asymmetric cell growth in the cambium layer of the trunk. Mutations to the genes in these regulatory pathways can therefore alter the reaction wood response, potentially being responsible for the transition from compression wood to tension wood in angiosperms.
 
 ### The eye in vertebrates
 
