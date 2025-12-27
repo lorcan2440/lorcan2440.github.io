@@ -29,7 +29,7 @@ Every living thing requires energy to survive, grow and reproduce. Plants have e
 
 Plants get away with using CO$_2$ as their *input* because they have *the Sun*, beaming in limitless free energy to a planet that would otherwise be isolated and lifeless. Of course, it wasn't plants who came up with this trick. That goes back to the original photosynthetic microorganisms, a phylum of prokaryotes called [cyanobacteria](https://en.wikipedia.org/wiki/Evolution_of_photosynthesis). Ancient protists, like the ancestors of algae, just took control of this mini-generator and put it into an organelle (endosymbiosis) that we now call the chloroplast.
 
-{{< figure src="calvin-cycle.png" title="The Calvin cycle occurs in the chloroplasts of plants. Biochemical energy in the form of ATP (and the cofactor NAPDH) is produced by the [light-dependent reactions](https://en.wikipedia.org/wiki/Light-dependent_reactions), which is then consumed in the light-independent reactions to fix carbon dioxide into larger organic molecules." >}}
+{{< figure src="calvin-cycle.png" title="The Calvin cycle occurs in the chloroplasts of plants. Biochemical fuel in the form of ATP (and the cofactor NAPDH) is produced by the [light-dependent reactions](https://en.wikipedia.org/wiki/Light-dependent_reactions), which is then fed into the (light-independent) Calvin cycle above to fix carbon dioxide into larger organic molecules." >}}
 
 Once multicellular, plant evolution was guided by one rule: 
  
