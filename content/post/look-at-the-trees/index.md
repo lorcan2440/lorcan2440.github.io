@@ -19,7 +19,7 @@ commentable: true
 
 ---
 
-I don't have a good intro to this post, it comes from a bit of wikipedia rabbit-hole-diving I did while brushing up on the theory of buckling in columnar structures for work. It started with some curious fun facts about the way trees grow and ended up revealing many interconnected threads that demonstrate the power of evolution. [Consilience](https://www.facebook.com/groups/evolutionx/posts/1354749152309000/) (convergence of independent lines of evidence on a singular conclusion) tends to do that, of course.
+This post comes from a bit of wikipedia rabbit-hole-diving I did while brushing up on the theory of buckling in columnar structures for work. It started with some curious fun facts about the way trees grow and ended up revealing many interconnected threads that demonstrate the power of evolution. [Consilience](https://www.facebook.com/groups/evolutionx/posts/1354749152309000/) (convergence of independent lines of evidence on a singular conclusion) tends to do that, of course.
 
 Writeup for reddit: [here](https://www.reddit.com/r/DebateEvolution/comments/1pwj75f/but_just_look_at_the_trees_they_show_the_power_of/) (modified for blog format).
 
