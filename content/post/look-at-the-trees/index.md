@@ -83,7 +83,7 @@ Think about what it would take to explain this under a separate ancestry hypothe
 
 > "A theory that explains everything, explains nothing."
 
-If we try to steelman the modern intelligent design proponents' argument, which is that because [form and function are correlated](https://en.wikipedia.org/wiki/Form_follows_function), common functions reflect common design, not common descent, we still run into logical fallacies on their part. In biology, *function* follows from *form*, i.e. what a protein does (function; phenotype) is dependent on its shape (form), encoded by the DNA (genotype). The ID argument simply restates the observation as its own explanation (begging the question): it is a *post hoc* attribution of intentionalism that adds no new predictive content.
+If we try to steelman the modern intelligent design proponents' argument, which is that because [form and function are correlated](https://en.wikipedia.org/wiki/Form_follows_function), common functions reflect common design, not common descent, we still run into logical fallacies on their part. In biology, the causality is in the inverse direction of design: Crick's [central dogma](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) is that *function* (what a protein does - function and phenotype) follows from *form* (protein shape, encoded by the DNA - genotype). The ID argument simply restates the observation as its own explanation (begging the question): it is a *post hoc* attribution of intentionalism that adds no new predictive content.
 
 ## Branching out
 
