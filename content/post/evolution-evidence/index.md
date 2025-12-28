@@ -361,7 +361,6 @@ In some of these cases, no harmful effect is observed despite what is typically 
 
 - **Blue eyes**: leads to blue eyes instead of brown, due to a mutation in OCA2. It has been shown that all blue-eyed people today share a common ancestor living around 6-10 kYA (a perfectly resolved founder event). This is presumed to be a neutral mutation, with the possibility of sexual selection in some cultures. Source: [here](https://link.springer.com/article/10.1007/s00439-007-0460-x)
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
-- **Palmaris longus muscle**: a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers). The rate of occurrence rises to over 50\% in Egypt and Turkey. Source: ([Ioannis *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4596262/)).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 - **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
 
@@ -1100,14 +1099,18 @@ There are some structures that were considered vestigial in the past on the basi
 
 {{< figure src="human_embryo_tail.png" title="**(a)**: human embryo at week 6 ([Gasser, 1975](https://www.ehd.org/pdf/gasser/greyscale/Gasser_Fig6-1gs.pdf)). **(b)**: a rare disorder where the tail persists until birth (an atavistic trait) ([Shad & Biswas, 2012](https://casereports.bmj.com/content/2012/bcr.11.2011.5160))." >}}
 
+#### *Palmaris longus* muscle tendon
+
+The *palmaris longus* is a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers). The rate of occurrence rises to over 50\% in Egypt and Turkey ([Ioannis *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4596262/)). It is a vestigial tendon that controlled the retractable claws in ancient ancestral mammals.
+
 #### Vestiges from recent hominin evolution
 
 Other notable vestigial traits in humans include:
 
-- Tiny muscles that move the ears and scalp (auricular muscles), used for directional hearing in other mammals but too weak to be useful in humans.
-- Goosebumps (arrector pili muscles), used to raise hairs for insulation and appear larger to predators in other mammals, but mostly ineffective in humans due to our relative hairlessness.
-- The coccyx (tailbone), a remnant of the tail in our primate ancestors, which serves as an attachment point for muscles of the pelvic floor.
-- The plantar reflex in infants, where the toes curl around an object placed under the foot. This is a remnant of the fully functional grasping reflex seen in primate infants, which helps them cling to their mothers.
+- **Auricular muscles** are Tiny muscles that move the ears and scalp, used for directional hearing in other mammals but too weak to be useful in humans.
+- **Goosebumps (arrector pili muscles)**, used to raise hairs for insulation and appear larger to predators in other mammals, but mostly ineffective in humans due to our relative hairlessness.
+- The **coccyx (tailbone)**, a remnant of the tail in our primate ancestors, which serves as an attachment point for muscles of the pelvic floor.
+- The **plantar reflex** in infants, where the toes curl around an object placed under the foot. This is a remnant of the fully functional grasping reflex seen in primate infants, which helps them cling to their mothers.
 
 #### Blind fish
 
@@ -1188,6 +1191,10 @@ For **2** (FSA, commonly proposed by creationists), the random distribution woul
 
 The efficiency of MCMC in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work. This parallel is exploited in the [success of evolutionary algorithms](#13-applications-of-evolution) in computer science.
 
+### Peppered moths evolution prediction
+
+Initial experiment in the 1800s, redone in the 1920s with a prediction, checked with genomes in the 1970s and verified.
+
 ---
 
 ## 11. METAGENOMICS
@@ -1228,7 +1235,15 @@ https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.200
 
 Everything in biology is an emergent property of the underlying chemistry and physics, and so we can study the applications of these fields to biology to probe the fundamental principles evolution and life itself has to obey.
 
-#### Thermodynamics of life
+### Bioenergetic penalty of non-functional genetic material
+
+Every time a cell 1) replicates its DNA, 2) transcribes it into RNA and 3) translates it into a protein, there is an energetic cost to the cell, since these are anabolic (endergonic) reactions that require ATP consumption. An additional section of DNA (e.g. a new gene) therefore automatically consumes energy that would otherwise have gone towards maintaining the cell's existing metabolism, comprising a potential loss of fitness for the organism.
+
+In ([Lynch & Marinov, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4697398/)), it is shown that the cost of making a non-functional protein is typically above the selection threshold of natural populations, while the cost of retaining the DNA without full transcription into RNA is typically below the selection threshold. This means that non-functional proteins is penalised by natural selection, but non-functional DNA is not, and can accumulate neutrally by genetic drift. The new non-coding DNA can then potentially take on regulatory roles for the organism, or even undergo *de novo* gene birth into functional proteins.
+
+The absence of an energy penalty to large genomes is responsible for the 'C-value paradox' and is exhibited by many plants which show polyploidy.
+
+### Thermodynamic permissibility of life and evolution
 
 In thermodynamics, a 'system' is a specified volume of space with a boundary, whose energy and matter content can be quantified. The [three types of systems](https://en.wikipedia.org/wiki/Thermodynamic_system#/media/File:Diagram_Systems.svg) are:
 
@@ -1238,54 +1253,35 @@ In thermodynamics, a 'system' is a specified volume of space with a boundary, wh
 
 For example, the **Earth** is (roughly) a closed system, since it receives energy from the Sun (insolation) and radiates thermal energy back out to space, but the mass transfers (atmospheric gas escape, space dust infall, mass defect from radioactivity) are negligible (sources: [here](https://mynasadata.larc.nasa.gov/basic-page/systems-thinking-about-earth-system#:~:text=Earth%20is%20mostly%20a%20closed%20system) and [here](https://en.wikipedia.org/wiki/Earth_mass#Variation)).
 
-The second law of thermodynamics states that
-
->The entropy of an isolated system never decreases over time.
-
-In equation form, we can write this as:
-
-$$ \Delta S \geq 0 $$
-
-In the case of a closed system, energy inputs and outputs can allow for the entropy of the system to decrease, if compensated for with a higher increase in the entropy of the surroundings. In equation form, we can write the 2nd law for a closed system as:
-
-$$ \Delta S_{sys} = \int_1^2 \frac{\delta Q}{T} + \Delta S_{irrev} \ \ \ \ \text{where} \ \ \ \ \Delta S_{irrev} \geq 0 $$
-
-where $ \delta Q $ is the heat transferred to the system and $ T $ is the temperature of the system boundary where the heat is transferred (integrated over the system boundary from the two states). Notice that if heat is released from the system, then we have $ Q < 0 $, allowing a reduction in system entropy. 
-
-Common sources of irreversible entropy production $ \Delta S_{irrev} $ include heat transfer across a finite temperature difference, turbulent mixing of viscous fluid flows, and viscous dissipation in fluid boundary layers (skin friction).
-
-In the case of an open system, mass flows $ \dot{m} $ further allow a change in system entropy. We can write the 2nd law for an open system as:
-
-$$ \frac{\mathrm{d} S_{sys}}{\mathrm{d} t} + \sum \dot{m}\_{out} s_{out} - \sum \dot{m}\_{in} s_{in} = \oint_{\partial V}^{} \frac{\delta \dot{Q}}{T} + \dot{S}\_{irrev} $$
-
-$$ \text{where} \ \ \ \ \dot{S}_{irrev} \geq 0. $$
-
-where $ \dot{S}\_{irrev} $ is the rate of entropy generation due to irreversibilities. The $ \frac{dS_{sys}}{dt} $ term is zero if the system is at **steady state**, meaning the system state variables (including entropy) do not change with time. Note that for an open system, "equilibrium" and "steady state" are different things: an open system can be at steady state but not at equilibrium, if all mass flows balance out.
-
 The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy inputs to maximally generate entropy in the surroundings while maintaining a low-entropy internal state. The concept of [**exergy**](https://en.wikipedia.org/wiki/Exergy) is useful in quantifying the potential of an open system to do useful work and reduce its entropy. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it, and the exergy of a system is given by
 
-$$ B = H - T_0 S + \frac{1}{2} mv^2 + mgz $$
+$$ B = H - T_0 S $$
 
-where $ H $ is the enthalpy, $ S $ is the entropy and $ T_0 $ is the 'dead state temperature', which is the temperature of the surroundings where heat can potentially be dissipated to. The last two terms represent macroscopic energy (kinetic energy plus gravitational potential energy) relative to the dead state.
+where $ H $ is the enthalpy, $ S $ is the entropy and $ T_0 $ is the 'dead state temperature', which is the temperature of the surroundings where heat can potentially be dissipated to. Exergy can be used to combine the first law (conservation of energy) and the second law (entropy production) into a single equation, called an exergy balance.
 
-For example, although a plant radiates away as much energy as it receives (otherwise it would heat up!), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis. The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (released by metabolism of food intake) for organisms higher up the food chains.
+For example, although a plant radiates away as much energy as it receives (otherwise it would heat up), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis. The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (released by metabolism of food intake) for organisms at higher trophic levels in the food webs.
 
-Exergy can be used to combine the first law (conservation of energy) and the second law (entropy production) into a single equation, called an exergy balance. The **exergy equation** for an open system, along with the interpretations of each term, is:
+In Monod's 1971 book, *Chance and Necessity*, he recounts an experimental verification that life does not violate the 2nd law of thermodynamics:
 
-![alt text](exergy_equation.png)
+>We take a milliliter of water having in it a few milligrams of a simple sugar, such as glucose, as well as some mineral salts containing the essential elements that enter into the chemical constituents of living organisms (nitrogen, phosphorus, sulfur, etc.). In this medium we grow a bacterium, for example *Escherichia coli* (length, 2 microns; weight, approximately $ 5 \times 10^{-13} $ grams). Inside thirty-six hours the solution will contain several billion bacteria. We shall find that about 40% of the sugar has been converted into cellular constituents, while the remainder has been oxidized into carbon dioxide and water. By carrying out the entire experiment in a calorimeter, one can draw up the thermodynamic balance sheet for the operation and determine that, as in the case of crystallization, **the entropy of the system as a whole (bacteria plus medium) has increased a little more than the minimum prescribed by the second law**. Thus, while the extremely complex system represented by the bacterial cell has not only been conserved but has multiplied several billion times, the thermodynamic debt corresponding to the operation has been duly settled.
 
-While elementary thermodynamics tells us that the processes of life are **possible**, it does not tell us how likely it is to occur, or how it actually happens. The more modern field of **non-equilibrium thermodynamics** is more suited to understanding the physical processes underpinning life, since all biological systems are open systems far from equilibrium. For any system subjected to a strong gradient of free energy, non-equilibrium thermodynamics tells us that the system will spontaneously self-organise into a state of maximum entropy production, known as a **dissipative structure**. For example, when a closed system of liquid water is heated strongly with a good-conducting boundary, it naturally forms turbulent convection cells which increases the mixing of hot and cool regions of the fluid, increasing the heat transfer rate and the irreversible entropy production rate in the system.
-
-Some useful resources on the thermodynamics of life:
+Useful resources:
 
 - An intro-level explainer on thermodynamics in biochemistry, [here](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html)
 - Entropy and evolution ([Styer, 2008](https://www.fisica.net/epistemologia/STYER_Entropy_and_Evolution.pdf)), a basic pedagogical paper explaining why evolution does not violate the 2nd law.
 - [A YouTube video by Veritasium on the concept of entropy](https://www.youtube.com/watch?v=DxL2HoqLbyA), with a section on entropy in life from 17:08.
-- [A YouTube video by NanoRooms on dissipative structuring in life](https://www.youtube.com/watch?v=fzcVBRdI730).
 - A practical thermodynamic analysis of photosynthesis ([Keller, 2013](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)).
 - A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
-- Life as a manifestation of the second law of thermodynamics ([Schneider & Kay, 1994](https://www.sciencedirect.com/science/article/pii/0895717794901880)), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
 - Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life and solar radiation on the entropy and energy budgets of the Earth.
+
+### Non-equilibrium thermodynamics: the driving force for life
+
+While elementary thermodynamics tells us that the processes of life are **possible**, it does not tell us how likely it is to occur, or how it actually happens. The more modern field of **non-equilibrium thermodynamics** is more suited to understanding the physical processes underpinning life, since all biological systems are open systems far from equilibrium. For any system subjected to a strong gradient of free energy, non-equilibrium thermodynamics tells us that the system will spontaneously self-organise into a state of maximum entropy production, known as a **dissipative structure**. For example, when a closed system of liquid water is heated strongly with a good-conducting boundary, it naturally forms turbulent convection cells which increases the mixing of hot and cool regions of the fluid, increasing the heat transfer rate and the irreversible entropy production rate in the system.
+
+Useful resources:
+
+- [A YouTube video by NanoRooms on dissipative structuring in life](https://www.youtube.com/watch?v=fzcVBRdI730).
+- Life as a manifestation of the second law of thermodynamics ([Schneider & Kay, 1994](https://www.sciencedirect.com/science/article/pii/0895717794901880)), a landmark paper establishing that life arises by *necessity* of thermodynamic principles, not just by possibility.
 - Maximum power in evolution, ecology and economics ([Hall & McWhirter, 2023](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0290)), a discussion of Lotka's statement of the '4th law of thermodynamics' as it applies to evolutionary biology.
 
 Some of the key authors in non-equilibrium thermodynamics include:
@@ -1295,6 +1291,16 @@ Some of the key authors in non-equilibrium thermodynamics include:
 - [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod), who won the 1965 Nobel Prize in Physiology or Medicine. In his 1971 book *Chance and Necessity*, he discusses the results of a direct experimentation how life increases the entropy of the surroundings.
 - [Jeremy England](https://en.wikipedia.org/wiki/Jeremy_England), who applies dissipative structuring to the origin of life.
 - [Karo Michaelian](https://scholar.google.com/citations?user=NvAthrEAAAAJ), who has written extensively on the thermodynamics of evolution and abiogenesis. Some of his papers are featured in my '[Origin of Life](/post/origin-of-life-research/#non-equilibrium-thermodynamics-and-information-theory)' bibliography.
+
+### Information theory and evolution
+
+In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
+
+Intuitively, evolution involves an increase in the information content of a genome, but quantifying this rigorously is not easy. Some examples of this are described below.
+
+In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the statistical information entropy of the genome of COVID-19 over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents the creation of new Shannon information in the genome. Information entropy decreases in living systems in order to promote more efficient gradient dissipation, which increases total entropy, in accordance with non-equilibrium thermodynamics.
+
+In [Chapter 19 of *Information Theory, Inference and Learning Algorithms*](https://www.inference.org.uk/itprnn/book.pdf#page=281) by David MacKay, a model for the Shannon information of a simple binary coded genome is presented, with the conclusion being that meiosis enables the information content of a genome to grow much faster (due to recombination) than mitosis alone.
 
 ---
 
