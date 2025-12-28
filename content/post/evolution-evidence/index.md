@@ -1253,7 +1253,7 @@ In thermodynamics, a 'system' is a specified volume of space with a boundary, wh
 
 For example, the **Earth** is (roughly) a closed system, since it receives energy from the Sun (insolation) and radiates thermal energy back out to space, but the mass transfers (atmospheric gas escape, space dust infall, mass defect from radioactivity) are negligible (sources: [here](https://mynasadata.larc.nasa.gov/basic-page/systems-thinking-about-earth-system#:~:text=Earth%20is%20mostly%20a%20closed%20system) and [here](https://en.wikipedia.org/wiki/Earth_mass#Variation)).
 
-The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy inputs to maximally generate entropy in the surroundings while maintaining a low-entropy internal state. The concept of [**exergy**](https://en.wikipedia.org/wiki/Exergy) is useful in quantifying the potential of an open system to do useful work and reduce its entropy. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it, and the exergy of a system is given by
+The biosphere, and life itself (such as a cell) is an open system, and one in a highly non-equilibrium state, using free energy inputs to maximally generate entropy in the surroundings while maintaining a low-entropy internal state. The concept of [**exergy**](https://en.wikipedia.org/wiki/Exergy) is useful in quantifying the potential of a closed or open system to do useful work and reduce its internal entropy. The exergy content of an energy source is the maximum useful work that can be extracted reversibly from it while rejecting heat to the surroundings, and the exergy of a system is given by
 
 $$ B = H - T_0 S $$
 
@@ -1261,7 +1261,7 @@ where $ H $ is the enthalpy, $ S $ is the entropy and $ T_0 $ is the 'dead state
 
 For example, although a plant radiates away as much energy as it receives (otherwise it would heat up), the *exergy* of the incoming solar radiation is much higher than that of the outgoing thermal radiation, due to the Sun's high blackbody spectrum temperature giving it a low entropy. The net exergy flux into the plant is what allows its internal processes to do useful work, which is to perform the endergonic, entropy-reducing reactions in photosynthesis. The transpiration stream of the plant provides the main high-entropy output of a plant in the form of water vapour, increasing the entropy of the surroundings significantly, allowing plants to harvest the external free energy of sunlight to create internal order. All life indirectly enjoys this benefit, since plants act as producers, providing energy (released by metabolism of food intake) for organisms at higher trophic levels in the food webs.
 
-In Monod's 1971 book, *Chance and Necessity*, he recounts an experimental verification that life does not violate the 2nd law of thermodynamics:
+In Monod's (1965 Nobel Prize in Physiology) 1971 book, *Chance and Necessity*, he recounts an experimental verification that life does not violate the 2nd law of thermodynamics:
 
 >We take a milliliter of water having in it a few milligrams of a simple sugar, such as glucose, as well as some mineral salts containing the essential elements that enter into the chemical constituents of living organisms (nitrogen, phosphorus, sulfur, etc.). In this medium we grow a bacterium, for example *Escherichia coli* (length, 2 microns; weight, approximately $ 5 \times 10^{-13} $ grams). Inside thirty-six hours the solution will contain several billion bacteria. We shall find that about 40% of the sugar has been converted into cellular constituents, while the remainder has been oxidized into carbon dioxide and water. By carrying out the entire experiment in a calorimeter, one can draw up the thermodynamic balance sheet for the operation and determine that, as in the case of crystallization, **the entropy of the system as a whole (bacteria plus medium) has increased a little more than the minimum prescribed by the second law**. Thus, while the extremely complex system represented by the bacterial cell has not only been conserved but has multiplied several billion times, the thermodynamic debt corresponding to the operation has been duly settled.
 
@@ -1271,7 +1271,7 @@ Useful resources:
 - Entropy and evolution ([Styer, 2008](https://www.fisica.net/epistemologia/STYER_Entropy_and_Evolution.pdf)), a basic pedagogical paper explaining why evolution does not violate the 2nd law.
 - [A YouTube video by Veritasium on the concept of entropy](https://www.youtube.com/watch?v=DxL2HoqLbyA), with a section on entropy in life from 17:08.
 - A practical thermodynamic analysis of photosynthesis ([Keller, 2013](https://www.mb.uni-siegen.de/tts/personen/juk/biothermodynamik/photosynthese_neu.pdf)).
-- A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight. A summary of radiation exergy is given on this [Wikipedia page](https://en.wikipedia.org/wiki/Exergy#Exergy_Analysis_involving_Radiative_Heat_Transfer).
+- A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight.
 - Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life and solar radiation on the entropy and energy budgets of the Earth.
 
 ### Non-equilibrium thermodynamics: the driving force for life
@@ -1288,7 +1288,6 @@ Some of the key authors in non-equilibrium thermodynamics include:
 
 - [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), who wrote the book *What is Life?* in 1944, kickstarting the discussion of thermodynamics in the context of biology.
 - [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), who won the 1977 Nobel Prize in Chemistry for his work on dissipative structures and self-organisation, and wrote the textbook on the topic.
-- [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod), who won the 1965 Nobel Prize in Physiology or Medicine. In his 1971 book *Chance and Necessity*, he discusses the results of a direct experimentation how life increases the entropy of the surroundings.
 - [Jeremy England](https://en.wikipedia.org/wiki/Jeremy_England), who applies dissipative structuring to the origin of life.
 - [Karo Michaelian](https://scholar.google.com/citations?user=NvAthrEAAAAJ), who has written extensively on the thermodynamics of evolution and abiogenesis. Some of his papers are featured in my '[Origin of Life](/post/origin-of-life-research/#non-equilibrium-thermodynamics-and-information-theory)' bibliography.
 
@@ -1296,11 +1295,21 @@ Some of the key authors in non-equilibrium thermodynamics include:
 
 In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
 
-Intuitively, evolution involves an increase in the information content of a genome, but quantifying this rigorously is not easy. Some examples of this are described below.
+The [data processing inequality](https://en.wikipedia.org/wiki/Data_processing_inequality) (DPI) can be considered the information analog of the 2nd law of thermodynamics: if $ X \rightarrow Y \rightarrow Z $ forms a Markov chain, then no processing of $ Y $ (deterministic or random), can increase the information that $ Y $ contains about $ X $, i.e.
 
-In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the statistical information entropy of the genome of COVID-19 over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents the creation of new Shannon information in the genome. Information entropy decreases in living systems in order to promote more efficient gradient dissipation, which increases total entropy, in accordance with non-equilibrium thermodynamics.
+$$ I(X; Y) \geq I(X; Z), \ \ \ \ \ \text{where} \ \ \ I(X; Y) = H(X) - H(X | Y) $$
+
+($ I $: mutual information, $ H $: information entropy.)
+
+The DPI applies in the information analog of a closed system, where *all* of the influence of $ X $ on $ Z $ flows through $ Y $, and that there is no external intervention or feedback. Intuitively, evolution involves an increase in the raw information content of a genome, enabled by the fact that evolution is an informationally open system with feedback from the environment (natural selection). The mutual information with the environment must increase more than the entropy of the genome decreases:
+
+$$ -\Delta H(\text{genome}) \leq \Delta I(\text{genome}; \ \text{environment}). $$
+
+Some examples of quantifying the information gains occurring in evolution are given below:
 
 In [Chapter 19 of *Information Theory, Inference and Learning Algorithms*](https://www.inference.org.uk/itprnn/book.pdf#page=281) by David MacKay, a model for the Shannon information of a simple binary coded genome is presented, with the conclusion being that meiosis enables the information content of a genome to grow much faster (due to recombination) than mitosis alone.
+
+In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the information entropy $ H $ of the genome of the SARS-CoV-2 virus (COVID-19) over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents the creation of new Shannon information in the genome. Information entropy decreases in living systems in order to promote more efficient gradient dissipation, which increases total entropy, in accordance with non-equilibrium thermodynamics.
 
 ---
 

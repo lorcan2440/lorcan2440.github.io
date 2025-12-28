@@ -38,13 +38,14 @@ The history of atomic theory is commonly taught as an example of the self-correc
 **Dalton’s Model** (Dalton, 1803). He conceptualised atoms as hard spheres in different forms (elements), that atoms can join together to form compounds, and that chemical reactions involve rearranging the atoms. This was capable of explaining proportionality and stoichiometry in compounds. Dalton and his contemporaries did not suggest that atoms physically took this form, instead using it as a visual aid.
 
 **Kinetic Theory of Gases** (Avogadro, 1811). Avogadro considered gases as lots of molecules made of small numbers of atoms, building on Bernoulli’s hydrodynamic theory and reconciling it with Gay-Lussac’s law.
-Periodic Table (Mendeleev, 1871). By the 1830s, the molecular formulas of many simple molecules had been correctly identified, and in 1871, Mendeleev’s periodic table of elements was published, recognising periodicity and predicting properties of undiscovered elements.
+
+**Periodic Table** (Mendeleev, 1871). By the 1830s, the molecular formulas of many simple molecules had been correctly identified, and in 1871, Mendeleev’s periodic table of elements was published, recognising periodicity and predicting properties of undiscovered elements.
 
 **Disproof of the Aether** (Michelson and Morley, 1887). The Michelson-Morley experiment disproved the existence of the luminiferous aether, requiring that light can travel in a vacuum. Although Maxwell’s theory of electromagnetism assumed the aether’s presence, it was not required for the theory to be self-consistent.
 
 **Plum Pudding Model** (Thompson, 1904). Proposed after his discovery of the electron with cathode ray tube experiments in 1897, with atoms as a large positively charged body with small negative electrons distributed inside. The model was unable to predict most physical properties (e.g. mass, volume, charge, magnetic moment), and so some physicists still doubted that atoms existed (one of the last being Mach, 1910), though chemists had come to accept their existence in some form since the mid 1800s.
 
-**Saturnian Model** (Nagaoka, 1904). Nagaoka opposed the plum pudding model on the grounds that opposite charges in direct contact would be too unstable. He instead proposed that a large number of electrons orbited a central positive charge in a single near-continuous rotating ring.
+**Saturnian Model** (Nagaoka, 1904). Nagaoka opposed the plum pudding model on the grounds that opposite charges in direct contact would be too unstable. He instead proposed that a large number of electrons orbited a central positive charge in a single near-continuous rotating ring, like the rings of the planet Saturn.
 
 **Nuclear Model** (Rutherford, 1911). Proposed after his discovery of the proton with his alpha particle scattering experiment, with a small positive nucleus and electrons around.
 
@@ -63,12 +64,12 @@ Periodic Table (Mendeleev, 1871). By the 1830s, the molecular formulas of many s
 **Relativistic Quantum Model** (Dirac, 1928). Formulated the first quantum theory that incorporated Einstein’s special relativity, describing electrons as excitations of a spinor field (fundamental particles with intrinsic spin) and photons as excitations of an electromagnetic field. This also predicted antimatter, with the positron being discovered in a cloud chamber by Anderson in 1932.
 
 **Band Theory** (Bloch, 1928). Developed the band theory of network solids by applying quantum mechanics to periodic lattices, laying the ground for solid state and semiconductor physics.
-All Notes	23.1. History of Science
 
 **Crystal Field Theory (CFT)** (Bethe and van Vleck, 1929). Developed to describe ionic bonding in metal-inorganic complexes using the concepts of atomic orbital theory.
 
 **Hybridisation Theory** (Pauling, 1931). Described covalent bonding in terms of atomic orbitals.
-Molecular Orbital (MO) Theory (Hund, Mulliken and Hückel, 1932). Described covalent bonds as in-phase and antiphase overlaps between atomic or hybridised orbitals. Mulliken and Hund invented LCAO MO theory while Hückel applied MO theory to conjugated π systems.
+
+**Molecular Orbital (MO) Theory** (Hund, Mulliken and Hückel, 1932). Described covalent bonds as in-phase and antiphase overlaps between atomic or hybridised orbitals. Mulliken and Hund invented LCAO MO theory while Hückel applied MO theory to conjugated $π$ systems.
 
 **Neutrons and Isotopes** (Chadwick, 1932). Neutrons were discovered in the nucleus by observing radiation produced when beryllium was bombarded with alpha particles.
 
