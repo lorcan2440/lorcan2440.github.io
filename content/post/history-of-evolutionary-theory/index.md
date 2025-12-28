@@ -5,7 +5,7 @@ subtitle: Exploring the way we came to understand how life came to be.
 date:
 summary:
 draft: false
-featured: false
+featured: true
 tags:
   - biology
   - evolution

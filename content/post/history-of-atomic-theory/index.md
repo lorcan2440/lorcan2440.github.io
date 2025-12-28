@@ -5,7 +5,7 @@ subtitle: Exploring the way we came to understand matter itself.
 date:
 summary:
 draft: false
-featured: false
+featured: true
 tags:
   - chemistry
   - history of science
