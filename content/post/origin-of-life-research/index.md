@@ -219,6 +219,14 @@ Relevant concepts in the complexification of prebiotic chemistry, as suitable sy
 
 >A comprehensive review of the concept of 'code biology', exploring the origin of the genetic code and the RNA to protein translation system. One idea is that life originally used much fewer amino acids, but the utility of proteins drove selection for an expanded set of amino acids, rising to the 20 in use today.
 
+\[D8\] Vopson, M. & Lepadatu, S. (2023) '[**Second law of information dynamics**](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)'. *AIP Advances*, 12, 075310, doi:10.1063/5.0100358.
+
+>The study calculated the statistical information entropy of the genome of COVID-19 over its mutational history between 2020 and 2022, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents the creation of new Shannon information in the genome. Information entropy decreases in living systems in order to promote more efficient gradient dissipation, which increases total entropy, in accordance with non-equilibrium thermodynamics.
+
+#### Further commentary
+
+In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
+
 ---
 
 ## SYNTHESIS OF SMALL MOLECULES
