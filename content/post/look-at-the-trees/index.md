@@ -41,6 +41,8 @@ with the thermodynamic debt having been paid for in the currency of ATP. Ancient
 
 {{< figure src="calvin-cycle.png" title="The Calvin cycle occurs in the chloroplasts of plants. Biochemical fuel in the form of ATP (and the reduced enzyme cofactor NAPDH) is produced by the [light-dependent reactions](https://en.wikipedia.org/wiki/Light-dependent_reactions), which is then fed into the (light-independent) Calvin cycle above to fix carbon dioxide into larger organic molecules like GA3P (glyceraldehyde 3-phosphate) and later glucose and polysaccharides like starch and cellulose. Since the RuBisCo enzyme will happily bind oxygen nearly as easily as carbon dioxide, wasting energy, three variants of carbon capture have evolved in plants (C3, C4 and CAM) as a defence against [photorespiration](https://en.wikipedia.org/wiki/Photorespiration) in their specific climates." >}}
 
+\* *In case my mountain metaphor isn't clear: entropy = gravity, Gibbs free energy = the mountain landscape, light energy = ...[sherpas](https://www.bbc.co.uk/newsround/27130467)?*
+
 Once multicellular, plant evolution was guided by one rule: 
  
 $$ \text{more sunlight → more energy → more growth → more sunlight.} $$
