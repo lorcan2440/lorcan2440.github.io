@@ -121,6 +121,13 @@ Trees, like all photosynthetic life, are the primary producers for the vast majo
 
 \* *exception: [chemosynthetic](https://en.wikipedia.org/wiki/Chemosynthesis) organisms living near deep hydrothermal vents, where sunlight cannot penetrate. Their free energy source is instead the geothermal heat of the Earth, provided via [chemical-exergy](https://en.wikipedia.org/wiki/Exergy#Chemical_exergy)-rich molecular fuel.*
 
+A ubiquitous property of life is that it is able to maintain its internal state, distinct to and despite disturbances from its environment (homeostasis). This is the precise opposite of thermodynamic equilibrium: any organism in equilibrium with its surroundings is [*dead*](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s22-08-thermodynamics-and-life.html#:~:text=Any%20organism%20in%20equilibrium%20with%20its%20environment%20is%20dead.). The energetic path to life is:
+
+$$ \text{free energy input → nonequilibrium system} $$
+$$ \text{→ dissipative structuring → simplest life} $$
+
+Trees sit at both ends of this story. They are among the most complex macroscopic life forms on Earth, yet they remain directly coupled to the biosphere's primary energy source, where nearly all other organisms have increasingly [outsourced](https://en.wikipedia.org/wiki/Trophic_level) the collection of free energy to them. In doing so, they make the rest of the living world possible.
+
 ## Conclusions
 
 So, whether it's the way trees grow structurally or energetically, we see optimisation that could be naively attributed to intelligent design. In a sense, it's not wrong to say *"look at the trees! they show design!"* - BUT:
