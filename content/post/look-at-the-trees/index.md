@@ -33,7 +33,7 @@ $$ ATP + H_2O \xrightarrow[]{\Delta_f G' ^{\ominus} \ = \ -37 \ kJ/mol} ADP + P_
 
 $$ NAD(P)H + H^+ + \frac{1}{2} O_2 \xrightarrow[]{\Delta_f G' ^{\ominus} \ = \ -220 \ kJ/mol} NAD(P)^+ + H_2O $$
 
-After throwing dozens of ATPs and NADPHs and half a dozen carbon dioxide and water molecules into various enzyme complexes, the thermodynamic balance shifts just enough to pull us up the mountain and make a single molecule of precious glucose:
+After throwing dozens of ATPs and NADPHs and half a dozen carbon dioxide and water molecules into various enzyme complexes, the free energy balance shifts just enough to pull us up the mountain and make a single molecule of precious glucose:
 
 $$ 6 \ CO_2 \ + \ 6 \ H_2O \xrightarrow[]{\Delta_f G' ^{\ominus} \ = \ +2,872 \ kJ/mol} C_6H_{12}O_6 \ + \ 6 \ O_2 $$
 
