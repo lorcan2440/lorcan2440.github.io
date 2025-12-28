@@ -259,7 +259,11 @@ Another effect could be the thermal expansion (density reduction) of the solutio
 
 We have assumed that the volume of the water does not change when we add the benzyl alcohol. But at room temperature, pure benzyl alcohol (and acetic acid) are both liquids, so they occupy some finite volume too. But there is no guarantee that volume is conserved when we mix: for example, when we add sodium chloride ($ NaCl $) to water, the volume actually *decreases* slightly, as the ions are highly solvated, bringing the water molecules closer together, increasing the density slightly. A similar phenomenon occurs when we mix a polar liquid (e.g. ethanol, acetic acid, or benzyl alcohol) with water: the total volume is less than the sum of the original isolated volumes. This is called having a negative 'excess volume'.
 
-I wasn't able to find literature values for the excess volume of benzyl alcohol in water (with the possible exception of [this paper](http://www.eemj.icpm.tuiasi.ro/pdfs/vol22/no12/16_515_Birgauanu_23.pdf) that I can't access!). The total volume of the solution is likely to be close to the volume of the water alone, as the effect of adding the alcohol and contracting the volumes cancel out to some degree. But there would still be some leftover deviation. This contraction changes the volume and concentrations of the ions in solution, shifting equilibria slightly from what we calculated.
+Using the experimental data in ([Střı́teská, Hnědkovský & Cibulka, 2004](https://doi.org/10.1016/j.jct.2004.02.003)), the pure molar volume of benzyl alcohol is 103.6 cm$^3$/mol, and the excess molar volume at infinite dilution is -2.1 cm$^3$/mol (a slight contraction), giving a total volume of
+
+$$ V = 1000.0 + 0.1 \times 103.6 + 0.1 \times (-2.1) = 1010.15 cm^3 $$
+
+so the volume of the solution has increased by 1\% relative to 1 L of pure water. This slightly changes the concentrations of the ions in solution. Since both the autoionisation constant and the equilibrium constant have dimensions in molar, this effect shifts the equilibria slightly.
 
 **Dissolving vs dissociating**
 
