@@ -206,7 +206,7 @@ $$ [H^+]^3 + K_a [H^+]^2 - (K_w + K_a c_0) [H^+] - K_a K_w = 0 $$
 
 where $ c_0 = 0.1, \ K_a = 3.9811 \times 10^{-16} \ \textrm{and} \ K_w = 1.0 \times 10^{-14} $, with all units in molar.
 
-What we have derived is sometimes called the [Charlot equation](https://en.wikipedia.org/wiki/Charlot_equation). As a cubic equation, it is tough to solve algebraically. We can solve it numerically instead to get three possible roots:
+What we have derived is a simplified form of what is sometimes called the [Charlot equation](https://en.wikipedia.org/wiki/Charlot_equation). As a cubic equation, it is tough to solve algebraically. We can solve it numerically instead to get three possible roots:
 
 $$ [H^+] = 1.00199 \times 10^{-7}, \ \ -3.9652 \times 10^{-16}, \ \ -1.00199 \times 10^{-7} $$
 
@@ -243,7 +243,7 @@ as one water molecule transfers a proton to another through a hydrogen bond. At 
 
 Throughout, we've been using concentration equilibrium constants, $ K_a $ and $ K_w $, which are defined in terms of molarity. This is usually the most convenient way to express them, but in some circumstances, we need to use the *activity* of the species instead of concentration.
 
-*Activity* is simply a way to quantify the 'effective' concentration of a species. For example, if some of the ions in solution get 'stuck' to the hydrophilic walls of the container, they are much less available for reaction, so we say that their activity is lower, dropping the overall effective concentration.
+*Activity* is simply a way to quantify the 'effective' concentration of a species. For example, if some of the ions in solution get 'stuck' to the hydrophilic walls of the container, they are much less available for reaction in the bulk solvent, so we say that their activity is lower, dropping the overall effective concentration.
 
 To calculate pH, we should really be using the *activity* of protons, $ a_{H^+} $, instead of the concentration, as well as the dimensionless equilibrium constants, where we use activities instead of concentrations.
 
@@ -251,7 +251,7 @@ If all activity coefficients are equal to 1 (i.e. ideal behaviour, no species ar
 
 **Temperature dependence of equilibria**
 
-Additionally, like all physical or chemical changes, there is some associated enthalpy change, meaning there will be some amount of heat released or absorbed during the process. For acid dissociations, this is usually an exothermic process, so heat is released, slightly warming the solution for some time. Since equilibrium constants are strongly temperature dependent, the ratios of the ion concentrations would change too, affecting the transient pH while the heat is dissipated. Due to the high heat capacity ('thermal inertia') of water, this effect is likely to be small, and it would be would be compensated by a shift in the equilibria to lessen the exothermic dissociation reactions (by Le Chatelier's principle), but it still may be worth considering for high precision work.
+Additionally, like all physical or chemical changes, there is some associated enthalpy change, meaning there will be some amount of heat released or absorbed during the process. For acid dissociations, this is usually an exothermic process, so heat is released, slightly warming the solution for some time. Since equilibrium constants are strongly temperature dependent, the ratios of the ion concentrations would change too, affecting the transient pH while the heat is dissipated, assuming the thermal diffusion timescale is much longer than the reaction equilibration timescale (valid for all solutions larger than a few nanolitres). Due to the high heat capacity (thermal inertia) of water, this effect is likely to be small, and it would be would be compensated by a shift in the equilibria to lessen the exothermic dissociation reactions (by Le Chatelier's principle), but it still may be worth considering for high precision work.
 
 Another effect could be the thermal expansion (density reduction) of the solution on the slight heating, increasing the volume and diluting the concentrations, changing the equilibrium ratios again.
 
@@ -263,7 +263,7 @@ Using the experimental data in ([Střı́teská, Hnědkovský & Cibulka, 2004](h
 
 $$ V = 1000.0 + 0.1 \times 103.6 + 0.1 \times (-2.1) = 1010.15 cm^3 $$
 
-so the volume of the solution has increased by 1\% relative to 1 L of pure water. This slightly changes the concentrations of the ions in solution. Since both the autoionisation constant and the equilibrium constant have dimensions in molar, this effect shifts the equilibria slightly.
+so the volume of the solution has increased by 1\% relative to 1 L of pure water. This slightly dilutes the solution below 0.1 M, bringing the pH even closer to neutral (by mere millionths of pH units).
 
 **Dissolving vs dissociating**
 
