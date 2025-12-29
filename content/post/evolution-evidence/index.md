@@ -1295,7 +1295,7 @@ Some of the key authors in non-equilibrium thermodynamics include:
 
 ### Information theory and evolution
 
-In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
+In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate. However, statistical entropy and thermodynamic entropy are not equivalent when applied to the genetic code: statistical entropy quantifies the uncertainty associated with an observation from a given *distribution* of *possible* sequences, while thermodynamic entropy is a property of a given *individual* sequence (and the physical interactions it has *in vivo*).
 
 The [data processing inequality](https://en.wikipedia.org/wiki/Data_processing_inequality) (DPI) can be considered the information analog of the 2nd law of thermodynamics: if $ X \rightarrow Y \rightarrow Z $ forms a Markov chain, then no processing of $ Y $ (deterministic or random), can increase the information that $ Y $ contains about $ X $, i.e.
 
@@ -1307,11 +1307,13 @@ The DPI applies in the information analog of a closed system, where *all* of the
 
 $$ -\Delta H(\text{genome}) \leq \Delta I(\text{genome}; \ \text{environment}). $$
 
-Some examples of quantifying the information gains occurring in evolution are given below:
+Random mutations tend to increase genomic entropy, while natural selection reduces it, allowing an increase in Shannon information (reduction in sequence diversity) if natural selection is strongly purifying (mutational effects are above the selection threshold).
+
+Some examples of quantifying the Shannon information gains occurring in evolution are given below:
 
 In [Chapter 19 of *Information Theory, Inference and Learning Algorithms*](https://www.inference.org.uk/itprnn/book.pdf#page=281) by David MacKay, a model for the Shannon information of a simple binary coded genome is presented, with the conclusion being that meiosis enables the information content of a genome to grow much faster (due to recombination) than mitosis alone.
 
-In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the information entropy $ H $ of the genome of the SARS-CoV-2 virus (COVID-19) over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents the creation of new Shannon information in the genome. Information entropy decreases in living systems in order to promote more efficient gradient dissipation, which increases total entropy, in accordance with non-equilibrium thermodynamics.
+In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the informational entropy $ H $ of the genome of the SARS-CoV-2 virus (COVID-19) over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents an increase in the Shannon information in the genome, as purifying selections acts on the virus.
 
 ---
 
