@@ -45,7 +45,7 @@ X. [**Evolution Debate**](#x-evolution-debate)
 
 ---
 
-## 1. DIRECT OBSERVATION
+# 1. DIRECT OBSERVATION
 
 Microevolution (adaptation and other changes within a species) is commonly observed, but the more striking consequences of evolution usually take place on timescales far too long to observe from start to finish. However, there are some well-established cases where macroevolution can be observed in real time. Some definitions here will be useful:
 
@@ -59,7 +59,7 @@ These multiple definitions are necessary since 'species' is not a fundamental un
 
 Although *microevolution* is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is generally not contested by critics of evolutionary theory. Therefore, we will list here only examples of *macroevolution* that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
 
-### The argument
+## The argument
 
 Darwin's theory of evolution was conceived as the logical conclusion from a series of observations he made during his voyage on the *HMS Beagle* in the 1830s-50s:
 
@@ -85,7 +85,7 @@ Of course in reality, there is ample observable evidence for evolution. *If* mac
 
 Direct observations are not the *best evidence* of evolution as a whole: they do not lead directly to the most profound conclusion of evolution, which is universal common descent of all life. Direct observation is just one line of inquiry: the other lines of evidence serve to justify and corroborate the extrapolation of those observations through deep time, synthesising the theory of evolution as we know it.
 
-### Lizards with placentas
+## Lizards with placentas
 
 {{< figure src="lizard_viviparity.png" title="A [viviparous lizard](https://en.wikipedia.org/wiki/Viviparous_lizard)." >}}
 
@@ -95,7 +95,7 @@ While observing a population of the lizard *Zootoca vivipara* in the Alps, repro
 
 Sources: ([Blackburn, 2006](https://www.researchgate.net/publication/233720256_Squamate_reptiles_as_model_organisms_for_the_evolution_of_viviparity)), ([Cornetti *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4806899/)) and [here](https://www.youtube.com/watch?v=t1xy9XaEaeo) (video).
 
-### Fruit flies feeding on apples
+## Fruit flies feeding on apples
 
 {{< figure src="apple_maggot_fly.png" title="An [apple maggot fly](https://en.wikipedia.org/wiki/Apple_maggot)." >}}
 
@@ -105,7 +105,7 @@ This is a case of 'sympatric speciation': the geographic range of the apple grou
 
 Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf) (several primary sources within).
 
-### The London Underground mosquito
+## The London Underground mosquito
 
 {{< figure src="london_underground_mosquito.png" title="A [london underground mosquito](https://en.wikipedia.org/wiki/London_Underground_mosquito)." >}}
 
@@ -115,7 +115,7 @@ The new species breeds all-year-round, is cold intolerant and bites rats, mice a
 
 Sources: ([Garras & Gray, 2022](https://www.researchgate.net/publication/371326691_Rapid_Speciation_of_the_London_Underground_Mosquito_Culex_pipiens_molestus/fulltext/647f5872b3dfd73b776979eb/Rapid-Speciation-of-the-London-Underground-Mosquito-Culex-pipiens-molestus.pdf)) and ([Simms, 2025](https://www.nature.com/articles/d41586-025-00323-9)).
 
-### Green algae with multicellularity
+## Green algae with multicellularity
 
 {{< figure src="green_algae_multicellular.png" title="Some [green algae](https://en.wikipedia.org/wiki/Green_algae)." >}}
 
@@ -125,7 +125,7 @@ Another common trait of extant multicellular life is differentiated tissue forma
 
 Sources: ([Herron *et al.*, 2019](https://www.nature.com/articles/s41598-019-39558-8)), ([Yamashita *et al.*, 2016](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-016-0794-x)), ([Gao *et al.*, 2024](https://www.nature.com/articles/s41467-024-54152-x)) for cell specialisation, [here](https://www.youtube.com/watch?v=pnua_NkuYoU) (video) and [here](https://www.youtube.com/watch?v=k8Y29mBgNf0) (long video).
 
-### Darwin's finches, revisited 150 years later
+## Darwin's finches, revisited 150 years later
 
 {{< figure src="darwin_finches.png" title="The [Daphne Major finches](https://en.wikipedia.org/wiki/Daphne_Major_finches) and their relatedness." >}}
 
@@ -133,7 +133,7 @@ This is a [textbook example](https://en.wikipedia.org/wiki/Darwin%27s_finches) o
 
 Sources: ([Lamichhaney *et al.*, 2017](https://www.science.org/doi/10.1126/science.aao4593)), ([Grant & Grant, 2006](https://www.science.org/doi/10.1126/science.1128374)) and [here](https://www.princeton.edu/news/2017/11/27/study-darwins-finches-reveals-new-species-can-develop-little-two-generations) (article).
 
-### Salamanders, a classic ring species
+## Salamanders, a classic ring species
 
 {{< figure src="salamander_ring.png" title="The ring of salamanders in California." >}}
 
@@ -143,7 +143,7 @@ This process took millions of years, so it wasn't *directly* observed, but the s
 
 Source: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/).
 
-### Greenish warbler, another ring species
+## Greenish warbler, another ring species
 
 {{< figure src="greenish_warbler.png" title="A [greenish warbler](https://en.wikipedia.org/wiki/Greenish_warbler)." >}}
 
@@ -151,7 +151,7 @@ This is another ring species, and one that is *closer* to a true ring species th
 
 Sources: [here](https://whyevolutionistrue.com/2014/07/16/there-are-no-ring-species/) and ([Alcaide *et al.*, 2014](https://www.nature.com/articles/nature13285)).
 
-### Hybrid plants and polyploidy
+## Hybrid plants and polyploidy
 
 {{< figure src="tragopogon_polyploidy.png">}}
 
@@ -163,7 +163,7 @@ Two new plant species (*T. mirus* and *T. miscellus* (goatsbeards)), which are '
 
 Source: ([Roose & Gotlieb, 1976](https://academic.oup.com/evolut/article/30/4/818/6867053)), ([Soltis *et al.*, 2004](https://academic.oup.com/biolinnean/article-abstract/82/4/485/2643081)), ([Mosquin, 1967](https://www.jstor.org/stable/2406768)) and [here](https://escholarship.org/content/qt0s7998kv/qt0s7998kv.pdf) (info on polyploid speciation)
 
-### Amoeboid rhizarian, with endosymbiosis
+## Amoeboid rhizarian, with endosymbiosis
 
 {{< figure src="rhizarian.png" title="A rhizarian protist." >}}
 
@@ -173,7 +173,7 @@ In the lab, it was found that some strains of wild amoeboid protists in clade *R
 
 Sources: ([Solbach, Bonkowski & Dumack, 2021](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.642216/full)) and ([Al-Quadan & Abukwaik, 2022](https://kids.frontiersin.org/articles/10.3389/frym.2022.1104350)).
 
-### Marbled crayfish, with parthenogenesis
+## Marbled crayfish, with parthenogenesis
 
 {{< figure src="marbled_crayfish.png" title="A [marbled crayfish](https://en.wikipedia.org/wiki/Marbled_crayfish)." >}}
 
@@ -181,7 +181,7 @@ The marbled crayfish (*Procambarus virginalis*), also known as 'marmorkrebs', is
 
 Sources: ([Gutekunst *et al.*, 2018](https://www.nature.com/articles/s41559-018-0467-9)), [here](https://www.nationalgeographic.com/animals/article/marbled-crayfish-marmorkrebs-evolution-genes-tumors-spd) (article), ([Scholtz *et al.*, 2003](https://www.nature.com/articles/421806a)), [here](https://marinescience.blog.gov.uk/2025/05/15/marbled-crayfish-a-serious-non-native-threat-with-potential-risk-of-introduction-through-the-pet-trade/) (government document) and [here](https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf) (company document).
 
-### Cichlid fish
+## Cichlid fish
 
 {{< figure src="cichlid_fish.png" title="Evolution of cichlid fish in Lake Victoria and surrounding lakes. Figure source: ([Meier *et al.*, 2023](https://www.science.org/doi/10.1126/science.ade2833))." >}}
 
@@ -191,7 +191,7 @@ Lakes Malawi and Tanganyika also contain the same clade of cichlid fish but are 
 
 Sources: ([Verheyen *et al.*, 2003](https://d-nb.info/1107018137/34)), ([Meier *et al.*, 2017](https://www.nature.com/articles/ncomms14363)), ([O'Quinn *et al.*, 2010](https://pubmed.ncbi.nlm.nih.gov/20601410/)) on opsins and ([Johnson, Kelts & Adada, 2009](https://www.researchgate.net/publication/232689605_The_Holocene_History_of_Lake_Victoria)) on the history of Lake Victoria.
 
-### Alligators and chickens growing feathers
+## Alligators and chickens growing feathers
 
 {{< figure src="alligator_feathers.png" title="Primitive feathers on an alligator." >}}
 
@@ -201,7 +201,7 @@ A similar thing has been done to turn the chickens' scales on their feet into fe
 
 Sources: ([Lowe *et al.*, 2014](https://academic.oup.com/mbe/article/32/1/23/2925601)), ([Wu *et al.*, 2017](https://academic.oup.com/mbe/article/35/2/417/4627828)) and ([Lee *et al.*, 2020](https://academic.oup.com/mbe/article/37/9/2477/5818883)).
 
-### Eurasian blackcap
+## Eurasian blackcap
 
 {{< figure src="eurasian_blackcap.png" title="A [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap)." >}}
 
@@ -209,25 +209,25 @@ The migratory bird *Sylvia atricapilla* typically flies either south-westerly to
 
 Sources: ([Torrice, 2009](https://www.science.org/content/article/feed-bird-split-species)), [here](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-berthold-et-al-1992/) (an interview about [(Berthold *et al.*, 1992)](https://www.nature.com/articles/360668a0)) and ([Mettler *et al.*, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836794/)).
 
-### House mice
+## House mice
 
 In the ~250 years after people introduced house mice to the Faroe Islands, rapid speciation has occured, with noticeable differences in morphology.
 
 Source: ([Berry, Jakobson & Peters, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1978.tb03314.x)).
 
-### Worms in the lab
+## Worms in the lab
 
 In 1964, six individuals of the polychaete worm *Neanthes arenaceodentata* were collected from a harbour in southern California and used to found a laboratory population of >1000. By 1991, the lab population could no longer interbreed with the wild population, as there was some premating isolation, and complete postmating isolation. Chromosomal differences were also observed between the lab and wild populations. 
 
 Sources: ([Weinberg, Starczak and Jörg, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1992.tb00629.x)) and [here](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/evolution/lect9_18.html).
 
-### Lice on birds
+## Lice on birds
 
 A population of slender pigeon lice (*Columbicola columbae*), which naturally parasitise rock pigeons (*Columba livia*), were captured. The lice hide between the parallel feather barbs of the birds to avoid being eaten, requiring them to be below a certain width. The lice were then transferred to giant runts (a domesticated breed of pigeon), which are three times larger, and observed over a period of 4 years (~60 lice generations). Louse body length, metathorax width, and head width were measured, and it was found that the new lice had grown significantly larger. Directional selection is for larger lice on larger hosts, since lice mobility and reproductive capacity is higher without compromising ability to hide within feathers. Partial reproductive isolation was also observed between the two lice groups.
 
 Source: ([Villa *et al.*, 2019](https://www.pnas.org/doi/pdf/10.1073/pnas.1901247116)).
 
-### Transmissible cancers and immortalised cell lines
+## Transmissible cancers and immortalised cell lines
 
 Cancers are clonal populations of cells that can be considered as a 'breakaway population' living within a host. While all known human cancers are confined to their host, some cancers are known in animals that are transmissible, essentially becoming their own parasitic species.
 
@@ -239,7 +239,7 @@ Cancers are clonal populations of cells that can be considered as a 'breakaway p
 
 This type of breakaway transition has been hypothesised as the distant origin of some evolutionary lineages, such as the single-celled [*Myxosporea*](https://en.wikipedia.org/wiki/Myxosporea) class of cnidarians (jellyfish). This has been referred to as the 'SCANDAL' hypothesis (speciation by cancer development in animals: ([Panchin, Aleochin & Panchin, 2019](https://pubmed.ncbi.nlm.nih.gov/30674330/))), although this idea remains controversial.
 
-### Additional examples
+## Additional examples
 
 Further collections of observed cases of macroevolution is given on TalkOrigins [here](https://www.talkorigins.org/faqs/faq-speciation.html) and [here](https://www.talkorigins.org/faqs/speciation.html), known for several decades now.
 
@@ -247,15 +247,17 @@ Further collections of observed cases of macroevolution is given on TalkOrigins 
 
 ---
 
-## 2. GENETICS
+# 2. GENETICS
 
 Genetic similarity between organisms is indicative of evolutionary relatedness, since mutation accumulate within lineages and are passed on to offspring. Studying the genomes of extant life therefore informs evolutionary history.
 
-### Pseudogenes
+## Pseudogenes
 
-29.49\% of the human genome is made up of pseudogenes, most (but not all) of which are non-functional (either not transcribed or transcribed levels too low for functionality).
+29.49\% of the human genome is made up of pseudogenes, the vast majority of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-**GULO** (L-gulonolactone oxidase): GULO is mostly conserved across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all of which are monophyletic groups and all are broken in different ways (parsimonious).
+## GULO (L-gulonolactone oxidase)
+
+GULO is mostly conserved and subject to purifying selection across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). The diet of primates is known to be vitamin C-rich (from fruits), and only a small quantity is required to avoid scurvy, so losing GULO conferred no fitness disadvantage and was lost neutrally to genetic drift. GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all of which are monophyletic groups and all are broken in different ways (parsimonious).
 
 In ([Mansueto & Good, 2024](https://link.springer.com/article/10.1007/s00239-024-10165-0)), it is shown that chromosome 8 (containing GULO) underwent inversion in the haplorhine lineage, but that this did not affect the functionality of GULO. When the pseudogene was formed, the mutation rate increased significantly, indicating loss of a selective pressure, such that the Neanderthal GULO differs from the *Homo sapiens* GULO by four SNPs.
 
@@ -265,7 +267,7 @@ Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC14
 
 **DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
 
-### Endogenous retroviruses (ERVs)
+## Endogenous retroviruses (ERVs)
 
 If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. ERV sequences become quickly methylated on inheritance and have their LTRs mutated so cannot jump around the genome any more like retrotransposons, becoming fixed in position before speciation occurs. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
 
@@ -291,7 +293,7 @@ $$ p = \sum_{z=205}^{208} P(|X \cap Y| = z) = 4.59398489... \times 10^{-1032}. $
 
 As intuited, the odds of getting the observed HERV-W distribution in humans and chimps *without* common ancestry is ridiculously tiny: about 1 in $ 10^{1031} $. There are about $ 10^{80} $ atoms in the observable universe, so this is about the same chance of randomly picking the same atom in the universe 14 times in a row! And this is just for *one* type of ERV in *one* pair of species - many other types of ERVs are known in many different species (mostly mammals), and they can be used to reconstruct phylogenies in the same way as any other section of the genome.
 
-### Molecular clocks for the LTRs of ERVs
+## Molecular clocks for the LTRs of ERVs
 
 We can also study the similarity of the sequences themselves of ERVs in different species. The molecular clock hypothesis assumes a roughly uniform mutation rate to genetic sequences over time, so more closely evolutionarily related species should have more similar sequence identity in their ERVs.
 
@@ -301,15 +303,15 @@ A direct comparison of the LTR sequences of ERVs in different animals demonstrat
 
 Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manually_checked_schneule99s_evolutionary/) (reddit post) and [here](https://github.com/implies-casualty/erv-age-correlation) (code and data).
 
-### CpG islands
+## CpG islands
 
 https://biologos.org/series/how-should-we-interpret-biblical-genealogies/articles/testing-common-ancestry-its-all-about-the-mutations
 
-### Heat shock proteins
+## Heat shock proteins
 
 https://link.springer.com/article/10.1007/BF00182743
 
-### Chromosome 2 fusion in the human lineage
+## Chromosome 2 fusion in the human lineage
 
 Humans have 23 pairs of chromosomes, while all other great apes have 24 pairs. To explain this discrepancy, it was suggested that two ancestral hominin chromosomes fused to form one in the human lineage. Based on karyotypes, it was predicted in 1972 that human chromosome 2 and chimp chromosomes 12 and 13 (since renamed to 2A and 2B) were homologous and fit the bill for a fusion event. In an end-to-end fusion of two chromatids, we should expect to find:
 
@@ -325,7 +327,7 @@ Chromosome number alterations are fairly common in nature: for example the many 
 
 Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibbon) and [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (Dr Dan).
 
-### Beneficial mutations in human evolution
+## Beneficial mutations in human evolution
 
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
@@ -355,7 +357,7 @@ Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.o
 - **Sickle cell trait**: in regions of Africa where malaria is prominent, carrying one copy of the recessive sickle cell anaemia allele confers resistance to the *Plasmodium* parasite. While there are associations of sickle cell trait to other medical conditions, many people with the trait remain healthy, making it net beneficial in malaria-endemic regions. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(11)00384-9).
 - **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions (where sunburn is less of a risk).
 
-### Neutral mutations in recent human evolution
+## Neutral mutations in recent human evolution
 
 In some of these cases, no harmful effect is observed despite what is typically thought of as a 'loss of function' (e.g. gene deletion). These result in variation in the population, and may serve as a substrate for future selection, or simply be neutral. Additionally, what is neutral in a current environment may become beneficial in a future environment.
 
@@ -364,7 +366,7 @@ In some of these cases, no harmful effect is observed despite what is typically 
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 - **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
 
-### Human lactose tolerance
+## Human lactose tolerance
 
 In lactose intolerant people (\~65% of humans worldwide), the ability to digest lactose is lost during adolescence. The lactase enzyme is required to metabolise lactose into glucose and galactose. Without lactase in the small intestine, lactose remains available for the bacteria in the large intestine which ferment it, leading to fatty acid and gas production, causing symptoms of lactose intolerance.
 
@@ -374,13 +376,13 @@ In mammals, most metabolic genes except lactase are expressed at low levels earl
 
 Sources: [here](https://pubmed.ncbi.nlm.nih.gov/39171584/) and [here](https://www.youtube.com/watch?v=Ii8sLnCWUTo) (video)
 
-### Herbicide and insecticide resistance
+## Herbicide and insecticide resistance
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3180.2007.00581.x
 
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030205
 
-### Genomics
+## Genomics
 
 The complete genomes of many extant species have been sequenced. Projects in bioinformatics aim to describe and compare the contents and functions of these genomes.
 
@@ -396,7 +398,7 @@ The complete genomes of many extant species have been sequenced. Projects in bio
 
 {{< figure src="genome_size_comparison.png" title="The proportion of **non-coding DNA** across life tends to increase with genome size, as more complex organisms require more control over their gene expression and accumulate more 'junk DNA'." >}}
 
-### *E. Coli* citrate metabolism in the LTEE
+## *E. Coli* citrate metabolism in the LTEE
 
 The [Lenski long-term evolution experiment](https://en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment) (LTEE) is a famous study that's been ongoing since 1988, following 12 initially-identical but separate lines of *E. coli* bacteria over 80,000+ generations thus far. There are no external selective pressures in the LTEE, so the experiment is about what the bacteria could do on their own. Among the outcomes include *de novo* gene birth from non-coding DNA and near-complete speciation into two variants with differing colony size, but most importantly, one line evolved the ability to eat citrate (Cit) in aerobic conditions, a trait universally absent in wild-type *E. coli*. This led to an immediate rise in population density.
 
@@ -406,7 +408,7 @@ In an amusing attempt to refute this, ID advocate Scott Minnich (works at Discov
 
 Sources: [here](https://www.nature.com/articles/nature11514), [here](https://pubmed.ncbi.nlm.nih.gov/26833416/) and [here](https://www.youtube.com/watch?v=q0lB0GAMEsQ) (video).
 
-### Tetherin antagonism in HIV groups M, N and O
+## Tetherin antagonism in HIV groups M, N and O
 
 The human immunodeficiency virus (HIV) is a retrovirus that infects human immune cells expressing the CD4 surface protein, such as helper T-cells and macrophages. Once inside cells, HIV-1's *Nef* and *Vpu* proteins work independently to reduce the expression of CD4, which prevents 'superinfection' (two viruses infecting the same cell) and decreases the chance of an immune response. The slow death of helper T-cells leads to a weakened immune system. 
 
@@ -422,7 +424,7 @@ HIV also simultaneously demonstrates observed 'macroevolution' (to the extent th
 
 Extra sources: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC9467346/).
 
-### Re-evolution of bacterial flagella
+## Re-evolution of bacterial flagella
 
 The flagellum is the flagship allegedly irreducibly complex structure, cited ad nauseum by ID advocates. Since it is the one that has been talked about the most, it has also attracted a lot of attention from real scientists who have promptly disarmed it. In one experiment, the master regulator for flagellum synthesis (FleQ) was knocked out, leaving all of the other flagellar genes intact. But under selective pressure for motility, it was found that another transcription factor that regulates nitrogen uptake from the same protein family (NtrC) was able to 'substitute' for FleQ, essentially by becoming hyperexpressed, so there's so much NtrC in the cell that some of it binds to the FleQ-regulated genes and activates them too.
 
@@ -432,9 +434,9 @@ Source: [here](https://www.science.org/doi/10.1126/science.1259145).
 
 ---
 
-## 3. MOLECULAR BIOLOGY
+# 3. MOLECULAR BIOLOGY
 
-### rRNA phylogenetics of archaea and eukaryotes
+## rRNA phylogenetics of archaea and eukaryotes
 
 For the earliest stages in evolution (unicellular organisms), fossils are scarce, and genomes have mutated beyond recognition in many places, so we must look more carefully. The ribosome is a key piece of cellular machinery that translates RNA into proteins, whose functionality is so tightly constrained that it can be used to measure relatedness across the whole tree of life.
 
@@ -446,7 +448,7 @@ Genomics finds that the most likely matches are from the Asgard clade (discovere
 
 {{< figure src="endosymbiosis_model.png" title="**Inside-Out Model / Entangle-Engulf-Endogenise Model** ([Baum & Baum, 2014](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0076-2)): explains the origin of the nucleus, mitochondria and the endoplasmic reticulum. **A:** an archaeon (eocyte) and a bacterium living separately. **B:** protrusions (‘blebs’) extended to increase proximity with the bacteria. **C, D:** increasing entanglement. **E:** fusion of internal and external membranes. **F:** fully endogenous with offshoots of internal membranes." >}}
 
-### Antibiotic resistance
+## Antibiotic resistance
 
 A striking visualisation of antibiotic resistance is a video of an experiment done by Harvard Medical School, where they created four zones with antibiotic concentrations increasing by a factor of 10 each time. The bacteria would spread outwards up to the boundaries. Most would go extinct, but a few mutants from some populations would survive and move into the next zone. When all zones had been reached, the colonies traced out the pattern of their phylogenetic tree.
 
@@ -454,7 +456,7 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 
 Despite being a highly tangible example of evolution in action, antibiotic resistance is rarely described as "evolution" in the medical literature (sources: [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050030) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1852151/#pbio-0050112-b001)).
 
-### Herbicide resistance
+## Herbicide resistance
 
 The first herbicides, [2,4-D (2,4-dichlorophenoxyacetic acid)](https://en.wikipedia.org/wiki/2,4-Dichlorophenoxyacetic_acid) and [2,4,5-T](https://en.wikipedia.org/wiki/2,4,5-Trichlorophenoxyacetic_acid) are synthetic auxins and were discovered due to their selective targeting of [dicot plants](https://en.wikipedia.org/wiki/Dicotyledon) (includes weeds e.g. dandelions, chickweed, poison ivy etc), while leaving [monocot plants](https://en.wikipedia.org/wiki/Monocotyledon) (includes crops derived from grasses e.g. wheat, corn, barley) mostly unharmed. The monocots are a monophyletic clade nesting within the angiosperms (flowering plants), indicating an evolutionarily conserved mechanism of molecular tolerance in domestic crops.
 
@@ -462,7 +464,7 @@ Other herbicides like glyphosate target all plants regardless, as they inhibit t
 
 (While there is [significant controversy](https://www.youtube.com/watch?v=CxVXvFOPIyQ) surrounding herbicides such as Monsanto's extremely unethical business practices, industry-funded carcinogenicity studies and the use of Agent Orange, this has no bearing on the underlying biological facts!)
 
-### Nylon metabolism in bacteria
+## Nylon metabolism in bacteria
 
 Nylon is a synthetic insoluble semi-crystalline polymer of 6-aminohexanoic acid, invented in 1935 and used in a variety of consumer products.
 
@@ -477,7 +479,7 @@ After some debate in the literature, it has been concluded that one of the new '
 
 It has been shown ([Negoro *et al.*, 2007](https://www.sciencedirect.com/science/article/abs/pii/S0022283607005347)) that EII' has 88\% sequence similarity with EII, but only 0.5\% of the catalytic activity. Just two point mutations in EII' found in EII were needed to raise the activity to 85\% of EII.
 
-### DNT metabolism in bacteria
+## DNT metabolism in bacteria
 
 Dinitrotoluene (DNT) is a unwanted side product in the synthesis of the explosive trinitrotoluene (TNT), which has been produced in the US between 1916 and 1986, and contaminates land surrounding US Air Force bases. Bacteria living in soil polluted with DNT on various bases and DoD sites were found to be consuming the DNT for metabolism as their sole carbon and nitrogen source via aerobic respiration. The DNT was metabolised primarily to nitrite, as well as trace amounts of 2-amino-4-nitrotoluene due to action of nonspecific nitroreductases. These bacteria have been exploited for bioremediation efforts in these areas, with protein engineering helping to increase the degradation rate.
 
@@ -491,11 +493,11 @@ At the *Kitzmiller v Dover* court case, intelligent design advocate Dr Scott Min
 
 Sources: ([Kivisaar, 2011](https://pubmed.ncbi.nlm.nih.gov/21895794/)), ([Pérez-Pantoja *et al.*, 2021](https://pubmed.ncbi.nlm.nih.gov/33734558/)), [here](https://cswab.org/wp-content/uploads/2020/01/DNT-degradation-24-DNT-in-ranges-soils-includes-Badger-.pdf) (document), [here](https://apps.dtic.mil/sti/tr/pdf/ADA480803.pdf) (bioremediation), ([Leungsakul, Johnson & Wood, 2006](https://journals.asm.org/doi/10.1128/aem.02966-05)) (protein engineering), [here](https://www.talkorigins.org/faqs/dover/pf.html#p84) and [here](https://www.talkorigins.org/faqs/dover/day21am2.html#day21am844:~:text=And%20these%20are%20some%20research%20from%20the%20Air%20Force%20Research%20Laboratory%20who%20did%20some%20work%20on%20the%20biochemical%20pathway%20by%20which%20certain%20bacteria%20breakdown%20a%20substance%20called%20DNT%3F) (TalkOrigins).
 
-### *De novo* promoters and orphan genes
+## *De novo* promoters and orphan genes
 
 In ([Yona, Alm & Gore, 2018](https://www.nature.com/articles/s41467-018-04026-w)), the promoter for the *lac* operon in *E. coli* was replaced with random sequences of nucleotides of the same length (~100 nt). A small proportion of these random sequences immediately functioned as low-activity promoters for the operon, but most were inactive. However, after only a single mutation, the whole distribution had shifted towards significantly higher level of *lac* expression (functionality), with many exceeding that of the wild-type promoter, with not a single one remaining nonfunctional.
 
-### Antifreeze proteins
+## Antifreeze proteins
 
 Living in cold environments poses a serious challenge to poikilothermic (not thermally regulated) life, as the water in cells may freeze, halting all metabolic processes and killing the organism. Antifreeze proteins have evolved as a solution: when an ice crystal nucleates, the protein's ice-binding domain attaches to the surface of the crystal, arresting its growth. The ice-binding domain is a regular arrangement of polar hydrophobic amino acids with a separation very close to the lattice constant of ice, creating an ideal fit for hydrogen bonding and Van der Waals' forces at the interface.
 
@@ -507,17 +509,17 @@ In ([Zhuang *et al.*, 2019](https://www.pnas.org/doi/full/10.1073/pnas.181713811
 
 Sources: [here](https://pdb101.rcsb.org/motm/120), [here](https://www.youtube.com/watch?v=u85WyeOnOXA) (video) and [here](https://www.youtube.com/watch?v=l2lXiwbRhb0) (video).
 
-### Cytochrome c oxidase
+## Cytochrome c oxidase
 
 The cytochrome c oxidase (COX) enzyme is a famous and ubiquitous component of the electron transport chain for respiration, found in bacteria, archaea and the mitochondria of eukaryotes. Since COX is universally conserved, we would expect it to be more similar in closely related organisms, and less so in more distant ones. In fact we find experimentally that there is a strong correlation between the number of amino acid substitutions in the COX enzyme and the time since the divergence of the species. This is a powerful demonstration of the ‘[molecular clock](https://en.wikipedia.org/wiki/Molecular_clock)’, which gives us an estimate of the time taken for two genomes to have mutated away from a common ancestor, helping us put a time scale onto our evolutionary tree model.
 
 Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
-### Myoglobin
+## Myoglobin
 
 Source: [here](https://pdb101.rcsb.org/motm/206)
 
-### Ancient biopolymers
+## Ancient biopolymers
 
 - Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
 
@@ -529,7 +531,7 @@ Source: [here](https://pdb101.rcsb.org/motm/206)
 
 ---
 
-## 4. PALEONTOLOGY AND BIOANTHROPOLOGY
+# 4. PALEONTOLOGY AND BIOANTHROPOLOGY
 
 **NOTE: paleontology is the study of fossils, but since human evolution is a common topic, I include lots of human-specific evidence here from the broader field of bioanthropology, which includes non-fossil evidence.**
 
@@ -537,7 +539,7 @@ Fossils are remnants of long-dead life and provide a tangible record of the dist
 
 Some of the most obvious evidence for evolution is 'transitional fossils'. Technically, all fossils are 'transitional', since all life is evolving at all times, but some lineages offer especially clear changes in form over deep time, when ordered by their radiometric dates or strata.
 
-### Horse evolution
+## Horse evolution
 
 {{< figure src="horse-fossils.jpg" title="Horse evolution with complete specimens from three extinct genera shown: *Miohippus* (32-25 MYA), *Orohippus* (~50 MYA) and *Hyracotherium* (~55 MYA). Tree diagram source: ([McFadden, 2005](https://www.staff.ncl.ac.uk/alan.ward/Molecular_Microbiology/Lecture4/Horse_evolution.pdf))." >}}
 
@@ -551,7 +553,7 @@ While *Eohippus* and *Hyracotherium* had four-toed feet, they could still run on
 
 Sources: [here](https://www.floridamuseum.ufl.edu/fossil-horses/amazing-feets/) and [here](https://www.floridamuseum.ufl.edu/fossil-horses/gallery/) (Florida Museum), and [here](https://en.wikipedia.org/wiki/Limbs_of_the_horse) (limbs of the horse)
 
-### Bird evolution
+## Bird evolution
 
 One of the most famous transitional fossils known to Darwin, *Archaeopteryx* displays both ancestral traits (teeth, long bony tail, three claws on wing) and derived traits (feathers, wings, furcula/wishbone, smaller digits).
 
@@ -559,23 +561,23 @@ One of the most famous transitional fossils known to Darwin, *Archaeopteryx* dis
 
 {{< figure src="bird_fossil.png" title="A new species of transitional 'dinosaur to bird' fossil, *Jinguofortis perplexus*, with anatomy labelled *in situ* and to scale. It is from clade *Pygostylia*, dated to the early Cretaceous, 127 million years ago. Source: [here](https://www.pnas.org/doi/10.1073/pnas.1812176115)." >}}
 
-### Whale evolution
+## Whale evolution
 
 {{< figure src="whale_fossils.png" title="Some of the most complete whale fossils: **(a)**: *Pakicetus* (49 MYA), **(b)**: *Ambulocetus* (48 MYA), **(c)**: *Kuchicetus* (48 MYA), **(d)**: *Dorudon* (35 MYA). The hind limb reduces in size, indicating a gradient of adaptation for efficient swimming. These all include the astragalus (ankle bone), which is seen in all even toed artiodactyls (cows, sheep, goats, deer, pigs, hippos...) but is lost in modern whales and dolphins. Photos edited to remove distractions in the backgrounds; original source [here](https://archosaurmusings.wordpress.com/2011/09/26/whale-evolution-series/). Many other species with nearly complete fossils are known: e.g. [here](https://en.wikipedia.org/wiki/Evolution_of_cetaceans)." >}}
 
 {{< figure src="indohyus_fossils.png" title="*Indohyus* (50 MYA) was the land mammal ancestor of all whales, belonging to the clade *Artiodactyla*. **(a)**: skulls of *Indohyus* (left) and a modern raccoon (right), with the white box showing the ear structure of the auditory bulla, unique to all whales. **(b)**: the *Indohyus* skull in more detail. The osteosclerotic bones (such as the involucrum) are indicative of habitual aquatic lifestyle (also found in all whales), supported by oxygen-18 isotope analysis. Source: [here](https://core.ac.uk/download/291497088.pdf). **(c)**: The post-cranial fossil material found from *Indohyus*. **(d)**: Reconstruction of postcrania and artist's impression." >}}
 
-### Tetrapod evolution
+## Tetrapod evolution
 
 Wikipedia pages: [Evolution of tetrapods](https://en.wikipedia.org/wiki/Evolution_of_tetrapods), [Skeletal changes](https://en.wikipedia.org/wiki/Skeletal_changes_of_vertebrates_transitioning_from_water_to_land) and [Vertebrate land invasion](https://en.wikipedia.org/wiki/Vertebrate_land_invasion).
 
-### Plant evolution
+## Plant evolution
 
 Plant fossils has its own field of study: paleobotany.
 
 {{< figure src="plant_fossils.png" title="**(a)**: *Archaeopteris hibernica*, a 'progymnosperm', considered a transitional form between ferns and seed plants. It is a useful index fossil, found worldwide from the late Devonian to the early Carboniferous (380 - 320 MYA). **(b)**: *Wattieza casasii*, an extinct tree from the middle Devonian (~400 MYA) closely related to modern ferns and horsetails." >}}
 
-### Ediacaran Biota (early animals)
+## Ediacaran Biota (early animals)
 
 While the 'Cambrian explosion' is the most well-known expansion of animal and plant life, responsible for the relatively rapid radiation of animal phyla, it was not the origin of most of these phyla, which appeared in the preceeding period, the Ediacaran (635 - 538.8 MYA).
 
@@ -608,7 +610,7 @@ There are also animal fossils dating to even further back than the Ediacaran:
 - The Cryogenian biota, indicated as sponges (animals) by the presence of molecular biomarkers (24-isopropylcholestane, a degraded steroid) in the sediment, dating to around 700 MYA. This use of steranes is discussed in ([Love *et al.*, 2009](https://www.nature.com/articles/nature07673)), as well as in ([Zumberge *et al.*, 2018](https://www.nature.com/articles/s41559-018-0676-2)) for demosponges.
 - [*Otavia antiqua*](https://en.wikipedia.org/wiki/Otavia): a multicellular animal assigned to phylum *Porifera* (sponges), appearing as far back as 760 MYA (late Tonian). Described in ([Brain *et al.*, 2012](https://www.researchgate.net/publication/255728283_The_first_animals_Ca_760-million-year-old_sponge-like_fossils_from_Namibia)).
 
-### Early Eukaryotes
+## Early Eukaryotes
 
 Two major clades of eukaryotes include:
 
@@ -624,7 +626,7 @@ Some known fossils from some of these clades include:
 - [*Grypania*](https://en.wikipedia.org/wiki/Grypania): a tube-shaped fossil proposed to be an algae, dated to the Orosirian, 1,870 MYA.
 - [*Diskagma buttonii*](https://en.wikipedia.org/wiki/Diskagma): a basal eukaryote of unknown affinity dated to the Rhyacian, 2,200 MYA.
 
-### Fake fossils?
+## Fake fossils?
 
 The fact that these fraudulent cases are so rare, are so thoroughly well-scrutinised when they do happen, and are always rejected by the scientific community, serves as reassurance that the vast majority of the fossil record is in fact perfectly reliable, just naturally incomplete.
 
@@ -632,7 +634,7 @@ The occurrence of these frauds in the early 1900s led to increased caution and s
 
 {{< figure src="frauds.png" title="" >}}
 
-### Human evolution
+## Human evolution
 
 Human evolution is an especially well-studied topic. We are primates and great apes, and there is an abundance of fossils to tell us how our lineages developed over time. Genus *Homo* arose from the prior genus *Australopithecus* about 2.5 million years ago, and following a period filled with numerous species of *Homo*, our species *Homo sapiens* emerged about 300,000 years ago. Our close relationship with chimpanzees, gorillas and bonobos make them great for studying behaviour, too.
 
@@ -648,7 +650,7 @@ Human evolution is an especially well-studied topic. We are primates and great a
 
 {{< figure src="species_of_extinct_primates.png" title="A list of many of the known extinct primate species, some of which are close to the human lineage." >}}
 
-### Primate anatomy and taxonomy
+## Primate anatomy and taxonomy
 
 The study of extant primates can also give us clues into our shared past.
 
@@ -666,7 +668,7 @@ These early naturalists (along with many other Western contemporaries) recognise
 
 {{< figure src="sclera.jpg" title="About 1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
 
-### Primate behaviour
+## Primate behaviour
 
 Primate behaviours are stunningly reminiscent of human behaviours.
 
@@ -703,7 +705,7 @@ Many of these behaviours were at one point (even recently) thought to be the uni
 
 Many primatologists doing fieldwork regularly observe the 'humanity' in chimpanzees in particular.
 
-### Bipedalism in Hominins
+## Bipedalism in Hominins
 
 Walking up on two feet (bipedalism) is a trait unique to humans today among the primates, so studying how this evolved is important. The suite of characteristics indicative of bipedalism, which originated in late Miocene hominids, is:
 
@@ -725,8 +727,7 @@ Presentation with extensive comparisons: [here](https://www.youtube.com/watch?v=
 
 Bones can 'follow' any biomechanical trend demanded during evolution, due to [Wolff's law of causal morphogenesis](https://en.wikipedia.org/wiki/Wolff%27s_law). This allows relatively fast variation in bone shape depending on the behaviour of organisms.
 
-
-### Taxonomy of *Australopithecus* and *Homo habilis*
+## Taxonomy of *Australopithecus* and *Homo habilis*
 
 Our genus, *Homo* emerged from one of the coexisting species of the genus *Australopithecus*. Based on the available fossil record, this transition appears to be quite subtle: the brain case sizes overlap, both can use stone tools, both have similar dentition (teeth), and biomechanics studies indicate both were mostly bipedal (though *A. afarensis* only had two arches plus a less-curved third arch in the foot, suggesting habitual bipedality, while *H. habilis* had three fully formed arches, suggesting full obligate bipedality). This high degree of similarity has even led to some paleoanthropologists to suggest that *H. habilis* should in fact be *Australopithecus habilis*. Although this has not been formally adopted, the challenge of a clear-cut taxonomic classification demonstrates the highly transitional nature of these species.
 
@@ -734,11 +735,11 @@ Another example of this comes (ironically) from creationists, who are ideologica
 
 Sources: [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0248), [here](https://www.nature.com/articles/s41467-023-44375-9) and [here](https://www.talkorigins.org/faqs/homs/compare.html).
 
-### Neanderthals are not our ancestors
+## Neanderthals are not our ancestors
 
 One of our closest relatives, the Neanderthals, went extinct about 40,000 years ago. Autapomorphies (uniquely defining traits) of *Homo neanderthalensis* include retreating cheekbones (zygomatics), the occipital bun, large nasal aperture, enhanced prognathism, enhanced brow ridges (supraorbital torus), platycephalic skull, angled squamosal suture, retromolar gap and an elliptical foramen magnum.
 
-### Significant hominin fossils, ichnofossils and artifacts
+## Significant hominin fossils, ichnofossils and artifacts
 
 - **Ardi**: partial skeleton of *Ardipithecus ramidus*, 4.4 MYA, discovered in the Afar rift valley (Ethiopia).
 - **Little Foot (StW 573)**: near-complete specimen, *Australopithecus africanus*, 3.67 MYA. Found in the 'Cradle of Humankind' in South Africa, an area home to many other early hominins.
@@ -757,7 +758,7 @@ One of our closest relatives, the Neanderthals, went extinct about 40,000 years 
 - **Laetoli footprints**: two trackways, attributed to *Australopithecus*, 3.6 MYA. The indentations suggest a fully in-line hallux.
 - **Lomekwi stone tools**: oldest stone tools known, predating genus *Homo*.
 
-### Evolution of tool use: paleolithic stone age technology
+## Evolution of tool use: paleolithic stone age technology
 
 Archaeological finds associated with hominin remains often include [stone tools](https://en.wikipedia.org/wiki/Stone_tool#Evolution) and other objects of interest. The progression in the complexity of these tools follows evolutionary lines, and is divided into [industries](https://en.wikipedia.org/wiki/Industry_(archaeology)):
 
@@ -775,9 +776,9 @@ In ([Braun *et al.*, 2025](https://www.sciencedirect.com/science/article/pii/S00
 
 ---
 
-## 5. GEOLOGY
+# 5. GEOLOGY
 
-### Stratigraphy
+## Stratigraphy
 
 The idea that rocks are deposited in layers (strata: older below, younger above) has been known since Steno in the 17th century (the 'law of superposition'). It is therefore usually the case that fossils found in deeper layers are older than those found above, serving as a rough guide to their age (a qualitative, relative dating method). However, other geologic processes like erosion, folding and faulting can disrupt this order occasionally, so more reliable references are needed.
 
@@ -785,7 +786,7 @@ Fossil species that are used to distinguish one layer from another are called *i
 
 In ([Benton & Hitchen, 1997](https://pmc.ncbi.nlm.nih.gov/articles/instance/1688444/pdf/2DDQ9CUU1FA8127K_264_885.pdf)), the existing fossil record for 384 different clades all across the animal kingdom was surveyed and cross-referenced with their claimed evolutionary relationships. Using three different statistical metrics (Spearman's rank coefficient, and two others dedicated to quantifying the presence of 'ghost lineages'), it was found that all three falsify the null hypothesis (if the fossil record does not reflect the major patterns of evolution, there would be no evidence for congruence between the two sets of data in our random sample of cladograms).
 
-### Dendrochronology
+## Dendrochronology
 
 Trees grow at a rate of approximately 1 ring in their trunk per year. By sampling the rings of multiple trees in a given region, and matching the thicknesses of each ring to the others, we can estimate the age of trees. This also allows for identification of missing or additional rings in a given tree, which are indicative of ecological disturbances (e.g. wildfires, insect outbreaks...).
 
@@ -793,19 +794,21 @@ Dendrochronology can be used to date wooden artifacts in archaeology from about 
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4853109/)
 
-### Ice core dating
+## Ice core dating
 
-### Varve chronology
+...
+
+## Varve chronology
 
 Sedimentary layers in lakes and oceans.
 
 Source: [here](https://repository.arizona.edu/bitstream/handle/10150/654431/3828-3499-1-PB.pdf?sequence=1&isAllowed=y)
 
-### Paleomagnetic dating
+## Paleomagnetic dating
 
 {{< figure src="geomagnetic_striping.png" title="As per the [Vine-Matthews-Morley hypothesis](https://en.wikipedia.org/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis), the rates of tectonic plate spreading at mid-oceanic ridges can be measured by recording the magnetisation of the sediment, which tracks the orientation of the geomagnetic field at its formation. This was one of the early 'smoking guns' used to support tectonic theory, and also allows dating by measuring continental drift, helping to calibrate magnetic analyses elsewhere by correlating with geomagnetic field reversals." >}}
 
-### Iron-60 deposits in magnetofossils
+## Iron-60 deposits in magnetofossils
 
 Magnetotactic bacteria (MTBs) live a few centimetres below the sediment on an ocean floor. When sediment deposits on the ocean floor, the MTBs move up to maintain their depth. MTBs uniquely contain ferromagnetic particles which they use to passively align themselves to the geomagnetic field (magnetoreception). These particles are produced by the MTBs consuming iron hydroxide. When they die, their filaments retain the iron, forming a column of '[magnetofossils](https://en.wikipedia.org/wiki/Magnetofossil)' where depth correlates with age.
 
@@ -813,11 +816,15 @@ In 1999, a new isotope of iron was discovered on the deep seafloor, iron-60 ($ ^
 
 Calculations were performed to estimate the required position, distance and stellar mass of a potential supernova that could be responsible. A supernova observed to have occurred within the Tuc-Hor stellar group ∼2.8 Myr ago, 330 light years away, with supernova material arriving on Earth ∼2.2 Myr ago, was identified as the likely source. It was found that the iron-60 deposits are consistent with turbulent radioisotopic transport in dust grains originating from this supernova explosion.
 
-Sources: [here](https://www.pnas.org/doi/full/10.1073/pnas.1601040113), [here](https://arxiv.org/pdf/1903.04589) and [here](https://iopscience.iop.org/article/10.3847/0004-637X/827/1/48/meta).
+Sources: ([Ludwig *et al.*, 2016](https://www.pnas.org/doi/full/10.1073/pnas.1601040113)), ([Fields *et al.*, 2019](https://arxiv.org/abs/1903.04589)) and [here](https://iopscience.iop.org/article/10.3847/0004-637X/827/1/48/meta) (article).
 
-### Oklo natural nuclear reactor
+## Oklo natural nuclear reactor
 
-### Extinction of the non-avian dinosaurs
+In 1972, an anomaly in uranium isotopes was found at a mining site in [Oklo](https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor#Discovery_of_the_Oklo_fossil_reactors), Gabon (Africa), with suspicions of secret nuclear enrichment by a rogue state. Subsequent analysis however found that isotopic data from other metals yielded the conclusion that nuclear fission had been occurring at this site around 2 billion years ago, naturally reducing the abundance of the fissile $ ^{235}$U isotope. Other sites with similar activity have also been found nearby ([Gauthier-Lafaye, Holliger & Blanc, 1996](https://doi.org/10.1016/S0016-7037(96)00245-1)).
+
+The data from Oklo has also been used to check that the fine structure constant ($ \alpha = 0.007297... \approx 1/137 $) has remained truly constant over deep time. $ \alpha $ is the dimensionless parameter in relativistic quantum theory and therefore governs electronic interactions in radioactivity. Cosmological observations also verify this fact with even better confidence, validating geophysical uniformitarianism ([Davis & Hamden, 2015](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.92.014319)).
+
+## Extinction of the non-avian dinosaurs
 
 Fossils of dinosaurs stop appearing just above the Cretaceous-Paleogene (K-Pg) boundary, dated to just over 66 MYA. This is the most recent of the five mass extinction events in Earth's history. Fossil record biodiversity shows a sharp drop in other species by 75\%, with a simultaneous reduction in both marine and terrestrial environments.
 
@@ -836,23 +843,23 @@ Another hypothesis is the volcanic eruption of the Deccan Traps in India, which 
 
 Most of the world's forests died off in the event, with pollen analysis finding that only two types of fern plants survived. The tree-dwelling birds all died out with the impact, and only a small number of land-dwelling birds seems to have survived as the ancestors of all modern birds ([Waters, 2018](https://www.audubon.org/news/how-birds-survived-asteroid-impact-wiped-out-dinosaurs)). A small number of non-avian dinosaur fossils are found above the K-Pg boundary, implying that the extinction was a slow process due to the climate change following the asteroid impact, rather than the moment of the impact itself. The **fungal infection mammalian selection (FIMS) hypothesis** suggests that the subsequent rise of mammals was due to their greater resistance to fungal infections compared to reptiles (which require sunlight exposure) as cloud cover increased and pollen/fungal spores spread in the aftermath of the impact ([Casadevall & Damman, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7365386/)).
 
-### Radiometric dating and its verification
+## Radiometric dating and its verification
 
 Radiometric dating 
 
-#### Uniformity of decay rate parameters
+### Uniformity of decay rate parameters
 
 The laws of physics are observed to be uniform across space and time, and radioactive decay rates depend only on fundamental physics (gauge theory: nuclear forces and quantum field theory). The mechanisms of decay are sufficiently well understood (e.g. [Gamow theory](https://arxiv.org/pdf/2112.09578) of alpha decay, and [Fermi](https://en.wikipedia.org/wiki/Fermi%27s_interaction) / [Gamow-Teller](https://en.wikipedia.org/wiki/Beta_decay_transition#Gamow%E2%80%93Teller_transition) theories of beta decay) that we can understand (and test) in exactly what conditions would be necessary to perturb decay rates.
 
 Studies such as ([Emery, 1972](https://www.annualreviews.org/content/journals/10.1146/annurev.ns.22.120172.001121)) investigated a wide variety of radioisotopes and stimuli (temperature, pressure, EM fields...) and showed that decay rates are immutable except for extremely minor changes and/or highly unnatural conditions due to well-understood physical mechanisms (e.g. electron capture cannot occur for fully ionised atoms since there are no electrons to capture). ([Pommé *et al.*, 2018](https://www.sciencedirect.com/science/article/pii/S0969804317303822)) and ([Kossert & Nähle, 2014](https://www.sciencedirect.com/science/article/abs/pii/S0927650514000139)) also found no dependence on decay rates by neutrino flux or solar output. Without any evidence for the catastrophic conditions necessary to perturb decay rates, we can be confident that decay rates have remained constant over geologic time, enabling reliable radiometric dating.
 
-#### Radiometric Dating with Uranium series
+### Radiometric Dating with Uranium series
 
 With coral dating: [here](https://www.sciencedirect.com/science/article/abs/pii/S0277379105001654)
 
-#### Mount St Helens dating, using isochron dating
+### Mount St Helens dating, using isochron dating
 
-#### Argon dating of Mount Vesuvius
+### Argon dating of Mount Vesuvius
 
 Many volcanic rocks naturally contain the isotope potassium-40 ($ ^{40}$K), which decays ~10\% of the time to the stable isotope argon-40 ($ ^{40}$Ar) via electron capture followed by gamma decay with a half-life of 1.25 billion years. When these rocks first form from molten lava, any argon is expelled to the atmopshere on solidification, and the $ ^{40}$K begins to decay from its initial concentration at a predictable rate, forming trapped $ ^{40}$Ar in the rock.
 
@@ -860,13 +867,13 @@ Pliny the Younger was a Roman eyewitness to the [**Mount Vesuvius eruption**](ht
 
 Sources: [here](https://www.researchgate.net/publication/226755646_40Ar39Ar_ages_of_the_AD_79_eruption_of_Vesuvius_Italy) and [here](https://www.osti.gov/servlets/purl/15014443).
 
-#### Carbon dating of the Teide volcano
+### Carbon dating of the Teide volcano
 
 The radioisotope carbon-14 is continuously formed in the upper atmosphere by cosmic rays, which can be absorbed by plant matter as CO$ _2$ (at a slightly lower $ ^{14}$C abundance due to slower gas diffusion of $ ^{14}$CO$ _2$) and incorporated into the plant's tissues (e.g. glucose, cellulose). When the plant dies, carbon exchange stops, and the remaining carbon-14 decays with a half-life of 5,700 years. The ratio of $ ^{14}$C to $ ^{12}$C in a sample of organic matter can therefore be used to estimate the time of death of the organism, up to about 50,000 years ago due to resolution limits.
 
 The **[Teide volcano](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL012821)** in located in Tenerife (the Canary Islands). Stratigraphy found an age younger than 2000 years, while paleomagnetic dating found an age of 500 - 900 years. Historical records give an age of at least 500 years (European settlement began in 1494): Christopher Columbus reported seeing "a great fire in the Orotava Valley" as he sailed past Tenerife on his first voyage to the New World in 1492, interpreted to have been the Teide eruption. $ ^{14}$C dating gave a precise range of eruption between 1470 - 1490 AD (510 - 530 years ago). K/Ar dating gave a range of 800 $ \pm $ 300 years ago. These ranges and accounts all corroborate with each other.
 
-#### Dating of recent fossils and artifacts
+### Dating of recent fossils and artifacts
 
 **[Cheddar man](https://en.wikipedia.org/wiki/Cheddar_Man)** is a well-preserved skeleton of a Mesolithic (middle stone age) *Homo sapiens* found in the UK. DNA analysis found that he was likely a hunter-gatherer with bright blue-green eyes, slightly curly hair and black skin, with no lactase persistence. He probably arrived there via Doggerland, a low-lying region of Europe spanning between modern-day Britain, France and Germany, which sank under rising sea levels around 10-7 kYA, as the last glacial period ended. His Y-chromosomal haplogroup was I2a2, and 10% of British ancestry can be linked to Cheddar Man. Cheddar man was radiocarbon dated on two occasions to 8540-7990 BC and 8470-8230 BC, i.e. about 10,000 years ago.
 
@@ -886,7 +893,7 @@ The **[Vinland Map](https://en.wikipedia.org/wiki/Vinland_Map)** is a medieval m
 
 The **[Voynich manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript)** is a mysterious illustrated text with an unknown origin, language and purpose. Carbon dating of the vellum (animal skin) returned an origin between 1404 and 1438. It has been proposed to be written by 15th-century North Italian architect Antonio Averlino, consistent with the text and illustrations being all characteristically European.
 
-### Thermoluminescence dating
+## Thermoluminescence dating
 
 When radioactive decay occurs in crystalline minerals, the high-energy radiation can be absorbed by nearby valence band electrons, promoting them to the conduction band and leaving behind a hole in the valence band. Due to [point defects](https://en.wikipedia.org/wiki/Crystallographic_defect) in the crystal lattice, trap levels in the band structure capture these scattered electrons in a local metastable bound state, preventing recombination and fluorescence. Only when the crystal is heated (usually above ~500 C), these trapped electrons acquire sufficient energy to escape and recombine with the holes, releasing energy as photons called [thermoluminescence](https://en.wikipedia.org/wiki/Thermoluminescence) (TL). The released TL photon intensity is proportional to the number of trapped electrons, which in turn is proportional to the amount of radiation (either by radioactivity or cosmic rays) absorbed by the crystal since its last heating event. By calculating the background radiation level per year from rates of decay and cosmic ray flux, the age of the crystal since its last heating event can be found.
 
@@ -894,13 +901,13 @@ In ([Roberts, Jones & Smith, 1990](https://www.nature.com/articles/345153a0)), T
 
 TL dating is also used to date ceramics, tools and pottery. In ([Rink & Bartoll, 2015](https://www.cambridge.org/core/journals/antiquity/article/abs/dating-the-geometric-nasca-lines-in-the-peruvian-desert/BC66A0CB3A36EC987BAF15BA3A3ED8E3)), TL dating was used on the geometric Nasca stone lines in the Peruvian desert, finding them to have been constructed between 400 and 650 AD.
 
-### Electron spin resonance dating
+## Electron spin resonance dating
 
 Source: [here](https://peerj.com/articles/17478/) and [here](https://www.sciencedirect.com/science/article/abs/pii/S1350448707003769)
 
-### Amino acid racemisation dating
+## Amino acid racemisation dating
 
-### Oxygen isotope ratio cycle ($δ^{18}O/δ^{16}O$)
+## Oxygen isotope ratio cycle ($δ^{18}O/δ^{16}O$)
 
 The **orbital monsoon hypothesis** is based on the well-established concept of [Milankovitch cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles), where long-term changes in Earth's orbit (axial tilt, eccentricity and precession) result in changing frequencies, intensities and distributions of monsoons (intense wind and rain) on Earth due to changes in solar insolation. This has a strong impact on the [climate of North Africa](https://en.wikipedia.org/wiki/North_African_climate_cycles).
 
@@ -920,19 +927,19 @@ The isotopes show that *Ambulocetus* (transitional whale) likely drank both salt
 
 {{< figure src="whale_fossil_fresh_to_saltwater.png" title="Isotopic analysis helps us infer the likely habitats of extinct whales. *Ambulocetus* fossils were recovered from sediments that comprised an ancient estuary. Source: ([Bajpai & Gingerich, 1998](https://www.pnas.org/doi/10.1073/pnas.95.26.15464))." >}}
 
-### Ice core paleoclimate data
+## Ice core paleoclimate data
 
 ---
 
-## 6. BIOGEOGRAPHY
+# 6. BIOGEOGRAPHY
 
-### Ecological succession
+## Ecological succession
 
-This is fun one to bring up in the context of 'creationism vs evolution', as it refers to the macroscopic and very well-accepted process of '[primary succession](https://news.uchicago.edu/explainer/what-is-ecological-succession#:~:text=and%20secondary%20succession.-,Primary%20succession,-happens%20when%20a)'. This describes the sequence that follows formation of a new region of land (well-studied in physical geography) as life moves in for the first time. The resulting ecosystems that form (in the 'climax community') are highly interdependent, such that removing one would collapse the whole food web, which is a defining feature of irreducible complexity. Yet, we watch it happen all the time - and this is something that must have happened regardless of whether creation or evolution is true!
+[Primary succession](https://news.uchicago.edu/explainer/what-is-ecological-succession#:~:text=and%20secondary%20succession.-,Primary%20succession,-happens%20when%20a) describes the macroscopic sequence of events that follows formation of a new region of land (well-studied in physical geography) as life moves in for the first time. The resulting ecosystems that form (in the 'climax community') are highly interdependent, such that removing one would collapse the whole food web, which is a defining feature of irreducible complexity. Yet, we watch it happen all the time - the interdependencies are only 'locked in' later on, not at the start.
 
 Sources: [here](https://news.uchicago.edu/explainer/what-is-ecological-succession) (article), [here](https://www.nature.com/articles/nature06154) and [here](https://www.jstor.org/stable/3545904).
 
-### Prediction of *Tiktaalik*
+## Prediction of *Tiktaalik*
 
 Evolution had long predicted (since Darwin) that tetrapods evolved from lobed-finned fish, implying there should exist a range of fossils showing the transition from water to land across the Devonian period (about 400 MYA), with traits from both tetrapods and their fish ancestors. By the early 2000s, fossils including *Eusthenopteron* (385 MYA, a lobe-finned fish), *Ichthyostega* and *Acanthostega* (365 MYA, early tetrapods) had already been found, with the synapomorphies of labyrinthodont teeth and tetrapod skull roof pattern linking them together. 
 
@@ -948,41 +955,41 @@ The prediction and subsequent discovery of *Tiktaalik* is a powerful demonstrati
 
 ---
 
-## 7. COMPARATIVE ANATOMY
+# 7. COMPARATIVE ANATOMY
 
-### Body plans
+## Body plans
 
 Using the shared anatomy of each clade, as well as the fossil record, the characteristics of the basal ancestor of each clade can be inferred. These ancestors are visibly similar enough to also reasonably share their own common ancestor.
 
 {{< figure src="mammal_body_plan.png" title="Eight major extant clades of carnivorous mammals (order *Carnivora*): the families *Felidae* (cats), *Canidae* (dogs), *Ursidae* (bears), *Hyaenidae* (hyenas and aardwolf), *Ailuridae* (red panda), *Viverridae* (civets), *Herpestidae* (mongooses, meerkats), *Mustelidae* (weasels, otters, badgers, wolverines...). It is obvious that these ancestors in turn share many of the same characteristics, which points towards a more distant common ancestor (the nested hierarchy). Source: ([Duff, Beatman & MacMillan, 2020](https://evolution-outreach.biomedcentral.com/articles/10.1186/s12052-020-00124-w/figures/5))." >}}
 
-### Middle ear bones in birds
+## Middle ear bones in birds
 
 {{< figure src="bird_ear_bones_1.png" title="Main structures of central nervous system (including optic tectum) and inner ear (vestibular system and cochlear duct) across birds (extinct and extant) and closely related non-avian dinosaurs. The highlighted specimen, MPM-334-1, is a [recently-discovered basal bird cranium](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1398)." >}}
 
 {{< figure src="bird_ear_bones_2.png" title="Comparative anatomy of the endosseous labyrinth and cochlear duct across selected birds (extinct and extant) and closely related non-avian dinosaurs." >}}
 
-### Nose position in whales
+## Nose position in whales
 
 {{< figure src="whale_evolution_skulls.png" title="Fossil skulls from ancient Cetaceans (whale lineage). The nostrils move upwards on the skull over time, becoming the blowhole of the whale." >}}
 
-### Limbs in fish and tetrapods
+## Limbs in fish and tetrapods
 
 Homology increases with evolutionary relatedness. Using the well-known fish-to-tetrapod transitional fossil series, we can see how the bones in the fins of lobe-finned fish gradually evolve into the limbs of tetrapods, with the same arrangement of bones (humerus, radius and ulna) conserved throughout, but with increasing numbers of digits.
 
 {{< figure src="bones_in_fish.png" title="Fossils from the fish-to-tetrapod series conserve the arrangement of the bones in the fins/limbs (humerus, radius and ulna), with large variation in the number of digits. Source: [here](https://evolution.berkeley.edu/what-are-evograms/the-origin-of-tetrapods/#)." >}}
 
-#### Lungs and breathing in lobe-finned fish
+### Lungs and breathing in lobe-finned fish
 
 As part of the water-to-land transition, the lobe-finned fish (*Sarcopterygii*) also had to adapt to breathing air rather than extracting oxygen from water via gills. *Tiktaalik*'s ribcage was imbricate (robust and with ribs overlapping), allowing expansion and contraction by muscles, implying they enclosed the lungs for breathing, unique among fish at the time. It also had otic notches, indicative of spiracles (gills like primitive blowholes, only found in air-breathing sarcopterygians), showing two modes of inspiration.
 
-#### Limb attachment in lobe-finned fish
+### Limb attachment in lobe-finned fish
 
 *Eusthenopteron* had pectoral (front-most) fins that connected to axial skeleton via part of the skull. In later species (e.g. *Tiktaalik*) and in tetrapods, this part of the skull is detached and comprises the pectoral girdle, also creating a neck for flexible head movement. A transition for this separation is seen in *Panderichthys*. It is known that bones form in development by two different mechanisms: 1) endochondral ossification (bone replaces cartilage) and 2) intramembranous ossification (bone forms directly from mesenchyme). The bones in the limbs of tetrapods are formed by endochondral ossification, while the bones in the skull and pectoral girdle (clavicle and most of the scapula) are formed by intramembranous ossification, demonstrating their former combined origin in lobe-finned fish. 
 
 {{< figure src="limbs_in_fish.png" title="Homology between the pectoral fin bones of lobe-finned fish (*Eusthenopteron*), elpistostegalian fish (*Panderichthys*, *Tiktaalik*, *Elpistostege*), and tetrapods (*Acanthostega*). Unossified carpals or scutes are omitted. Source: [here](https://commons.wikimedia.org/wiki/File:Fins_to_hands.png#/media/File:Fins_to_hands.png)" >}}
 
-### Limbs in vertebrates and mammals
+## Limbs in vertebrates and mammals
 
 When we zoom into the vertebrate clade, we see similarity increase further. All vertebrate animals share the same structures in their arms (humerus, radius, ulna, carpals, metacarpals, phalanges).
 
@@ -992,7 +999,7 @@ Within mammals, the similarities are further still, with all mammals sharing the
 
 {{< figure src="arm_anatomy_mammals.png" title="Mammal limb and digit homology. Note: the colour coding applies to the left set of images; the others are from a different source." >}}
 
-### Reaction wood in trees
+## Reaction wood in trees
 
 Trees must respond to deviations from vertical growth to avoid structural failure ([thigmomorphogenesis](https://en.wikipedia.org/wiki/Thigmomorphogenesis)). The group of [woody plants](https://en.wikipedia.org/wiki/Woody_plant), including trees, have evolved a specialised tissue called [reaction wood](https://en.wikipedia.org/wiki/Reaction_wood), which is deposited at the base of the trunk in a way that counteracts the bending moment caused by gravity on a leaning tree trunk.
 
@@ -1002,27 +1009,29 @@ In all [gymnosperms (softwoods, non-flowering plants)](https://en.wikipedia.org/
 
 Reaction wood production is mediated by the plant hormone auxin (indole-3-acetic acid, which also controls gravitropism more generally) and ethylene, which act as signalling molecules to induce asymmetric cell growth in the cambium layer of the trunk. Mutations to the genes in these regulatory pathways can therefore alter the reaction wood response, potentially being responsible for the transition from compression wood to tension wood in angiosperms.
 
-### The eye in vertebrates
+## The eye in vertebrates
 
 Anatomical constraints in eye evolution: [here](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1)
 
 ---
 
-## 8. COMPARATIVE PHYSIOLOGY
+# 8. COMPARATIVE PHYSIOLOGY
 
-### Endosymbiosis in insects
+## Endosymbiosis in insects
 
-Aphids have an endosymbiotic relationship with *Buchnera Aphidicola* bacteria. The bacteria break down nutrients that aphids need to survive but can only live within specialised 'bacteriocyte' structures in Aphids. But some aphids later in their evolution dropped *B. Aphidicola* and now have a yeast-like symbiont (YLS) that performs similar functions. These aphids still have the bacteriocytes but the YLS is located both inside and outside of them. So, these aphids have the same specialised structures as their cousins to host the bacteria but their symbiote is a fungus that doesn't need those structures.
+Aphids have an endosymbiotic relationship with *Buchnera aphidicola* bacteria. The bacteria break down nutrients that aphids need to survive but can only live within specialised 'bacteriocyte' structures in Aphids. But some aphids later in their evolution dropped *B. aphidicola* and now have a yeast-like symbiont (YLS) that performs similar functions. These aphids still have the bacteriocytes but the YLS is located both inside and outside of them. So, these aphids have the same specialised structures as their cousins to host the bacteria but their symbiote is a fungus that doesn't need those structures.
 
 An example of higher-degree endosymbiosis is the Darwin termite (*Mastotermes darwiniensis*). The termite relies on a protist *Mixotricha paradoxa* to process the wood. The protists further rely on other bacteria living on its surface (each look like a thin hair that wiggles; symbiotic signalling in exchange for food). Within the protist, there is another endosymbiont spherical bacterium that digests cellulose in wood, releasing acetate for the protist. These bacteria have removed the need for *M. paradoxa* to have mitochondria, which have degraded into simpler organelles (hydrogenosomes and mitosomes).
 
 Sources: [here](https://schaechter.asmblog.org/schaechter/2015/11/symbiont-exchange-in-the-aphidbuchnera-symbiosis-part-1.html) and Chapter 38 of *The Ancestor's Tale* by Richard Dawkins.
 
-### Evolution of eyesight
+An example of potential endosymbiosis occurring in real time is the obligate endosymbiotic gammaproteobacterium [*Carsonella ruddii*](https://en.wikipedia.org/wiki/Carsonella_ruddii), which lives inside psyllids (phloem sap-feeding insects). *C. ruddii* supplies the host with some essential amino acids, and has an extremely efficient genome consisting of 97\% protein-coding DNA, with overlapping shortened genes in one of the smallest known genomes (182 genes in 159,662 base pairs, and getting smaller over time). Numerous genes considered essential for life seem to be missing, suggesting that the species may have achieved organelle-like status.
+
+## Evolution of eyesight
 
 As one of the most impressively complex sensory organs, the eye's evolution has been especially well studied. Eyes in some form have evolved independently over 50 times, with vastly different structures and functions suited to each lineage.
 
-#### Different types of eyes
+### Different types of eyes
 
 - **Retinal phototrophy**: the retinal molecule is used by *Haloarchaea* in bacteriorhodopsin proteins to capture light energy via chemiosmosis. This is the key light sensor molecule needed for eyes, without any of the complex structures that evolved later for information extraction rather than energy harvesting.
 - **Eyespots**: a simple light-sensitive organelle found in euglenids (unicellular photosynthetic protists), containing photoreceptor proteins. Without any nerve cells, the signal cascade on light detection results in flagellar movement, enabling phototaxis.
@@ -1043,7 +1052,7 @@ Animals have two main kinds of photoreceptor cell: ciliary (mostly in vertebrate
 - **Binocular/stereoscopic vision** in vertebrates.
 - **Trichromatic vision** in primates. The Old World monkeys (including apes), as well as some female New World monkeys, are trichromatic, having gained a third cone from the dichromatic mammalian ancestral lineage.
 
-#### Physical constraints in the evolution of the eye
+### Physical constraints in the evolution of the eye
 
 Solar radiation is the main source of high-exergy (low-entropy) free energy in the open biosphere, and its exploitation is therefore strongly selected for, such as in photosynthesis, photocatalysis and eyesight. At the molecular level, interaction with light requires a molecule that can absorb photons at the appropriate energy (wavelength), typically found in highly conjugated organic molecules. For wavelengths in the visible spectrum (most intense at Earth's surface), these molecules include e.g. chlorophyll, retinal, 7-dehydrocholesterol, bacteriorhodopsin and phototropin.
 
@@ -1055,11 +1064,11 @@ With eyesight, there is the additional task of extracting information from the r
 
 - **Principal components of reflectance spectra**: the encoding of S, M and L into three channels can be explained by the observation that the three channels are the first three PCs in a PCA of the reflectance spectra of natural materials and scenes, encoding 98\% of the total variance. This allows minimal information loss with the fewest number of channels, a consequence of the fact that the eye evolved to extract information from the environment. Source: ([Chiao, Cronin & Osorio, 2000](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-2-218)).
 
-### Evolution of photosynthesis
+## Evolution of photosynthesis
 
 Photosynthesis is another form of phototrophy which uses chlorophyll as the light-absorbing molecule. Like the eye, it is extremely complex today, but started out from simpler systems based on the same fundamental principles.
 
-#### Photosystems in unicellular life
+### Photosystems in unicellular life
 
 The two main parts of photosynthesis are Photosystems I and II:
 
@@ -1083,17 +1092,17 @@ Cyanobacteria became incorporated into eukaryotes as chloroplasts via endosymbio
 
 ---
 
-## 9. DEVELOPMENTAL BIOLOGY
+# 9. DEVELOPMENTAL BIOLOGY
 
 How is it that every cell in your body has the same DNA, yet different body parts can have completely different functions? How does your body know where to put everything? Development from an embryo is a tightly-regulated process, with the goal of controlling what genes get expressed where and when. There is a close relationship between evolutionary diversity and developmental diversity, and so we can study one to learn about the other. This is the basis of [evolutionary developmental (evo-devo) biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology).
 
-### Vestigial structures
+## Vestigial structures
 
 Evolutionary change sometimes lags behind the needs of an organism. Body parts inherited from ancestors that had utility may become useless or serve a totally different function (exaptation) in a new environment. These are vestigial structures. 
 
 There are some structures that were considered vestigial in the past on the basis that they appeared to serve no function, but later scientific study found functionality. If there is no evidence for an evolutionary change in this function, then these structures are **not** vestigial (e.g. appendix, yolk sac...)
 
-#### The vestigial tail and pharyngeal gill slits
+### The vestigial tail and pharyngeal gill slits
 
 **Pharyngeal gill slits**: all deuterostomes have gill slits in their pharynx, originally used for filter feeding, and evolving into gills in fish. They have been lost entirely in echinoderms. In mammals, they become inner ear structures and throat cartilage.
 
@@ -1101,11 +1110,11 @@ There are some structures that were considered vestigial in the past on the basi
 
 {{< figure src="human_embryo_tail.png" title="**(a)**: human embryo at week 6 ([Gasser, 1975](https://www.ehd.org/pdf/gasser/greyscale/Gasser_Fig6-1gs.pdf)). **(b)**: a rare disorder where the tail persists until birth (an atavistic trait) ([Shad & Biswas, 2012](https://casereports.bmj.com/content/2012/bcr.11.2011.5160))." >}}
 
-#### *Palmaris longus* muscle tendon
+### *Palmaris longus* muscle tendon
 
 The *palmaris longus* is a small muscle in the forearm that is absent in about 10-15\% of the population, with negligible loss of overall grip strength or hand function (there is a small reduction in pinch strength in the 4th and 5th fingers). The rate of occurrence rises to over 50\% in Egypt and Turkey ([Ioannis *et al.*, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4596262/)). It is a vestigial tendon that controlled the retractable claws in ancient ancestral mammals.
 
-#### Vestiges from recent hominin evolution
+### Vestiges from recent hominin evolution
 
 Other notable vestigial traits in humans include:
 
@@ -1114,11 +1123,11 @@ Other notable vestigial traits in humans include:
 - The **coccyx (tailbone)**, a remnant of the tail in our primate ancestors, which serves as an attachment point for muscles of the pelvic floor.
 - The **plantar reflex** in infants, where the toes curl around an object placed under the foot. This is a remnant of the fully functional grasping reflex seen in primate infants, which helps them cling to their mothers.
 
-#### Blind fish
+### Blind fish
 
 The blind cave fish ([*Astyanax mexicanus*](https://en.wikipedia.org/wiki/Mexican_tetra)) is a species for which some live in dark caves their whole lives, while others live above ground in rivers. The cave-dwelling fish differ significantly in their appearance: they have non-functional remnants of eyeballs (vestigial; sometimes fully lost), have lost the pigmentation in their scales and they also have significantly smaller midbrains (the region of the brain that processes vision). These traits have convergently evolved independently in multiple cave populations. Experiments have shown that the blind fish have a metabolic energy reduction of 15\% relative to the above-ground fish ([Moran, Softley & Warrant, 2015](https://www.science.org/doi/10.1126/sciadv.1500363)), providing a selection advantage for the cave fish to lose their eyes (the 'expensive tissue hypothesis'). The blind cave fish is likely on its way towards peripatric speciation.
 
-### Comparative embryology
+## Comparative embryology
 
 Von Baer's law of embryology refers to the observation that in the earlier stages of development, embryos of closely related animals are similar. Diversification of the embryo follows evolutionary diversification. [This differs from Haeckel's idea](https://upload.wikimedia.org/wikipedia/commons/0/0a/Haeckel_vs_von_Baer.svg) that "ontogeny recapitulates phylogeny".
 
@@ -1126,17 +1135,17 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 
 {{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the dolphin *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
 
-### Evo-devo
+## Evo-devo
 
 {{< figure src="evo-devo.png" title="Mechanisms of developing new phenotypes" >}}
 
-### Homeotic genes: Hox, ParaHox, Pax, MADS-box
+## Homeotic genes: Hox, ParaHox, Pax, MADS-box
 
 ---
 
-## 10. POPULATION GENETICS
+# 10. POPULATION GENETICS
 
-### Phylogenetic reconstruction
+## Phylogenetic reconstruction
 
 Comparative genomics studies the similarities and differences between the genomes of different species. This can be used to reconstruct phylogenetic trees, which show how closely related different species are. The more similar two genomes are, the more closely related the two species are likely to be.
 
@@ -1144,15 +1153,11 @@ A test of the validity of this reconstruction can be done using a known phylogen
 
 Source: ([Hillis *et al.*, 1991](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)).
 
-### Great ape Y chromosome mutation rates
+## Great ape Y chromosome mutation rates
 
 Sources: [here](https://www.youtube.com/watch?v=gWLTl5KjESA)
 
-### Information theoretic model of genetic diversity
-
-Chapter 19 of *Information Theory, Inference, and Learning Algorithms* by David MacKay: "Why have Sex? Information Acquisition and Evolution": [here](https://www.inference.org.uk/itprnn/book.pdf#page=281)
-
-### Statistical tests of common ancestry
+## Statistical tests of common ancestry
 
 ([Baum *et al.*, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12934)) gives a rigorous and comprehensive statistical analysis of common ancestry applied to the primates. This paper is discussed [here](https://www.youtube.com/live/D7LUXDgTM3A) (video) and [here](https://www.reddit.com/r/DebateEvolution/comments/1md7c2g/the_paper_that_disproves_separate_ancestry/) (reddit post).
 
@@ -1193,21 +1198,21 @@ For **2** (FSA, commonly proposed by creationists), the random distribution woul
 
 The efficiency of MCMC in converging on an optimal solution by taking random steps through parameter space is powerful evidence for the strength and capability of the random mutation and natural selection mechanism to find the peaks of a fitness landscape: if the mechanism was ineffective, statistical parameter estimation methods wouldn't work. This parallel is exploited in the [success of evolutionary algorithms](#13-applications-of-evolution) in computer science.
 
-### Peppered moths evolution prediction
+## Peppered moths evolution prediction
 
 Initial experiment in the 1800s, redone in the 1920s with a prediction, checked with genomes in the 1970s and verified.
 
 ---
 
-## 11. METAGENOMICS
+# 11. METAGENOMICS
 
-### Great ape gut microbiome
+## Great ape gut microbiome
 
 Studies of gut bacteria in humans and other apes show that certain clades of microbes (*Bacteroidaceae* and *Bifidobacteriaceae*) have evolved along with their hosts for millions of generations. The timing of their genetic divergence matches the evolutionary split between humans and other apes, meaning that our gut bacteria, mitochondrial DNA, and nuclear DNA all diversified together. Some bacteria living in the human gut today are direct descendants of ancient symbionts that co-evolved and speciated in step with humans, chimpanzees, and gorillas, indicating our common ancient ancestry.
 
 Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995445/)
 
-### Syphilis origin
+## Syphilis origin
 
 The sexually transmitted infection (STI) syphilis (caused by the bacterium *Treponema pallidum*) originated in America about 9,000 years ago according to phylogenetic analysis. It only spread to Europe when Christopher Columbus arrived in 1492 and raped a large number of Native American women with his crew, who contracted the disease and brought it back. This is supported by the first historical record of syphilis in Europe being in 1495, when French troops invaded Naples.
 
@@ -1217,7 +1222,7 @@ It has been proposed based on the archaeological record in pre-Columbian North A
 
 Sources: [here](https://www.livescience.com/archaeology/syphilis-originated-in-the-americas-ancient-dna-shows-but-european-colonialism-spread-it-widely) and [here](https://anthropology.indiana.edu/research/publications/the-myth-of-syphilis-the-natural-history-of-treponematosis-in-north-america.html).
 
-### Head, body and pubic lice in great apes
+## Head, body and pubic lice in great apes
 
 Humans have two types of lice: head/body lice (*Pediculus humanus*) and pubic lice (*Pthirus pubis*). Head/body lice are closely related to chimpanzee lice (*Pediculus schaeffi*), while pubic lice are closely related to gorilla lice (*Pthirus gorillae*). Phylogenetic analysis shows that the *Pediculus* lineage diverged from the chimpanzee lice about 6 million years ago, coinciding with the time of the human-chimpanzee split. 
 
@@ -1227,17 +1232,17 @@ More recently, head/body lice *Pediculus humanus* later split into two ecotypes:
 
 Sources: [here](https://www.floridamuseum.ufl.edu/science/human-pubic-lice-acquired-from-gorillas-gives-evolutionary-clues/) (gorilla lice) and [here](https://www.nature.com/scitable/blog/accumulating-glitches/learning_from_lice/) (chimp lice).
 
-### Adaptation of the CRISPR-Cas9 system
+## Adaptation of the CRISPR-Cas9 system
 
 https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2007.01444.x
 
 ---
 
-## 12. PHYSICS AND CHEMISTRY
+# 12. PHYSICS AND CHEMISTRY
 
 Everything in biology is an emergent property of the underlying chemistry and physics, and so we can study the applications of these fields to biology to probe the fundamental principles evolution and life itself has to obey.
 
-### Bioenergetic penalty of non-functional genetic material
+## Bioenergetic penalty of non-functional genetic material
 
 Every time a cell 1) replicates its DNA, 2) transcribes it into RNA and 3) translates it into a protein, there is an energetic cost to the cell, since these are anabolic (endergonic) reactions that require ATP consumption. An additional section of DNA (e.g. a new gene) therefore automatically consumes energy that would otherwise have gone towards maintaining the cell's existing metabolism, comprising a potential loss of fitness for the organism.
 
@@ -1245,7 +1250,7 @@ In ([Lynch & Marinov, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4697398/)),
 
 The absence of an energy penalty to large genomes is responsible for the 'C-value paradox' and is exhibited by many plants which show polyploidy.
 
-### Thermodynamic permissibility of life and evolution
+## Thermodynamic permissibility of life and evolution
 
 In thermodynamics, a 'system' is a specified volume of space with a boundary, whose energy and matter content can be quantified. The [three types of systems](https://en.wikipedia.org/wiki/Thermodynamic_system#/media/File:Diagram_Systems.svg) are:
 
@@ -1276,7 +1281,7 @@ Useful resources:
 - A rigorous exergy analysis of photosynthesis ([Petela, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0038092X07001983)), with an emphasis on quantifying the exergy of sunlight.
 - Biological catalysis of the hydrological cycle: life’s thermodynamic function ([Michaelian, 2012](https://hess.copernicus.org/articles/16/2629/2012/hess-16-2629-2012.pdf)), a comprehensive paper analysing the processes of life and solar radiation on the entropy and energy budgets of the Earth.
 
-### Non-equilibrium thermodynamics: the driving force for life
+## Non-equilibrium thermodynamics: the driving force for life
 
 While elementary thermodynamics tells us that the processes of life are **possible**, it does not tell us how likely it is to occur, or how it actually happens. The more modern field of **non-equilibrium thermodynamics** is more suited to understanding the physical processes underpinning life, since all biological systems are open systems far from equilibrium. For any system subjected to a strong gradient of free energy, non-equilibrium thermodynamics tells us that the system will spontaneously self-organise into a state of maximum entropy production, known as a **dissipative structure**. For example, when a closed system of liquid water is heated strongly with a good-conducting boundary, it naturally forms turbulent convection cells which increases the mixing of hot and cool regions of the fluid, increasing the heat transfer rate and the irreversible entropy production rate in the system.
 
@@ -1293,7 +1298,7 @@ Some of the key authors in non-equilibrium thermodynamics include:
 - [Jeremy England](https://en.wikipedia.org/wiki/Jeremy_England), who applies dissipative structuring to the origin of life.
 - [Karo Michaelian](https://scholar.google.com/citations?user=NvAthrEAAAAJ), who has written extensively on the thermodynamics of evolution and abiogenesis. Some of his papers are featured in my '[Origin of Life](/post/origin-of-life-research/#non-equilibrium-thermodynamics-and-information-theory)' bibliography.
 
-### Information theory and evolution
+## Information theory and evolution
 
 In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate. However, statistical entropy and thermodynamic entropy are not equivalent when applied to the genetic code: statistical entropy quantifies the uncertainty associated with an observation from a given *distribution* of *possible* sequences, while thermodynamic entropy is a property of a given *individual* sequence (and the physical interactions it has *in vivo*).
 
@@ -1307,7 +1312,7 @@ The DPI applies in the information analog of a closed system, where *all* of the
 
 $$ -\Delta H(\text{genome}) \leq \Delta I(\text{genome}; \ \text{environment}). $$
 
-Random mutations tend to increase genomic entropy, while natural selection reduces it, allowing an increase in Shannon information (reduction in sequence diversity) if natural selection is strongly purifying (mutational effects are above the selection threshold).
+Random mutations tend to increase genomic entropy, while natural selection reduces it, allowing an increase in Shannon information (reduction in sequence diversity) if natural selection is strongly purifying (mutational effects are above the selection threshold). Natural selection can be thought of as a process that sorts through the genetic noise produced by random mutations, looking for the signal of genetic variations that increase differential reproductive success.
 
 Some examples of quantifying the Shannon information gains occurring in evolution are given below:
 
@@ -1317,11 +1322,11 @@ In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2
 
 ---
 
-## 13. APPLICATIONS OF EVOLUTION
+# 13. APPLICATIONS OF EVOLUTION
 
 This section focusses on practical applications of the evolutionary theory, primarily in engineering, medicine and agriculture. **It does not include applications of explaining aspects of biology itself**, which are numerous. The utility of evolution serves as a 'proof of concept' that the theory aligns with reality.
 
-### Protein Engineering
+## Protein Engineering
 
 We can develop entirely new enzymes using 'directed evolution' of proteins with a variety of uses. By artificially cloning the gene for an enzyme and introducing mutations, screening for activity and stability, we 'artificially select' more optimal enzymes for our use case. This is a well-established lab procedure that puts evolution into practice. 
 
@@ -1345,7 +1350,7 @@ Bacteria have been observed to have evolved enzymes to degrade man-made PET (pol
 
 PFAS (per- and poly-fluorinated alkyl substances) are a now-infamous group of environmental pollutants commonly known as 'forever chemicals': organic molecules whose structures render them practically inert to biological and chemical attack. The carbon-fluorine bond is rare in biochemistry, with only a few [dehalogenase](https://en.wikipedia.org/wiki/Dehalogenase) enzymes known in [organohalide-respiring bacteria](https://en.wikipedia.org/wiki/Halorespiration). ([Yang & Liu, 2025](https://pubmed.ncbi.nlm.nih.gov/40323512/)) reviews the very recent literature exploring the new possibility for bioremediation of PFAS in the environment. In ([Jaffé *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/38658084/)) and ([Huang *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/39531816/)), it is found that *Acidimicrobium* sp. strain A6 is capable of degrading PFOA, PFOS, and PFHxS using its *rdhA* gene. Another study, ([Wijayahena *et al.*, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0048969724085061)), finds similar results for PFOS and some others by *Labrys portucalensis F11*. Unlike nylon, it is improbable that nature alone would evolve an enzyme to metabolise PFAS due to the recency, chemical dissimilarity and lack of environmental pressure, so technological innovations are needed. [It is hoped that](https://www.aspidia.com/post/bioremediation-of-pfas-a-scientific-reality-not-a-utopian-dream) bioengineering techniques such as genetic engineering and directed evolution could help improve the rate and efficiency of PFAS degradation. While other solutions involving PFAS-absorbing probiotics ([Lindell *et al.*, 2025](https://www.nature.com/articles/s41564-025-02032-5)) have been proposed, environmental cleanup remains a challenge.
 
-### Animal Model Selection in Translational Medicine
+## Animal Model Selection in Translational Medicine
 
 The animals used in lab studies for medicines are chosen based on evolutionary relatedness. They use rats for most *in vivo* studies since they're one of the closest non-primate animal orders to us (order *Rodentia*). Rabbits are in another very close order (order *Lagomorpha*), and we are all mammals.
 
@@ -1368,13 +1373,13 @@ Another example is the fact that heart xenotransplants predominantly use pigs as
 
 Chimps in general are rarely useful models for humans despite their high genetic similarity, due to a variety of epigenetic differences ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)). Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed ([Wang *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8961469/)).
 
-### Protein Folding Prediction
+## Protein Folding Prediction
 
 Protein structure prediction is famously hard task, and has only recently become feasible with powerful machine learning models like *AlphaFold*, trained on structures painstakingly obtained manually via cryo-electron microscopy and X-ray crystallography. *AlphaFold* uses a transformer-based ML architecture (the same structure as used in LLMs like ChatGPT) called the *EvoFormer*, which combines protein sequence data with data on sequence identity conservation across evolutionary lineages, which essentially provides information on which amino acid residues are crucial to the 3D structure and which are less constrained. 
 
 It's hard to understate how revolutionary solving protein folding has been: it's already been used to develop lots of new medicines by predicting protein-substrate interactions, and the newest model AlphaFold 3 can handle protein-DNA interactions too. AlphaFold 3 has recently been used to predict the consequences of how a virus will mutate during a pandemic which could help develop more robust vaccines. That's using evolution to fight evolution! ([Wee & Wei, 2025](https://academic.oup.com/ve/article/11/1/veaf026/8121542)).
 
-### Universal Flu Vaccine
+## Universal Flu Vaccine
 
 Influenza has been around since antiquity, but the most famous outbreak was the Spanish Flu pandemic (1918-1919, 1/3 world infected, 50 million deaths). Influenza A has 8 segments of ssRNA in their capsid, with two glycoproteins (envelope spike proteins): neuraminidase (N) and hemagglutinin (H). There are several isotypes of the H and N proteins, denoted H1, H2…, N1, N2… . Only H1-3 and N1-2 are human transmissible (at present!). The swine flu epidemic of 2009 was due to *reassortment* (genetic mixing) of the H1N1 bird flu, the H1N1 swine flu and the H3N2 seasonal human flu. The virus' *fitness* is a balance of H and N expression, as too much of either will limit the lifetime of the virus. Anti-influenza drugs (e.g. Tamiflu) inhibit N activity, but must be taken early after infection.
 
@@ -1388,7 +1393,7 @@ A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an o
 - Explanation of bird flu and the universal vaccine: [here](https://www.youtube.com/watch?v=pneWAnQZZM0) (video)
 - Development programme for universal flu vaccines (April 2025): [here](https://firstwordpharma.com/story/5951542)
 
-### Cancer Research
+## Cancer Research
 
 The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen where *intra-host* competition is maximised and *inter-host* competition is absent.
 
@@ -1408,7 +1413,7 @@ More info:
 - Approved evolution-based treatment regime for prostate cancer: [here](https://www.nature.com/articles/s41467-017-01968-5)
 - Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
 
-### Basin Modelling for Oil and Gas Exploration
+## Basin Modelling for Oil and Gas Exploration
 
 [Basin modelling](https://wiki.seg.org/wiki/Basin_modeling) is a technique widespread in the global multi-trillion-dollar oil and gas industry, which synthesises geological, petrological and paleontological data to predict the locations of oil and gas reserves within the Earth's crust. Common targets include oil shales from the Cambrian, Ordovician, Devonian, and Jurassic (as source rocks), as well as tight oil reservoirs found in Devonian, Carboniferous, and Cretaceous formations. It makes extensive use of radiometric dating and stratigraphy (e.g. foraminifera (protist) biostratigraphy) to date the sedimentary layers and model the thermal history of the hydrocarbon-bearing rocks.
 
@@ -1416,13 +1421,13 @@ In oil and gas, predictions mean profits, and errors mean tremendous financial l
 
 There exists only one oil prospecting company in the world that refuses to use old-earth evolutionary models in their work: they are Zion Oil and Gas Corporation (ZNOG), founded by Christian fundamentalists who believe that Israel would yield oil reserves on theological grounds. Zion Oil has failed to find any 'economically recoverable' oil reserves in over 20 years of trying, operates incurring annual losses of several tens of millions of USD and are practically bankrupt as of 2025, staying afloat only by selling shares to gullible investors. Sources: [here](https://www.sec.gov/ix?doc=/Archives/edgar/data/1131312/000121390024024404/f10k2023_zionoil.htm) and [here](https://finance.yahoo.com/quote/ZNOG/).
 
-### Mining Exploration
+## Mining Exploration
 
 Radiometric dating has also been used by mining companies. For example, in 2021, Hannan Metals used U-Pb dating of zircons to expand a Miocene-epoch deposit of gold and copper in Peru. Source: [here](https://hannanmetals.com/news/2021/hannan-radiometric-dating-confirms-miocene-porphyry-belt-at-the-previsto-copper-gold-project-peru/).
 
 Historically, American coal miners in the 19th century would use fossils of *Archimedes* (a Paleozoic-era bryozoan with a distinctive screw-shaped stalk) to indicate how to deep to dig when searching for coal. These bryozoans are commonly found in limestones that were older (lower in strata) than the mostly siliciclastic coal-bearing rocks and do not contain much of any coal, so would be pointless to excavate. ([Jackson, 2008](https://www.researchgate.net/publication/264383478_David_Dale_Owen_1807-1860_and_the_naming_of_Archimedes_the_first_described_fenestrate_bryozoan_a_complex_fossil_with_important_stratigraphic_and_economic_implications)).
 
-### Evolutionary Algorithms
+## Evolutionary Algorithms
 
 Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are stochastic and highly generalised: they are essentially biased parallelised random searches, and this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases, illustrating the power of the underlying Darwinian principles.
 
@@ -1437,17 +1442,17 @@ Evolutionary algorithms applied to various engineering problems include:
 - [Evolved antennas](https://en.wikipedia.org/wiki/Evolved_antenna) - Space Technology 5, and using COMSOL [here](https://www.comsol.com/blogs/optimizing-the-geometry-of-optical-antennas-with-genetic-algorithms)
 - FPGA circuit design ([Ashraf *et al.*, 2012](https://www.osti.gov/servlets/purl/1118155)).
 
-### Artificial Selection, Domestication and Genetic Engineering
+## Artificial Selection, Domestication and Genetic Engineering
 
 Artificial selection is nothing more than natural selection but with humans deciding what is 'most fit', widely used in agriculture and animal husbandry. We can guide the evolutionary process towards exhibiting desired traits using selective breeding.
 
-#### Fruits and Vegetables
+### Fruits and Vegetables
 
 {{< figure src="vegetables.png" title="Plants like the wild mustard (*Rhamphospermum arvense*) and wild cabbage (*Brassica oleracea*) have been selectively bred in different ways to produce a variety of modern crops. Despite the variability in form, all are within the same species and descended from the same plant." >}}
 
 {{< figure src="fruits_and_veg_2.png" title="All of modern fruit and vegetable produce is a result of selective breeding: man-made fruits and vegetables don't exist in the wild. We have bred plants for about 10,000 years, making them bigger, sweeter, less bitter, less toxic (less cyanide in seeds), seedless, etc. Wild fruits are smaller, not sweet, hard or inedible and full of seeds." >}}
 
-#### Animals
+### Animals
 
 Artificial selection has a tendency to evolve animals into phenotypic extremes that would not be good strategies in nature, due to the difference in selection objectives. This is the case for many dog breeds, horses and cattle.
 
@@ -1458,11 +1463,11 @@ Artificial selection has a tendency to evolve animals into phenotypic extremes t
 - Horses: pre-domestication horses were slightly smaller, and these wild horses are endangered today.
 - **Raccoons**: urban raccoons have smaller snouts compared to their rural raccoons, a similar trait observed in domesticated foxes. Source: [here](https://www.discovermagazine.com/is-trash-evolving-raccoons-into-the-next-household-pet-48257) (article) and [here](https://link.springer.com/article/10.1186/s12983-025-00583-1) (paper).
 
-#### Genetic Engineering and Gene Editing
+### Genetic Engineering and Gene Editing
 
 - Gene drive for mosquitoes to eliminate malaria
 
-### Universal Darwinism
+## Universal Darwinism
 
 While "evolution" generally simply means "change over time", the more specific meaning in biology can be generalised. Any imperfectly self-replicating system (subject to random variation with some mechanism for selection of survival based on that variation) can be said to evolve: this is the concept of [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism), and it can be used as a philosophical or metaphysical framework to understand the dynamics of various other phenomena.
 
@@ -1472,11 +1477,11 @@ Richard Dawkins extends evolution to the development of cultures, a concept call
 
 ---
 
-## X. EVOLUTION DEBATE
+# X. EVOLUTION DEBATE
 
 This section shifts from defending evolution to attacking its critics. These are not necessarily evidence for evolution, but are tangentially related and generally support the theory: useful to know as citations and rhetorical points in debates.
 
-### Scientific Consensus
+## Scientific Consensus
 
 The overwhelming majority of scientists accept evolution as the best explanation for the diversity of life on Earth. It is **not** an 'argument from authority' fallacy to cite the scientific community for a scientific argument, as the consensus is based on the evidence acquired through the scientific method, not on opinions or beliefs of individuals with power.
 
@@ -1501,7 +1506,7 @@ A significant number of scientific societies have [explicitly rejected intellige
 
 Other relevant info: [Level of support for evolution](https://en.wikipedia.org/wiki/Level_of_support_for_evolution)
 
-### Intelligent Design is Political, not Scientific
+## Intelligent Design is Political, not Scientific
 
 The concept of intelligent design (ID) was conceived by the Discovery Institute (DI), an evangelical Christian 'think tank', as an attempt to circumvent the 1987 *Edwards v. Aguillard* court ruling prohibiting the teaching of creationism in public schools due to violation of church-state separation. ID was also intended to be more appealing to the general public, a necessary part of the DI's "Wedge Strategy", whose long-term goal is to effectively work towards installing theocracy in the US, as outlined in their leaked [Wedge Document](https://ncse.ngo/wedge-document) in 2001. Once this document was exposed, the DI published [The Wedge Document: So What?](https://www.discovery.org/m/2019/04/Wedge-Document-So-What.pdf) in an attempt at damage control, where they both denied and doubled down on some their intentions.
 
@@ -1527,7 +1532,7 @@ Video playlist extensively exposing the DI: [here](https://www.youtube.com/playl
 
 The DI was originally and continues to be funded by rich Christian nationalist organisations, having raked in over $15 million per year in donations as of 2021 (source: [here](https://www.desmog.com/discovery-institute/)).
 
-### Incompetence of "Creation Scientists"
+## Incompetence of "Creation Scientists"
 
 "Creation scientists" are degree-holding scientists who intend to use science to find evidence for their religious convictions. Despite being qualified (sometimes), they have a reputation for being exceptionally dishonest, untrustworthy, and most importantly, highly incompetent in their work promoting creationism. Examples include:
 
@@ -1541,7 +1546,7 @@ The DI was originally and continues to be funded by rich Christian nationalist o
 
 - Nathaniel Jeanson is a Harvard PhD who has [readily admitted](https://www.icr.org/article/new-icr-research-associate-nathaniel/#:~:text=How%20can%20I%20use%20and%20abuse%20my%20training) that he only acquired his prestigious degree in order to promote creationism with authority. He has been caught recycling arguments without addressing the counters many times.
 
-- Raw Matt (Matthew Nailor) is an accomplice on the 'Standing for Truth' YouTube channel, a bottom-tier platform for YEC apologetics. He wrote a "paper" [here](https://drive.google.com/file/d/1AQyq2X7uaYMqNmb1hhHEJfaaPBAR-GIW/view?usp=sharing) with some of the most terrible formatting and content imaginable, and also fraudulently copied-and-pasted the PLOS One logo onto his paper, to pretend that the PLOS journal published his paper.
+- "Raw Matt" (Matthew Nailor) is an accomplice on the 'Standing for Truth' YouTube channel, a bottom-tier platform for YEC apologetics. He wrote a "paper" [here](https://drive.google.com/file/d/1AQyq2X7uaYMqNmb1hhHEJfaaPBAR-GIW/view?usp=sharing) with some of the most terrible formatting and content imaginable, and also fraudulently copied-and-pasted the PLOS One logo onto his paper, to pretend that the PLOS journal published his paper.
 
 It is often difficult to discern whether these "creation scientists" are incompetent or intentionally dishonest - the former seems far less likely in the case of the more qualified individuals.
 
@@ -1553,15 +1558,15 @@ There is also a group of intelligent design (ID) proponents working at the Disco
 
 - Michael Behe: selectively deleted parts of a data table showing the effect of mutations in a population of polar bears to falsely claim that neutral (benign) mutations are far rarer than they actually are.
   
-- Jonathan McLatchie: taught at a Bible college (Sattler college), graduated with a PhD dissertation that is unavailable online ([here](https://libsearch.ncl.ac.uk/discovery/fulldisplay?docid=alma9912708129402411&context=L&vid=44NEW_INST:NEWUI&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Mclatchie&offset=0), extremely unusual, potentially indicative of poor quality) and pretends to be a scientist without having done any legitimate work (his only published paper is in the DI's in-house journal 'Bio-Complexity'). He was exposed as incompetent in an exchange with PZ Meyers ([here](https://www.youtube.com/watch?v=omKP_AkdhsQ)), and ragequit a 'Christianity vs atheism' debate against Matt Dilahunty ([here](https://www.youtube.com/live/a-wIaCRIdOA?si=sLJ1hLMGohsu-nX8&t=4700)).
+- Jonathan McLatchie: taught at a Bible college (Sattler college), graduated with a PhD dissertation that is unavailable online ([here](https://libsearch.ncl.ac.uk/discovery/fulldisplay?docid=alma9912708129402411&context=L&vid=44NEW_INST:NEWUI&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Mclatchie&offset=0), extremely unusual, potentially indicative of poor quality) and pretends to be a scientist without having done any legitimate work (his only published paper is in the DI's in-house journal 'Bio-Complexity'). He was exposed as incompetent in an exchange with PZ Meyers ([here](https://www.youtube.com/watch?v=omKP_AkdhsQ)), and ragequit a 'Christianity vs atheism' debate against Matt Dillahunty ([here](https://www.youtube.com/live/a-wIaCRIdOA?si=sLJ1hLMGohsu-nX8&t=4700)).
 
-### Philosophy of Science
+## Philosophy of Science
 
 - Science rejection is linked to unjustified overconfidence in knowledge ([Fonseca *et al.*, 2023](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001915))
 - Science rejection is correlated with religious intolerance ([Ding, Johar & Morris, 2024](https://academic.oup.com/pnasnexus/article/3/4/pgae144/7656014))
 - Evolution rejection is correlated with not understanding how science operates ([Lombrozo, Thanukos & Weisberg, 2008](https://link.springer.com/article/10.1007/s12052-008-0061-8))
 
-### Some Relevant Quotes
+## Some Relevant Quotes
 
 >Nothing in biology makes sense except in the light of evolution.
 
