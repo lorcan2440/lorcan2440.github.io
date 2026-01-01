@@ -453,6 +453,10 @@ Experiments on cells and macromolecules derived from extant biology. These are u
 
 >Stable, globular protein folds can evolve from random amino acid sequences with ease, resulting from selection acting on a realistic number of amino acid replacements. About half of the *in silico* evolved proteins resemble simple folds found in nature, whereas the rest are unique.
 
+\[I5\] Kellock *et al.* (2016). '[**Peptides Comprised of Alternating L- and D- Amino Acids Inhibit Amyloidogenesis in Three Distinct Amyloid Systems Independent of Sequence**](https://pmc.ncbi.nlm.nih.gov/articles/PMC4884539/)', *J Mol Biol.*, 428(11), pp.2317-2328. doi:10.1016/j.jmb.2016.03.013.
+
+>Oligopeptides need not be homochiral to have biochemical functionality. The paper describes a 23-mer oligo whose primary structure consisted of alternating L and D amino acid residues (syndiotacticity), forming an α-hairpin secondary structure and a function for inhibiting amyloid aggregation. Scrambling the amino acid content (but retaining the syndiotacticity) did not affect this function. A similar oligopeptide is the antibiotic gramicidin, another syndiotactic 15-mer that forms a complete alpha helix, and also forms a dimeric quaternary structure in micelles. It acts as an ionophore, another prebiotically relevant function.
+
 To be added:
 
 - Wang, M., Hoegler, K. and Hecht, M. (2019). '[**Unevolved De Novo Proteins Have Innate Tendencies to Bind Transition Metals**](https://www.mdpi.com/2075-1729/9/1/8)', *Life*, 9(8). doi:10.3390/life9010008.
