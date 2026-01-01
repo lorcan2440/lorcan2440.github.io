@@ -668,7 +668,7 @@ These early naturalists (along with many other Western contemporaries) recognise
 
 {{< figure src="sclera.jpg" title="About 1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
 
-## Primate behaviour
+## Primate ethology (behaviour)
 
 Primate behaviours are stunningly reminiscent of human behaviours.
 

@@ -111,7 +111,9 @@ There are also several poetic points about trees worth thinking about:
 
 Evolution's principal model is best illustrated by the [tree of life](https://www.evogeneao.com/en/explore/tree-of-life-explorer), a highly [cross-cultural symbol of origins](https://en.wikipedia.org/wiki/Tree_of_life). The data structure of the [binary tree](https://en.wikipedia.org/wiki/Binary_tree) comes up in evolutionary theory because its recursive, ever-branching structure precisely mirrors the recursive, continuous process of speciation (ultimately the reason why cladistics replaced Linnaean taxonomy - there are no privileged ranks other than species, and even species can be ambiguous and is semi-arbitrary with its many [species concepts](https://researchdata.museum.vic.gov.au/forum/wilkins_species_table.pdf)).
 
-{{< figure src="tree-diagram.png" title="**Left:** Darwin's original concept of diversification as the way new species originate, showing a tree structure. **Right:** The modern concept of a phylogenetic tree, capable of representing all relationships between life, past and present, with only minor exceptions due to well-understood mechanisms (e.g. horizontal gene transfer, incomplete lineage sorting)." >}}
+{{< figure src="tree-diagram.png" title="**Left:** Darwin's original concept of diversification as the way new species originate, showing a tree structure. **Right:** The modern concept of a phylogenetic tree, capable of representing nearly all relationships between life, past and present." >}}
+
+While there have been refinements to the idea of a single, perfectly bifurcating tree of life, such as the tree becoming more 'bush-like' near the last universal common ancestor (due to horizontal gene transfer among prokaryotes), or small mismatches at the tips of branches caused by incomplete lineage sorting (a transient consequence of genetic drift's stochasticity), the underlying model remains powerful and broadly accepted.
 
 **Trees present a counter to irreducible complexity**
 
