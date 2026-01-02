@@ -393,7 +393,10 @@ The complete genomes of many extant species have been sequenced. Projects in bio
 
 {{< figure src="ape_phylogeny.png" title="The genetic similarity correlates precisely with the expected phylogeny of the apes." >}}
 
-- The **ENCODE Project (2021)** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have meaningful biochemical functionality), or 2) forming transposons (LTRs, ERVs, SINEs, LINEs), which simply 'jump' around the genome with no useful function.
+- The **ENCODE Project (2021)** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have meaningful biochemical functionality), or 2) forming transposons (LTRs, ERVs, SINEs, LINEs), which simply 'jump' around the genome with no useful function. The ENCODE results have been used to imply that "most of the genome is functional", but ENCODE tested for biochemical activity (of which most is simply low-level noise), not functionality.
+
+Source: [here](https://plato.stanford.edu/archives/fall2020/entries/genomics/encode-project.html)
+
 - Among human **non-coding DNA**, 5\% is for gene-related regulatory sequences (promoters, enhancers...). 20\% is for introns in genes, most of which serve no function. The rest is completely non-functional (sometimes called 'junk DNA', although historically this term was incorrectly applied to all non-coding DNA).
 
 {{< figure src="genome_size_comparison.png" title="The proportion of **non-coding DNA** across life tends to increase with genome size, as more complex organisms require more control over their gene expression and accumulate more 'junk DNA'." >}}
@@ -1125,7 +1128,9 @@ Other notable vestigial traits in humans include:
 
 ### Blind fish
 
-The blind cave fish ([*Astyanax mexicanus*](https://en.wikipedia.org/wiki/Mexican_tetra)) is a species for which some live in dark caves their whole lives, while others live above ground in rivers. The cave-dwelling fish differ significantly in their appearance: they have non-functional remnants of eyeballs (vestigial; sometimes fully lost), have lost the pigmentation in their scales and they also have significantly smaller midbrains (the region of the brain that processes vision). These traits have convergently evolved independently in multiple cave populations. Experiments have shown that the blind fish have a metabolic energy reduction of 15\% relative to the above-ground fish ([Moran, Softley & Warrant, 2015](https://www.science.org/doi/10.1126/sciadv.1500363)), providing a selection advantage for the cave fish to lose their eyes (the 'expensive tissue hypothesis'). The blind cave fish is likely on its way towards peripatric speciation.
+The blind cave fish ([*Astyanax mexicanus*](https://en.wikipedia.org/wiki/Mexican_tetra)) is a species for which some live in dark caves their whole lives, while others live above ground in rivers. The cave-dwelling fish differ significantly in their appearance: they have non-functional remnants of eyeballs (vestigial; sometimes fully lost), have completely lost the pigmentation in their scales (albinism, due to a mutated *OCA2* gene) and they also have significantly smaller midbrains (the region of the brain that processes vision). These traits have convergently evolved independently in multiple cave populations.
+
+Experiments have shown that the blind fish have a metabolic energy reduction of 15\% relative to the above-ground fish ([Moran, Softley & Warrant, 2015](https://www.science.org/doi/10.1126/sciadv.1500363)), providing a selection advantage for the cave fish to lose their eyes (the 'expensive tissue hypothesis'). The blind cave fish is likely on its way towards peripatric speciation.
 
 ## Comparative embryology
 
@@ -1246,9 +1251,9 @@ Everything in biology is an emergent property of the underlying chemistry and ph
 
 Every time a cell 1) replicates its DNA, 2) transcribes it into RNA and 3) translates it into a protein, there is an energetic cost to the cell, since these are anabolic (endergonic) reactions that require ATP consumption. An additional section of DNA (e.g. a new gene) therefore automatically consumes energy that would otherwise have gone towards maintaining the cell's existing metabolism, comprising a potential loss of fitness for the organism.
 
-In ([Lynch & Marinov, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4697398/)), it is shown that the cost of making a non-functional protein is typically above the selection threshold of natural populations, while the cost of retaining the DNA without full transcription into RNA is typically below the selection threshold. This means that non-functional proteins is penalised by natural selection, but non-functional DNA is not, and can accumulate neutrally by genetic drift. The new non-coding DNA can then potentially take on regulatory roles for the organism, or even undergo *de novo* gene birth into functional proteins.
+In ([Lynch & Marinov, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4697398/)), it is shown that the cost of making a non-functional protein is typically *above* the selection threshold of natural populations, while the cost of retaining (copying) and transcribing the DNA into RNA (without translation to a protein) is typically *below* the selection threshold. This means that non-functional proteins are penalised by natural selection, but most non-coding DNA is not, and can accumulate neutrally by genetic drift. The new non-coding DNA can then potentially take on regulatory roles for the organism, or even undergo *de novo* gene birth into functional proteins.
 
-The absence of an energy penalty to large genomes is responsible for the 'C-value paradox' and is exhibited by many plants which show polyploidy.
+The absence of an energy penalty to genome expansion is responsible for the '[C-value paradox](https://en.wikipedia.org/wiki/C-value#:~:text=Variation%20among%20species)' (genome size distribution is completely uncorrelated with evolutionary relatedness) and is exhibited by many plants which show polyploidy.
 
 ## Thermodynamic permissibility of life and evolution
 
