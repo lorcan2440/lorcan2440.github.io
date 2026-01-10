@@ -129,7 +129,9 @@ Sources: ([Herron *et al.*, 2019](https://www.nature.com/articles/s41598-019-395
 
 {{< figure src="darwin_finches.png" title="The [Daphne Major finches](https://en.wikipedia.org/wiki/Daphne_Major_finches) and their relatedness." >}}
 
-This is a [textbook example](https://en.wikipedia.org/wiki/Darwin%27s_finches) of bird microevolution from Darwin's 1830s voyage of the Galápagos islands, but studies from the 1980s onwards have identified speciation in the '[Big Bird lineage](https://en.wikipedia.org/wiki/Big_Bird_(finch))' on Daphne Major island. Regional droughts which reduce seed dispersal to the islands, such as those that occurred in 1977 and 2004, as well as arrival of competitors, were found to be drivers of selection for beak stiffness. The new lineage of finches reproduces only with its own.
+One of the [textbook examples](https://en.wikipedia.org/wiki/Darwin%27s_finches) of microevolution is on Darwin's finches seen during Darwin's 1830s voyage of the Galápagos islands, where beak size and shape were observed to change in response to food availability during droughts, later revealed to be due to mutations in the ALX1 gene.
+
+More recently, studies from the 1980s onwards have identified speciation in the '[Big Bird lineage](https://en.wikipedia.org/wiki/Big_Bird_(finch))' on Daphne Major island. Regional droughts which reduce seed dispersal to the islands, such as those that occurred in 1977 and 2004, as well as arrival of competitors, were found to be drivers of selection for beak stiffness. The new lineage of finches reproduces only with its own.
 
 Sources: ([Lamichhaney *et al.*, 2017](https://www.science.org/doi/10.1126/science.aao4593)), ([Grant & Grant, 2006](https://www.science.org/doi/10.1126/science.1128374)) and [here](https://www.princeton.edu/news/2017/11/27/study-darwins-finches-reveals-new-species-can-develop-little-two-generations) (article).
 
@@ -1317,13 +1319,13 @@ The DPI applies in the information analog of a closed system, where *all* of the
 
 $$ -\Delta H(\text{genome}) \leq \Delta I(\text{genome}; \ \text{environment}). $$
 
-Random mutations tend to increase genomic entropy, while natural selection reduces it, allowing an increase in Shannon information (reduction in sequence diversity) if natural selection is strongly purifying (mutational effects are above the selection threshold). Natural selection can be thought of as a process that sorts through the genetic noise produced by random mutations, looking for the signal of genetic variations that increase differential reproductive success.
+Random mutations tend to increase genomic entropy, while natural selection reduces it, allowing an increase in Shannon information (reduction in sequence diversity, increasing the data compressibility) if natural selection is strongly purifying (mutational effects are above the selection threshold). Natural selection can be thought of as a process that sorts through the genetic noise produced by random mutations, looking for the signal of genetic variations that increase differential reproductive success.
 
 Some examples of quantifying the Shannon information gains occurring in evolution are given below:
 
 In [Chapter 19 of *Information Theory, Inference and Learning Algorithms*](https://www.inference.org.uk/itprnn/book.pdf#page=281) by David MacKay, a model for the Shannon information of a simple binary coded genome is presented, with the conclusion being that meiosis enables the information content of a genome to grow much faster (due to recombination) than mitosis alone.
 
-In ([Vopson & Lepadatu, 2023](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the informational entropy $ H $ of the genome of the SARS-CoV-2 virus (COVID-19) over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the information entropy of its genome to continually decrease. This represents an increase in the Shannon information in the genome, as purifying selections acts on the virus. Although the paper (in my opinion) oversteps by proclaiming a universal 'second law of infodynamics' (the observed entropy reduction may not have occurred had the mutational effects been below the selection threshold), the data does clearly show the effects of natural evolution on Shannon information.
+In ([Vopson & Lepadatu, 2022](https://pubs.aip.org/aip/adv/article/12/7/075310/2819368/Second-law-of-information-dynamics)), the informational (Shannon) entropy $ H $ of the genome of the SARS-CoV-2 virus (COVID-19) over its mutational history between 2020 and 2022 is calculated, and found that the processes of mutation and natural selection caused the Shannon entropy of its genome to continually decrease. This represents an increase in the Shannon information in the genome, as purifying selections acts on the virus. Although the paper oversteps by proclaiming a universal 'second law of infodynamics' (the observed entropy reduction may not have occurred had the mutational effects been below the selection threshold), the data does clearly show the effects of natural evolution on Shannon information. I left a technical comment on PubPeer criticising the paper's overreach [here](https://pubpeer.com/publications/1E6EA82C1AE11A9A3C6C7999B08A1B#1).
 
 ---
 
