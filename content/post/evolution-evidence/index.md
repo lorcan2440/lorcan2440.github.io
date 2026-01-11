@@ -305,10 +305,6 @@ A direct comparison of the LTR sequences of ERVs in different animals demonstrat
 
 Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manually_checked_schneule99s_evolutionary/) (reddit post) and [here](https://github.com/implies-casualty/erv-age-correlation) (code and data).
 
-## CpG islands
-
-https://biologos.org/series/how-should-we-interpret-biblical-genealogies/articles/testing-common-ancestry-its-all-about-the-mutations
-
 ## Heat shock proteins
 
 https://link.springer.com/article/10.1007/BF00182743
@@ -533,6 +529,32 @@ Source: [here](https://pdb101.rcsb.org/motm/206)
 - DNA in the environment, 2 MYA: [here](https://www.nature.com/articles/s41586-022-05453-y) (paper)
 
 - Collagen from dinosaur bone remains (Mary Schweitzer)
+
+## Mutations are random
+
+Mutations provide populations with variation, on which the other forces of evolution (selection, drift, gene flow) can act. The [Luria-Delbrück experiment (1943)](https://en.wikipedia.org/wiki/Luria%E2%80%93Delbr%C3%BCck_experiment) proved that mutations occur randomly with respect to fitness needs (i.e. not directed by the environment, Lamarckian-style). Mutations that appear beneficial in a given environment may have occurred neutrally long before that environment existed, waiting for the right conditions to be selected for.
+
+Although mutations are random, this does not mean that all mutations are equally likely. For example, 'transition' point mutations (purine to purine, or pyrimidine to pyrimidine) are more common than 'transversion' point mutations (purine to pyrimidine and vice versa). As a reference, the standard (Watson-Crick) pairing in DNA is:
+
+> A (adenine, a purine) binds with T (thymine, a pyrimidine)
+> 
+> G (guanine, a purine) binds with C (cytosine, a pyrimidine)
+
+Epigenetics can also play a role in affecting mutation distributions. For one, mutations are more common in 'heterochromatin' (packed DNA, transcriptionally inactive) than euchromatin (loosely packed DNA, transcriptionally active), likely due to reduced access of DNA repair enzymes. 
+Also, since heterochromatin is heavily methylated, [methylated cytosines](https://en.wikipedia.org/wiki/5-Methylcytosine) convert to thymine by spontaneous chemical reaction (deamination). The resulting altered distribution of '[CpG islands](https://en.wikipedia.org/wiki/CpG_site)' in the genome can be used to demonstrate common ancestry over intelligent design, as described in [this BioLogos article](https://biologos.org/series/how-should-we-interpret-biblical-genealogies/articles/testing-common-ancestry-its-all-about-the-mutations), since it disproves the possibility that genetic differences between clades were chosen for "kind-specific" functionality.
+
+This non-uniform but still random nature of mutations is often described as *stochastic*, allowing information-theoretic analyses of how evolution impacts genomic diversity (see Section 12).
+
+Natural selection acts on mutations *after* they occur, often producing predictable patterns that can *appear* non-random since they have been filtered by survivorship bias. For example, in protein-coding genes, every third nucleotide has a higher chance of a mutation persisting due to the redundancy of the genetic code (synonymous mutations), as quantified by the [dN/dS ratio](https://en.wikipedia.org/wiki/Ka/Ks_ratio) to detect the action of purifying selection on a gene. Meanwhile, in non-functional regions of DNA, mutations occur and fix at the same rate, since no selection filters them out (unconstrained: purely neutral).
+
+The randomness of mutations is fundamentally due to the random nature of quantum mechanics. The nucleobases in DNA undergo spontaneous tautomeric shifts (rapid equilibria) due to the intramolecular quantum tunneling of protons, redistributing the electron density in their aromatic ring systems. This alters the hydrogen bonding environment, so that if the tautomer is present during DNA replication, DNA polymerase may incorporate the wrong complementary base, leading to a point mutation in the complementary strand if not repaired. The mechanism is outlined in detail in Figure 3 of ([Tao, Giese & York, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11173453/)).
+
+Other interesting topics in quantum biology include:
+
+- Proton tunnelling in enzyme catalysis: ([Klinman, Kohen](https://pmc.ncbi.nlm.nih.gov/articles/PMC4066974/))
+- Proton tunneling in DNA nucleotides: ([Slocombe, Sacchi & Al-Khalili](https://www.nature.com/articles/s42005-022-00881-8))
+- Light harvesting in photosynthesis, including [Förster resonance energy transfer (FRET)](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer) for electron transport between chlorophyll molecules.
+- Magnetoreception in birds via radical pair mechanism in cryptochrome proteins.
 
 ---
 
