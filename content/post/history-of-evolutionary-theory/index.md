@@ -82,7 +82,7 @@ Here's my attempt at putting together all the key developments, ideas, controver
 
 ## Part 3: Modern Theory and Recent Controversies
 
-**Genetic Code** (Miescher, 1871, Griffith, 1928, Watson, Crick and Franklin, 1958). Miescher discovered chromosomes and nucleic acids; Griffith showed its exchange confers traits, and Watson, Crick and Franklin discovered the structure of DNA using X-ray diffraction.
+**Genetic Code** (Miescher, 1871, Griffith, 1928, Schrödinger, 1940s, Watson, Crick & Franklin, 1958). Miescher discovered chromosomes and nucleic acids and suggested their role in heredity; Griffith showed experimentally its exchange confers traits, Schrödinger proposed its identity to be that of an 'aperiodic crystal', and Watson, Crick and Franklin finally discovered the molecular structure of DNA using X-ray diffraction.
 
 **Central Dogma** (Hershey & Chase, 1952, and Crick, 1957). The relative simplicity of DNA’s structure led many scientists to doubt that it carried the genetic code, but this fact was shown decisively with radiolabelling experiments by Hershey and Chase. Crick's ‘central dogma of molecular biology’ stated that DNA sequence information transfer is unidirectional: DNA → RNA → protein, due to codon redundancy.
 
