@@ -1460,6 +1460,10 @@ Historically, American coal miners in the 19th century would use fossils of *Arc
 
 Evolutionary (genetic) algorithms are rarely the best solution to a problem since they are stochastic and highly generalised: they are essentially biased parallelised random searches, and this goes some way to explaining why biological evolution is so slow and messy. However, with domain-specific knowledge and a well-designed objective function and genetic encoding scheme, they can be very powerful, outcompeting conventional algorithms in some cases, illustrating the power of the underlying Darwinian principles.
 
+The basic concept was explained by Dawkins in *The Blind Watchmaker* (1986), where he demonstrated how a random string of letters could be 'evolved' into a target phrase (e.g. [`METHINKS IT IS LIKE A WEASEL`](https://en.wikipedia.org/wiki/Weasel_program)) by iteratively mutating and selecting the closest matches. While the number of possible letter combinations is extremely large ($ 27^{28} \approx 10^{40} $), the evolutionary algorithm rapidly converges in on the order of 100 generations.
+
+{{< figure src="darwin_evolutionary_algo.gif" title="An evolutionary algorithm 'mutates' and 'selects' pixel intensities until random noise converges to the portrait of Darwin. The fitness function is a smooth 'distance' metric from the target image. Source: [Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_computation#)." >}}
+
 Evolutionary algorithms applied to various engineering problems include:
 
 - Topology optimisation - Evolutionary Structural Optimisation (ESO) and 'Generative Design' in Autodesk Fusion 360. Examples in the review ([Belhocine, Shinde & Patil, 2021](https://link.springer.com/article/10.1007/s42791-021-00040-0)).
@@ -1473,7 +1477,9 @@ Evolutionary algorithms applied to various engineering problems include:
 
 ## Artificial Selection, Domestication and Genetic Engineering
 
-Artificial selection is nothing more than natural selection but with humans deciding what is 'most fit', widely used in agriculture and animal husbandry. We can guide the evolutionary process towards exhibiting desired traits using selective breeding.
+Artificial selection is essentially to natural selection but with humans deciding what is 'most fit', widely used in agriculture and animal husbandry. We can guide the evolutionary process towards exhibiting desired traits using selective breeding.
+
+Artificial selection has a tendency to evolve animals into phenotypic extremes that would not be good strategies in nature, due to the difference in selection objectives. This is the case for many dog breeds, horses and cattle. Artificial selection is a type of 'truncation selection' since it acts on 'finished' phenotypes (e.g. milk output), and is therefore not equivalent to natural selection, which acts on all life stages from zygote selection to post-reproduction (in the case of helping the young).
 
 ### Fruits and Vegetables
 
@@ -1482,8 +1488,6 @@ Artificial selection is nothing more than natural selection but with humans deci
 {{< figure src="fruits_and_veg_2.png" title="All of modern fruit and vegetable produce is a result of selective breeding: man-made fruits and vegetables don't exist in the wild. We have bred plants for about 10,000 years, making them bigger, sweeter, less bitter, less toxic (less cyanide in seeds), seedless, etc. Wild fruits are smaller, not sweet, hard or inedible and full of seeds." >}}
 
 ### Animals
-
-Artificial selection has a tendency to evolve animals into phenotypic extremes that would not be good strategies in nature, due to the difference in selection objectives. This is the case for many dog breeds, horses and cattle.
 
 - Cats
 - Dogs

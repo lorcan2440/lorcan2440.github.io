@@ -96,7 +96,7 @@ Here's my attempt at putting together all the key developments, ideas, controver
 
 **Evolutionary Developmental Biology (Evo-Devo)** (Gould, Davidson, Peter, McClintock…, 1970s). Showed how changes in developmental genes can lead to large phenotypic changes, explaining 19th century observations in embryology (Haeckel and Von Baer). The genomic control process is widely accepted as a mechanism of evolving and refining complex traits. It is part of the EES.
 
-**Coalescent Theory** (Kingman, 1982). A powerful statistical framework from population genetics that allows formal inference about the genealogical history of a set of DNA sequences. Formalised the concept of incomplete lineage sorting as a departure from phylogenetic parsimony. Ancestral recombination graphs are a core concept in modern evolutionary theory.
+**Coalescent Theory** (Kingman, 1982). A powerful statistical framework from population genetics that allows formal inference about the genealogical history of a set of DNA sequences. Formalised the concept of incomplete lineage sorting as an inevitable departure from phylogenetic parsimony. Ancestral recombination graphs are a core concept in modern evolutionary theory.
 
 **Extended Evolutionary Synthesis (EES)** (Müller, Laland, Jablonka…, 1980s). Aims to incorporate (to varying extents) the concepts of horizontal gene transfer, evo-devo, epigenetics, multi-level selection, niche construction and phenotypic plasticity (via ‘genetic assimilation’) into evolutionary theory. Some EES proponents say these processes dominate evolutionary change, while others believe they are auxiliary to mechanisms of the Modern Synthesis: the latter is the more widely accepted view.
 
