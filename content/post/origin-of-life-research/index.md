@@ -233,6 +233,10 @@ Barbieri, M. (2018) '[**What is code biology?**](https://www.sciencedirect.com/s
 
 >A comprehensive review of the concept of 'code biology', exploring the origin of the genetic code and the RNA to protein translation system. One idea is that life originally used much fewer amino acids, but the utility of proteins drove selection for an expanded set of amino acids, rising to the 20 in use today.
 
+Frank, S.A. (2013) '[**Topics in the theory of natural selection**](https://stevefrank.org/natSel.html)'. *Journal of Evolutionary Biology*.
+
+>A multi-part series of papers exploring natural selection using the mathematical models of population genetics and information theory. Among the conclusions, it is shown that natural selection maximises the Fisher information metric, as well as increasing the Shannon information when purifying.
+
 #### Further commentary
 
 In the view of ([Jaynes, 1957](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)), thermodynamic entropy $ S $, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics. This is captured in Boltzmann's original formula $ S = k_B \ln \Omega $: the information entropy of a system is the amount of "missing" information needed to determine a microstate, given the macrostate.
@@ -489,11 +493,14 @@ Kellock *et al.* (2016). '[**Peptides Comprised of Alternating L- and D- Amino A
 
 >Oligopeptides need not be homochiral to have biochemical functionality. The paper describes a 23-mer oligo whose primary structure consisted of alternating L and D amino acid residues (syndiotacticity), forming an α-hairpin secondary structure and a function for inhibiting amyloid aggregation. Scrambling the amino acid content (but retaining the syndiotacticity) did not affect this function. A similar oligopeptide is the antibiotic gramicidin, another syndiotactic 15-mer that forms a complete alpha helix, and also forms a dimeric quaternary structure in micelles. It acts as an ionophore, another prebiotically relevant function.
 
-To be added:
+Wang, M., Hoegler, K. and Hecht, M. (2019). '[**Unevolved De Novo Proteins Have Innate Tendencies to Bind Transition Metals**](https://www.mdpi.com/2075-1729/9/1/8)', *Life*, 9(8). doi:10.3390/life9010008.
 
-- Wang, M., Hoegler, K. and Hecht, M. (2019). '[**Unevolved De Novo Proteins Have Innate Tendencies to Bind Transition Metals**](https://www.mdpi.com/2075-1729/9/1/8)', *Life*, 9(8). doi:10.3390/life9010008.
+>De novo proteins (never before seen in nature) with no evolutionary history can still bind metal ions such as Zn$^{2+}$, Co$^{2+}$, Cu$^{2+}$ and Ni$^{2+}$. This shows that metal binding is an intrinsic property of polypeptides, and may have been important in the origin of life in developing metalloenzymes.
 
-- Raanan, H. *et al.* (2020). '[**Small protein folds at the root of an ancient metabolic network**](https://www.pnas.org/doi/10.1073/pnas.1914982117)', *Proc. Natl. Acad. Sci. U.S.A.*, 117(13) pp.7193-7199. doi:10.1073/pnas.1914982117.
+Raanan, H. *et al.* (2020). '[**Small protein folds at the root of an ancient metabolic network**](https://www.pnas.org/doi/10.1073/pnas.1914982117)', *Proc. Natl. Acad. Sci. U.S.A.*, 117(13) pp.7193-7199. doi:10.1073/pnas.1914982117.
 
-- The two 'generations' of amino acids (before and after)
-- Confounded cytosine
+>Short proteins (less than 70 amino acids) with simple folds (mainly α-helices) can bind cofactors such as iron-sulfur clusters, cobalamin and flavins, and exhibit redox activity. These proteins are found in all three domains of life, indicating their ancient origin. This suggests that short proteins with simple folds could have played a key role in the emergence of early metabolic networks as simple oxidoreductases for electron transfer reactions.
+
+Poole, Penny & Sjöberg (2001). '[**Confounded cytosine! Tinkering and the evolution of DNA**](https://www.nature.com/articles/35052091)', *Nature Reviews Molecular Cell Biology*, 2, pp.147-151. doi:10.1038/35052091.
+
+>Sometime after abiogenesis, thymine (T) replaced uracil (U) as RNA transitioned to DNA, thus solving a short-term problem for storing genetic information (point mutation of C to U via deamination). Any engineer would have replaced C, but evolution is a tinkerer, not an engineer. By keeping C and replacing U, the problem was never eliminated, returning once again when DNA methylation was harnessed for epigenetics, as 5-methylcytosine deaminates to T instead.
