@@ -345,7 +345,7 @@ Dass, A. V. *et al.* (2022). '[**RNA Oligomerisation without Added Catalyst from
 
 >Starting with 2',3'-cGMP (cyclic guanine nucleotides) in warm water, oligomerisation up to 10-mer RNA was observed at the air-water interface within 24 hours on drying, with no catalyst required. This occurred in a variety of conditions: alkaline (pH 7 - 12), hot water (40 - 80 C: optimal temperature 40 C), with salt ions (20 mM Na$ ^+$, 40 mM K$ ^+$, slightly enhanced by K$ ^+$). Up to 15-mers were found in trace amounts. The RNA linkages were in equal proportions 2'-5' and 3'-5'. This serves as yet another model reaction of wet-dry cycling processes forming RNA, this time at the water's surface rather than at deep sea environments.
 
-### Lipids (prebiotic lipid, phospholipid and membrane syntheses)
+### Lipids (prebiotic membrane syntheses)
 
 Santos, T. and Futerman, A. (2022). '[**The fats of the matter: Lipids in prebiotic chemistry and in origin of life studies**](https://www.sciencedirect.com/science/article/pii/S0163782723000437)'. *Progress in Lipid Research*, 92(101253), doi:10.1016/j.plipres.2023.101253.
 
@@ -417,7 +417,7 @@ Mariani, A. and Sutherland, J. D. (2017). '[**Non-Enzymatic RNA Backbone Proofre
 
 >Starting with a 13-mer oligo-RNA duplex with a 2'-5' linkage in the middle of one strand (and the rest 3'-5' linked), mildly alkaline conditions (pH 9.25, 21 C) led to the isomerisation of the 2'-5' linkage into a 6-mer oligo-RNA 2'-3' cylic phosphate. Hydrolysis with $ [Mg^{2+}] \leq $ 40 mM opened the cyclic phosphate to give the 6-mer and 7-mer oligo-RNAs, with the 6-mer having either a terminal nucleoside 2- or 3-phosphate. From there, acetylation with N-acetylimidazole and phosphorlyation with N-cyanoimidazole led to regioselective ligation to form 3'-5' RNA from the 6/7-mers. Only 1\% degradation of the all-3'-5'-linked RNA was observed after 24 days. With multiple rounds of this energy-dissipative 'recycling' of RNA, all-3'-5'-linked RNA can emerge from a backbone-heterogeneous (2'-5' and 3'-5') mixture.
 
-### Functional small polypeptides
+### Functional small peptides
 
 Timm, J. *et al.* (2023). '[**Design of a minimal di-nickel hydrogenase peptide**](https://www.science.org/doi/10.1126/sciadv.abq1990)'. *Science Advances*, 9(10), doi:10.1126/sciadv.abq1990.
 
@@ -427,7 +427,7 @@ Rufo, C. M. *et al*. (2014). '[**Short peptides self-assemble to produce catalyt
 
 >Several 7-mer oligopeptides were found to form a β-strands, in particular those with alternating hydrophilic-hydrophobic primary structure (e.g. LKLKLKL, L: leucine, K: lysine, with many others). When positions 2 and 4 were replaced with histidine (H), the β-strand structure was retained, and some of these peptides self-assembled into an amyloid fibril structure with β-pleated sheets, and exhibited catalytic activity for the hydrolysis of p-nitrophenyl acetate (pNPA) in the presence of Zn(II) ions. These peptides work by binding Zn(II) ions with the histidine residue side chains, a motif found in many extant hydrolase enzymes. The sequence IHIHIQI was especially effective, with $ \frac{k_{cat}}{K_m} = 360 \ M^{-1} \ s^{-1} $ (quite high) at pH 10.3.
 
-### RNA-Polypeptide interactions
+### RNA-peptide interactions
 
 Xu, D. and Wang, D. (2021). '[**Protein-free ribosomal RNA scaffolds can assemble poly-lysine oligos from charged tRNA fragments**](https://www.sciencedirect.com/science/article/pii/S0006291X21000723)', *Biochemical and Biophysical Research Communications*, 544, pp.81-85. doi:10.1016/j.bbrc.2021.01.036.
 
