@@ -409,6 +409,10 @@ Studies on the reactions that macromolecules can undergo in prebiotically feasib
 
 >dsRNA dinucleotides react at their 3'-OH termini with aminoacyl-thiols (prebiotically relevant amino acid derivatives with many known syntheses) to form aminoacyl-RNA at pH 6-7 and room temperature in water. 14 different proteinogenic amino were tested and showed strong selectivity and especially high efficiency for arginine via side-chain catalysis. Additionally, a simple change in conditions (thioester to thioacid activation) leads to peptide formation rather than aaRNA formation, both of which are key reactions in the extant ribosome.
 
+\[G17\] Turk, Chumachenko & Yarus (2010). '[**Multiple translational products from a five-nucleotide ribozyme**](https://www.pnas.org/doi/pdf/10.1073/pnas.0912895107)'. *PNAS*, 107(10), pp.4585-4589. doi:10.1073/pnas.0912895107.
+
+>The 5-nt ribozyme GUGGC binds the first three bases of its partially complementary 4-nt RNA GCCU, and then reacts with PheAMP (phenylalanine adenosine monophosphate) to form a bond between Phe and the 2'-OH of the complementary strand. Furthermore, additional Phe residues can react, forming up to RNA-Phe$_3$. The GUGGC/GCCU complex has a simple 3D structure and does not require divalent cations for folding with Mg$^{2+}$ and K$^{+}$ being slightly stimulatory and Na$^{+}$ being slightly inhibitory. This represents prebiotically relevant aminoacylation and peptide bond formation with a single short ribozyme containing a 3-nt active site.
+
 ---
 
 ## PROTOCELL MODELS
