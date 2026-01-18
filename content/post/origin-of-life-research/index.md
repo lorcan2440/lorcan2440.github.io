@@ -41,7 +41,7 @@ All PDFs of listed papers are available [here](https://drive.google.com/drive/fo
 - F. [**Synthesis of Macromolecules**](#synthesis-of-macromolecules)
 - G. [**Reactions of Macromolecules**](#reactions-of-macromolecules)
 - H. [**Protocell Models**](#protocell-models)
-- I. [**Synthetic Biology**](#synthetic-biology)
+- I. [**Synthetic Biology and Molecular Biology**](#synthetic-biology-and-molecular-biology)
 
 ---
 
