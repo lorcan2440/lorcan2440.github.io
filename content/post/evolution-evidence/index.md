@@ -1036,6 +1036,14 @@ In all [gymnosperms (softwoods, non-flowering plants)](https://en.wikipedia.org/
 
 Reaction wood production is mediated by the plant hormone auxin (indole-3-acetic acid, which also controls gravitropism more generally) and ethylene, which act as signalling molecules to induce asymmetric cell growth in the cambium layer of the trunk. Mutations to the genes in these regulatory pathways can therefore alter the reaction wood response, potentially being responsible for the transition from compression wood to tension wood in angiosperms.
 
+## Living "transitions"
+
+Some species that are alive today show interesting features that strongly indicate their evolutionary origin.
+
+- **Lungfish:** have both gills and lungs, allowing them to survive in water and on land for short periods.
+- **Walking fish:** fish such as the mudskipper and red-lipped batfish are poor swimmers (adapted for benthic regions) and use their adapted fins to 'walk' on the sea floor or on land for short periods.
+- **Duck-billed platypus:** lays eggs like a reptile, but is a mammal (produces milk, has fur, is warm-blooded). Male platypuses have venomous spurs on their hind legs, similar to some reptiles.
+
 ## The eye in vertebrates
 
 Anatomical constraints in eye evolution: [here](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1)
