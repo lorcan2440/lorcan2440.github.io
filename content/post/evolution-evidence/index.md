@@ -307,7 +307,11 @@ Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manuall
 
 ## Heat shock proteins
 
-https://link.springer.com/article/10.1007/BF00182743
+Heat shock proteins (HSPs) are encoded by genes that are turned on in response to high temperature and other stressors. Hsp40 and Hsp70 encode chaperone proteins that ensure reliable protein translation, alleviating the higher risk of misfolding at high temperatures (due to higher molecular kinetic energy). HSPs are therefore critical to the most fundamental functions of life (making proteins) and are therefore expected to be tightly conserved across all life.
+
+As explained in [(Gupta & Golding, 1993)](https://link.springer.com/article/10.1007/BF00182743), HSP70 is in fact the most conserved gene across all life. Furthermore, molecular phylogenetic analysis of HSP70 shows how it demonstrates the origin of eukaryotes from a fusion of an archaeal and bacterial lineage (endosymbiosis), with the eukaryotic HSP70 genes being more closely related to the archaeal and bacterial HSP70 genes respectively than they are to each other.
+
+A more in-depth study was done in [(Ravula *et al.*, 2025)](https://link.springer.com/article/10.1007/s40011-025-01754-0).
 
 ## Chromosome 2 fusion in the human lineage
 
