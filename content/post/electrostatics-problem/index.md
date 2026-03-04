@@ -99,8 +99,6 @@ For the isolated sphere case, the sphere can't acquire any net charge, so we nee
 
 $$ F_2 = F_1 + \frac{-qq'}{4 \pi \epsilon_0 a^2} = \frac{1}{4\pi\epsilon_0} \frac{q^2 R}{a^3} - \frac{1}{4\pi\epsilon_0} \frac{R a q^2}{(a^2 - R^2)^2}. $$
 
-
-
 Finally, for the case of an isolated sphere with net charge $ Q $, we can simply replace our second image charge at the centre of the sphere with a charge $ Q - q' $, which ensures that the total charge in the spherical region is now $ Q $. Intuitively, if $ Q $ is larger than $ |q'| $, then the sphere will be positively charged overall, turning the force on the real charge repulsive instead of attractive. This will occur when
 
 $$ Q > \frac{R}{a} q. $$
@@ -108,3 +106,9 @@ $$ Q > \frac{R}{a} q. $$
 Using the formula for the capacitance of an isolated sphere, we can express this condition in terms of the potential of the sphere:
 
 $$ C = \frac{Q}{V} = 4 \pi \epsilon_0 R \ \ \ \rightarrow \ \ \ V > \frac{q}{4\pi\epsilon_0 a}. $$
+
+The force on the real charge in this case is
+
+$$ F_3 = F_1 + \frac{q(Q - q')}{4 \pi \epsilon_0 a^2} = \frac{qQ}{4 \pi \epsilon_0 a^2} - \frac{q^2Ra}{4 \pi \epsilon_0} \left( \frac{1}{(a^2 - R^2)^2} - \frac{1}{a^4} \right). $$
+
+The first term represents the force if the sphere were collapsed to a point charge at its centre with the same charge $ Q $, while the second term represents the correction due to the finite size of the sphere and the polarisation effect. We can show that, as $ a \to \infty $, the second term goes to zero at a rate of $ O(1/a^5) $ much faster than the first term (rate of $ O(1/a^2) $), so the force approaches the point charge case as the real charge moves further away from the sphere, as we would expect.
