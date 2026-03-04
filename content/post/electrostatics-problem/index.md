@@ -45,7 +45,7 @@ Griffiths gives the following context in a footnote for the problem at hand:
 
 > This solution is due to William Thomson (later Lord Kelvin), who published it in 1848, when he was just 24. It was apparently inspired by a theorem of Apollonius (200 BC) that says the locus of points with a fixed ratio of distances from two given points is a sphere. See J. C. Maxwell, “Treatise on Electricity and Magnetism, Vol. I,” Dover, New York, p. 245. I thank Gabriel Karl for this interesting history.
 
-So, it sounds like to reveal the appropriate placement of the image charges, we can use [Appolonius' definition of a circle](https://en.wikipedia.org/wiki/Apollonian_circles) (revolved into a sphere in 3D), which is that
+So, it sounds like to reveal the appropriate placement of the image charges, we can use [Apollonius' definition of a circle](https://en.wikipedia.org/wiki/Apollonian_circles) (revolved into a sphere in 3D), which is that
 
 > The locus of points with a fixed ratio of distances from two given points is a circle (or sphere in 3D).
 
@@ -59,7 +59,7 @@ where $ d_1 $ and $ d_2 $ are the distances from the point P to points A and B, 
 
 $$ \frac{q}{d_1} + \frac{q'}{d_2} = 0 \ \ \ \rightarrow \ \ \ \frac{q'}{q} = -\frac{d_2}{d_1}. $$
 
-Notice that, if we want the potential to be zero at every point on the surface of some *sphere*, then the ratio $ d_2 / d_1 $ must be constant everywhere on the sphere. This is exactly what Appolonius' theorem tells us: the locus of points P with a fixed ratio of distances from two given points A and B is a circle (or sphere in 3D).
+Notice that, if we want the potential to be zero at every point on the surface of some *sphere*, then the ratio $ d_2 / d_1 $ must be constant everywhere on the sphere. This is exactly what Apollonius' theorem tells us: the locus of points P with a fixed ratio of distances from two given points A and B is a circle (or sphere in 3D).
 
 {{< figure src="featured.png" title="The field lines (blue) and equipotential lines (dashed) surrounding two like point charges (left) and two opposite point charges (right). Notice that the equipotentials for the opposing charges case are circles. These are the Apollonius circles corresponding to constant ratios of distances. The circles are centered somewhere along the line connecting the charges. Image source: [schoolphysics.co.uk](https://www.schoolphysics.co.uk/age16-19/Electricity%20and%20magnetism/Electrostatics/text/Equipotentials_and_fields/index.html)" >}}
 
@@ -69,7 +69,7 @@ $$ \frac{q'}{q} = -k. $$
 
 So, if we select the image charge to be $ q' = -k q $, the potential will be zero at every point on the Apollonius circle defined by $ \frac{d_2}{d_1} = k $. We need this circle to coincide with our real conducting sphere, so we need to express $ k $ in terms of our real geometry.
 
-![apollonius](appollonius.png)
+![apollonius](apollonius.png)
 
 We can imagine moving the point P from an arbitrary point on the circle to the point C, where the line segment joining A and B intersects the circle. At point C, we know the distance AC is equal to $ a - R $ and the distance BC is equal to $ R - b $, where $ b $ is the unknown distance between the image charge B and the center of the sphere. Therefore, we have
 
