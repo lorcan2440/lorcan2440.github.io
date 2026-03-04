@@ -449,6 +449,10 @@ Turk, Chumachenko & Yarus (2010). '[**Multiple translational products from a fiv
 
 >The 5-nt ribozyme GUGGC binds the first three bases of its partially complementary 4-nt RNA GCCU, and then reacts with PheAMP (phenylalanine adenosine monophosphate) to form a bond between Phe and the 2'-OH of the complementary strand. Furthermore, additional Phe residues can react, forming up to RNA-Phe$_3$. The GUGGC/GCCU complex has a simple 3D structure and does not require divalent cations for folding with Mg$^{2+}$ and K$^{+}$ being slightly stimulatory and Na$^{+}$ being slightly inhibitory. This represents prebiotically relevant aminoacylation and peptide bond formation with a single short ribozyme containing a 3-nt active site.
 
+Shi, L. *et al.* (2026). '[**From peptides to DNA: All required steps can be catalyzed**](https://www.pnas.org/doi/10.1073/pnas.2534387123)'. *Proceedings of the National Academy of Sciences*, 123(9), e2534387123, doi:10.1073/pnas.2534387123.
+
+> Three hypothetical processes required to convert information stored in proteins into genetic information in RNA or DNA: 1) step-wise degradation of peptides by an amino peptidase, sequentially releasing amino acids, 2) matching the identity of released amino acids to codons by aptazymes (RNA adapters), and 3) ligating codon triplets into longer RNAs that can be reverse-transcribed into DNA, have been experimentally demonstrated. 
+
 ---
 
 ## PROTOCELL MODELS
@@ -508,3 +512,9 @@ Raanan, H. *et al.* (2020). '[**Small protein folds at the root of an ancient me
 Poole, Penny & Sjöberg (2001). '[**Confounded cytosine! Tinkering and the evolution of DNA**](https://www.nature.com/articles/35052091)', *Nature Reviews Molecular Cell Biology*, 2, pp.147-151. doi:10.1038/35052091.
 
 >Sometime after abiogenesis, thymine (T) replaced uracil (U) as RNA transitioned to DNA, thus solving a short-term problem for storing genetic information (point mutation of C to U via deamination). Any engineer would have replaced C, but evolution is a tinkerer, not an engineer. By keeping C and replacing U, the problem was never eliminated, returning once again when DNA methylation was harnessed for epigenetics, as 5-methylcytosine deaminates to T instead.
+
+Restrepo Sierra, A. M. *et al.* (2026). '[**A synthetic cell with integrated DNA self-replication and lipid biosynthesis**](https://www.nature.com/articles/s41467-026-69531-9)'. *Nature Communications*. doi:10.1038/s41467-026-69531-9.
+
+> ...
+
+---

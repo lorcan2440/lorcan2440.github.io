@@ -223,6 +223,10 @@ In 1964, six individuals of the polychaete worm *Neanthes arenaceodentata* were 
 
 Sources: ([Weinberg, Starczak and Jörg, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1992.tb00629.x)) and [here](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/evolution/lect9_18.html).
 
+## Fish in Lake Taal
+
+Lake Taal is a lake in the Philippines that was once a bay connected to the South China Sea. In 1754, a volcano erupted and the lake was formed, trapping dozens of saltwater fish. This led to most of their extirpation, but resulted in at least 4 new species, the Freshwater Sardinella (*Sardinella tawilis*), two gobies *Exyrias volcanus* and *Rhinogobius flavoventris*, and the Lake Taal Snake (*Hydrophis semperi*). It also has a population of Giant Trevally (*Caranx ignobilis*) that lives in freshwater, compared to its normal saltwater habitat.
+
 ## Lice on birds
 
 A population of slender pigeon lice (*Columbicola columbae*), which naturally parasitise rock pigeons (*Columba livia*), were captured. The lice hide between the parallel feather barbs of the birds to avoid being eaten, requiring them to be below a certain width. The lice were then transferred to giant runts (a domesticated breed of pigeon), which are three times larger, and observed over a period of 4 years (~60 lice generations). Louse body length, metathorax width, and head width were measured, and it was found that the new lice had grown significantly larger. Directional selection is for larger lice on larger hosts, since lice mobility and reproductive capacity is higher without compromising ability to hide within feathers. Partial reproductive isolation was also observed between the two lice groups.
