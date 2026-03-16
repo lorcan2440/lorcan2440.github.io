@@ -726,6 +726,7 @@ Many non-human primates display a clear 'theory of mind' (the understanding that
 - dance for fun and to attract males ([Coy, Caspar & Patel-Grosz, 2025](https://pubmed.ncbi.nlm.nih.gov/39365409/))
 - point at things to tell group mates who haven't seen something before, demonstrating theory of mind ([Townrow & Krupenye, 2025](https://www.pnas.org/doi/10.1073/pnas.2412450122))
 - have 'circles of friends' with social grooming ([van Leeuwen *et al.*, 2025](https://linkinghub.elsevier.com/retrieve/pii/S2589004225017687))
+- rationally revise their beliefs based on new evidence ([Schleihauf *et al.*, 2025](https://www.science.org/doi/10.1126/science.adq5229))
 
 Primates also have complex language capabilities:
 
@@ -1616,6 +1617,9 @@ There is also a group of intelligent design (ID) proponents working at the Disco
 - Science rejection is linked to unjustified overconfidence in knowledge ([Fonseca *et al.*, 2023](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001915))
 - Science rejection is correlated with religious intolerance ([Ding, Johar & Morris, 2024](https://academic.oup.com/pnasnexus/article/3/4/pgae144/7656014))
 - Evolution rejection is correlated with not understanding how science operates ([Lombrozo, Thanukos & Weisberg, 2008](https://link.springer.com/article/10.1007/s12052-008-0061-8))
+- Fundamentalist religious belief is similar to belief in patients with brain lesions ([Zhong *et al.*, 2017](https://pubmed.ncbi.nlm.nih.gov/28392301/)):
+
+>[W]e found that participants with dorsolateral prefrontal cortex (dlPFC) lesions have fundamentalist beliefs similar to patients with vmPFC lesions and that the effect of a dlPFC lesion on fundamentalism was significantly mediated by decreased cognitive flexibility and openness.
 
 ## Some Relevant Quotes
 
