@@ -4,7 +4,7 @@ title: "Evidence for Evolution"
 subtitle: A collection of evidence that support the theory of evolution.
 date:
 summary:
-draft: true
+draft: false
 featured: true
 tags:
   - biology
@@ -656,7 +656,7 @@ The **Avalon biota**, following the [Avalon explosion](https://en.wikipedia.org/
 
 The **White Sea biota** includes *Tribrachidium* (sessile benthic suspension feeder with tri-radial symmetry), *Dickinsonia* (stem bilaterian), *Ikaria* (worm-like bilaterian) and *Kimberella* (stem mollusc or spiralian), representing increasingly modern animal clades.
 
-{{< figure src="white_sea_fossils.png" title="The White Sea assemblage features the progression of animal complexity." >}}
+{{< figure src="white_sea_fossils.png" title="The White Sea assemblage features the progression of animal complexity, mapped onto the phylogeny of Holozoa. Source: Figure 1 of ([Evans, Droser & Erwin, 2021](https://www.researchgate.net/publication/349571728_Developmental_processes_in_Ediacara_macrofossils))." >}}
 
 The **Nama assemblage** follows the [end-Ediacaran extinction event](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) and coincides with the [Baykonurian glaciation](https://en.wikipedia.org/wiki/Baykonurian_glaciation). It includes fossils such as *Cloudina* (tubular and biomineralised, likely an annelid), *Yilingia* (segmented bilaterian: annelid or panarthropod) and *Namacalathus* (early relative of brachiopods and bryozoans).
 
@@ -727,7 +727,13 @@ These early naturalists (along with many other Western contemporaries) recognise
 
 {{< figure src="gorilla-hands-look-human-pink-pigmentation.jpg" title="Vitiligo is an autoimmune disease that removes pigmentation from skin, experienced by primates including humans (e.g. [Michael Jackson](https://en.wikipedia.org/wiki/Health_and_appearance_of_Michael_Jackson)). The fingers of gorillas with vitiligo look strikingly similar to those of an adult (White) human's when the dark pigment is removed. The appearance of age in the gorilla fingers relative to humans is due to the autapomorphic [neoteny](https://en.wikipedia.org/wiki/Neoteny_in_humans) driven by [sexual selection](https://en.wikipedia.org/wiki/Sexual_selection_in_humans) in our lineage." >}}
 
+{{< figure src="chimp_no_hair.png" title="A chimpanzee without hair: the musculature resembles that of an elite human bodybuilder." >}}
+
 {{< figure src="sclera.jpg" title="About 1 in 6 chimpanzees have white sclera like humans do. It's thought that the trait evolved to help us discern where our tribe-mates are looking, aiding in communication and coordination." >}}
+
+{{< figure src="human-chimp-lookalikes.png" title="Don't these guys kinda just look... simian? Could it be a reduction in neoteny? Left: physicist John Tyndall; Right: US President Abraham Lincoln." >}}
+
+{{< figure src="barry_63.png" title="The bald-headed ukakari is a small New World Monkey known in Brazil as *o macaco-inglês* ('the English monkey'), noting its resemblance to sunburned British tourists ('Barry, 63' shown for comparison). Source: [here](https://www.bichonativo.com.br/post/curiosidade-animal-uacari-o-macaco-ingl%C3%AAs)." >}}
 
 ## Primate ethology (behaviour)
 
