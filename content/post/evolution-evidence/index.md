@@ -277,9 +277,9 @@ Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC14
 
 If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. ERV sequences become quickly methylated on inheritance and have their LTRs mutated so cannot jump around the genome any more like retrotransposons, becoming fixed in position before speciation occurs. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
 
-We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible. Most (at least 90\%: [source](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs.
+We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible. 
 
-The ERV known as HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). This tells us that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired more recently after the split.
+Most (at least 90\%: [source](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. For example, HERV-W is a human ERV appearing at hundreds of loci in the genome, but only one of them (ERVWE1) is functional and encodes the syncytin-1 protein, which has been exapted and now has an essential function in placental development, conserved in all hominoids ([source](https://pubmed.ncbi.nlm.nih.gov/16424151/)). Syncytin-2 is similarly exapted from a single locus of a different ERV (HERV-FRD), conserved in all primates. HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). The most likely explanation is that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired independently in each lineage after the split.
 
 We can estimate the probability of this shared ERV distribution occurring under a separate ancestry model, by assuming random insertions of ERVs at sites into each genome. We assume a total of $ N = 10,000,000 $ possible insertion sites in both genomes ('hotspots'), and compute the probability of having at least $ z $ = 205 shared ERVs given $ a = 211 $ in humans and $ b = 208 $ in chimps as:
 
@@ -594,7 +594,33 @@ One of the most famous transitional fossils known to Darwin, *Archaeopteryx* dis
 
 {{< figure src="archaeopteryx.png" title="Two specimens of *Archaeopteryx*, a classic 'dinosaur to bird' transitional fossil. Left: Berlin specimen (1874). Right: London specimen (1861), known by Darwin." >}}
 
-{{< figure src="bird_fossil.png" title="A new species of transitional 'dinosaur to bird' fossil, *Jinguofortis perplexus*, with anatomy labelled *in situ* and to scale. It is from clade *Pygostylia*, dated to the early Cretaceous, 127 million years ago. Source: [here](https://www.pnas.org/doi/10.1073/pnas.1812176115)." >}}
+{{< figure src="bird_fossil.png" title="A new species of transitional 'dinosaur to bird' fossil, *Jinguofortis perplexus*, with anatomy labelled *in situ* and to scale. Its clade is Pygostylia, dated to the early Cretaceous, 127 million years ago. Source: [here](https://www.pnas.org/doi/10.1073/pnas.1812176115)." >}}
+
+Other points of evidence from the fossil record supporting dinosaur-bird evolution include:
+
+1. There is a phylogenetically consistent increase in sacral vertebrae number from early archosaurs to theropods to birds, achieved largely by recruitment of adjacent vertebrae into the sacrum via *Hox* patterning shifts. Early birds retain theropod-like counts, while later birds evolve an expanded, fused synsacrum, supporting a gradual transition rather than a discrete jump.
+
+2. Early birds retain a theropod-like jugal-quadratojugal arrangement, showing continuity of cheek bone architecture, though progressively modified within clade Avialae.
+
+3. Early birds retain ancestral theropod skull bones (quadratojugal, postorbital), which are progressively reduced or lost, contributing to the evolution of the highly modified, lightweight avian skull.
+
+4. Where present, early birds retain the ancestral jugal-postorbital contact seen in archosaurs, supporting skeletal continuity, though this articulation is reduced and eventually lost in modern birds.
+
+5. Fossils show a progressive reduction of the postorbital and associated bars, which helps decouple skull elements and enables cranial kinesis, a defining feature of modern birds. Developmental data corroborate this via transient embryonic structures.
+
+6. There is a reduction or loss of the pubic symphysis along the theropod-bird lineage, producing an open pelvis. This reflects broader changes in body plan and soft-tissue systems, not just egg size.
+
+7. Early birds retain theropod-like cranial pneumatic openings (maxillary/promaxillary fenestrae), which are later reduced or lost as the avian beak (premaxilla) expands.
+
+8. The key transitional feature is not claws but the gradual fusion and reduction of the hand into a carpometacarpus. Basal birds retain a theropod-like, unfused, grasping hand, demonstrating direct continuity.
+
+9.  The triosseal canal evolved progressively from a more primitive shoulder architecture in theropods, with early birds showing intermediate morphologies that supported limited flight before the fully derived avian flight apparatus emerged.
+
+10. Genetic data confirm that birds and crocodilians are both archosaurs (nesting within Diapsida, Sauropsida and Tetrapoda), consistent with morphological and fossil evidence placing birds within the dinosaur lineage.
+
+11. Putative medullary bone in non-avian dinosaurs indicates reproductive physiology similar to birds, supporting deep homology, though some specimens remain debated.
+
+12. Birds and theropod dinosaurs share a highly similar manual and pedal digit configuration, including reduction from a five-digit ancestor. This reflects a progressive, well-documented pattern of digit loss and specialisation.
 
 ## Whale evolution
 
