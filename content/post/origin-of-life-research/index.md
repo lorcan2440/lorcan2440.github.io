@@ -97,11 +97,11 @@ McGeoch, J. E. M., & McGeoch, M. W. (2022). '[**Chiral 480 nm absorption in the 
 
 McCoy, T. J., Russell, S. S., Zega, T. J. *et al.* (2025). '[**An evaporite sequence from ancient brine recorded in Bennu samples**](https://www.nature.com/articles/s41586-024-08495-6)', *Nature* 637, 1072–1077. doi:10.1038/s41586-024-08495-6.
 
->Salt minerals were found on the asteroid Bennu, including sodium phosphates, carbonates, sulfates, chlorides and fluorides, forming a frozen brine. These salts were present as components of calcite, magnetite, magnesite, apatite, dolomite and phyllosilicate clay minerals. Many of these minerals are relevant for catalysis of organic molecules.
+>Salt minerals were found on the asteroid Bennu, including sodium phosphates, phosphides, carbonates, sulfates, chlorides and fluorides, forming a frozen brine. These salts were present as components of calcite, magnetite, magnesite, apatite, dolomite, schreibersite and phyllosilicate clay minerals. Many of these minerals are relevant for catalysis of organic molecules. Phosphides react with water to form phosphites and pyrophosphates, usable forms of phosphorus for prebiotic chemistry.
 
 Glavin, D. P. *et al.* (2025). '[**Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu**](https://www.nature.com/articles/s41550-024-02472-9)', *Nature Astronomy*. doi:10.1038/s41550-024-02472-9.
 
->Samples from the asteroid Bennu (from the same mission as \[A5\]) found several amino acids (glycine most abundant at 44 nmol/g, plus 19 other non-protein amino acids) and all five nucleobases, among a range of other relevant organics. Biological contamination was ruled out. All chiral amino acids observed were near-racemic.
+>Samples from the asteroid Bennu (from the same mission as \[A5\]) found several amino acids (glycine most abundant at 44 nmol/g, as well as 13 further proteinogenic amino acids, and 19 other non-protein amino acids), all five nucleobases and some lipids, among a range of other relevant organics. Biological contamination was ruled out. All chiral amino acids observed were near-racemic.
 
 ---
 
@@ -257,6 +257,9 @@ Pulletikurti, S. *et al.* (2022). '[**Prebiotic synthesis of α-amino acids and 
 
 >The Strecker synthesis is the common prebiotic way to make amino acids, but extant life uses transamination of α-ketoacids. Here, amino acids (Ala, Glu, Asp, Gly) are synthesised prebiotically from α-keto acids (pyruvate, α-ketoglutarate, oxaloacetate, glyoxalate) using diamidophosphate (DAP) and cyanide ions at pH 8.5. Wet-dry cycling can also form orotate (a pyrimidine precursor) in low yield from the intermediates. Reaction of the α-ketoacid condensation products with ammonia sources produces compounds found in the Krebs cycle and its secondary metabolites, forming various pathways with relevance to systems chemistry.
 
+Root-Bernstein, R. *et al.* (2023). '[**"Sea Water" Supplemented with Calcium Phosphate and Magnesium Sulfate in a Long-Term Miller-Type Experiment Yields Sugars, Nucleic Acids Bases, Nucleosides, Lipids, Amino Acids, and Oligopeptides**](https://www.mdpi.com/2075-1729/13/2/265)'. *Life (Basel)*, 13(2):265. doi:10.3390/life13020265.
+
+>A Miller-Urey type experiment was run with water with Mediterranean Sea salt, calcium phosphate and magnesium sulfate, in an isobaric atmosphere of 40% ammonia, 40% methane, and 20% hydrogen. Amino acids appeared within a few days and accumulated thereafter; sugars, including glucose and ribose, followed, as well as long-chain fatty acids (up to C20). At three-to-five weeks after starting the experiment, ATP was also detected.
 
 ### Synthesis of sugars
 
@@ -320,6 +323,14 @@ Holden, D. T., Morato, N. M. and Cooks, R. G. (2022). '[**Aqueous microdroplets 
 >Spray ejection of micron-sized droplets of liquid neutral water containing free amino acids (glycine, L-alanine) results in peptide formation (up to 6-mer) at the air-water interface. The surface of the droplets acts as a dry environment that shifts the equilibrium of the reaction towards condensation. This occurs at ambient conditions without any other reagents, catalysts, or radiation.
 
 ### Polynucleotides (prebiotic RNA syntheses)
+
+Huang, W. & Ferris, J. P. (2006). '[**One-Step, Regioselective Synthesis of up to 50-mers of RNA Oligomers by Montmorillonite Catalysis**](https://pubs.acs.org/doi/abs/10.1021/ja061782k)'. *Journal of the American Chemical Society*, 128(27), pp.8914–8919. doi:10.1021/ja061782k.
+
+>Nucleotides adenine (A) and uracil (U) activated on the 5'-phosphate group with 1-methyladenine reacted in the presence of montmorillonite clay catalyst in water at pH 8 to form RNA oligomers up to 50-mers in only one day of continuous reaction. Corresponding reaction with cytosine (C) gave slightly slower polymerisation, yielding up to 25-mers after 9 days. The phosphodiester bond formation was regioselective, with 74\% being 3'-5' linked for the A nucleotides.
+
+Song, X. *et al.* (2024). '[**Wet–dry cycles cause nucleic acid monomers to polymerize into long chains**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11626162/)'. *Proceedings of the National Academy of Sciences*, 121(49), e2412784121. doi:10.1073/pnas.2412784121.
+
+>Starting with pure DNA nucleotides (A, C, G, T) in water at 10 mM total concentration, two rounds of wet-dry cycling at 85 C for 30 minutes in the dry phase led to formation of up to long oligomers of DNA (over 30-mers). Repeating with pure uracil nucleotides (U: uridine monophosphate) gave up to 53-mer oligo-RNA.
 
 Deamer, D. (2021). '[**Where Did Life Begin? Testing Ideas in Prebiotic Analogue Conditions**](https://www.mdpi.com/2075-1729/11/2/134)'. *Life*, 11(2), p.134. doi:10.3390/life11020134.
 

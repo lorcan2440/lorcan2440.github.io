@@ -401,7 +401,7 @@ The complete genomes of many extant species have been sequenced. Projects in bio
 
 - The **ENCODE Project (2021)** found that, in humans, about 75-80\% of the genome is transcribed into RNAs. However, most of this transcription is either 1) spurious (too low-level to have meaningful biochemical functionality), or 2) forming transposons (LTRs, ERVs, SINEs, LINEs), which simply 'jump' around the genome with no useful function. The ENCODE results have been used to imply that "most of the genome is functional", but ENCODE tested for biochemical activity (of which most is simply low-level noise), not functionality.
 
-Source: [here](https://plato.stanford.edu/archives/fall2020/entries/genomics/encode-project.html)
+Sources: [here](https://plato.stanford.edu/archives/fall2020/entries/genomics/encode-project.html) and [(Kellis *et al.*, 2014)](https://www.pnas.org/doi/full/10.1073/pnas.1318948111).
 
 - Among human **non-coding DNA**, 5\% is for gene-related regulatory sequences (promoters, enhancers...). 20\% is for introns in genes, most of which serve no function. The rest is completely non-functional (sometimes called 'junk DNA', although historically this term was incorrectly applied to all non-coding DNA).
 
