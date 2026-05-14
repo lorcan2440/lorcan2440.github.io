@@ -275,11 +275,30 @@ Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC14
 
 ## Endogenous retroviruses (ERVs)
 
-If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. ERV sequences become quickly methylated on inheritance and have their LTRs mutated so cannot jump around the genome any more like retrotransposons, becoming fixed in position before speciation occurs. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
+If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. spermatocyte), then the viral genome will be inserted inside the germline DNA. When the sperm cell multiplies and fertilises an egg, the viral genome can be passed into the offspring. As long as the virus remains in its dormant state, it will not cause any problems and may become permanently fixed in the genome due to genetic drift. ERV sequences become quickly suppressed due to methylation and have their LTRs mutated so cannot jump around the genome any more like retrotransposons, becoming fixed in position before speciation occurs. The viral genome is then said to be 'endogenous' and will appear in all subsequent descendants of the first infected individual.
 
-We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, and the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible. 
+We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins, and the target site duplication (TSD) of the host's genome flanking the LTRs due to the integration process. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible.
 
-Most (at least 90\%: [source](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. For example, HERV-W is a human ERV appearing at hundreds of loci in the genome, but only one of them (ERVWE1) is functional and encodes the syncytin-1 protein, which has been exapted and now has an essential function in placental development, conserved in all hominoids ([source](https://pubmed.ncbi.nlm.nih.gov/16424151/)). Syncytin-2 is similarly exapted from a single locus of a different ERV (HERV-FRD), conserved in all primates. HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). The most likely explanation is that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired independently in each lineage after the split.
+### Functionality of ERVs
+
+At least 90\% ([Xiang & Liang, 2021](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) of ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. For example, HERV-W is a human ERV appearing at hundreds of loci in the genome, but only one of them (ERVWE1) is functional and encodes the syncytin-1 protein, which has been exapted and now has an essential function in placental development, conserved in all hominoids ([Cáceres & Thomas, 2006](https://pubmed.ncbi.nlm.nih.gov/16424151/)). Syncytin-2 is similarly exapted from a single locus of a different ERV (ERVFRD1), conserved in all primates.
+
+A series of viral infections have contributed to therian mammalian embryo development over their evolutionary history.
+*Sushi-ichi* is an ancient LTR retrotransposon originating from a chromovirus infection in a distant vertebrate ancestor. In mammals, *Suchi-ichi* is a source of fixed sushi-ichi-related retrotransposon homologs (SIRH) genes, such as PEG10 (conserved in all therians: marsupials and eutherians) and PEG11/RTL1 (conserved in eutherians (placental mammals) but not marsupials), essential for viviparous reproduction and placental development ([Shiura *et al.*, 2026](https://www.mdpi.com/2218-273X/16/1/161)). The syncytins later supplemented the function of the PEG genes in primates (exaptation) for trophoblast fusion.
+
+HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). The most likely explanation is that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired independently in each lineage after the split.
+
+### Molecular clocks for the LTRs of ERVs
+
+We can also study the similarity of the sequences themselves of ERVs in different species. The molecular clock hypothesis assumes a roughly uniform mutation rate to genetic sequences over time, so more closely evolutionarily related species should have more similar sequence identity in their ERVs.
+
+A direct comparison of the LTR sequences of ERVs in different animals demonstrates this correlation with clarity:
+
+{{< figure src="erv_ltr_comparisons.png" title="LTR similarity decreases with evolutionary distance." >}}
+
+Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manually_checked_schneule99s_evolutionary/) (reddit post) and [here](https://github.com/implies-casualty/erv-age-correlation) (code and data).
+
+### Improbability of separate ancestry
 
 We can estimate the probability of this shared ERV distribution occurring under a separate ancestry model, by assuming random insertions of ERVs at sites into each genome. We assume a total of $ N = 10,000,000 $ possible insertion sites in both genomes ('hotspots'), and compute the probability of having at least $ z $ = 205 shared ERVs given $ a = 211 $ in humans and $ b = 208 $ in chimps as:
 
@@ -299,15 +318,13 @@ $$ p = \sum_{z=205}^{208} P(|X \cap Y| = z) = 4.59398489... \times 10^{-1032}. $
 
 As intuited, the odds of getting the observed HERV-W distribution in humans and chimps *without* common ancestry is ridiculously tiny: about 1 in $ 10^{1031} $. There are about $ 10^{80} $ atoms in the observable universe, so this is about the same chance of randomly picking the same atom in the universe 14 times in a row! And this is just for *one* type of ERV in *one* pair of species - many other types of ERVs are known in many different species (mostly mammals), and they can be used to reconstruct phylogenies in the same way as any other section of the genome.
 
-## Molecular clocks for the LTRs of ERVs
+### SINEs and LINEs
 
-We can also study the similarity of the sequences themselves of ERVs in different species. The molecular clock hypothesis assumes a roughly uniform mutation rate to genetic sequences over time, so more closely evolutionarily related species should have more similar sequence identity in their ERVs.
+SINEs and LINEs are non-LTR retrotransposons which are similarly nonfunctional and are incorporated into the genome.
 
-A direct comparison of the LTR sequences of ERVs in different animals demonstrates this correlation with clarity:
+In [(Williams, Kay & Kirk, 2010)](https://www.pnas.org/doi/full/10.1073/pnas.0908320107), it is shown that SINEs offer strong evidence of common ancestry among the primates.
 
-{{< figure src="erv_ltr_comparisons.png" title="LTR similarity decreases with evolutionary distance." >}}
-
-Source: [here](https://www.reddit.com/r/Creation/comments/1nv93wq/i_have_manually_checked_schneule99s_evolutionary/) (reddit post) and [here](https://github.com/implies-casualty/erv-age-correlation) (code and data).
+In [(Xing *et al.*, 2007)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajpa.20722), it is shown that the SINE *Alu* and the LINE L1 are both highly conserved among primates and can be used to reconstruct phylogenies.
 
 ## Heat shock proteins
 
@@ -360,6 +377,7 @@ Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.o
 - **ADH1B** (alcohol dehydrogenase): the SNP Arg48His is more common in East Asians due to rice domestication, and reduces the risk of alcoholism. Another SNP Arg370Cys occurs in Africa which reduces alcohol dependence.
 - **PDE10A**: leads to enlarged spleens in the Bajau people. The spleen is a reservoir of oxygenated red blood cells, allowing them to hold their breath for longer (hypoxia tolerance) while freediving. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6).
 - **NOS3** (nitric oxide synthase) and others for high-altitude adaptation: in three distinct populations (Tibetans, Andeans and Ethiopians), multiple different mutations in a variety of genes lead to hypoxia tolerance, allowing for their survival at high altitudes.
+- **CCR5-Δ32** (HIV resistance): a 32 bp deletion in the CCR5 gene (a chemokine receptor) prevents CCR5 expression due to the frame shift, which blocks HIV from entering the host's immune cells. It is found in around 10\% of Europeans, thought to have arisen in response to either the Black Death (*Yersinia pestis*) or smallpox over the past 2000 years. There is also evidence that CCR5-Δ32 improves neuronal plasticity (learning and memory). A man was accidentally cured of AIDS after receiving a stem cell transplant for his cancer from a CCR5-Δ32 donor. Source: [here](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/).
 - **Sickle cell trait**: in regions of Africa where malaria is prominent, carrying one copy of the recessive sickle cell anaemia allele confers resistance to the *Plasmodium* parasite. While there are associations of sickle cell trait to other medical conditions, many people with the trait remain healthy, making it net beneficial in malaria-endemic regions. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(11)00384-9).
 - **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions (where sunburn is less of a risk).
 
@@ -371,6 +389,7 @@ In some of these cases, no harmful effect is observed despite what is typically 
 - **Retention of the median artery into adulthood**: normally considered an embryonic structure that regresses around the 8th week of gestation, but it has been found to be retained with increasing frequency in recent times. Source: [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495300/).
 - **ABCC11**: the T/T allele carried by nearly all Koreans and many other East Asians is non-functional, preventing its expression. This leads to dry flaky earwax and significantly reduced body odour, even after sweating and exercise. It is so common that deodorant was rarely sold in South Korea until the ~2010s, when cultural and demographic influence created the market. Source: [here](https://www.geneticlifehacks.com/ear-wax-and-body-odor-its-genetic/)
 - **Third molar agenesis**: wisdom teeth are becoming less common due to humans eating softer foods that have been processed for ease of consumption, no longer requiring large strong jaws. Associated genes include PAX9, AXIN2, MSX1 and THSD7B. Source: [here](https://medicover-genetics.com/wisdom-teeth-and-genetics-why-some-people-do-not-have-wisdom-teeth/)
+- **Fabella**: A small extra bone in the knees of currently ~39% of people, becoming more common in Asians over the past 100 years. It appears to be an atavism that regularly occurred in hominid ancestors that has re-emerged randomly. Source: [here](https://en.wikipedia.org/wiki/Fabella)
 
 ## Human lactose tolerance
 
@@ -1212,6 +1231,10 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 {{< figure src="human_chicken_embryo.png" title="Early-stage chicken and human embryos look similar and share vestigial structures. Image source: *Biology* textbook by Campbell, 12th ed., page 479." >}}
 
 {{< figure src="whale_embryos.png" title="In dolphins, hindlimbs start to develop into 'limb buds', but these regress. The image shows embryos of the dolphin *Stenella attenuata* at weeks 4-9, where the forelimbs are retains but the hindlimbs only form buds as a vestigial structure. Since dolphins evolved from land mammals, they inherit the genes for these hind limbs but they are turned off in early development." >}}
+
+## Placental development
+
+{{< figure src="placenta.png" title="Fetal membranes in birds, marsupials and eutherians: chicken (middle stage), tammar wallaby and bandicoot (late gestation), mouse (middle gestation) and human (end of 2nd months of pregnancy). Source: [Shiura *et al.*, 2026](https://www.mdpi.com/2218-273X/16/1/161)." >}}
 
 ## Evo-devo
 
