@@ -1515,7 +1515,8 @@ An *adaptive therapy* strategy is needed, modulating doses to force the cancer c
 
 More info:
 
-- How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist)
+- How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist) by Dr Dan Stern-Cardinale
+- A video on the infinitesimal / omnigenic model of the genome: [here](https://www.youtube.com/watch?v=44Znp10lcRY) by Dr Zach Hancock
 - Dr Kat Arney discusses her book *Rebel Cell*: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
 - Cancer theories [(Paul, 2026)](https://link.springer.com/chapter/10.1007/978-3-032-08808-6_4)
 - Approved evolution-based treatment regime for prostate cancer: [(Zhang *et al.*, 2017)](https://www.nature.com/articles/s41467-017-01968-5)
