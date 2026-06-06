@@ -326,6 +326,8 @@ In [(Williams, Kay & Kirk, 2010)](https://www.pnas.org/doi/full/10.1073/pnas.090
 
 In [(Xing *et al.*, 2007)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajpa.20722), it is shown that the SINE *Alu* and the LINE L1 are both highly conserved among primates and can be used to reconstruct phylogenies.
 
+In [(Nikaido, Rooney & Okada, 1999)](https://pmc.ncbi.nlm.nih.gov/articles/PMC17876/), it is shown that SINEs and LINEs in cetartiodactyls confirm that hippos are the closest living relatives of whales.
+
 ## Heat shock proteins
 
 Heat shock proteins (HSPs) are encoded by genes that are turned on in response to high temperature and other stressors. Hsp40 and Hsp70 encode chaperone proteins that ensure reliable protein translation, alleviating the higher risk of misfolding at high temperatures (due to higher molecular kinetic energy). HSPs are therefore critical to the most fundamental functions of life (making proteins) and are therefore expected to be tightly conserved across all life.
@@ -1576,7 +1578,7 @@ Artificial selection has a tendency to evolve animals into phenotypic extremes t
 
 ## Universal Darwinism
 
-While "evolution" generally simply means "change over time", the more specific meaning in biology can be generalised. Any imperfectly self-replicating system (subject to random variation with some mechanism for selection of survival based on that variation) can be said to evolve: this is the concept of [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism), and it can be used as a philosophical or metaphysical framework to understand the dynamics of various other phenomena.
+While "evolution" colloquially means "change over time", the more specific meaning in biology can be generalised. Any imperfectly self-replicating system (subject to random variation with some mechanism for selection of survival based on that variation) can be said to evolve: this is the concept of [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism), and it can be used as a philosophical or metaphysical framework to understand the dynamics of various other phenomena.
 
 Chemical evolution refers to self-replicating molecules (autocatalytic systems) that can change their structures over time, which is especially relevant to the origin of life. Lone biomolecules like RNA are not alive and are therefore not part of biological evolution, but can still undergo this more general notion of 'chemical evolution'.
 
