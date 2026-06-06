@@ -484,7 +484,7 @@ A striking visualisation of antibiotic resistance is a video of an experiment do
 
 {{< figure src="antibiotic_phylogeny.png" title="The end of the experiment, showing how the colonies connect together to show their relatedness. Video: [here](https://www.youtube.com/watch?v=plVk4NVIUh8). Paper: [here](https://www.science.org/doi/10.1126/science.aag0822)." >}}
 
-Despite being a highly tangible example of evolution in action, antibiotic resistance is rarely described as "evolution" in the medical literature (sources: [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050030) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1852151/#pbio-0050112-b001)).
+Despite being a highly tangible example of evolution in action, antibiotic resistance is rarely described as "evolution" in the medical literature (sources: [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050030) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC1852151/#pbio-0050112-b001)). This may be because physicians typically lack knowledge of evolutionary biology despite its relevance (source: [here](https://www.pnas.org/doi/full/10.1073/pnas.0906224106)).
 
 ## Herbicide resistance
 
@@ -1498,13 +1498,15 @@ A **bird flu** (H5N1) epidemic occurred in 1997. Since 2020, there has been an o
 - Explanation of bird flu and the universal vaccine: [here](https://www.youtube.com/watch?v=pneWAnQZZM0) (video)
 - Development programme for universal flu vaccines (April 2025): [here](https://firstwordpharma.com/story/5951542)
 
-## Cancer Research
+## Cancer Research: Adaptive Therapy
 
 The evolutionary concept of *virulence* extends to cancer cells, with additional complications due to *multi-level selection*: cancer breaks the altruistic nature of multicellularity, placing them in direct competition with the host. Cancer's trajectory is only explainable via evolutionary dynamics. It behaves like a pathogen where *intra-host* competition is maximised and *inter-host* competition is absent.
 
-In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge, working for Cancer Research UK) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up to break the stagnation.
+In her 2020 book *Rebel Cell: Cancer, Evolution and the Science of Life*, biomedical scientist Dr Kat Arney (PhD from Cambridge, formerly worked for Cancer Research UK) writes about how *not* recognising the evolutionary processes involved in cancer has held the field of cancer therapeutics back for decades, and we're only now just catching up to break the stagnation.
 
-Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. Additionally, the 'gene targeted' approaches developed in the 2000s are ineffective as the cancer cells often mutate to resist the drug, and the cancer returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies. Some of the treatments that can be/have been augmented with evolutionary principles to yield improved prognoses include:
+Chemotherapy or radiotherapy are 'brute force' approaches that can kill as many healthy cells as cancer cells. The ineffectiveness of 'gene-centric' approaches to cancer treatment developed in the 2000s can be explained by 1) the high mutation rates of cancer cells, allowing rapid evolution of resistance, and 2) the omnigenic model of the genome, wherein most genes have some effect on the phenotype due to network pleiotropy, so that targeting a single gene is unlikely to be effective. The [omnigenic model](https://en.wikipedia.org/wiki/Omnigenic_model) more generally explains the failure of 'gene-centric' approaches in many diseases, not just cancer. Following these types of treatments, the cancer survives and returns at a later date, so that further treatments of the same drug simply select for the resistant cancer cells. 
+
+An *adaptive therapy* strategy is needed, modulating doses to force the cancer cells to compete with each other, rather than growing unimpeded. The tumor microenvironment behaves as an ecological niche which can be manipulated. This being incorporated into modern cancer therapies, including with existing drugs administered differently. Some of the treatments that can be/have been augmented with evolutionary principles to yield improved prognoses include:
 
 - **Mitotic checkpoint gene transfection, via mRNA vaccines**: intended to control the cell cycle of cancer cells.
 - **Oncolytic virus therapy**: immunotherapy, triggering an immune response. Effective in immune-rich tissues.
@@ -1515,8 +1517,10 @@ More info:
 
 - How evolution explains *cancer*: [here](https://www.youtube.com/playlist?list=PLzz-uby_-OeufAipSylYFWv8wb-f8POxO) (video #3 in playlist)
 - Dr Kat Arney discusses her book *Rebel Cell*: [here](https://www.youtube.com/watch?v=dvCM1Va5dyE)
-- Approved evolution-based treatment regime for prostate cancer: [here](https://www.nature.com/articles/s41467-017-01968-5)
-- Hyaluronan for CD44 targeting in leukemia: [here](https://www.science.org/doi/10.1126/sciadv.ado3923)
+- Cancer theories [(Paul, 2026)](https://link.springer.com/chapter/10.1007/978-3-032-08808-6_4)
+- Approved evolution-based treatment regime for prostate cancer: [(Zhang *et al.*, 2017)](https://www.nature.com/articles/s41467-017-01968-5)
+- Hyaluronan for CD44 targeting in leukemia: [(Xu *et al.*, 2025)](https://www.science.org/doi/10.1126/sciadv.ado3923)
+- The approaching Darwinian era in oncology: [(Gatenby, 2025)](https://aacrjournals.org/cancerres/article-abstract/85/18/3373/764442/The-Approaching-Darwinian-Era-in-OncologyEvolution)
 
 ## Basin Modelling for Oil and Gas Exploration
 
