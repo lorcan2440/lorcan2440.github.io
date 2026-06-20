@@ -27,9 +27,9 @@ I wanted to provide a comprehensive explanation of these concepts, building up f
 
 # The Pure Mathematics Bits
 
-## Sampling from Distributions
+## Statistical Distributions and Random Variables
 
-Let's introduce what a statistical distribution is. If we roll a fair dice repeatedly, it will land on each number 1, 2, 3, 4, 5, 6 equally frequently. We say that the outcome of the dice roll (which we could denote as a discrete random variable $ X $) has a *uniform distribution*. If we calculate the proportion $ p $ of rolls that have a given outcome $ x $, we would find they all eventually converge to 1 in 6, or about 16.67%. We can plot this distribution $ p(x) $ on a graph:
+Let's introduce what a *statistical distribution* is. If we roll a fair dice repeatedly, it will land on each number 1, 2, 3, 4, 5, 6 equally frequently. We say that the outcome of the dice roll (which we could denote as a discrete random variable $ X $) has a *uniform distribution*. If we calculate the proportion $ p $ of rolls that have a given outcome $ x $, we would find they all eventually converge to 1 in 6, or about 16.67%. We can plot this distribution $ p(x) $ on a graph:
 
 [graph showing line graph of uniform distribution of a fair die]
 
@@ -49,6 +49,8 @@ In the continuous case, we refer to $ p(x) $ as the probability density function
 
 $$ P(a \leq X \leq b) = \int_a^b p(x) \ \textrm{d}x. $$
 
+## Sampling from Unknown Distributions
+
 We would like to simulate obtaining samples from a distribution $ p(x) $. If we know the function $ p(x) $ we're aiming for, then there are relatively simple ways to generate samples from it, if we have access to a 'random number generator' (which generates uniform random numbers between 0 and 1).
 
 However, in many cases, we don't know how to evaluate $ p(x) $ directly, but we do know that it is proportional to some other function $ f(x) $ that we *can* evaluate. In this case, we write
@@ -57,19 +59,63 @@ $$ p(x) = \frac{f(x)}{C}, $$
 
 where $ C $ is a constant. This may seem like a very artificial case and an esoteric thing to want to do, but we will see that it is the backbone of an extremely powerful and general technique called the Metropolis-Hastings algorithm.
 
-So, to summarise, the goal is:
+So, to summarise, what we're working towards first is:
 
 {{% callout note %}}
-Generate samples of the RV $ X \sim p(x) $, where $ p(x) = \frac{f(x)}{C} $ and $ f(x) $ is known, but the constant $ C $ and $ p(x) $ are both unknown.
+**Goal of the Metropolis-Hastings Algorithm**: Generate samples of the RV $ X \sim p(x) $, where $$ p(x) = \frac{f(x)}{C} $$ and $ f(x) $ is **known**, but the constant $ C $ and $ p(x) $ are unknown.
 {{% /callout %}}
 
 ## Markov Chains and Stationary Distributions
 
-Detailed balance condition
+A Markov chain is a sequence of random variables $ X_1, X_2, X_3, \dots $ where the distribution of each variable depends only on the value of the previous variable. In other words, the next state only depends on the present state. This property is known as the **Markov property**.
+
+There are two ways of thinking about Markov chains, depending on whether the state space (values of $ X $) is discrete or continuous. In the discrete case, we can represent the transition probabilities between states using a **transition matrix** $ P $, where each entry $ P_{ab} $ represents the probability of transitioning from state $ x_{n} = a $ to state $ x_{n+1} = b $. In the continuous case, we use a **transition kernel** $ T(a \rightarrow b) $, which gives the probability density function of transitioning to state $ x_{n+1} = b $ given that we are currently in state $ x_{n} = a $. We'll focus on the continuous case, as it is more general and applicable to our interests here.
+
+The **stationary distribution** of a Markov chain is a distribution $ p(x) $ that remains unchanged under the transition dynamics of the chain. It is the distribution we converge to after we have stepped through the chain many times (in the limit of infinite steps, ideally). Mathematically, this can be expressed as:
+
+{{% callout note %}}
+**Detailed Balance Criterion**: If the transition probabilities in a Markov chain obey the criterion 
+$$ \frac{T(a \rightarrow b)}{T(b \rightarrow a)} = \frac{p(b)}{p(a)} \text{ for all } a, b $$
+then $ p(x) $ is the **stationary distribution** of the Markov chain.
+{{% /callout %}}
+
+The Metropolis-Hastings algorithm essentially constructs a Markov chain whose stationary distribution is the target distribution $ p(x) $, by choosing a carefully designed transition kernel $ T(a \rightarrow b) $. That way, by traversing this chain for a long time, we can obtain samples that are approximately distributed according to $ p(x) $ (our goal).
 
 ## Metropolis-Hastings Algorithm
 
-## Monte Carlo Estimation of Expectations
+We're now ready to describe how the Metropolis-Hastings algorithm works.
+
+We start by defining a **proposal distribution** $ q(b | a) $, which can be any distribution that is easy to sample from. A common choice is the normal distribution with mean $ a $ and some fixed variance $ \sigma^2 $, so that the next proposed state is
+
+$$ b \sim \mathcal{N}(a, \sigma^2). $$
+
+This choice of $ q(b | a) $ means our next proposal $ b $ will usually be "nearby" to $ a $ (i.e. within a standard deviation $ \sigma $), but occasionally it will be further away, allowing us to explore the state space. 
+
+(Side note on terminology: since this choice of $ q(b | a) $ is symmetric (i.e. $ q(b | a) = q(a | b) $), running with this proposal distribution is called the **Metropolis algorithm**, which is a special case of the more general Metropolis-Hastings algorithm where $ q(b | a) $ is not necessarily symmetric.)
+
+Once we have decided on a proposal distribution $ q(b | a) $, we can start traversing the Markov chain. We begin at some initial state $ x_0 $, and then for each step $ n $, we:
+
+1. Sample a new proposal $ b \sim q(b | a) $, where $ a $ is the most recently accepted state. In the first iteration, $ a = x_0 $.
+
+2. Compute the **acceptance probability** $ A = A(b | a) $:
+
+$$ A(b | a) = \min\left(1, \frac{f(b) \ q(a | b)}{f(a) \ q(b | a)}\right). $$
+
+3. With probability $ A $, we *accept* the proposal and set $ x_{n+1} = b $. Otherwise (i.e. with probability $ 1 - A $), we *reject* the proposal and set $ x_{n+1} = a $ (we stay in the same state).
+
+4. Repeat steps 1-3 for a large number of iterations $ N $ to generate a sequence of samples $ x_1, x_2, \dots, x_N $.
+
+The acceptance probability formula $ A(b | a) $ is derived from the detailed balance criterion, and is what ensures that the stationary distribution of the Markov chain is $ p(x) $.
+
+In theory, that's it! In practice, there are two nuances to be aware of:
+
+1. **Burn-in**: The first few samples of the chain may not be representative of the stationary distribution, as the chain may still be "finding its way" to the high-probability regions of $ p(x) $. Therefore, we often discard the first $ M $ samples (the "burn-in" period) and only keep the subsequent samples for analysis, representative of stationarity. There are methods of determining a suitable value of $ M $ (e.g. using the integrated autocorrelation time), but a common heuristic is to discard the first 10-20% of samples.
+
+2. **Autocorrelation**: The samples generated by the Markov chain are not independent, as each sample depends on the previous one by its design. Whether or not this is a problem depends on the application, but in general, it is preferable to have approximately independent (less correlated) samples. To mitigate this, we can "prune" the chain by only keeping every $ k $-th sample (e.g., every 10th sample), which reduces autocorrelation at the cost of discarding some data.
+
+With these corrections, we now have a set of samples $ x_i $ that are approximately distributed according to $ p(x) $. We have achieved our goal!
+
+## Monte Carlo Estimation
 
 To recap, what we have so far with Metropolis-Hastings is a machine that takes in a function $ f(x) $ that we know how to evaluate, and spits out $ N $ representative samples $ x_i $ from its normalised distribution $ p(x) = \frac{f(x)}{C} $, where $ C $ is an unknown constant.
 
@@ -149,9 +195,9 @@ $$ \ln C = \int_0^1 \text{E}_{\beta}[\ln f(X)] \ d\beta. $$
 
 In Bayesian MCMC, $ C = p(D) $ can be used to estimate Bayes factors:
 
-$$ \text{BF}_{12} = \frac{p(D | M_1)}{p(D | M_2)} = \frac{C_1}{C_2} $$
+$$ \text{BF}_{12} = \frac{p(D | \theta_1)}{p(D | \theta_2)} = \frac{C_1}{C_2} $$
 
-where $M_1$ and $M_2$ are two competing models. This is a powerful tool for model comparison in Bayesian statistics.
+where $\theta_1$ and $\theta_2$ are the parameters of two competing models. This is a powerful tool for model comparison in Bayesian statistics.
 
 ---
 
