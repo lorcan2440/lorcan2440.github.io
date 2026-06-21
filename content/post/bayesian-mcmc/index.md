@@ -161,13 +161,17 @@ Monte Carlo estimation can then be applied as usual to the stationary model para
 
 ## Simulated Annealing
 
-If the objective is to find $ x^* = \arg\max p(x) $ (optimisation) rather than sampling from $p$, then we can effectively sample from $f(x)^\beta$ in the limit as $\beta \to \infty$ instead (smaller values vanish). This is achieved (for symmetric proposal distributions $q$) by modifying the Metropolis acceptance probability expression to
+If the objective is to find $ x^* = \arg \max p(x) $ (optimisation) rather than sampling from $p$, then we can effectively sample from $f(x)^\beta$ in the limit as $\beta \to \infty$ instead (smaller values vanish). This is achieved (for symmetric proposal distributions $q$) by modifying the Metropolis acceptance probability expression to
 
 $$ A(b | a) = \exp \left(  \frac{\Delta E}{T} \right) \ \ \ \text{where} \ \ \ \Delta E = f(b) - f(a) \ \ \text{and} \ \ T = \frac{1}{\beta}. $$
 
 Here, $T$ is the chain's **temperature** parameter, and $\Delta E = f(b) - f(a)$ is the change in the objective function. By gradually lowering $T$ (**annealing**), we can explore the state space more freely at high temperatures and focus on high-probability regions at low temperatures, allowing us to find global maxima. The accepted samples converge towards optimality $ x^* $ as the temperature $ T \to 0 $.
 
-An **annealing schedule** is a procedure for slowly decrementing $ T $ over time. It is intended to balance between exploration (accepting worse solutions to escape local maxima) and exploitation (narrowing in on the highest found maximum). Standard annealing schedules include geometric ($ T_n = T_0 \alpha^n, 0 < \alpha < 1$), logarithmic ($ T_n = T_0 / \ln(e + n) $) and adaptive (Cauchy) ($ T_n = g(T_{n-1}, \Delta E_{n-1}) $: ‘reheating’ allowed).
+An **annealing schedule** is a procedure for slowly decrementing $ T $ over time. It is intended to balance between exploration (accepting worse solutions to escape local maxima) and exploitation (narrowing in on the highest found maximum). Standard annealing schedules include: 
+
+- geometric: $ T_n = T_0 \alpha^n, 0 < \alpha < 1$, 
+- logarithmic: $ T_n = T_0 / \ln(e + n) $,
+- adaptive (Cauchy): $ T_n = g(T_{n-1}, \Delta E_{n-1}) $: ‘reheating’ allowed.
 
 SA is a ‘meta-heuristic algorithm’: it is theoretically guaranteed to find the global optimum after infinite time, but in practice, running SA for finite time only gives an estimate for $x^*$, and it may still get stuck at a local maximum.
 
@@ -177,7 +181,7 @@ Note that SA is not limited to functions $ p(x) $ that are probability measures:
 
 ## Metropolis-Coupled MCMC (MC$^3$)
 
-A combination of MCMC with SA is called **Metropolis-coupled MCMC** (abbreviated MC$^3$), aka 'parallel tempering'.
+A combination of MCMC with the concept of temperature from SA is called **Metropolis-coupled MCMC** (abbreviated MC$^3$), aka 'parallel tempering'.
 
 The temperature-based acceptance probability rule from SA is used in the Metropolis algorithm, but with several Markov chains all iterating independently at the same time. The chains are initialised at different temperatures to represent different tempered distributions:
 
@@ -193,11 +197,11 @@ In addition to being more robust and more exploratory than standard MCMC, MC$^3$
 
 $$ \ln C = \int_0^1 \text{E}_{\beta}[\ln f(X)] \ d\beta. $$
 
-In Bayesian MCMC, $ C = p(D) $ can be used to estimate Bayes factors:
+The quantity $ \ln C $ is called the *log marginal likelihood*. In Bayesian MC$^3$, this can be used to estimate logarithms of *Bayes factors*:
 
-$$ \text{BF}_{12} = \frac{p(D | \theta_1)}{p(D | \theta_2)} = \frac{C_1}{C_2} $$
+$$ \ln \text{BF}_{12} = \ln \frac{p(D | \theta_1)}{p(D | \theta_2)} = \ln \frac{C_1}{C_2} = \ln C_1 - \ln C_2 $$
 
-where $\theta_1$ and $\theta_2$ are the parameters of two competing models. This is a powerful tool for model comparison in Bayesian statistics.
+where $\theta_1$ and $\theta_2$ are the parameters of two competing models. This is a powerful tool for model comparison in Bayesian statistics: a Bayes factor greater than 100 is considered "decisive" evidence in favour of model 1 over model 2, for example.
 
 ---
 
