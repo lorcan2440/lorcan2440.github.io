@@ -4,8 +4,8 @@ title: "Evidence for Evolution"
 subtitle: A collection of evidence that support the theory of evolution.
 date:
 summary:
-draft: true
-featured: false
+draft: false
+featured: true
 tags:
   - biology
 categories: []
@@ -261,17 +261,35 @@ Genetic similarity between organisms is indicative of evolutionary relatedness, 
 
 29.49\% of the human genome is made up of pseudogenes, the vast majority of which are non-functional (either not transcribed or transcribed levels too low for functionality).
 
-## GULO (L-gulonolactone oxidase)
+### GULO (L-gulonolactone oxidase)
 
 GULO is mostly conserved and subject to purifying selection across the animal kingdom, with a similar gene GLDH appearing in other eukaryotes. It encodes for the enzyme synthesising vitamin C (ascorbic acid) from L-gulono-γ-lactone (in turn from glucose). However, in haplorhines (tarsiers, monkeys, apes: including humans), GULO has been broken by a point deletion (frame shift) mutation in exon 10, so we have to source our own vitamin C from our diet (or die from scurvy). The diet of primates is known to be vitamin C-rich (from fruits), and only a small quantity is required to avoid scurvy, so losing GULO conferred no fitness disadvantage and was lost neutrally to genetic drift. GULO has also been lost independently in the bat genus *Pteropus*, the domestic guinea pig (*Cavia porcellus*) and possibly the pika (*Ochotona princeps*), all of which are monophyletic groups and all are broken in different ways (parsimonious).
 
 In ([Mansueto & Good, 2024](https://link.springer.com/article/10.1007/s00239-024-10165-0)), it is shown that chromosome 8 (containing GULO) underwent inversion in the haplorhine lineage, but that this did not affect the functionality of GULO. When the pseudogene was formed, the mutation rate increased significantly, indicating loss of a selective pressure, such that the Neanderthal GULO differs from the *Homo sapiens* GULO by four SNPs.
 
-**NANOG** (homeobox protein).
+### NANOG
+
+A homeobox protein.
 
 Source: ([Fairbanks & Maughan, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1457002/)).
 
-**DDX11L**: 6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
+### DDX11L
+
+6 copies in chimpanzees, 4 copies in gorillas, and 2 copies in macaques.
+
+### CMAH
+
+The *CMAH* gene synthesises a small sialic acid called Neu5Gc, present in most mammals except humans due to a deletion in our lineage 2-3 MYA.
+
+The Neu5Gc naturally found in meat has been proposed as the root cause of the known correlation between eating red meat and cancer. When ingested from red meat, Neu5Gc can be incorporated into tissues where it acts as a xeno-self-antigen, triggering 'xenosialitis' and a chronic tumor-promoting inflammatory immune response.
+
+### GGTA1
+
+The *GGTA1* gene synthesises a disaccharide molecule called galactose-α-1,3-galactose (alpha-gal), present in most mammals except Old World monkeys (Catarrhini) due to inactivation by mutations.
+
+Due to the gut microbiome producing molecules very similar to alpha-Gal, our immune systems normally tolerate it and produce IgM and IgG antibodies against it. However, on being bitten by certain species of ticks (e.g. the 'lone star tick', *Amblyomma americanum*), which carry alpha-gal in their saliva, the tick bite triggers a switch to allergy-inducing IgE antibodies. This sensitises the immune system to a severe 'alpha-gal syndrome' (AGS) allergy on consuming red meat.
+
+Alpha-gal present in pig organs is one of the major reasons for the failure of xenotransplantation from pig donors to human recipients, as the human immune system attacks the transplanted organ. Genetic engineering of the pigs to remove their *GGTA1* gene (among two others: *CMAH* and *B4GALNT2*) is necessary to prevent this rejection.
 
 ## Endogenous retroviruses (ERVs)
 
@@ -279,14 +297,20 @@ If a retrovirus infects a germline cell (usually a sperm cell progenitor e.g. sp
 
 We can look for traces of these 'endogeneous retroviruses' (ERVs) in modern genomes. ERVs can be identified by the **long terminal repeats (LTRs)** at either end of the genome, the *gag*, *pol* (contains the reverse transcriptase, integrase and protease) and *env* genes for the viral proteins, and the target site duplication (TSD) of the host's genome flanking the LTRs due to the integration process. Since ERVs insert themselves mostly randomly into the genome, if ERVs are found in extant species with exactly the same positions and identities, it can be safely assumed to be inherited from a common ancestor, as the chance of a coincidental separate identical insertion is negligible.
 
+HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). The most likely explanation is that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired independently in each lineage after the split.
+
 ### Functionality of ERVs
 
-At least 90\% ([Xiang & Liang, 2021](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) of ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. For example, HERV-W is a human ERV appearing at hundreds of loci in the genome, but only one of them (ERVWE1) is functional and encodes the syncytin-1 protein, which has been exapted and now has an essential function in placental development, conserved in all hominoids ([Cáceres & Thomas, 2006](https://pubmed.ncbi.nlm.nih.gov/16424151/)). Syncytin-2 is similarly exapted from a single locus of a different ERV (ERVFRD1), conserved in all primates.
+At least 90\% ([Xiang & Liang, 2021](https://onlinelibrary.wiley.com/doi/10.1155/2021/6660936)) of ERVs are non-functional, so the common creationist argument of "common design" loses its validity for ERVs. For example, HERV-W is a human ERV appearing at hundreds of loci in the genome, but only one of them (ERVWE1) is functional and encodes the syncytin-1 protein, which has been exapted and now has an essential function in placental development, conserved in all hominoids ([Cáceres & Thomas, 2006](https://pubmed.ncbi.nlm.nih.gov/16424151/)). Syncytin-2 is similarly exapted from a single locus of a different ERV (ERVFRD1), conserved in all primates, molecularly dated to 45 MYA. Syncytins also evolved independently (convergently) from ERVs in various other mammalian lineages, such as in rodents and artiodactyls. They are always conserved within clades, as expected of evolutionary inheritance.
 
-A series of viral infections have contributed to therian mammalian embryo development over their evolutionary history.
-*Sushi-ichi* is an ancient LTR retrotransposon originating from a chromovirus infection in a distant vertebrate ancestor. In mammals, *Suchi-ichi* is a source of fixed sushi-ichi-related retrotransposon homologs (SIRH) genes, such as PEG10 (conserved in all therians: marsupials and eutherians) and PEG11/RTL1 (conserved in eutherians (placental mammals) but not marsupials), essential for viviparous reproduction and placental development ([Shiura *et al.*, 2026](https://www.mdpi.com/2218-273X/16/1/161)). The syncytins later supplemented the function of the PEG genes in primates (exaptation) for trophoblast fusion.
+One HERV-E locus has evolved into a promoter for the salivary amylase gene (AMY1), redirecting its function from solely pancreatic to salivary expression, and is present in all subsequent duplications of AMY1 over the past 800,000 years. High copy numbers of AMY1 were selected for in early *Homo* due to our agriculture-driven change to starchy diets. This change is also reflected later in the duplication of amylase genes in dogs during their domestication when their diets converged with ours, albeit with theirs lacking HERV-E regulation.
 
-HERV-W is found in both humans and chimpanzees, with 211 of them in humans, 208 of them in chimps, of which 205 of are found in identical locations of both genomes ([source](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1125-1)). The most likely explanation is that the human-chimp common ancestor had the 205 HERV-W insertions that we both have, and then a few more were acquired independently in each lineage after the split.
+A series of viral infections have contributed to therian mammalian embryo development over their evolutionary history. *Sushi-ichi* is an ancient LTR retrotransposon originating from a chromovirus infection in a distant vertebrate ancestor. In mammals, *Sushi-ichi* is a source of fixed sushi-ichi-related retrotransposon homologs (SIRH) genes, such as PEG10 (conserved in all therians: marsupials and eutherians) and PEG11/RTL1 (conserved in eutherians (placental mammals) but not marsupials), essential for viviparous reproduction and placental development ([Shiura *et al.*, 2026](https://www.mdpi.com/2218-273X/16/1/161)). The syncytins later supplemented the function of the PEG genes in primates (exaptation) for trophoblast fusion.
+
+The porcine ERVs (PERVs) are well-known due to their suspected risk of reactivation under cellular stress following xenotransplantation of organs in medicine. The PERV groups β2 and PERV-B are each conserved in both pigs (family Suidae: 'old world pigs') and peccaries (family Tayassuidae: 'new world pigs'), as expected due to their common ancestry under order Artiodactyla. The other groups, PERV-A and PERV-C, are only found in family Suidae. PERV-C is still not yet fixed among pigs, being absent in some isolated subpopulations like the Bama Xiang, Jeju island and Auckland island breeds of pigs, with an estimated first insertion age of 2 MYA ([Niebert & Tönjes, 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC538718/)).
+
+In koalas (species Phascolarctos cinereus), an invasion of ERVs is occurring in the present day, including KoRV and phaCin-β, with thousands of different loci ([Lillie, Pettersson & Jern, 2024](https://www.nature.com/articles/s42003-024-06049-0)).
+
 
 ### Molecular clocks for the LTRs of ERVs
 
@@ -1022,6 +1046,12 @@ The isotopes show that *Ambulocetus* (transitional whale) likely drank both salt
 
 # 6. BIOGEOGRAPHY
 
+## Coevolution of ash trees and fungi
+
+The European ash timber supply is suffering due to an outbreak of *Hymenoscyphus fraxineus* fungus which attacks the European ash tree *Fraxinus excelsior*. This fungus coevolved with the Asian ash trees (other species of genus Fraxinus) over the past few thousand years and so does not attack the Asian trees.
+
+The European trees lack the exposure to the selective pressure of the fungi and so have not evolved any symbiotic relationship with them, only having been exposed since the 1990s.
+
 ## Ecological succession
 
 [Primary succession](https://news.uchicago.edu/explainer/what-is-ecological-succession#:~:text=and%20secondary%20succession.-,Primary%20succession,-happens%20when%20a) describes the macroscopic sequence of events that follows formation of a new region of land (well-studied in physical geography) as life moves in for the first time. The resulting ecosystems that form (in the 'climax community') are highly interdependent, such that removing one would collapse the whole food web, which is a defining feature of irreducible complexity. Yet, we watch it happen all the time - the interdependencies are only 'locked in' later on, not at the start.
@@ -1238,11 +1268,21 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 
 {{< figure src="placenta.png" title="Fetal membranes in birds, marsupials and eutherians: chicken (middle stage), tammar wallaby and bandicoot (late gestation), mouse (middle gestation) and human (end of 2nd months of pregnancy). Source: [Shiura *et al.*, 2026](https://www.mdpi.com/2218-273X/16/1/161)." >}}
 
+## Bird pelvis development
+
+{{< figure src="bird-pelvis-development.png" title="The developing bird pelvis passes through ancestral dinosaurian conditions. Source: ([Griffin *et al.*, 2022](https://www.nature.com/articles/s41586-022-04982-w))." >}}
+
 ## Evo-devo
 
 {{< figure src="evo-devo.png" title="Mechanisms of developing new phenotypes" >}}
 
 ## Homeotic genes: Hox, ParaHox, Pax, MADS-box
+
+### Tbxt
+
+*TBXT* (T-box transcription factor T): a master developmental regulator for tail formation in vertebrates. In an ancestral hominoid, an Alu SINE was inserted into an intron of TBXT, binding to an adjacent Alu element, leading to alternative splicing in which exon 6 was deleted. This isoform led to apes’ taillessness.
+
+
 
 ---
 
@@ -1476,7 +1516,7 @@ Another example is the fact that heart xenotransplants predominantly use pigs as
 2. Chimp hearts are also too small for human patients, as we are endurance-adapted with large cardiac output while chimps are not.
 3. Chimps are prohibitively impractical and unethical to keep in captivity for organ donation.
 
-Chimps in general are rarely useful models for humans despite their high genetic similarity, due to a variety of epigenetic differences ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)). Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the proteins that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed ([Wang *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8961469/)).
+Chimps in general are rarely useful models for humans despite their high genetic similarity, due to a variety of epigenetic differences ([Bailey, 2011](https://journals.sagepub.com/doi/10.1177/026119291103900608)). Pigs happen to have the right sized hearts and are far easier to domesticate. Genetic engineering of the pigs is required to remove the antigens that would trigger an immune rejection in humans: all xenotransplants without such genetic modification have failed ([Wang *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8961469/)).
 
 ## Protein Folding Prediction
 
