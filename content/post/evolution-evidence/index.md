@@ -47,6 +47,17 @@ X. [**Evolution Debate**](#x-evolution-debate)
 
 # 1. DIRECT OBSERVATION
 
+## Examples of evolution with real-world consequences for humans toda
+
+- The European ash timber supply is suffering due to an outbreak of *Hymenoscyphus fraxineus* fungus which attacks the European ash tree *Fraxinus excelsior*. This fungus coevolved with the Asian ash trees (other species of genus *Fraxinus*) over the past few thousand years and so does not attack the Asian trees. The European trees lack the exposure to the selective pressure of the fungi and so have not evolved any symbiotic relationship with them, only having been exposed since the 1990s.
+- Methicillin-resistant *Staphylococcus aureus* (MRSA) was identified in hospitals in the hospitals in the 1960s, with genetic studies finding that it evolved its resistance to methicillin in the 1940s by gaining the *mecA* gene via a mobile genetic element called *SCCmec*, selected due to use of earlier antibiotics (penicillin).
+- Mosquitos have been evolving resistance to the insecticide DDT (manmade chemical) since its introduction in the 1940s.
+- Whiteflies have similarly been evolving resistance to pesticides used in agriculture.
+- Gonorrheal bacteria strains are evolving resistance to penicillin.
+- HIV strains are evolving resistance to antiviral medicines.
+
+## Observed macroevolution: the argument
+
 Microevolution (adaptation and other changes within a species) is commonly observed, but the more striking consequences of evolution usually take place on timescales far too long to observe from start to finish. However, there are some well-established cases where macroevolution can be observed in real time. Some definitions here will be useful:
 
 - *Biological species concept* \~ a species is any group who is reproductively isolated from other such groups, due to e.g. behavioural isolation, genetic incompatibility or failure to produce viable offspring. This is the most common species concept for studying extant life, but is undefined for asexual organisms (prokaryotes), so another concept is required.
@@ -58,8 +69,6 @@ These multiple definitions are necessary since 'species' is not a fundamental un
 - *Macroevolution* \~ variations in heritable traits in populations with multiple species over time. Speciation marks the start of macroevolution.
 
 Although *microevolution* is useful for conceptualising how Darwinian evolution works (e.g. adaptation: heritable changes with natural selection), it is generally not contested by critics of evolutionary theory. Therefore, we will list here only examples of *macroevolution* that have been observed in real time. Most of these are in the wild, with a few lab-based studies included too.
-
-## The argument
 
 Darwin's theory of evolution was conceived as the logical conclusion from a series of observations he made during his voyage on the *HMS Beagle* in the 1830s-50s:
 
@@ -183,6 +192,15 @@ The marbled crayfish (*Procambarus virginalis*), also known as 'marmorkrebs', is
 
 Sources: ([Gutekunst *et al.*, 2018](https://www.nature.com/articles/s41559-018-0467-9)), [here](https://www.nationalgeographic.com/animals/article/marbled-crayfish-marmorkrebs-evolution-genes-tumors-spd) (article), ([Scholtz *et al.*, 2003](https://www.nature.com/articles/421806a)), [here](https://marinescience.blog.gov.uk/2025/05/15/marbled-crayfish-a-serious-non-native-threat-with-potential-risk-of-introduction-through-the-pet-trade/) (government document) and [here](https://www.surescreenscientifics.com/wp-content/uploads/2020/03/Marbled-Crayfish-1-min.pdf) (company document).
 
+## Sea slug, with photosynthesis
+
+{{< figure src="sea_slug.png" title="The sea slug *Elysia chlorotica*." >}}
+
+Nuclear gene transfer?
+Await Dr Dan's video on this...
+
+Other animal clades that commonly use kleptoplasty are order Nudibranchia (soft molluscs) and class Rhabdocoela (flatworms).
+
 ## Cichlid fish
 
 {{< figure src="cichlid_fish.png" title="Evolution of cichlid fish in Lake Victoria and surrounding lakes. Figure source: ([Meier *et al.*, 2023](https://www.science.org/doi/10.1126/science.ade2833))." >}}
@@ -232,6 +250,12 @@ Lake Taal is a lake in the Philippines that was once a bay connected to the Sout
 A population of slender pigeon lice (*Columbicola columbae*), which naturally parasitise rock pigeons (*Columba livia*), were captured. The lice hide between the parallel feather barbs of the birds to avoid being eaten, requiring them to be below a certain width. The lice were then transferred to giant runts (a domesticated breed of pigeon), which are three times larger, and observed over a period of 4 years (~60 lice generations). Louse body length, metathorax width, and head width were measured, and it was found that the new lice had grown significantly larger. Directional selection is for larger lice on larger hosts, since lice mobility and reproductive capacity is higher without compromising ability to hide within feathers. Partial reproductive isolation was also observed between the two lice groups.
 
 Source: ([Villa *et al.*, 2019](https://www.pnas.org/doi/pdf/10.1073/pnas.1901247116)).
+
+## Italian wall lizard, with cecal valve innovation
+
+In 1971, five breeding pairs of the Italian wall lizard (*Podarcis siculus*) were moved from Pod Kopište to Pod Mrčaru (Croatian islands in the Adriatic sea). When observed ~20 years later, these lizards had outcompeted the previous lizard species (*P. melisellensis*) to extinction, and had deviated significantly between the two islands. The new population was larger, had shorter hind limbs, larger heads, lower sprint speed, ate more plant matter (previously insectivorous) and had a different response to predation. Most notably, the new lizards had evolved cecal valves in their intestines, as well as containing symbiotic nematodes. mtDNA analysis indicates the genomes of the two lizards remain relatively similar despite large divergence in form and niche: some of the new traits are known to be phenotypic plasticity rather than heritable changes, others may be genetic traits under selective sweep, or even novelties encoded by genetic assimilation. 
+
+Source: ([Herrel *et al.*, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2290806/)) and ([Sabolić *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/38133599/)).
 
 ## Transmissible cancers and immortalised cell lines
 
@@ -1138,7 +1162,19 @@ Some species that are alive today show interesting features that strongly indica
 
 ## The eye in vertebrates
 
-Anatomical constraints in eye evolution: [here](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1)
+Anatomical constraints in eye evolution: [(Novella, 2008)](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0092-1).
+
+## Middle and inner ear in mammals
+
+Evolution of the middle and inner ear in Mammaliaformes: [(Luo, Schultz & Ekdale, 2016)](https://www.researchgate.net/publication/311839173_Evolution_of_the_Middle_and_Inner_Ears_of_Mammaliaforms_The_Approach_to_Mammals).
+
+## Fish jaws
+
+Evolution and development of the fish jaw skeleton: [(DeLaurier & Gerhart, 2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8299565/pdf/nihms-1025884.pdf).
+
+## Body patterning in trilobites
+
+The evolution of trilobite body patterning: [(Hughes, 2007)](https://trilobyte.ucr.edu/sites/default/files/2020-07/hughes2007anrev.pdf).
 
 ---
 
@@ -1169,6 +1205,8 @@ Animals have two main kinds of photoreceptor cell: ciliary (mostly in vertebrate
 - **Pit eye**: one of the types of eyes found in invertebrates. A pit with photosensitive cells inside allows for some vague directionality of light detection.
 - **Pinhole camera eye**: Found in *Nautilus*. More directional sensitivity, by nearly closing the pit, allowing light to enter only through a small aperture.
 - **Lens formation**: Evolved 8 times. An inhomogeneous lens formed of crystalline proteins continuously bends light for focussing of light onto the photosensitive layer, giving a clearer image. It also corrects for spherical aberration.
+  - **Holochroal eye**: ancient eye originating in the Cambrian in trilobites. Lens consists of calcite single crystals, aligned (light directed along c-axis of crystal) to prevent blur from birefringence, with an overall parabolic shape to prevent abberration. A set of photoreceptors (rhabdoms) detects the focussed light. Calcite photoluminescence under UV-A is suppressed using ommochrome pigment screening.
+  - **Schizochroal eye**: found in the trilobite suborder Phacopina, with an achromatic aspherical Descartes doublet lens.
 - **Multiple lenses**: Found in *Pontella*. Males have three lenses; females have two. The extra front-facing lens in males is parabolic and corrects for spherical aberration of the other 5 surfaces. The retina has only 6 receptors.
 - **Telescoping lens**: Found in *Copilia*. Two lenses work like a telescope with a point-like retina and only a 3° field of view. There is a horizontal scanning eye movements at <5 Hz, while the bottom apparatus (eyepiece + retina) moves in image plane of the 'objective'. The prey (plankton) moves vertically, giving a second dimension of scanning.
 - **Corneal refraction in land animals**: to correct for the air-water interface and spherical aberration. In humans, 2/3 of the optical power is in the cornea rather than the lens.
@@ -1245,10 +1283,13 @@ The *palmaris longus* is a small muscle in the forearm that is absent in about 1
 
 Other notable vestigial traits in humans include:
 
-- **Auricular muscles** are Tiny muscles that move the ears and scalp, used for directional hearing in other mammals but too weak to be useful in humans.
+- **Auricular muscles** are tiny muscles that move the ears and scalp, used for directional hearing in other mammals but too weak to be useful in humans.
 - **Goosebumps (arrector pili muscles)**, used to raise hairs for insulation and appear larger to predators in other mammals, but mostly ineffective in humans due to our relative hairlessness.
 - The **coccyx (tailbone)**, a remnant of the tail in our primate ancestors, which serves as an attachment point for muscles of the pelvic floor.
 - The **plantar reflex** in infants, where the toes curl around an object placed under the foot. This is a remnant of the fully functional grasping reflex seen in primate infants, which helps them cling to their mothers.
+- The **hiccup reflex**, hypothesised to be a vestigial remnant, albeit of debated origin. One hypothesis is that it comes from the gill ventilation reflex in fish, where the glottis closes to prevent water from entering the lungs during respiration. The neural pattern that triggers a hiccup closely mirrors the motor reflex used for this function by tadpoles and primitive aquatic species.
+- **Wisdom teeth**, which are vestigial molars that were useful for chewing tough plant material in our ancestors, but are often impacted or misaligned in modern humans due to smaller jaw sizes and changes in diet.
+- The **vomeronasal organ**, a chemoreceptor organ in the nose that detects pheromones in many animals, but is non-functional in catarrhine primates (including humans), due to pseudogenisation of the associated receptor genes (*V1R* and *V2R* families), further leading to the loss of the **accessory olfactory bulb** in the brain.
 
 ### Blind fish
 
@@ -1281,8 +1322,6 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 ### Tbxt
 
 *TBXT* (T-box transcription factor T): a master developmental regulator for tail formation in vertebrates. In an ancestral hominoid, an Alu SINE was inserted into an intron of TBXT, binding to an adjacent Alu element, leading to alternative splicing in which exon 6 was deleted. This isoform led to apes’ taillessness.
-
-
 
 ---
 
@@ -1343,7 +1382,13 @@ The efficiency of MCMC in converging on an optimal solution by taking random ste
 
 ## Peppered moths evolution prediction
 
-Initial experiment in the 1800s, redone in the 1920s with a prediction, checked with genomes in the 1970s and verified.
+In 1924, Haldane obseved that the moths (*Biston betularia*) in London came in two colours: the 'peppered' (light) and the 'melanistic' (dark) forms. The peppered moths are camoflaged to rest on birch tree trunks and on the lichen on them. Birds predate on these moths. Initially the peppered moths were far more common. During the industrial revolution, the soot from the factories in London coated and darkened the bark on nearby trees, meaning that the peppered moths were no longer camoflaged when resting on the tree trunks, while the dark form was, and so the latter form quickly became far more prevalent. Using the observed rise in frequency of the melanistic moths from 1% to 99% in 50 years, assuming a generation time of 1 year for the moths, Haldane calculated a selection coefficient of $ s = 0.3 $ for the dark form over the light form.
+
+In 1956, due to the introduction of the Clean Air Act in Britain, industrial pollution declined and the trees returned to being light in colour, closely followed by a restoration of the lighter moths and decline of the darker moths.
+
+In the 1950s, Kettlewell tested the predation rates of birds on the two types of moths explicitly using a mark-recapture experiment, finding that the dark moths have a 4x survival rate over the light moths in the soot-covered tree environment. Sargent (1960s) criticises Kettlewell as he is unable to replicate the result. Majerus (1998) argued more research is needed to verify the work, with Coyne (1998) and Hooper (2002) similarly expressing skepticism, including doubting that moths rested on tree trunks at all. However, Majerus repeated Kettlewell's experiment over the course of 6 years (2001-2007) and confirmed the intense selection due to predation and verified that the moths did indeed rest on tree trunks ([Cook *et al.*, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3391436/)).
+
+In ([van't Hoff *et al.*, 2016](https://www.nature.com/articles/nature17951)), it is shown that the mutation causing the dark form of the moth was the insertion of a large, tandemly repeated, transposable element into the first intron of the gene *cortex*, occurring around the year 1819 and spreading subsequently by genetic drift and natural selection.
 
 ---
 
