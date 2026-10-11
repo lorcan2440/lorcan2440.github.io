@@ -1124,17 +1124,21 @@ Homology increases with evolutionary relatedness. Using the well-known fish-to-t
 
 ### Lungs and breathing in lobe-finned fish
 
-As part of the water-to-land transition, the lobe-finned fish (*Sarcopterygii*) also had to adapt to breathing air rather than extracting oxygen from water via gills. *Tiktaalik*'s ribcage was imbricate (robust and with ribs overlapping), allowing expansion and contraction by muscles, implying they enclosed the lungs for breathing, unique among fish at the time. It also had otic notches, indicative of spiracles (gills like primitive blowholes, only found in air-breathing sarcopterygians), showing two modes of inspiration.
+As part of the water-to-land transition, the lobe-finned fish (*Sarcopterygii*) also had to adapt to breathing air rather than extracting oxygen from water via gills. *Tiktaalik*'s ribcage was imbricate (robust and with ribs overlapping), allowing expansion and contraction by muscles, implying they enclosed the lungs for breathing, unique among fish at the time. It also had otic notches, containing spiracles (small gill slits; primitive blowholes, only found in air-breathing sarcopterygians), showing two modes of inspiration.
+
+The hyomandibula (a massive bone used for gill movement in most fish) is significantly smaller in *Tiktaalik*. This is a transition between supporting the jaw and gill into the stapes, the tiny bone used by mammals and land vertebrates in the middle ear.
 
 ### Limb attachment in lobe-finned fish
 
-*Eusthenopteron* had pectoral (front-most) fins that connected to axial skeleton via part of the skull. In later species (e.g. *Tiktaalik*) and in tetrapods, this part of the skull is detached and comprises the pectoral girdle, also creating a neck for flexible head movement. A transition for this separation is seen in *Panderichthys*. It is known that bones form in development by two different mechanisms: 1) endochondral ossification (bone replaces cartilage) and 2) intramembranous ossification (bone forms directly from mesenchyme). The bones in the limbs of tetrapods are formed by endochondral ossification, while the bones in the skull and pectoral girdle (clavicle and most of the scapula) are formed by intramembranous ossification, demonstrating their former combined origin in lobe-finned fish. 
+*Eusthenopteron* had pectoral (front-most) fins that connected to the axial skeleton via part of the skull. In later species (e.g. *Tiktaalik*) and in tetrapods, this part of the skull is detached and comprises the pectoral girdle (clavicle and scapula), also creating a neck for flexible head movement. It is known that bones form in development by two different mechanisms: 1) endochondral ossification (bone replaces cartilage) and 2) intramembranous ossification (bone forms directly from mesenchyme).
 
-{{< figure src="limbs_in_fish.png" title="Homology between the pectoral fin bones of lobe-finned fish (*Eusthenopteron*), elpistostegalian fish (*Panderichthys*, *Tiktaalik*, *Elpistostege*), and tetrapods (*Acanthostega*). Unossified carpals or scutes are omitted. Source: [here](https://commons.wikimedia.org/wiki/File:Fins_to_hands.png#/media/File:Fins_to_hands.png)" >}}
+A transition for this separation is seen in *Panderichthys*. The bones in the limbs of tetrapods are formed by endochondral ossification, while the bones in the skull and pectoral girdle (clavicle and most of the scapula) are formed by intramembranous ossification, demonstrating their former combined origin in lobe-finned fish.
 
 ## Limbs in vertebrates and mammals
 
 When we zoom into the vertebrate clade, we see similarity increase further. All vertebrate animals share the same structures in their arms (humerus, radius, ulna, carpals, metacarpals, phalanges).
+
+{{< figure src="limbs_in_fish.png" title="Homology between the pectoral fin bones of lobe-finned fish (*Eusthenopteron*), elpistostegalian fish (*Panderichthys*, *Tiktaalik*, *Elpistostege*), and tetrapods (*Acanthostega*). Unossified carpals or scutes are omitted. Source: [here](https://commons.wikimedia.org/wiki/File:Fins_to_hands.png#/media/File:Fins_to_hands.png)" >}}
 
 {{< figure src="arm_anatomy.png" title="A wide range of vertebrate animals share the same structures in their arms, since they inherited it from a distant common ancestor." >}}
 
