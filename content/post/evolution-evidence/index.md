@@ -108,11 +108,13 @@ Sources: ([Blackburn, 2006](https://www.researchgate.net/publication/233720256_S
 
 {{< figure src="apple_maggot_fly.png" title="An [apple maggot fly](https://en.wikipedia.org/wiki/Apple_maggot)." >}}
 
-The apple maggot fly (*Rhagoletis pomonella*) usually feeds on the berries of hawthorn trees, and is named after apples only because eastern American/Canadian apple growers in 1864 found its maggots feeding on their trees. Since then, the apple-eating and berry-eating groups have become more distinct. 
+The apple maggot fly (*Rhagoletis pomonella*) usually feeds on the berries of hawthorn trees, and is named after apples only because eastern American/Canadian apple growers in 1864 found its maggots feeding on their trees. Since then, the apple-eating and berry-eating groups have become more distinct.
 
 This is a case of 'sympatric speciation': the geographic range of the apple group (north-eastern America) is contained within that of the berry group (temperate biomes globally). There is a barrier between the groups because 1) the two trees flower at different times of the year (apples in summer, hawthorns in autumn/fall) so flies must reproduce asynchronously, and 2) each group only lays its eggs on their respective fruit.
 
-Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf) (several primary sources within).
+What's more, the increasing genetic isolation of the two races of *R. pomonella* has led to the reproductive isolation/speciation of the parasitic wasp *Diachasma alloeum* which feeds on the rapidly evolving fly.
+
+Sources: [here](https://caspar.bgsu.edu/~courses/4510/Classes/Entries/2015/4/14_Species_&_Speciation_II_(chp_14)_files/AppleHawthorn.pdf) (several primary sources within) and [here](https://pubmed.ncbi.nlm.nih.gov/19197063/).
 
 ## The London Underground mosquito
 
@@ -257,6 +259,10 @@ In 1971, five breeding pairs of the Italian wall lizard (*Podarcis siculus*) wer
 
 Source: ([Herrel *et al.*, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2290806/)) and ([Sabolić *et al.*, 2024](https://pubmed.ncbi.nlm.nih.gov/38133599/)).
 
+## Anole lizards
+
+*Anolis oculatus* undergoes rapid subpopulation isolations following drought, or the introduction of a predator, *Anolis sagrei*.
+
 ## Transmissible cancers and immortalised cell lines
 
 Cancers are clonal populations of cells that can be considered as a 'breakaway population' living within a host. While all known human cancers are confined to their host, some cancers are known in animals that are transmissible, essentially becoming their own parasitic species.
@@ -394,9 +400,13 @@ Humans have 23 pairs of chromosomes, while all other great apes have 24 pairs. T
 
 When the genomes were sequenced, it was found that human chromosome 2 indeed satisfied all three of these predictive criteria, demonstrating the fusion beyond all reasonable doubt ([Ijdo *et al.*, 1991](https://pmc.ncbi.nlm.nih.gov/articles/PMC52649/pdf/pnas01070-0197.pdf)). The cryptic centromere is degraded and smaller in length ([Miga, 2017](https://pubmed.ncbi.nlm.nih.gov/27423248/)). The fusion site also contains a particular non-functional pseudogene, DDX11L2, that is only found at telomeres ([Costa *et al.*, 2009](https://pubmed.ncbi.nlm.nih.gov/19476624/)).
 
+{{< figure src="chromosome_2.png" title="Cytogenetic map of human chromosome 2 compared to the homologous chromosomes of other great apes. Map redrawn from Yunis and Prakash 1982." >}}
+
 When the Neanderthal and Denisovan genomes were sequenced, they were also found to have the same chromosome 2 fusion as *Homo sapiens*, indicating the fusion event took place prior to the common ancestor of these species (~750 kYA). Next generation sequencing and molecular clock analyses have estimated that the fusion event occured later than 4.5 MYA, giving a broad range of potential fusion times ([Poszewiecka *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9413910/)).
 
-Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs. Fusions are known in extant humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/)), with a degraded second centromere and homologous banding. The 'hardest part' may be getting the fusion to spread (by genetic drift) to fixation in the population rather than the fusion event itself.
+Chromosome number alterations are fairly common in nature: for example the many species of horses (genus *Equus*) vary in chromosome number from 32 pairs to 66 pairs. Fusions are known in extant humans, such as a healthy family with Robertsonian translocations ([Song *et al.*, 2016](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-016-0255-7)). An evolutionarily recent fusion event is also known in pigs ([Thomsen, Høyheim & Christensen, 1996](https://pubmed.ncbi.nlm.nih.gov/8697808/)), with a degraded second centromere and homologous banding. 
+
+The 'hardest part' may be getting the fusion to spread (by genetic drift) to fixation in the population rather than the fusion event itself. The event can be modelled as a slightly deleterious underdominant mutation, where fixation requires a very small effective population size (often seen in e.g. bottleneck events). Since hominins lived in highly structured populations (deme/island-like), each with very small effective sizes, this is plausible even without invoking such bottlenecks.
 
 Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibbon) and [here](https://www.youtube.com/watch?v=dAYgXK_K1qk) (Dr Dan).
 
@@ -405,6 +415,8 @@ Video sources: [here](https://www.youtube.com/watch?v=l0huM0blk0k) (Gutsick Gibb
 The full genomes of *Homo sapiens*, *Homo neanderthalensis* and Denisovans are available, as well as all extant primates, which helps us reconstruct evolutionary relationships and study the origins of individual genes.
 
 Most recent survey of ape genomes: ([Yoo *et al.*, 2025](https://www.nature.com/articles/s41586-025-08816-3)).
+
+Some of these examples are beneficial despite being *losses* of functionality or regulation: the outcome of these mutations are dependent on the context and environment, so can still be selected for.
 
 Human-specific mutations affecting brains and intelligence:
 
@@ -430,6 +442,7 @@ Examples from recent human evolution (<300 kYA): [source](https://en.wikipedia.o
 - **CCR5-Δ32** (HIV resistance): a 32 bp deletion in the CCR5 gene (a chemokine receptor) prevents CCR5 expression due to the frame shift, which blocks HIV from entering the host's immune cells. It is found in around 10\% of Europeans, thought to have arisen in response to either the Black Death (*Yersinia pestis*) or smallpox over the past 2000 years. There is also evidence that CCR5-Δ32 improves neuronal plasticity (learning and memory). A man was accidentally cured of AIDS after receiving a stem cell transplant for his cancer from a CCR5-Δ32 donor. Source: [here](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/).
 - **Sickle cell trait**: in regions of Africa where malaria is prominent, carrying one copy of the recessive sickle cell anaemia allele confers resistance to the *Plasmodium* parasite. While there are associations of sickle cell trait to other medical conditions, many people with the trait remain healthy, making it net beneficial in malaria-endemic regions. Source: [here](https://www.cell.com/cell/fulltext/S0092-8674(11)00384-9).
 - **White skin colour**: in northern Europeans, the *SLC24A5* gene has an SNP Ala111Thr that leads to decreases melanin expression and hence lighter skin pigmentation, which is beneficial for vitamin D synthesis in the low-sunlight high-latitude regions (where sunburn is less of a risk).
+- **PCSK9**: nonsense mutations (such as Y142X and C679X) in the *PCSK9* gene, more common in Black people (2-3%) but rarer in Europeans (<0.1%), which encodes a protein that marks LDL receptors for destruction, lead to much lower LDL ('bad') cholesterol and drastically reduced coronary heart disease (~88% reduction). PCSK9 inhibitors are prescribed as medications to treat these conditions. Source: ([Cohen *et al.*, 2006](https://www.nejm.org/doi/full/10.1056/NEJMoa054013)).
 
 ## Neutral mutations in recent human evolution
 
@@ -597,9 +610,29 @@ Source: [here](https://www.pnas.org/doi/10.1073/pnas.50.4.672)
 
 Source: [here](https://pdb101.rcsb.org/motm/206)
 
+## Malate and lactate dehydrogenases
+
+The enzymes malate dehydrogenase (MDH) and lactate dehydrogenase (LDH) are homologous. The ancestral enzyme, preferring oxaloacetate, has a positively charged arginine side chain forming an electrostatic interaction with oxaloacetate's carboxylate group. The derived enzyme, modified by an arginine-to-lysine point mutation and a six-amino-acid loop insertion containing tryptophan, prefers pyruvate by a factor of $ 10^{10} $. The inserted tryptophan packs against pyruvate's methyl group and displaces the arginine from its original position.
+
+Sources: [Siddiq, Hochberg & Thornton, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6141201/) and [Boucher *et al.*, 2014](https://elifesciences.org/articles/02304).
+
+## Zonadhesin
+
+Zonadhesin (*Zan*) is a sperm-binding protein that is highly divergent between species (it is a 'speciation gene', since its variation directly causes prezygotic reproductive isolation). In ([Roberts *et al.*, 2022](https://link.springer.com/article/10.1186/s13059-022-02721-y)), a phylogenetic analysis of the *Zan* gene in 112 species of eutherian mammals found that it resolves to precisely the correct species tree.
+
+The *Zan* gene arose from the neofunctionalization (repurposing) of a stem vertebrate gene, with the novel function of sperm-egg recognition. In fish, reptiles and monotremes, there are '*Zan*-like genes', expressed in the gut, but these have been lost in amphibians, birds, and marsupials.
+
 ## Ancient biopolymers
 
-- Proteins from *Paranthropus*, 2 MYA: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video) and [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence).
+### Proteins from *Paranthropus*, 2 MYA
+
+- The proteins identified include amelogenin (both X and Y-linked forms), enamelin, ameloblastin, albumin, collagen XVII and matrix metalloproteinase-20 (enamelysin). The presence of the X and/or Y linked forms of amelogenin was used to identify the sex of each specimen.
+- In all specimens, the enamelin protein had a derived point mutation (R137Q): in humans, Neanderthals, Denisovans and most extant primates, arginine (R) is present, but in *Paranthropus*, glutamine (Q) is present.
+- One specimen (SK 14132) was heterozygous for the enamelin R137Q mutation, posessing both the glutamine and arginine variants (one inherited from each parent).
+
+Sources: [here](https://www.youtube.com/watch?v=TbQsesNjTeo) (video), [here](https://sciencenews.dk/en/fossil-tooth-breaks-2-million-years-of-silence) (article) and ([Madupe *et al.*, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC7617798/)) (paper).
+
+### Other sources
 
 - RNA from wooly mammoths, 40 kYA: [here](https://www.nationalgeographic.com/animals/article/woolly-mammoth-rna-discovery) (article).
 
@@ -1321,6 +1354,17 @@ Von Baer's law of embryology refers to the observation that in the earlier stage
 
 {{< figure src="evo-devo.png" title="Mechanisms of developing new phenotypes" >}}
 
+## The thyroid and endostyle in vertebrates
+
+The clade of vertebrates consists of the subclade of gnathostomes (jawed vertebrates) and cyclostomes (lampreys and hagfishes). The endostyle is an organ found in all non-vertebrate chordates.
+
+- In lampreys, development begins with an endostyle, but metamorphoses into the thyroid.
+- In hagfish, their thyroid develops directly from the endoderm (like gnathostomes), but lamprey and hagfish share a broad expression domain of the regulatory gene Nkx2-1/2-4 in the pharyngeal epithelium during early development (unlike gnathostomes).
+
+The conclusion is that the lamprey endostyle was obtained secondarily in crown lampreys (it is not a plesiomorphy or lampreys).
+
+Source: ([Takagi *et al.*, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8973611/))
+
 ## Homeotic genes: Hox, ParaHox, Pax, MADS-box
 
 ### Tbxt
@@ -1338,6 +1382,11 @@ Comparative genomics studies the similarities and differences between the genome
 A test of the validity of this reconstruction can be done using a known phylogeny. In 1992, a study was done on an artificially mutated strain of the virus bacteriophage T7, whose genome was sequenced repeatedly as it reproduced in bacteria. The experiment was stopped after 9 different viral strains had emerged, and only their genomes were used in 5 different phylogenetic reconstruction algorithms. All 5 algorithms produced the same, correct known tree, out of the 135,135 possible tree structures, with slight variation in the time to branching, showing that the algorithms are valid and can be used to reconstruct phylogenies from extant genome data more generally.
 
 Source: ([Hillis *et al.*, 1991](https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol445D_W00/exp_phylo.pdf)).
+
+## Phylogenetic discordance
+
+- The proportions of phylogenetic discordance due to incomplete lineage sorting are predictable and match observations in humans, chimps and gorillas
+- There is a strong degree of phylogenetic discordance in the avian lineage, arising at the clades corresponding to the sudden diversification after the K-Pg extinction event
 
 ## Great ape Y chromosome mutation rates
 
